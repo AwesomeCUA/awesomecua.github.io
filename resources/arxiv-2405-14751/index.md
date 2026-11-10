@@ -1,3 +1,11 @@
+---
+title: "AGILE: A Novel Reinforcement Learning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-14751/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AGILE: A Novel Reinforcement Learning Framework of LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

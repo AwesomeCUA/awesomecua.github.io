@@ -1,3 +1,11 @@
+---
+title: "osworld_v2_assets_gated · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3de50fa3eee0081d31ac/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # osworld_v2_assets_gated
 
 OSWorld 2.0 计算机使用基准任务资源的受限访问 Hub 快照，包含任务初始化文件和标准答案文件等，需按基准版本固定后下载到本地再运行任务。

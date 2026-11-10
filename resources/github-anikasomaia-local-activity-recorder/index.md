@@ -1,3 +1,11 @@
+---
+title: "Activity Recorder | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anikasomaia-local-activity-recorder/
+updated: 2026-10-20
+type: tool
+lang: en
+---
+
 # Activity Recorder
 
 Windows tray utility that records primary-display screenshots, keyboard key codes and mouse events as local JPEG and JSON files for training-data collection.

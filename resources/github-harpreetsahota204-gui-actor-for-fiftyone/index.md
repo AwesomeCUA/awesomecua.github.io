@@ -1,3 +1,11 @@
+---
+title: "GUI-Actor-for-FiftyOne | AwesomeCUA"
+url: https://awesomecua.com/resources/github-harpreetsahota204-gui-actor-for-fiftyone/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # GUI-Actor-for-FiftyOne
 
 Training code that fine-tunes the GUI-Actor grounding model on FiftyOne datasets, turning keypoint and box annotations on screenshots into conversations with pointer supervision for single-GPU runs.

@@ -1,18 +1,23 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 12 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/12/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 12 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/12/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [DSH Deskwork](https://awesomecua.com/zh/resources/github-guomonth-dsh-deskwork/)
-- [DSH iOS Simulator](https://awesomecua.com/zh/resources/github-zseven-w-dsh-ios/)
 - [DSH Mobile (DeepSeek Harness for Android)](https://awesomecua.com/zh/resources/github-soodok-deepseek-harness-local-android/)
 - [DSH Mobile GUI Agent](https://awesomecua.com/zh/resources/github-kunjinkao-os-dsh-mobile-gui-agent/)
 - [DSH Phone Agent](https://awesomecua.com/zh/resources/github-sktyou-dsh-phone-agent/)
 - [DSH Qwen Web Bridge Plugin](https://awesomecua.com/zh/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/)
 - [DSH × Termux — mobile operations kit](https://awesomecua.com/zh/resources/github-maopk-dsh-termux-kit/)
 - [dsh-browser-firefox](https://awesomecua.com/zh/resources/github-tuojc-dsh-browser-firefox/)
-- [dsh-browser-full-access](https://awesomecua.com/zh/resources/github-lianping-cyber-dsh-browser-full-access/)
 - [dsh-browser-ops](https://awesomecua.com/zh/resources/github-lirui1024k-dsh-browser-ops/)
 - [dsh-browseruse](https://awesomecua.com/zh/resources/github-yzd6552-commits-dsh-browseruse/)
 - [dsh-click](https://awesomecua.com/zh/resources/github-perrylink-dsh-click/)
@@ -64,3 +69,6 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/12/
 - [ESP-AI-HID Controller](https://awesomecua.com/zh/resources/github-burakboz-esp-ai-hid/)
 - [ESP32 iPhone Agent](https://awesomecua.com/zh/resources/github-onehumanbeing-esp32-iphone-agent/)
 - [EvalOps browser-use-rs](https://awesomecua.com/zh/resources/github-dx-corp-browser-use-rs/)
+- [EverFern](https://awesomecua.com/zh/resources/github-everfern-ai-everfern/)
+- [EverySolve Plugin](https://awesomecua.com/zh/resources/github-everyinfra-everysolve-plugin/)
+- [Everything Maa](https://awesomecua.com/zh/resources/github-khazixw2-everything-maa/)

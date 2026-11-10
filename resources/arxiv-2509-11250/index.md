@@ -1,3 +1,11 @@
+---
+title: "Environmental Injection Attacks against GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-11250/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments
 
 Introduces Chameleon, an environmental-injection evaluation framework that varies webpage content and trigger context. It combines simulated page variation with attention-based optimization and tests GUI agents across realistic websites.
@@ -26,6 +34,18 @@ Yitong Zhang, Ximo Li, Liyi Cai, Jia Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-11250/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-11250/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_11250,
+  title = {{Environmental Injection Attacks against GUI Agents in Realistic Dynamic Environments}},
+  author = {{Yitong Zhang} and {Ximo Li} and {Liyi Cai} and {Jia Li}},
+  year = {2025},
+  eprint = {2509.11250v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.11250v3},
+  note = {First published: 2025-09-14; Recorded arXiv version: v3; Recorded version updated: 2026-08-24T12:04:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

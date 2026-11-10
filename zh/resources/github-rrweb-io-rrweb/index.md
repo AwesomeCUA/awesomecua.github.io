@@ -1,3 +1,11 @@
+---
+title: "rrweb · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rrweb-io-rrweb/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # rrweb
 
 rrweb 捕获网页状态和用户交互，并通过录制、回放与播放器软件包重建会话以供回放。

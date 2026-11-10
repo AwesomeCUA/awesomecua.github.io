@@ -1,3 +1,11 @@
+---
+title: "OpenClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openclaw-openclaw/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # OpenClaw
 
 OpenClaw is an open-source personal computer-use assistant that executes browser, desktop, terminal, and messaging workflows across local devices.

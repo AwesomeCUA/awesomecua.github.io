@@ -1,3 +1,11 @@
+---
+title: "Evidence Workspace | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anand-0038-evidence-workspace/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Evidence Workspace
 
 Human-controlled WebMCP research workspace for reviewing source-backed claims gathered by browser agents.

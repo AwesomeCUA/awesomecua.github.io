@@ -1,3 +1,11 @@
+---
+title: "Enhancing the Reasoning Ability of Multimodal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-10442/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization
 
 Bibliographic record for Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Weiyun Wang, Zhe Chen, Wenhai Wang, Yue Cao, Yangzhou Liu, Zhangwei Gao, Jinguo 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-10442/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-10442/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_10442,
+  title = {{Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization}},
+  author = {{Weiyun Wang} and {Zhe Chen} and {Wenhai Wang} and {Yue Cao} and {Yangzhou Liu} and {Zhangwei Gao} and {Jinguo Zhu} and {Xizhou Zhu} and {Lewei Lu} and {Yu Qiao} and {Jifeng Dai}},
+  year = {2024},
+  eprint = {2411.10442v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.10442v2},
+  note = {First published: 2024-11-15; Recorded arXiv version: v2; Recorded version updated: 2025-04-07T09:09:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

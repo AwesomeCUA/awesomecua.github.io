@@ -1,3 +1,11 @@
+---
+title: "Lightcone SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tzafon-lightcone/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Lightcone SDK
 
 Lightcone is Tzafon's Python and TypeScript SDK for building computer-use agents powered by Northstar GUI vision-language models.

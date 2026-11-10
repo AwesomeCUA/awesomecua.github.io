@@ -1,3 +1,11 @@
+---
+title: "DSB (逗沙包) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tianye1999-dsb/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DSB (逗沙包)
 
 DSB is a trust-first Android AI agent that executes delegated app tasks on a background virtual display without interrupting the user's screen.

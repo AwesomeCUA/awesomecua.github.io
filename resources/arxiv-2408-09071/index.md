@@ -1,3 +1,11 @@
+---
+title: "Me want cookie! Towards automated and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-09071/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Me want cookie! Towards automated and transparent data governance on the Web
 
 Bibliographic record for Me want cookie! Towards automated and transparent data governance on the Web. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Jesse Wright, Beatriz Esteves, Rui Zhao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-09071/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-09071/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_09071,
+  title = {{Me want cookie! Towards automated and transparent data governance on the Web}},
+  author = {{Jesse Wright} and {Beatriz Esteves} and {Rui Zhao}},
+  year = {2024},
+  eprint = {2408.09071v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.09071v1},
+  note = {First published: 2024-08-17; Recorded arXiv version: v1; Recorded version updated: 2024-08-17T02:16:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

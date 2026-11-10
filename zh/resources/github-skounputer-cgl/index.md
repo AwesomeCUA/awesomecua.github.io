@@ -1,3 +1,11 @@
+---
+title: "CGL (Continual GUI Learning) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-skounputer-cgl/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CGL (Continual GUI Learning)
 
 CGL 通过强化学习微调，在避免灾难性遗忘的同时，推进 GUI 智能体跨不断变化领域的持续学习。

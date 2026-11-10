@@ -1,3 +1,11 @@
+---
+title: "cellar (Context Execution Layer) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dilipod-cellar/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # cellar (Context Execution Layer)
 
 cellar implements the Context Execution Layer (CEL), a structured context and action execution protocol for computer-use agents.

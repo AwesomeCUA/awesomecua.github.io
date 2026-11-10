@@ -1,3 +1,11 @@
+---
+title: "browser-for-ai (bfa) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-icueth-browser-for-ai/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # browser-for-ai (bfa)
 
 AI-oriented browser automation runtime and CLI exposing compact DOM observations and deterministic web actions.

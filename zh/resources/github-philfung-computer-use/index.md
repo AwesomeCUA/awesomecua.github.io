@@ -1,3 +1,11 @@
+---
+title: "Computer Use for macOS · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-philfung-computer-use/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Computer Use for macOS
 
 原生 macOS 桌面应用，通过本地屏幕捕获和鼠标、键盘操作运行 Claude Computer Use。

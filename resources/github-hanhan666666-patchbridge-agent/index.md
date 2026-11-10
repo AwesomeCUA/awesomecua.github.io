@@ -1,3 +1,11 @@
+---
+title: "PatchBridge Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # PatchBridge Agent
 
 Lightweight in-browser AI agent framework that retrofits natural-language automation onto legacy enterprise web portals.

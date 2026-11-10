@@ -1,3 +1,11 @@
+---
+title: "What Makes a Good Terminal-Agent Benchmark… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-28093/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # What Makes a Good Terminal-Agent Benchmark Task: A Guideline for Adversarial, Difficult, and Legible Evaluation Design
 
 Bibliographic record for What Makes a Good Terminal-Agent Benchmark Task: A Guideline for Adversarial, Difficult, and Legible Evaluation Design. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Ivan Bercovich
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-28093/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-28093/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_28093,
+  title = {{What Makes a Good Terminal-Agent Benchmark Task: A Guideline for Adversarial, Difficult, and Legible Evaluation Design}},
+  author = {{Ivan Bercovich}},
+  year = {2026},
+  eprint = {2604.28093v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.28093v1},
+  note = {First published: 2026-04-30; Recorded arXiv version: v1; Recorded version updated: 2026-04-30T16:37:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

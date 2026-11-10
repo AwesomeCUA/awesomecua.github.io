@@ -1,3 +1,11 @@
+---
+title: "OpenAI · 发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/organization-openai/
+updated: 2026-10-18
+type: company
+lang: zh-CN
+---
+
 # OpenAI
 
 与 OpenAI 计算机使用或浏览器自动化产品相关的发布方或产品品牌。

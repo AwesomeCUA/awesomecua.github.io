@@ -1,3 +1,11 @@
+---
+title: "Search-o1: Agentic Search-Enhanced Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-05366/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Search-o1: Agentic Search-Enhanced Large Reasoning Models
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "OmOWright · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-code-yeongyu-omowright/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OmOWright
 
 面向 AI 智能体的 Playwright 封装，暴露模型已从预训练中熟悉的 Playwright API 形式。

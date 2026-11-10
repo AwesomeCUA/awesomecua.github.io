@@ -1,3 +1,11 @@
+---
+title: "AdaPlanner: Adaptive Planning from… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2305-16653/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AdaPlanner: Adaptive Planning from Feedback with Language Models
 
 提出 AdaPlanner，根据环境反馈修订代码结构化计划，并将成功计划复用为示例。实验涵盖 MiniWoB++ 网页任务和 ALFWorld。
@@ -27,6 +35,18 @@ Haotian Sun, Yuchen Zhuang, Lingkai Kong, Bo Dai, Chao Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2305-16653/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2305-16653/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_16653,
+  title = {{AdaPlanner: Adaptive Planning from Feedback with Language Models}},
+  author = {{Haotian Sun} and {Yuchen Zhuang} and {Lingkai Kong} and {Bo Dai} and {Chao Zhang}},
+  year = {2023},
+  eprint = {2305.16653v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.16653v1},
+  note = {First published: 2023-05-26; Recorded arXiv version: v1; Recorded version updated: 2023-05-26T05:52:27Z.}
+}
+```
 
 ## arXiv 版本记录
 

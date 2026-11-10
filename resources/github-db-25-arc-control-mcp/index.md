@@ -1,3 +1,11 @@
+---
+title: "arc-control-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-db-25-arc-control-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # arc-control-mcp
 
 Model Context Protocol server that drives the Arc browser on macOS, including spaces, tabs, navigation, and page interaction.

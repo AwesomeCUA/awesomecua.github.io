@@ -1,3 +1,11 @@
+---
+title: "Lolaplex .agents/browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lolaplex-agents-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Lolaplex .agents/browser
 
 Zero-Node Python Chrome DevTools Protocol browser MCP server for AI coding agents.

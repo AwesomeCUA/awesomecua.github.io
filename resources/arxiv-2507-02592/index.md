@@ -1,3 +1,11 @@
+---
+title: "WebSailor: Navigating Super-human Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-02592/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # WebSailor: Navigating Super-human Reasoning for Web Agent
 
 Bibliographic record for WebSailor: Navigating Super-human Reasoning for Web Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Kuan Li, Zhongwang Zhang, Huifeng Yin, Liwen Zhang, Litu Ou, Jialong Wu, Wenbiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-02592/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-02592/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_02592,
+  title = {{WebSailor: Navigating Super-human Reasoning for Web Agent}},
+  author = {{Kuan Li} and {Zhongwang Zhang} and {Huifeng Yin} and {Liwen Zhang} and {Litu Ou} and {Jialong Wu} and {Wenbiao Yin} and {Baixuan Li} and {Zhengwei Tao} and {Xinyu Wang} and {Weizhou Shen} and {Junkai Zhang} and {Dingchu Zhang} and {Xixi Wu} and {Yong Jiang} and {Ming Yan} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou}},
+  year = {2025},
+  eprint = {2507.02592v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.02592v1},
+  note = {First published: 2025-07-03; Recorded arXiv version: v1; Recorded version updated: 2025-07-03T12:59:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

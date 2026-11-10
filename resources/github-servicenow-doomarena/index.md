@@ -1,3 +1,11 @@
+---
+title: "DoomArena | AwesomeCUA"
+url: https://awesomecua.com/resources/github-servicenow-doomarena/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # DoomArena
 
 A security-testing framework whose attack gateways wrap BrowserGym, OSWorld, tau-bench and mail-agent environments to inject pop-ups, banners and other adversarial content under configurable threat models.

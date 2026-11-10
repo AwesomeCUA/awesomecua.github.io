@@ -1,3 +1,11 @@
+---
+title: "Tracking Capabilities for Safer Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-00991/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Tracking Capabilities for Safer Agents
 
 Status: excluded from the active CUA catalog after scope review.

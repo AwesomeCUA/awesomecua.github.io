@@ -1,3 +1,11 @@
+---
+title: "RobotJS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-octalmage-robotjs/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # RobotJS
 
 RobotJS is a native Node.js desktop automation library for controlling the mouse, keyboard, and screen bitmap capture across OS platforms.

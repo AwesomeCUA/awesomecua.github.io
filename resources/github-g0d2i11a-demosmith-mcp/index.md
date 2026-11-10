@@ -1,3 +1,11 @@
+---
+title: "demosmith-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-g0d2i11a-demosmith-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # demosmith-mcp
 
 Model Context Protocol server that lets AI agents record automated browser product demos with cursor animations and narration.

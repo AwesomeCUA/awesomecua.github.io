@@ -1,3 +1,11 @@
+---
+title: "From Struggle to Success: Context-Aware… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-18092/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use
 
 Introduces AskEase, an on-demand assistant that combines contextual information to provide screen-reader-friendly computer-use guidance. A study with screen-reader users evaluates task completion and perceived workload while preserving human control of the interaction.
@@ -26,6 +34,18 @@ Nan Chen, Jing Lu, Zilong Wang, Luna K. Qiu, Siming Chen, Yuqing Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-18092/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-18092/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_18092,
+  title = {{From Struggle to Success: Context-Aware Guidance for Screen Reader Users in Computer Use}},
+  author = {{Nan Chen} and {Jing Lu} and {Zilong Wang} and {Luna K. Qiu} and {Siming Chen} and {Yuqing Yang}},
+  year = {2026},
+  eprint = {2601.18092v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.18092v1},
+  note = {First published: 2026-01-26; Recorded arXiv version: v1; Recorded version updated: 2026-01-26T03:02:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

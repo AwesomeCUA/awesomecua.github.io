@@ -1,3 +1,11 @@
+---
+title: "Computer-use agents, page 3 | AwesomeCUA"
+url: https://awesomecua.com/categories/agent/page/3/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agents, page 3
 
 HTML page: https://awesomecua.com/categories/agent/page/3/
@@ -39,7 +47,6 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [DEIMOS (Environment-Aware Computer Agent)](https://awesomecua.com/resources/github-sakshamjuneja007-freaky-monkey/)
 - [Desktop Agent](https://awesomecua.com/resources/github-ruslankoroy-desktop-agent/)
 - [DesktopAgent (.NET 9)](https://awesomecua.com/resources/github-alessiobianchini-desktopagent/)
-- [DesktopAgent (S1-Fast)](https://awesomecua.com/resources/github-elidot007-desktop-agent/)
 - [DevDesignAmitesh Browser Agent](https://awesomecua.com/resources/github-devdesignamitesh-browser-agent/)
 - [DietSurf](https://awesomecua.com/resources/github-100x-bot-dietsurf/)
 - [DomA](https://awesomecua.com/resources/github-dom-actions-doma/)
@@ -104,3 +111,4 @@ Full category annotations: https://awesomecua.com/categories/agent/index.md
 - [Jcua (Jev Computer Use Agent)](https://awesomecua.com/resources/github-1deat0r-jcua/)
 - [Jev Browser Agent](https://awesomecua.com/resources/github-amyivychoi-jev-browser-agent/)
 - [Jev for Chrome](https://awesomecua.com/resources/github-chy4pro-jev-for-chrome/)
+- [Jev macOS Loop](https://awesomecua.com/resources/github-jcpsimmons-jev-macos-loop/)

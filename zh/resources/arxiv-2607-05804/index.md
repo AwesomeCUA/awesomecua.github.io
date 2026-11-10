@@ -1,3 +1,11 @@
+---
+title: "TurnOPD: Making On-Policy Distillation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-05804/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training
 
 提出长流程语言智能体训练方法 TurnOPD，调整展开深度和损失权重预算；WebShop 是其评估场景之一。
@@ -27,6 +35,18 @@ Yuhang Zhou, Kai Zheng, Haoling Li, Dengyun Peng, Can Xu, Jingjing Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-05804/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-05804/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_05804,
+  title = {{TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training}},
+  author = {{Yuhang Zhou} and {Kai Zheng} and {Haoling Li} and {Dengyun Peng} and {Can Xu} and {Jingjing Chen}},
+  year = {2026},
+  eprint = {2607.05804v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.05804v2},
+  note = {First published: 2026-07-07; Recorded arXiv version: v2; Recorded version updated: 2026-09-28T03:38:59Z.}
+}
+```
 
 ## arXiv 版本记录
 

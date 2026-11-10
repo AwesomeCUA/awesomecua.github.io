@@ -1,3 +1,11 @@
+---
+title: "TRISHUL: Towards Region Identification and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-08226/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents
 
 Combines hierarchical screen parsing with spatially enriched element descriptions to support both locating GUI targets and describing indicated elements.
@@ -26,6 +34,18 @@ Kunal Singh, Shreyas Singh, Mukund Khanna
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-08226/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-08226/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_08226,
+  title = {{TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents}},
+  author = {{Kunal Singh} and {Shreyas Singh} and {Mukund Khanna}},
+  year = {2025},
+  eprint = {2502.08226v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.08226v2},
+  note = {First published: 2025-02-12; Recorded arXiv version: v2; Recorded version updated: 2025-02-14T06:23:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

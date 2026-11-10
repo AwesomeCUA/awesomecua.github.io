@@ -1,3 +1,11 @@
+---
+title: "PAGER: Bridging the Semantic-Execution Gap in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-15963/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control
 
 Introduces PAGE Bench for point-precise geometric GUI construction and PAGER, an agent that plans around primitive dependencies and executes pixel-level actions.
@@ -26,6 +34,18 @@ Jingxuan Wei, Xi Bai, Shan Liu, Caijun Jia, Zheng Sun, Xinglong Xu, Siyuan Li, L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-15963/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-15963/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_15963,
+  title = {{PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control}},
+  author = {{Jingxuan Wei} and {Xi Bai} and {Shan Liu} and {Caijun Jia} and {Zheng Sun} and {Xinglong Xu} and {Siyuan Li} and {Linzhuang Sun} and {Bihui Yu} and {Conghui He} and {Cheng Tan}},
+  year = {2026},
+  eprint = {2605.15963v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.15963v1},
+  note = {First published: 2026-05-15; Recorded arXiv version: v1; Recorded version updated: 2026-05-15T13:55:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

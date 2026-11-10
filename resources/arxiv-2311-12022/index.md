@@ -1,3 +1,11 @@
+---
+title: "GPQA: A Graduate-Level Google-Proof Q&A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-12022/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GPQA: A Graduate-Level Google-Proof Q&A Benchmark
 
 Status: excluded from the active CUA catalog after scope review.

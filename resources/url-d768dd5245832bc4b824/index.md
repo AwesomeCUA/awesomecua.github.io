@@ -1,3 +1,11 @@
+---
+title: "websrc | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d768dd5245832bc4b824/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # websrc
 
 websrc is a screenshot-focused WebSRC compilation for answering questions about webpage content and structure. It provides page identifiers, questions, answers, and encoded images.

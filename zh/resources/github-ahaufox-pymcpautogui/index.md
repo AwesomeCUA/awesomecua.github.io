@@ -1,3 +1,11 @@
+---
+title: "PyMCPAutoGUI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ahaufox-pymcpautogui/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # PyMCPAutoGUI
 
 PyMCPAutoGUI 是跨平台 MCP 服务器，结合 PyAutoGUI 鼠标和键盘控制、窗口管理及 EasyOCR 屏幕文本定位。

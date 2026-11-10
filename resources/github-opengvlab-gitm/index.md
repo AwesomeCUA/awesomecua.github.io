@@ -1,3 +1,11 @@
+---
+title: "Ghost in the Minecraft (GITM) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-opengvlab-gitm/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Ghost in the Minecraft (GITM)
 
 Ghost in the Minecraft (GITM) integrates LLMs with text-based knowledge and memory to complete the full Minecraft technology tree.

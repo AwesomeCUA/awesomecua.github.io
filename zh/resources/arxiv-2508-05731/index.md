@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-G1: Advancing GUI Grounding with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-05731/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization
 
 利用多个候选答案和自适应探索奖励，改善 GUI 定位中的空间与语义对齐。
@@ -27,6 +35,18 @@ Yuhang Liu, Zeyu Liu, Shuanghe Zhu, Pengxiang Li, Congkai Xie, Jiasheng Wang, Xa
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-05731/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-05731/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_05731,
+  title = {{InfiGUI-G1: Advancing GUI Grounding with Adaptive Exploration Policy Optimization}},
+  author = {{Yuhang Liu} and {Zeyu Liu} and {Shuanghe Zhu} and {Pengxiang Li} and {Congkai Xie} and {Jiasheng Wang} and {Xavier Hu} and {Xiaotian Han} and {Jianbo Yuan} and {Xinyao Wang} and {Shengyu Zhang} and {Hongxia Yang} and {Fei Wu}},
+  year = {2025},
+  eprint = {2508.05731v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.05731v2},
+  note = {First published: 2025-08-07; Recorded arXiv version: v2; Recorded version updated: 2025-12-08T10:49:41Z.}
+}
+```
 
 ## arXiv 版本记录
 

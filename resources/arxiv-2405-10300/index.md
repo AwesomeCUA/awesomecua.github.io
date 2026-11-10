@@ -1,3 +1,11 @@
+---
+title: "Grounding DINO 1.5: Advance the \"Edge\" of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-10300/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection
 
 Bibliographic record for Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianhe Ren, Qing Jiang, Shilong Liu, Zhaoyang Zeng, Wenlong Liu, Han Gao, Hongji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-10300/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-10300/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_10300,
+  title = {{Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection}},
+  author = {{Tianhe Ren} and {Qing Jiang} and {Shilong Liu} and {Zhaoyang Zeng} and {Wenlong Liu} and {Han Gao} and {Hongjie Huang} and {Zhengyu Ma} and {Xiaoke Jiang} and {Yihao Chen} and {Yuda Xiong} and {Hao Zhang} and {Feng Li} and {Peijun Tang} and {Kent Yu} and {Lei Zhang}},
+  year = {2024},
+  eprint = {2405.10300v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.10300v2},
+  note = {First published: 2024-05-16; Recorded arXiv version: v2; Recorded version updated: 2024-06-01T03:35:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

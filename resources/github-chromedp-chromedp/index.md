@@ -1,3 +1,11 @@
+---
+title: "chromedp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chromedp-chromedp/
+updated: 2026-11-06
+type: tool
+lang: en
+---
+
 # chromedp
 
 A Go package for driving browsers through the Chrome DevTools Protocol, with actions for navigating pages, interacting with elements, and reading page content.

@@ -1,3 +1,11 @@
+---
+title: "Browser4 · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-platonai-browser4/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Browser4
 
 Browser4 是面向 AI 的浏览器引擎和协程运行时，用于高并发网页智能体、工作流自动化和页面提取。

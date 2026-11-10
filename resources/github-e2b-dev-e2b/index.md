@@ -1,3 +1,11 @@
+---
+title: "E2B (infrastructure) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-e2b-dev-e2b/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # E2B
 
 Cloud sandbox infrastructure for agents, with a Desktop SDK that exposes screenshots, mouse and keyboard control, application launch, and streaming.

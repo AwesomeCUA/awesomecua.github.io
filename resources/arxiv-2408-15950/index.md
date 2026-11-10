@@ -1,3 +1,11 @@
+---
+title: "Atari-GPT: Benchmarking Multimodal Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-15950/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Atari-GPT: Benchmarking Multimodal Large Language Models as Low-Level Policies in Atari Games
 
 Bibliographic record for Atari-GPT: Benchmarking Multimodal Large Language Models as Low-Level Policies in Atari Games. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Nicholas R. Waytowich, Devin White, MD Sunbeam, Vinicius G. Goecks
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-15950/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-15950/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_15950,
+  title = {{Atari-GPT: Benchmarking Multimodal Large Language Models as Low-Level Policies in Atari Games}},
+  author = {{Nicholas R. Waytowich} and {Devin White} and {MD Sunbeam} and {Vinicius G. Goecks}},
+  year = {2024},
+  eprint = {2408.15950v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.15950v2},
+  note = {First published: 2024-08-28; Recorded arXiv version: v2; Recorded version updated: 2024-12-02T03:48:43Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "dsh-local-browser-search (dsh-search) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yuanmingxue-dsh-search/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-local-browser-search (dsh-search)
 
 面向 DeepSeek Harness 的本地浏览器网页搜索与页面抓取插件。

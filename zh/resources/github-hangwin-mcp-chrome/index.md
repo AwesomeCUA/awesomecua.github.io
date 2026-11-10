@@ -1,3 +1,11 @@
+---
+title: "Chrome MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hangwin-mcp-chrome/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Chrome MCP Server
 
 这是 Chrome 扩展和 MCP 桥接工具，让 AI 客户端操作现有浏览器会话。其工具涵盖截图、页面交互和浏览器数据。

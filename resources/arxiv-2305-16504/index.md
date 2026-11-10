@@ -1,3 +1,11 @@
+---
+title: "On the Tool Manipulation Capability of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-16504/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # On the Tool Manipulation Capability of Open-source Large Language Models
 
 Bibliographic record for On the Tool Manipulation Capability of Open-source Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Qiantong Xu, Fenglu Hong, Bo Li, Changran Hu, Zhengyu Chen, Jian Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-16504/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-16504/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_16504,
+  title = {{On the Tool Manipulation Capability of Open-source Large Language Models}},
+  author = {{Qiantong Xu} and {Fenglu Hong} and {Bo Li} and {Changran Hu} and {Zhengyu Chen} and {Jian Zhang}},
+  year = {2023},
+  eprint = {2305.16504v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.16504v1},
+  note = {First published: 2023-05-25; Recorded arXiv version: v1; Recorded version updated: 2023-05-25T22:10:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

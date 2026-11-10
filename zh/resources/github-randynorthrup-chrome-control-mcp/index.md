@@ -1,3 +1,11 @@
+---
+title: "Chrome Control MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-randynorthrup-chrome-control-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chrome Control MCP
 
 供 AI 助手使用的可见、安全的 Chrome 控制服务器，采用 MCP、Native Messaging 和 Chrome DevTools Protocol。

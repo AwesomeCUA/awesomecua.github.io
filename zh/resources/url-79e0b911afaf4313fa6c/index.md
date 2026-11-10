@@ -1,3 +1,11 @@
+---
+title: "Process Discovery · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-79e0b911afaf4313fa6c/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # Process Discovery
 
 一款企业流程发现产品，采集桌面和网页应用中的活动并绘制工作流程，帮助识别操作模式与自动化机会。

@@ -1,3 +1,11 @@
+---
+title: "yolov11l-ui-elements-detection | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5d824526d56f179d3d51/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # yolov11l-ui-elements-detection
 
 A YOLO11 fine-tune that locates five kinds of interface elements in macOS application screenshots to support accessibility metadata generation.

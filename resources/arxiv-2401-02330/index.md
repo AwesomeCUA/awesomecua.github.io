@@ -1,3 +1,11 @@
+---
+title: "LLaVA-Phi: Efficient Multi-Modal Assistant… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-02330/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model
 
 Bibliographic record for LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yichen Zhu, Minjie Zhu, Ning Liu, Zhicai Ou, Xiaofeng Mou, Jian Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-02330/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-02330/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_02330,
+  title = {{LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model}},
+  author = {{Yichen Zhu} and {Minjie Zhu} and {Ning Liu} and {Zhicai Ou} and {Xiaofeng Mou} and {Jian Tang}},
+  year = {2024},
+  eprint = {2401.02330v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.02330v4},
+  note = {First published: 2024-01-04; Recorded arXiv version: v4; Recorded version updated: 2024-02-22T07:12:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

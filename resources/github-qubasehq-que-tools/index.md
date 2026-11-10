@@ -1,3 +1,11 @@
+---
+title: "QUE CORE | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qubasehq-que-tools/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # QUE CORE
 
 QUE CORE is a hybrid Rust and Python runtime exposing 121 consolidated system, window, and GUI control tools for computer-use agents.

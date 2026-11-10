@@ -1,3 +1,11 @@
+---
+title: "DashAct: A Progressive Diagnostic… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-32385/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive Dashboard Analysis
 
 在同一任务中逐步补充交互上下文、下一步操作支持和视觉目标信息，以诊断仪表盘智能体的失败原因。
@@ -27,6 +35,18 @@ Chuhan Zhang, Qi Xie, Ziyue Wang, Jianing Yin, Yunfan Zhou, Dazhen Deng, Yingcai
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-32385/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-32385/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_32385,
+  title = {{DashAct: A Progressive Diagnostic Benchmark for GUI Agents in Interactive Dashboard Analysis}},
+  author = {{Chuhan Zhang} and {Qi Xie} and {Ziyue Wang} and {Jianing Yin} and {Yunfan Zhou} and {Dazhen Deng} and {Yingcai Wu}},
+  year = {2026},
+  eprint = {2609.32385v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.32385v1},
+  note = {First published: 2026-09-26; Recorded arXiv version: v1; Recorded version updated: 2026-09-26T08:58:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "MemGUI-Bench: Benchmarking Memory of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-06075/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments
 
 MemGUI-Bench 通过配对任务和重复尝试流程，评估移动 GUI 智能体的短期记忆保持与跨会话经验复用；其分阶段评估器衡量记忆保真度、学习能力和执行效率。
@@ -27,6 +35,18 @@ Guangyi Liu, Pengxiang Zhao, Yaozhen Liang, Qinyi Luo, Shunye Tang, Yuxiang Chai
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-06075/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-06075/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_06075,
+  title = {{MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments}},
+  author = {{Guangyi Liu} and {Pengxiang Zhao} and {Yaozhen Liang} and {Qinyi Luo} and {Shunye Tang} and {Yuxiang Chai} and {Weifeng Lin} and {Han Xiao} and {WenHao Wang} and {Siheng Chen} and {Zhengxi Lu} and {Gao Wu} and {Hao Wang} and {Liang Liu} and {Yong Liu}},
+  year = {2026},
+  eprint = {2602.06075v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.06075v3},
+  note = {First published: 2026-02-03; Recorded arXiv version: v3; Recorded version updated: 2026-08-27T06:48:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

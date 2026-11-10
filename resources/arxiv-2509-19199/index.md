@@ -1,3 +1,11 @@
+---
+title: "Agentic Reinforcement Learning with Implicit… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-19199/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Agentic Reinforcement Learning with Implicit Step Rewards
 
 Introduces iStar, a general agentic RL method that learns implicit step rewards; WebShop is one of several interactive benchmarks used to evaluate it.
@@ -26,6 +34,18 @@ Xiaoqian Liu, Ke Wang, Yuchuan Wu, Fei Huang, Yongbin Li, Junge Zhang, Jianbin J
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-19199/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-19199/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_19199,
+  title = {{Agentic Reinforcement Learning with Implicit Step Rewards}},
+  author = {{Xiaoqian Liu} and {Ke Wang} and {Yuchuan Wu} and {Fei Huang} and {Yongbin Li} and {Junge Zhang} and {Jianbin Jiao}},
+  year = {2025},
+  eprint = {2509.19199v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.19199v3},
+  note = {First published: 2025-09-23; Recorded arXiv version: v3; Recorded version updated: 2025-09-28T06:47:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

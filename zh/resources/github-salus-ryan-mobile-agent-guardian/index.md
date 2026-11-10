@@ -1,3 +1,11 @@
+---
+title: "Mobile Agent Guardian · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-salus-ryan-mobile-agent-guardian/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Mobile Agent Guardian
 
 面向移动端 GUI 智能体的五级安全与动作验证层，用于分类并限制高风险手机操作。

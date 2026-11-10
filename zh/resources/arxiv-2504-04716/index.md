@@ -1,3 +1,11 @@
+---
+title: "On the Robustness of GUI Grounding… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2504-04716/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # On the Robustness of GUI Grounding Models Against Image Attacks
 
 评估 GUI 定位模型在自然图像噪声、无目标对抗扰动和定向图像攻击下的表现，实验覆盖移动端、桌面及网页界面，并分析其对图像分辨率和对抗性改动的敏感性。
@@ -27,6 +35,18 @@ Haoren Zhao, Tianyi Chen, Zhen Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2504-04716/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2504-04716/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_04716,
+  title = {{On the Robustness of GUI Grounding Models Against Image Attacks}},
+  author = {{Haoren Zhao} and {Tianyi Chen} and {Zhen Wang}},
+  year = {2025},
+  eprint = {2504.04716v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.04716v1},
+  note = {First published: 2025-04-07; Recorded arXiv version: v1; Recorded version updated: 2025-04-07T03:58:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

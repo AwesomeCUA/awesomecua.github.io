@@ -1,3 +1,11 @@
+---
+title: "Prompt Compression in the Wild: Measuring… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-02985/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Prompt Compression in the Wild: Measuring Latency, Rate Adherence, and Quality for Faster LLM Inference
 
 Status: excluded from the active CUA catalog after scope review.

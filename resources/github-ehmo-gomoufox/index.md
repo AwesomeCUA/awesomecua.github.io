@@ -1,3 +1,11 @@
+---
+title: "gomoufox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ehmo-gomoufox/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # gomoufox
 
 Go library, CLI, and Model Context Protocol server for driving Camoufox anti-detect Firefox browsers.

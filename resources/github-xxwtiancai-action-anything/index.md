@@ -1,3 +1,11 @@
+---
+title: "ActionAnything | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xxwtiancai-action-anything/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ActionAnything
 
 Model-agnostic runtime for evaluating, approving, recording, and replaying AI agent actions across desktop and web interfaces.

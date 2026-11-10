@@ -1,3 +1,11 @@
+---
+title: "Humanoid | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yzygitzh-humanoid/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Humanoid
 
 Android app exploration component that uses a model learned from human usage traces to rank the input events proposed by DroidBot.

@@ -1,3 +1,11 @@
+---
+title: "BLAXIN | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tasinxxx-blaxin/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # BLAXIN
 
 Open-source AI desktop agent for Linux that plans, executes, and verifies GUI and shell workflows.

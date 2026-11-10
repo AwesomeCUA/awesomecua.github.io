@@ -1,3 +1,11 @@
+---
+title: "TreeCUA: Efficiently Scaling GUI Automation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-09662/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution
 
 TreeCUA organizes GUI exploration trajectories as reusable trees and balances deeper tasks against broader coverage. Its data pipeline combines action verification, memory-backed recovery and a DPO variant that uses information from adjacent branches.
@@ -26,6 +34,18 @@ Deyang Jiang, Jing Huang, Xuanle Zhao, Lei Chen, Liming Zheng, Fanfan Liu, Haibo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-09662/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-09662/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_09662,
+  title = {{TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution}},
+  author = {{Deyang Jiang} and {Jing Huang} and {Xuanle Zhao} and {Lei Chen} and {Liming Zheng} and {Fanfan Liu} and {Haibo Qiu} and {Peng Shi} and {Zhixiong Zeng}},
+  year = {2026},
+  eprint = {2602.09662v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.09662v1},
+  note = {First published: 2026-02-10; Recorded arXiv version: v1; Recorded version updated: 2026-02-10T11:16:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

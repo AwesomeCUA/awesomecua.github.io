@@ -1,3 +1,11 @@
+---
+title: "LiteFrame: Efficient Vision Encoders Unlock… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-17260/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # LiteFrame: Efficient Vision Encoders Unlock Frame Scaling in Video LLMs
 
 Status: excluded from the active CUA catalog after scope review.

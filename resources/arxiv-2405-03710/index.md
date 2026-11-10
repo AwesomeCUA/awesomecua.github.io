@@ -1,3 +1,11 @@
+---
+title: "Automating the Enterprise with Foundation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-03710/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Automating the Enterprise with Foundation Models
 
 ECLAIR uses multimodal foundation models to automate enterprise workflows from natural-language descriptions, with initial studies of workflow understanding and completion.
@@ -26,6 +34,18 @@ Michael Wornow, Avanika Narayan, Krista Opsahl-Ong, Quinn McIntyre, Nigam H. Sha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-03710/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-03710/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_03710,
+  title = {{Automating the Enterprise with Foundation Models}},
+  author = {{Michael Wornow} and {Avanika Narayan} and {Krista Opsahl-Ong} and {Quinn McIntyre} and {Nigam H. Shah} and {Christopher Re}},
+  year = {2024},
+  eprint = {2405.03710v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.03710v1},
+  note = {First published: 2024-05-03; Recorded arXiv version: v1; Recorded version updated: 2024-05-03T23:25:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Intrinsic Memory Agents: Heterogeneous… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-08997/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Intrinsic Memory Agents: Heterogeneous Multi-Agent LLM Systems through Structured Contextual Memory
 
 Status: excluded from the active CUA catalog after scope review.

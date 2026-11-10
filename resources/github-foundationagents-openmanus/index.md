@@ -1,3 +1,11 @@
+---
+title: "OpenManus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-foundationagents-openmanus/
+updated: 2026-11-06
+type: framework
+lang: en
+---
+
 # OpenManus
 
 OpenManus is an open-source agent framework that runs tasks from a terminal and integrates browser execution and screenshots through Browser Use.

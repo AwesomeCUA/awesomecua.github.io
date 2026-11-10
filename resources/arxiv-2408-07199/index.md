@@ -1,3 +1,11 @@
+---
+title: "Agent Q: Advanced Reasoning and Learning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2408-07199/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents
 
 Agent Q combines guided tree search, self-critique and preference-based fine-tuning to train web agents from successful and unsuccessful interactions.
@@ -26,6 +34,18 @@ Pranav Putta, Edmund Mills, Naman Garg, Sumeet Motwani, Chelsea Finn, Divyansh G
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2408-07199/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2408-07199/citation.csl.json
+
+```bibtex
+@misc{arxiv_2408_07199,
+  title = {{Agent Q: Advanced Reasoning and Learning for Autonomous AI Agents}},
+  author = {{Pranav Putta} and {Edmund Mills} and {Naman Garg} and {Sumeet Motwani} and {Chelsea Finn} and {Divyansh Garg} and {Rafael Rafailov}},
+  year = {2024},
+  eprint = {2408.07199v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2408.07199v1},
+  note = {First published: 2024-08-13; Recorded arXiv version: v1; Recorded version updated: 2024-08-13T20:52:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

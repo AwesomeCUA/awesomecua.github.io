@@ -1,3 +1,11 @@
+---
+title: "AgentCursor · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kumard3-agentcursor/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AgentCursor
 
 将 macOS 应用窗口读取为简洁的文本操作信息（每次点击约 9 个 token），并通过 MCP 驱动拟人化虚拟光标。

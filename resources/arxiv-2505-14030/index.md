@@ -1,3 +1,11 @@
+---
+title: "AutoBio: A Simulation and Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-14030/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory
 
 Status: excluded from the active CUA catalog after scope review.

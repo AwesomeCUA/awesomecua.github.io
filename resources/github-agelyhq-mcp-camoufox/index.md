@@ -1,3 +1,11 @@
+---
+title: "mcp-camoufox | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agelyhq-mcp-camoufox/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mcp-camoufox
 
 Browser automation MCP server built on the Camoufox anti-detect Firefox browser for bypassing bot walls during agent navigation.

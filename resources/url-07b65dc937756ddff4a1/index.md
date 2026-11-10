@@ -1,3 +1,11 @@
+---
+title: "Aria-UI Context-aware Data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-07b65dc937756ddff4a1/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # Aria-UI Context-aware Data
 
 Episode-based mobile GUI grounding data released with Aria-UI for incorporating interaction history into target localization.

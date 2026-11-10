@@ -1,3 +1,11 @@
+---
+title: "Wanta | AwesomeCUA"
+url: https://awesomecua.com/resources/github-oomol-lab-wanta/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Wanta
 
 Electron desktop host for work agents (built-in OpenCode agent plus Claude Code, Codex and Grok adapters) whose bundled integrated browser lets agent and user operate one visible page through ARIA-snapshot refs.

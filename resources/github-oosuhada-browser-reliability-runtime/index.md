@@ -1,3 +1,11 @@
+---
+title: "Browser Reliability Runtime | AwesomeCUA"
+url: https://awesomecua.com/resources/github-oosuhada-browser-reliability-runtime/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Browser Reliability Runtime
 
 Multimodal browser reliability runtime for failure diagnosis, policy-aware recovery, and action verification.

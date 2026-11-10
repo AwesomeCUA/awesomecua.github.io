@@ -1,3 +1,11 @@
+---
+title: "Reinforcement Learning for Computer-Use… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-24515/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation
 
 该框架将视觉语言评判模型对最终屏幕的评估用作 GUI 强化学习的终止奖励。它对评估器噪声建模，并修正桌面基准上 PPO 使用的奖励估计器。
@@ -27,6 +35,18 @@ Marta Sumyk, Oleksandr Kosovan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-24515/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-24515/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_24515,
+  title = {{Reinforcement Learning for Computer-Use Agents with Autonomous Evaluation}},
+  author = {{Marta Sumyk} and {Oleksandr Kosovan}},
+  year = {2026},
+  eprint = {2606.24515v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.24515v1},
+  note = {First published: 2026-06-23; Recorded arXiv version: v1; Recorded version updated: 2026-06-23T12:46:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

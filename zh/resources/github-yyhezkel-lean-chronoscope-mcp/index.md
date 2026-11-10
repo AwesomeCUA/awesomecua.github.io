@@ -1,3 +1,11 @@
+---
+title: "lean-chronoscope-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yyhezkel-lean-chronoscope-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # lean-chronoscope-mcp
 
 运行于 Docker、节省 token 的无头 Chrome MCP 服务器，为编程智能体记录控制台、网络和 DOM 时间线。

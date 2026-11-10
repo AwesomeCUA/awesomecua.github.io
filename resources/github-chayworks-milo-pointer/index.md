@@ -1,3 +1,11 @@
+---
+title: "Milo-Pointer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chayworks-milo-pointer/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # Milo-Pointer
 
 Milo-Pointer uses a 149M on-device text encoder as a fast first-tier router and action selector for mobile phone agents.

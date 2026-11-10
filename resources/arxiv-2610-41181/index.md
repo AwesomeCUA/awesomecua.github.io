@@ -1,3 +1,11 @@
+---
+title: "AgentShield: Fortifying Web Applications… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-41181/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers
 
 Evaluates agentic browsers against web anti-bot defenses and introduces AgentShield, a behavioral fingerprinting framework for distinguishing agents from people.
@@ -26,6 +34,18 @@ Moiz Ali, Nafis Karim, Rownak Islam, Jyotirmay Chauhan, Dhruv Kuchhal, Jason Pol
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-41181/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-41181/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_41181,
+  title = {{AgentShield: Fortifying Web Applications Against AI Agents and Agentic Browsers}},
+  author = {{Moiz Ali} and {Nafis Karim} and {Rownak Islam} and {Jyotirmay Chauhan} and {Dhruv Kuchhal} and {Jason Polakis}},
+  year = {2026},
+  eprint = {2610.41181v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.41181v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T03:00:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

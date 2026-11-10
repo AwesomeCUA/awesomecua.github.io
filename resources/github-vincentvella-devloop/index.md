@@ -1,3 +1,11 @@
+---
+title: "devloop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vincentvella-devloop/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # devloop
 
 Model Context Protocol server that correlates headless browser automation actions and dev-server logs on a single unified timeline.

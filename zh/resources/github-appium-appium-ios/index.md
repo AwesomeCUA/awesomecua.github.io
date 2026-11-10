@@ -1,3 +1,11 @@
+---
+title: "appium-ios · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-appium-appium-ios/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # appium-ios
 
 一个 iOS Appium 单一代码库，提供模拟器控制、设备通信、屏幕流传输和 WebDriver 访问所需的软件包。

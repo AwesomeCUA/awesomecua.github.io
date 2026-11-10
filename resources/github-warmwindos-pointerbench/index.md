@@ -1,3 +1,11 @@
+---
+title: "Pointerbench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-warmwindos-pointerbench/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # Pointerbench
 
 Pointerbench evaluates whether computer-use models can locate instructed targets in screenshots. Its three subsets cover spreadsheets, text, and professional application interfaces.

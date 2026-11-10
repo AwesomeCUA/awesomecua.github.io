@@ -1,3 +1,11 @@
+---
+title: "puppeteer-extra | AwesomeCUA"
+url: https://awesomecua.com/resources/github-berstend-puppeteer-extra/
+updated: 2026-11-06
+type: framework
+lang: en
+---
+
 # puppeteer-extra
 
 A modular plugin framework for Puppeteer, maintained in a monorepo with plugins and related packages.

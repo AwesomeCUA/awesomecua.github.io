@@ -1,3 +1,11 @@
+---
+title: "MathGLM-Vision: Solving Mathematical Problems… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-13729/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MathGLM-Vision: Solving Mathematical Problems with Multi-Modal Large Language Model
 
 Bibliographic record for MathGLM-Vision: Solving Mathematical Problems with Multi-Modal Large Language Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhen Yang, Jinhao Chen, Zhengxiao Du, Wenmeng Yu, Weihan Wang, Wenyi Hong, Zhihu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-13729/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-13729/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_13729,
+  title = {{MathGLM-Vision: Solving Mathematical Problems with Multi-Modal Large Language Model}},
+  author = {{Zhen Yang} and {Jinhao Chen} and {Zhengxiao Du} and {Wenmeng Yu} and {Weihan Wang} and {Wenyi Hong} and {Zhihuan Jiang} and {Bin Xu} and {Jie Tang}},
+  year = {2024},
+  eprint = {2409.13729v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.13729v2},
+  note = {First published: 2024-09-10; Recorded arXiv version: v2; Recorded version updated: 2024-12-02T14:59:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

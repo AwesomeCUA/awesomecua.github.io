@@ -1,3 +1,11 @@
+---
+title: "frontprompt · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-surrealmindai-frontprompt/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # frontprompt
 
 浏览器自动化 MCP 服务器，带有交互式视觉叠加层，供用户标注网页元素并分派智能体任务。

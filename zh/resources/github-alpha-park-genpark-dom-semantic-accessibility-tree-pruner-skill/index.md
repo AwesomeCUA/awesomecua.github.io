@@ -1,3 +1,11 @@
+---
+title: "GenPark DOM Accessibility Tree Pruner… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alpha-park-genpark-dom-semantic-accessibility-tree-pruner-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # GenPark DOM Accessibility Tree Pruner Skill
 
 智能体技能，将原始 HTML DOM 树压缩为节省 token 的语义无障碍快照。

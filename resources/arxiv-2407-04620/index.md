@@ -1,3 +1,11 @@
+---
+title: "Learning to (Learn at Test Time): RNNs with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-04620/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Learning to (Learn at Test Time): RNNs with Expressive Hidden States
 
 Bibliographic record for Learning to (Learn at Test Time): RNNs with Expressive Hidden States. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yu Sun, Xinhao Li, Karan Dalal, Jiarui Xu, Arjun Vikram, Genghan Zhang, Yann Dub
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-04620/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-04620/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_04620,
+  title = {{Learning to (Learn at Test Time): RNNs with Expressive Hidden States}},
+  author = {{Yu Sun} and {Xinhao Li} and {Karan Dalal} and {Jiarui Xu} and {Arjun Vikram} and {Genghan Zhang} and {Yann Dubois} and {Xinlei Chen} and {Xiaolong Wang} and {Sanmi Koyejo} and {Tatsunori Hashimoto} and {Carlos Guestrin}},
+  year = {2024},
+  eprint = {2407.04620v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.04620v4},
+  note = {First published: 2024-07-05; Recorded arXiv version: v4; Recorded version updated: 2025-08-31T18:32:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

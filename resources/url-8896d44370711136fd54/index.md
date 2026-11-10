@@ -1,3 +1,11 @@
+---
+title: "AgentQL (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-8896d44370711136fd54/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # AgentQL
 
 Natural-language querying and interaction tools for web interfaces.

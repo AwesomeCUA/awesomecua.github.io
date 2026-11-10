@@ -1,3 +1,11 @@
+---
+title: "Screen2AX · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-macpaw-screen2ax/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Screen2AX
 
 Screen2AX 使用视觉检测器从截图重建 macOS 应用的无障碍树，并发布 Maceka GUI 数据集。

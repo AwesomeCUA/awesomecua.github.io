@@ -1,3 +1,11 @@
+---
+title: "SAP Concur Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-sap-concur-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # SAP Concur Browser Automation
 
 A SAP Concur browser automation scaffold with actions for expense reports, receipt uploads, approval queues, and spend-data export.

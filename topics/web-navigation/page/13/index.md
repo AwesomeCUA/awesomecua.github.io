@@ -1,10 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 13 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/13/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 13
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/13/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [ANZU Superassistant (Jarvis)](https://awesomecua.com/resources/github-daan298261-jarvis/)
 - [API-Based-Agent](https://awesomecua.com/resources/github-yueqis-api-based-agent/)
 - [ApiTap](https://awesomecua.com/resources/github-n1byn1kt-apitap/)
 - [Apply Lens](https://awesomecua.com/resources/github-mangeshraut712-apply-lens/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [browsegrab](https://awesomecua.com/resources/github-arknill-browsegrab/)
 - [Browsentic](https://awesomecua.com/resources/github-imshaikot-browsentic/)
 - [Browser Agent](https://awesomecua.com/resources/github-rkvalandas-browser-agent/)
+- [Browser Agent](https://awesomecua.com/resources/github-visnia-ai-browser-agent/)

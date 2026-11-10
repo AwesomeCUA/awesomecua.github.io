@@ -1,3 +1,11 @@
+---
+title: "Jev GUI Delegate | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yuta-fywoo-jev-gui-delegate/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Jev GUI Delegate
 
 Jev GUI Delegate is a local controller that carries out delegated Windows and Chrome tasks, calls Jev for uncertain choices, and checks outcomes after actions.

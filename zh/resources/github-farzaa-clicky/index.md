@@ -1,3 +1,11 @@
+---
+title: "Clicky · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-farzaa-clicky/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Clicky
 
 一款开源的 macOS 教学助手，结合屏幕截图和语音提问解释屏幕内容，并通过光标浮层指向界面元素。

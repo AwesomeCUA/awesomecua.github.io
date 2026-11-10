@@ -1,3 +1,11 @@
+---
+title: "Sandbar (github.com/jdrolls/sandbar-public) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jdrolls-sandbar-public/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Sandbar
 
 Sandbar provisions isolated cloud Ubuntu desktop virtual machines equipped with OpenClaw and VNC streaming for computer-use agents.

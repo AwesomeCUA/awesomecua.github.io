@@ -1,3 +1,11 @@
+---
+title: "On the Societal Impact of Open Foundation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-07918/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # On the Societal Impact of Open Foundation Models
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Ignore Previous Prompt: Attack Techniques For… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2211-09527/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Ignore Previous Prompt: Attack Techniques For Language Models
 
 Status: excluded from the active CUA catalog after scope review.

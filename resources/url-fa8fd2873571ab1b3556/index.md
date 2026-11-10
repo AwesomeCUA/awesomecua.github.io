@@ -1,3 +1,11 @@
+---
+title: "TimeWarp-GPT5-Traces | AwesomeCUA"
+url: https://awesomecua.com/resources/url-fa8fd2873571ab1b3556/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # TimeWarp-GPT5-Traces
 
 GPT-5 teacher trajectories on the TimeWarp web benchmark, grouped by UI version, with SoM-annotated screenshots for each step and experiment logs, used to fine-tune web agents with LlamaFactory.

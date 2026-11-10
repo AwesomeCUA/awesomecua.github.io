@@ -1,3 +1,11 @@
+---
+title: "WorkflowLLM: Enhancing Workflow Orchestration… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-05451/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models
 
 WorkflowLLM builds WorkflowBench from application API workflows and synthetic queries, then trains WorkflowLlama to generate multi-application workflows.
@@ -26,6 +34,18 @@ Shengda Fan, Xin Cong, Yuepeng Fu, Zhong Zhang, Shuyan Zhang, Yuanwei Liu, Yesai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-05451/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-05451/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_05451,
+  title = {{WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models}},
+  author = {{Shengda Fan} and {Xin Cong} and {Yuepeng Fu} and {Zhong Zhang} and {Shuyan Zhang} and {Yuanwei Liu} and {Yesai Wu} and {Yankai Lin} and {Zhiyuan Liu} and {Maosong Sun}},
+  year = {2024},
+  eprint = {2411.05451v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.05451v1},
+  note = {First published: 2024-11-08; Recorded arXiv version: v1; Recorded version updated: 2024-11-08T09:58:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

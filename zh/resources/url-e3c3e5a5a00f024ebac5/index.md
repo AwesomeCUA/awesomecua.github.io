@@ -1,3 +1,11 @@
+---
+title: "gameworld-qwen38-flash-next-trajectory · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e3c3e5a5a00f024ebac5/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # gameworld-qwen38-flash-next-trajectory
 
 一套包含 1,020 条 GameWorld 智能体轨迹的数据集，涵盖通用接口和计算机操作接口，并提供步骤记录、屏幕截图、结果及指标。

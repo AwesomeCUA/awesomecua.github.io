@@ -1,3 +1,11 @@
+---
+title: "UIAutomationMcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-trsdn-mcp-server-uiautomation/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # UIAutomationMcp
 
 Windows UI Automation toolkit providing a CLI, MCP server, and VS Code extension for inspecting and driving native desktop controls.

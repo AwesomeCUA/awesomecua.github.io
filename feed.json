@@ -14,6 +14,32 @@
   ],
   "items": [
     {
+      "id": "https://awesomecua.com/resources/url-1aa4168c796c15476b97/",
+      "url": "https://awesomecua.com/resources/url-1aa4168c796c15476b97/",
+      "external_url": "https://www.strawberrybrowser.com",
+      "title": "Strawberry",
+      "content_text": "Agentic desktop browser for macOS and Windows whose AI companions open sites, click through flows and work inside the user's signed-in accounts, asking for approval before sending, paying or deleting.",
+      "summary": "Agentic desktop browser for macOS and Windows whose AI companions open sites, click through flows and work inside the user's signed-in accounts, asking for approval before sending, paying or deleting.",
+      "date_published": "2026-11-10T08:13:23Z",
+      "date_modified": "2026-11-10T08:13:23Z",
+      "tags": [
+        "product",
+        "web-navigation",
+        "automation",
+        "human-in-the-loop",
+        "memory"
+      ],
+      "_awesomecua": {
+        "kind": "product",
+        "review_status": "curated",
+        "environments": [
+          "web"
+        ],
+        "record_json": "https://awesomecua.com/resources/url-1aa4168c796c15476b97/record.json",
+        "markdown": "https://awesomecua.com/resources/url-1aa4168c796c15476b97/index.md"
+      }
+    },
+    {
       "id": "https://awesomecua.com/resources/github-kerpopule-hermes-jev-skills/",
       "url": "https://awesomecua.com/resources/github-kerpopule-hermes-jev-skills/",
       "external_url": "https://github.com/kerpopule/hermes-jev-skills",
@@ -2476,31 +2502,6 @@
         ],
         "record_json": "https://awesomecua.com/resources/github-feder-cr-invisible-selenium/record.json",
         "markdown": "https://awesomecua.com/resources/github-feder-cr-invisible-selenium/index.md"
-      }
-    },
-    {
-      "id": "https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/",
-      "url": "https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/",
-      "external_url": "https://huggingface.co/datasets/orion-agent/JUMPDiscovery",
-      "title": "JUMPDiscovery",
-      "content_text": "Task data for the Orion computer-using agent's open discovery task: a problem statement, CellProfiler pipelines, gene sets and a script that downloads JUMP Cell Painting morphological profiles.",
-      "summary": "Task data for the Orion computer-using agent's open discovery task: a problem statement, CellProfiler pipelines, gene sets and a script that downloads JUMP Cell Painting morphological profiles.",
-      "date_published": "2026-11-10T05:17:39Z",
-      "date_modified": "2026-11-10T06:29:24Z",
-      "tags": [
-        "dataset",
-        "science",
-        "long-horizon"
-      ],
-      "_awesomecua": {
-        "kind": "dataset",
-        "review_status": "curated",
-        "environments": [
-          "desktop",
-          "linux"
-        ],
-        "record_json": "https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/record.json",
-        "markdown": "https://awesomecua.com/resources/url-925ca9e4519cb9ecdc00/index.md"
       }
     }
   ]

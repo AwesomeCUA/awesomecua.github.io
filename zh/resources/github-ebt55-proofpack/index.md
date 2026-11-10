@@ -1,3 +1,11 @@
+---
+title: "ProofPack · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ebt55-proofpack/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ProofPack
 
 用于批准前审查与验证的运行时，每项智能体发现和 UI 状态均有 SHA 哈希标记的捕获记录作为依据。

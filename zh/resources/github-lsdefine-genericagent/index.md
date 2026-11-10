@@ -1,3 +1,11 @@
+---
+title: "GenericAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lsdefine-genericagent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # GenericAgent
 
 GenericAgent 是精简的自进化智能体框架，可合成用于浏览器、操作系统和 ADB 移动端控制的可复用技能。

@@ -1,3 +1,11 @@
+---
+title: "ReSum: Unlocking Long-Horizon Search… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-13313/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization
 
 提出 ReSum，在长程网页搜索中压缩交互历史；另提出 ReSum-GRPO，训练智能体跨压缩后的片段进行推理。
@@ -27,6 +35,18 @@ Xixi Wu, Kuan Li, Yida Zhao, Liwen Zhang, Litu Ou, Huifeng Yin, Zhongwang Zhang,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-13313/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-13313/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_13313,
+  title = {{ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization}},
+  author = {{Xixi Wu} and {Kuan Li} and {Yida Zhao} and {Liwen Zhang} and {Litu Ou} and {Huifeng Yin} and {Zhongwang Zhang} and {Xinmiao Yu} and {Dingchu Zhang} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Minhao Cheng} and {Shuai Wang} and {Hong Cheng} and {Jingren Zhou}},
+  year = {2025},
+  eprint = {2509.13313v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.13313v3},
+  note = {First published: 2025-09-16; Recorded arXiv version: v3; Recorded version updated: 2026-03-26T06:50:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

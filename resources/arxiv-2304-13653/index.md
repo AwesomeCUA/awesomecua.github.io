@@ -1,3 +1,11 @@
+---
+title: "Learning Agile Soccer Skills for a Bipedal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-13653/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning
 
 Bibliographic record for Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tuomas Haarnoja, Ben Moran, Guy Lever, Sandy H. Huang, Dhruva Tirumala, Jan Hump
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2304-13653/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2304-13653/citation.csl.json
+
+```bibtex
+@misc{arxiv_2304_13653,
+  title = {{Learning Agile Soccer Skills for a Bipedal Robot with Deep Reinforcement Learning}},
+  author = {{Tuomas Haarnoja} and {Ben Moran} and {Guy Lever} and {Sandy H. Huang} and {Dhruva Tirumala} and {Jan Humplik} and {Markus Wulfmeier} and {Saran Tunyasuvunakool} and {Noah Y. Siegel} and {Roland Hafner} and {Michael Bloesch} and {Kristian Hartikainen} and {Arunkumar Byravan} and {Leonard Hasenclever} and {Yuval Tassa} and {Fereshteh Sadeghi} and {Nathan Batchelor} and {Federico Casarini} and {Stefano Saliceti} and {Charles Game} and {Neil Sreendra} and {Kushal Patel} and {Marlon Gwira} and {Andrea Huber} and {Nicole Hurley} and {Francesco Nori} and {Raia Hadsell} and {Nicolas Heess}},
+  year = {2023},
+  eprint = {2304.13653v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2304.13653v2},
+  note = {First published: 2023-04-26; Recorded arXiv version: v2; Recorded version updated: 2024-04-11T09:50:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

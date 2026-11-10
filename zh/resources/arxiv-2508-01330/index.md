@@ -1,3 +1,11 @@
+---
+title: "NaturalGAIA: A Verifiable Benchmark and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-01330/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # NaturalGAIA: A Verifiable Benchmark and Hierarchical Framework for Long-Horizon GUI Tasks
 
 NaturalGAIA 根据人类交互意图构建可验证的长程 GUI 任务，并区分任务的因果结构与文字描述。其 LightManus-Jarvis 框架将动态规划和上下文管理，与基于界面视觉及结构信息的执行分开。
@@ -27,6 +35,18 @@ Zihan Zheng, Tianle Cui, Taoran Wang, Fengtao Wang, Jiahui Pan, Lewei He, Qiangl
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-01330/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-01330/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_01330,
+  title = {{NaturalGAIA: A Verifiable Benchmark and Hierarchical Framework for Long-Horizon GUI Tasks}},
+  author = {{Zihan Zheng} and {Tianle Cui} and {Taoran Wang} and {Fengtao Wang} and {Jiahui Pan} and {Lewei He} and {Qianglong Chen}},
+  year = {2025},
+  eprint = {2508.01330v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.01330v4},
+  note = {First published: 2025-08-02; Recorded arXiv version: v4; Recorded version updated: 2026-04-20T02:44:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

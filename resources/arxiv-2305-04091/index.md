@@ -1,3 +1,11 @@
+---
+title: "Plan-and-Solve Prompting: Improving Zero-Shot… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-04091/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Plan-and-Solve Prompting: Improving Zero-Shot Chain-of-Thought Reasoning by Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

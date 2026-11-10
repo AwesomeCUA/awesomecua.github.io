@@ -1,3 +1,11 @@
+---
+title: "Web-Shepherd: Advancing PRMs for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-15277/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Web-Shepherd: Advancing PRMs for Reinforcing Web Agents
 
 Web-Shepherd 是评估网页导航轨迹各步骤的过程奖励模型；工作构建了含检查清单的 40,000 对步骤级偏好数据及独立的奖励模型比较基准，并评估其在 WebArena-lite 导航中的验证作用。
@@ -27,6 +35,18 @@ Hyungjoo Chae, Sunghwan Kim, Junhee Cho, Seungone Kim, Seungjun Moon, Gyeom Hwan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-15277/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-15277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_15277,
+  title = {{Web-Shepherd: Advancing PRMs for Reinforcing Web Agents}},
+  author = {{Hyungjoo Chae} and {Sunghwan Kim} and {Junhee Cho} and {Seungone Kim} and {Seungjun Moon} and {Gyeom Hwangbo} and {Dongha Lim} and {Minjin Kim} and {Yeonjun Hwang} and {Minju Gwak} and {Dongwook Choi} and {Minseok Kang} and {Gwanhoon Im} and {ByeongUng Cho} and {Hyojun Kim} and {Jun Hee Han} and {Taeyoon Kwon} and {Minju Kim} and {Beong-woo Kwak} and {Dongjin Kang} and {Jinyoung Yeo}},
+  year = {2025},
+  eprint = {2505.15277v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.15277v2},
+  note = {First published: 2025-05-21; Recorded arXiv version: v2; Recorded version updated: 2025-11-25T21:34:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Yad (يد) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-holistis-al-yad/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Yad (يد)
 
 Self-hostable, privacy-first local AI browser automation agent and Chrome extension.

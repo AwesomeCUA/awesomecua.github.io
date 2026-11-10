@@ -1,3 +1,11 @@
+---
+title: "Browser Run | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a57a63693c89915903f1/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Browser Run
 
 Browser Run hosts headless Chrome sessions for browser automation and agent browsing, with Playwright, Puppeteer, CDP and MCP integration options.

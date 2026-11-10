@@ -1,3 +1,11 @@
+---
+title: "DeskSwarm | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ahmedvnabil-deskswarm/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # DeskSwarm
 
 Self-hosted fleet manager for provisioning and dispatching natural-language tasks across parallel XFCE Linux desktop sandboxes.

@@ -1,3 +1,11 @@
+---
+title: "VisualMRC: Machine Reading Comprehension on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2101-11272/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # VisualMRC: Machine Reading Comprehension on Document Images
 
 Bibliographic record for VisualMRC: Machine Reading Comprehension on Document Images. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ryota Tanaka, Kyosuke Nishida, Sen Yoshida
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2101-11272/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2101-11272/citation.csl.json
+
+```bibtex
+@misc{arxiv_2101_11272,
+  title = {{VisualMRC: Machine Reading Comprehension on Document Images}},
+  author = {{Ryota Tanaka} and {Kyosuke Nishida} and {Sen Yoshida}},
+  year = {2021},
+  eprint = {2101.11272v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2101.11272v2},
+  note = {First published: 2021-01-27; Recorded arXiv version: v2; Recorded version updated: 2021-05-10T08:13:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

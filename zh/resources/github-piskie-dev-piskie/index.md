@@ -1,3 +1,11 @@
+---
+title: "Piskie · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-piskie-dev-piskie/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Piskie
 
 面向真实网页的桌面 AI 智能体，内置具备反检测功能的指纹浏览器。

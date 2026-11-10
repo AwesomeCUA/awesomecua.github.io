@@ -1,3 +1,11 @@
+---
+title: "chatgpt-desktop-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cantbeblank96-chatgpt-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # chatgpt-desktop-mcp
 
 Model Context Protocol server exposing the official Ubuntu/Linux ChatGPT Desktop app via 6 AT-SPI2 accessibility tools.

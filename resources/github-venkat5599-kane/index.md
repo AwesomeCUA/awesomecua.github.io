@@ -1,3 +1,11 @@
+---
+title: "Kane | AwesomeCUA"
+url: https://awesomecua.com/resources/github-venkat5599-kane/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Kane
 
 Plain-English browser verification harness for AI-built web applications that reports UI failures back to coding agents.

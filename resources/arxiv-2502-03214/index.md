@@ -1,3 +1,11 @@
+---
+title: "iVISPAR -- An Interactive Visual-Spatial… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-03214/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # iVISPAR -- An Interactive Visual-Spatial Reasoning Benchmark for VLMs
 
 Status: excluded from the active CUA catalog after scope review.

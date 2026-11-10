@@ -1,3 +1,11 @@
+---
+title: "computer-use-mcp-gateway | AwesomeCUA"
+url: https://awesomecua.com/resources/github-git-ksk-computer-use-mcp-gateway/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # computer-use-mcp-gateway
 
 Remote Model Context Protocol gateway for routing agent tool calls to computer-use backends such as Cua Driver.

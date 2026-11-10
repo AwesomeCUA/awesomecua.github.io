@@ -1,3 +1,11 @@
+---
+title: "Computer Use Data Collection | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bobcoi03-computeruse-data-collection/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Computer Use Data Collection
 
 Computer Use Data Collection is a desktop recorder that captures synchronized screenshots, mouse clicks, and keystrokes for training CUA models.

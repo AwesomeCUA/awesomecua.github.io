@@ -1,3 +1,11 @@
+---
+title: "Holo-3.1-35B-A3B-NVFP4 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-aeffabf23c16f8cf2139/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Holo-3.1-35B-A3B-NVFP4
 
 Holo-3.1-35B-A3B-NVFP4 是面向网页、桌面和移动端任务的量化计算机使用视觉语言模型权重，支持函数调用。

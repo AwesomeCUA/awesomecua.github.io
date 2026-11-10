@@ -1,3 +1,11 @@
+---
+title: "invisible_selenium | AwesomeCUA"
+url: https://awesomecua.com/resources/github-feder-cr-invisible-selenium/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # invisible_selenium
 
 A Python package with Selenium's webdriver API that drives an anti-detect Firefox without geckodriver, setting the browser fingerprint inside the engine and moving the mouse along humanized paths.

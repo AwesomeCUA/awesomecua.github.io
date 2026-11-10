@@ -1,3 +1,11 @@
+---
+title: "Praefectus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tschk-praefectus/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Praefectus
 
 Policy-neutral Rust library and JSON CLI for host-authorized background computer-use execution.

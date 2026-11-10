@@ -1,3 +1,11 @@
+---
+title: "MMSearch-Plus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # MMSearch-Plus
 
 A benchmark of 311 visual reasoning tasks for multimodal browsing agents, requiring iterative image and text retrieval. The repository links the dataset and provides a loading helper.

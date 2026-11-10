@@ -1,3 +1,11 @@
+---
+title: "Towards Understanding Visual Grounding in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-10345/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Towards Understanding Visual Grounding in Visual Language Models
 
 Bibliographic record for Towards Understanding Visual Grounding in Visual Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Georgios Pantazopoulos, Eda B. Özyiğit
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-10345/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-10345/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_10345,
+  title = {{Towards Understanding Visual Grounding in Visual Language Models}},
+  author = {{Georgios Pantazopoulos} and {Eda B. Özyiğit}},
+  year = {2025},
+  eprint = {2509.10345v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.10345v2},
+  note = {First published: 2025-09-12; Recorded arXiv version: v2; Recorded version updated: 2025-09-15T08:46:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

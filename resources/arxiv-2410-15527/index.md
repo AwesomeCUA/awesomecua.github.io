@@ -1,3 +1,11 @@
+---
+title: "Who Puts the \"Social\" in \"Social Computing\"?… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-15527/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Who Puts the "Social" in "Social Computing"?: Using A Neurodiversity Framing to Review Social Computing Research
 
 Status: excluded from the active CUA catalog after scope review.

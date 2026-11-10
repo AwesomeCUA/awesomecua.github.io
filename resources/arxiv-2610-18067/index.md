@@ -1,3 +1,11 @@
+---
+title: "WorkRover: Scaling Long-Horizon Cowork Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-18067/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution
 
 Synthesizes resettable workspaces with files, application observations and skills; repairs environment incompatibilities and trains long-task agents using verifier-linked turn credit.
@@ -26,6 +34,18 @@ Hang He, Linting Wang, Guanming Liu, Bo Mao, Jinxiu Liu, Yiran Suo, Maosen Zhou,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-18067/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-18067/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_18067,
+  title = {{WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution}},
+  author = {{Hang He} and {Linting Wang} and {Guanming Liu} and {Bo Mao} and {Jinxiu Liu} and {Yiran Suo} and {Maosen Zhou} and {Zhiheng Xi} and {Guanting Dong} and {Zhou Shao} and {Rui Zheng} and {Jie Zhou} and {Chengcheng Wan} and {Tao Gui} and {Qi Zhang} and {Xipeng Qiu} and {Xuanjing Huang}},
+  year = {2026},
+  eprint = {2610.18067v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.18067v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T09:52:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

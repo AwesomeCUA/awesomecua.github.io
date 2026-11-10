@@ -1,3 +1,11 @@
+---
+title: "OneRef: Unified One-tower Expression… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-08021/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling
 
 Bibliographic record for OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Linhui Xiao, Xiaoshan Yang, Fang Peng, Yaowei Wang, Changsheng Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-08021/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-08021/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_08021,
+  title = {{OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling}},
+  author = {{Linhui Xiao} and {Xiaoshan Yang} and {Fang Peng} and {Yaowei Wang} and {Changsheng Xu}},
+  year = {2024},
+  eprint = {2410.08021v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.08021v2},
+  note = {First published: 2024-10-10; Recorded arXiv version: v2; Recorded version updated: 2024-10-25T16:25:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

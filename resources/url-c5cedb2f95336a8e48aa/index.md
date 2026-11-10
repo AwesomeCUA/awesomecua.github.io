@@ -1,3 +1,11 @@
+---
+title: "asil-qwen35-9b-rl | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c5cedb2f95336a8e48aa/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # asil-qwen35-9b-rl
 
 ASIL RL checkpoint of Qwen3.5-9B for operating desktop applications from JSON state observations with semantic actions written as code, trained on 320 task prompts after SFT.

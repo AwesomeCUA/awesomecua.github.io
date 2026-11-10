@@ -1,3 +1,11 @@
+---
+title: "Clearcote Browser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-clearcotelabs-clearcote-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Clearcote Browser
 
 开源隐身 Chromium 浏览器，在引擎层伪装指纹，设计为 AI 网页智能体的即插即用运行时。

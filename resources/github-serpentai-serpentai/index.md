@@ -1,3 +1,11 @@
+---
+title: "Serpent.AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-serpentai-serpentai/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Serpent.AI
 
 A Python framework for building agents that interact with native video games, using plugins and support modules to turn games into research environments.

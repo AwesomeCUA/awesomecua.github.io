@@ -1,3 +1,11 @@
+---
+title: "cmux | AwesomeCUA"
+url: https://awesomecua.com/resources/github-manaflow-ai-cmux/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # cmux
 
 A macOS terminal and workspace app with a scriptable browser that lets agents inspect page accessibility data, click elements, fill forms and run JavaScript.

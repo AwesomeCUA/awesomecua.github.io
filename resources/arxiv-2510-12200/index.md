@@ -1,3 +1,11 @@
+---
+title: "HackWorld: Evaluating Computer-Use Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-12200/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities
 
 Introduces HackWorld for evaluating visual computer-use agents in a capture-the-flag collection of web applications. The benchmark examines interface navigation and multistep planning during vulnerability discovery and exploitation tasks.
@@ -26,6 +34,18 @@ Xiaoxue Ren, Penghao Jiang, Kaixin Li, Zhiyong Huang, Xiaoning Du, Jiaojiao Jian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-12200/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-12200/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_12200,
+  title = {{HackWorld: Evaluating Computer-Use Agents on Exploiting Web Application Vulnerabilities}},
+  author = {{Xiaoxue Ren} and {Penghao Jiang} and {Kaixin Li} and {Zhiyong Huang} and {Xiaoning Du} and {Jiaojiao Jiang} and {Zhenchang Xing} and {Jiamou Sun} and {Terry Yue Zhuo}},
+  year = {2025},
+  eprint = {2510.12200v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.12200v1},
+  note = {First published: 2025-10-14; Recorded arXiv version: v1; Recorded version updated: 2025-10-14T06:52:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

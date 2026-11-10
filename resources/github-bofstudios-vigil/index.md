@@ -1,3 +1,11 @@
+---
+title: "Vigil | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bofstudios-vigil/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Vigil
 
 Native C# Windows desktop AI assistant invoked by voice wake-word or hotkey to execute system and GUI tasks.

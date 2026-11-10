@@ -1,3 +1,11 @@
+---
+title: "Amazon Music MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shadowsdistant-amazon-music-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Amazon Music MCP Server
 
 Model Context Protocol server for searching and controlling Amazon Music playback from Claude Desktop.

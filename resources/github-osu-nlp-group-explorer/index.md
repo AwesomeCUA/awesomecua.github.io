@@ -1,3 +1,11 @@
+---
+title: "Explorer (framework) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-explorer/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Explorer
 
 Explorer synthesizes large-scale multimodal web trajectories through autonomous bottom-up web exploration for training GUI web agents.

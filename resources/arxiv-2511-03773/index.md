@@ -1,3 +1,11 @@
+---
+title: "Scaling Agent Learning via Experience Synthesis | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-03773/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Scaling Agent Learning via Experience Synthesis
 
 DreamGym synthesizes agent experiences with a reasoning-based environment model for online RL; its evaluations include the web task setting WebArena.
@@ -26,6 +34,18 @@ Zhaorun Chen, Zhuokai Zhao, Kai Zhang, Bo Liu, Qi Qi, Yifan Wu, Tarun Kalluri, S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-03773/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-03773/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_03773,
+  title = {{Scaling Agent Learning via Experience Synthesis}},
+  author = {{Zhaorun Chen} and {Zhuokai Zhao} and {Kai Zhang} and {Bo Liu} and {Qi Qi} and {Yifan Wu} and {Tarun Kalluri} and {Sara Cao} and {Yuanhao Xiong} and {Haibo Tong} and {Huaxiu Yao} and {Hengduo Li} and {Jiacheng Zhu} and {Xian Li} and {Dawn Song} and {Bo Li} and {Jason Weston} and {Dat Huynh}},
+  year = {2025},
+  eprint = {2511.03773v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.03773v2},
+  note = {First published: 2025-11-05; Recorded arXiv version: v2; Recorded version updated: 2025-11-10T05:02:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

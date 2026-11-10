@@ -1,3 +1,11 @@
+---
+title: "Agent Friday | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mahsaanullah-agent-friday/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Agent Friday
 
 Autonomous OS-level desktop assistant powered by LangGraph for multi-step system and GUI workflows.

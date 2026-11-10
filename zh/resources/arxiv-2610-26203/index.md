@@ -1,3 +1,11 @@
+---
+title: "Focused Omni-Modal GUI Agents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-26203/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # Focused Omni-Modal GUI Agents
 
 FocusGUI 学习为截图、音频、视频和交互上下文通道分配逐步变化的权重，将紧凑的残差信息注入冻结的解码器，同时保留其输入。
@@ -27,6 +35,18 @@ Fuyao Zhang, Wenwen He, Jiaming Zhang, Yurong Hao, Xuan Wang, Guowei Guan, Che W
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-26203/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-26203/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_26203,
+  title = {{Focused Omni-Modal GUI Agents}},
+  author = {{Fuyao Zhang} and {Wenwen He} and {Jiaming Zhang} and {Yurong Hao} and {Xuan Wang} and {Guowei Guan} and {Che Wang} and {Longtao Huang} and {Wei Yang Bryan Lim}},
+  year = {2026},
+  eprint = {2610.26203v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.26203v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T11:30:48Z.}
+}
+```
 
 ## arXiv 版本记录
 

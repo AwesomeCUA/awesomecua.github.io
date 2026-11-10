@@ -1,3 +1,11 @@
+---
+title: "AgentProg: Empowering Long-Horizon GUI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-10371/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management
 
 Introduces AgentProg, organizing mobile-agent interaction history as a program with variables and control flow to decide what context to retain. A global belief state handles partial observability, with evaluation on AndroidWorld and extended long-horizon tasks.
@@ -26,6 +34,18 @@ Shizuo Tian, Hao Wen, Yuxuan Chen, Jiacheng Liu, Shanhui Zhao, Guohong Liu, Ju R
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-10371/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-10371/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_10371,
+  title = {{AgentProg: Empowering Long-Horizon GUI Agents with Program-Guided Context Management}},
+  author = {{Shizuo Tian} and {Hao Wen} and {Yuxuan Chen} and {Jiacheng Liu} and {Shanhui Zhao} and {Guohong Liu} and {Ju Ren} and {Yunxin Liu} and {Yuanchun Li}},
+  year = {2025},
+  eprint = {2512.10371v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.10371v2},
+  note = {First published: 2025-12-11; Recorded arXiv version: v2; Recorded version updated: 2026-05-08T09:40:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Kite: Building Conversational Bots from… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-901ca855640457dfe2f1/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Kite: Building Conversational Bots from Mobile Apps
 
 Derives task graphs from demonstrated Android app interactions and layers a conversational question-answer interface over those graphs. The evaluation examines task-model extraction and developer use of the resulting bot templates.
@@ -26,6 +34,19 @@ Toby Jia-Jun Li, Oriana Riva
 
 - BibTeX: https://awesomecua.com/resources/url-901ca855640457dfe2f1/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-901ca855640457dfe2f1/citation.csl.json
+
+```bibtex
+@inproceedings{cua_93605b13ec414a1e08029b6d,
+  title = {{Kite: Building Conversational Bots from Mobile Apps}},
+  author = {{Toby Jia-Jun Li} and {Oriana Riva}},
+  year = {2018},
+  month = jun,
+  booktitle = {The 16th Annual International Conference on Mobile Systems, Applications, and Services},
+  doi = {10.1145/3210240.3210339},
+  url = {https://doi.org/10.1145/3210240.3210339},
+  note = {Publication date: 2018-06.}
+}
+```
 
 ## Publication record
 

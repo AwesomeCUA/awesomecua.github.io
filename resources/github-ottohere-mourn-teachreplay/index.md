@@ -1,3 +1,11 @@
+---
+title: "TeachReplay | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ottohere-mourn-teachreplay/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # TeachReplay
 
 TeachReplay is a harness-agnostic teach-by-demonstration engine that records human UI workflows and compiles them into parameterized skills.

@@ -1,3 +1,11 @@
+---
+title: "eyehands · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shameindemgg-eyehands/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # eyehands
 
 面向 Windows 的本地 HTTP 服务器，为计算机使用智能体提供低延迟 UI Automation 检查和输入执行。

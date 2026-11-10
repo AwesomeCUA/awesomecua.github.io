@@ -1,3 +1,11 @@
+---
+title: "DSH QA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zseven-w-dsh-qa/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # DSH QA
 
 DeepSeek Harness QA plugin where an autonomous browser agent explores live web applications to discover functional and UX bugs.

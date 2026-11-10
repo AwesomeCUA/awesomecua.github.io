@@ -1,3 +1,11 @@
+---
+title: "Insights into classical irreversible… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0810-3710/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Insights into classical irreversible computation using quantum information concepts
 
 Status: excluded from the active CUA catalog after scope review.

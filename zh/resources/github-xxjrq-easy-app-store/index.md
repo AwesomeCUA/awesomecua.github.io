@@ -1,3 +1,11 @@
+---
+title: "easyAppStore · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xxjrq-easy-app-store/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # easyAppStore
 
 easyAppStore 是一项智能体技能，用于准备 iOS 版本，并通过已登录的 Chromium 浏览器完成 App Store Connect 提交流程。

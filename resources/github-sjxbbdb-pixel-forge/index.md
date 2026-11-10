@@ -1,3 +1,11 @@
+---
+title: "pixel-forge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sjxbbdb-pixel-forge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # pixel-forge
 
 Desktop automation toolkit providing screenshot capture, OCR, pixel-diff change detection, and mouse/keyboard actions for AI agents.

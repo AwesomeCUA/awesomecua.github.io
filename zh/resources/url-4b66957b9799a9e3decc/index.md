@@ -1,3 +1,11 @@
+---
+title: "jadechoghari/Ferret-UI-Llama8b · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4b66957b9799a9e3decc/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # jadechoghari/Ferret-UI-Llama8b
 
 Ferret-UI 的 Llama-3-8B 版本，可理解界面截图、回答选定区域的问题，并用边界框定位界面元素。

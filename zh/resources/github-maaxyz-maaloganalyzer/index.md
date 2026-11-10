@@ -1,3 +1,11 @@
+---
+title: "MaaLogAnalyzer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maaxyz-maaloganalyzer/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MaaLogAnalyzer
 
 一个 MaaFramework 应用日志的可视化分析工具，展示任务执行过程及识别与动作详情，支持关键字和正则搜索、带回放的 ELK 节点流程图以及运行统计。

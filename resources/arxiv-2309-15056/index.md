@@ -1,3 +1,11 @@
+---
+title: "QUILT: Effective Multi-Class Classification… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-15056/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # QUILT: Effective Multi-Class Classification on Quantum Computers Using an Ensemble of Diverse Quantum Classifiers
 
 Status: excluded from the active CUA catalog after scope review.

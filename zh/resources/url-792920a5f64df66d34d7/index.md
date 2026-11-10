@@ -1,3 +1,11 @@
+---
+title: "ExACT-VWA · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-792920a5f64df66d34d7/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # ExACT-VWA
 
 在 VisualWebArena 上收集的经后处理的 R-MCTS 与 GPT-4o 智能体轨迹，以上下文与回复配对存储，并附领域和任务元数据；其中一部分用于微调 GPT-4o。

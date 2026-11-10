@@ -1,3 +1,11 @@
+---
+title: "ScreenWatch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-abnsapkota001-screenwatch/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ScreenWatch
 
 用于检测桌面应用中持续存在的视觉状态变化和 UI 稳定状态的 Python 库。

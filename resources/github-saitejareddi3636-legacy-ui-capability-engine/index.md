@@ -1,3 +1,11 @@
+---
+title: "Legacy UI Capability Engine | AwesomeCUA"
+url: https://awesomecua.com/resources/github-saitejareddi3636-legacy-ui-capability-engine/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Legacy UI Capability Engine
 
 Learns a legacy browser workflow once with an LLM and compiles it into a verified, reusable capability module.

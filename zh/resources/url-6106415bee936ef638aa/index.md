@@ -1,3 +1,11 @@
+---
+title: "YOLOv11l — UI Groups Detection · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6106415bee936ef638aa/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # YOLOv11l — UI Groups Detection
 
 这是一个经过微调的 YOLO11 模型，可在 macOS 应用截图中检测工具栏、标签组等界面分组，供无障碍分析使用。

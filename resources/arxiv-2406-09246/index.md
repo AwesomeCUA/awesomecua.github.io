@@ -1,3 +1,11 @@
+---
+title: "OpenVLA: An Open-Source… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-09246/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # OpenVLA: An Open-Source Vision-Language-Action Model
 
 Bibliographic record for OpenVLA: An Open-Source Vision-Language-Action Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Moo Jin Kim, Karl Pertsch, Siddharth Karamcheti, Ted Xiao, Ashwin Balakrishna, S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-09246/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-09246/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_09246,
+  title = {{OpenVLA: An Open-Source Vision-Language-Action Model}},
+  author = {{Moo Jin Kim} and {Karl Pertsch} and {Siddharth Karamcheti} and {Ted Xiao} and {Ashwin Balakrishna} and {Suraj Nair} and {Rafael Rafailov} and {Ethan Foster} and {Grace Lam} and {Pannag Sanketi} and {Quan Vuong} and {Thomas Kollar} and {Benjamin Burchfiel} and {Russ Tedrake} and {Dorsa Sadigh} and {Sergey Levine} and {Percy Liang} and {Chelsea Finn}},
+  year = {2024},
+  eprint = {2406.09246v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.09246v3},
+  note = {First published: 2024-06-13; Recorded arXiv version: v3; Recorded version updated: 2024-09-05T19:46:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

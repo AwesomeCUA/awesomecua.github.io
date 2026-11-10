@@ -1,3 +1,11 @@
+---
+title: "Cekura | AwesomeCUA"
+url: https://awesomecua.com/resources/url-108b77e28d55eb662bf5/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Cekura
 
 Service whose browser agent navigates a customer's SaaS product to check whether its documentation is still accurate, then reports what to fix with summaries, session replays and LLM and browser action traces.

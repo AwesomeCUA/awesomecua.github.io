@@ -1,3 +1,11 @@
+---
+title: "Ommatix · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yosoyepa-ommatix/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Ommatix
 
 Ommatix 是增量式空间索引感知引擎，可跨桌面画面帧跟踪稳定的 UI 元素 ID 和状态差异。

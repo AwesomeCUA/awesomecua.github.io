@@ -1,3 +1,11 @@
+---
+title: "AgentDoG: A Diagnostic Guardrail Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-18491/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "WMA Web Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kyle8581-wma-agents/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # WMA Web Agent
 
 该网页智能体利用训练得到的世界模型预测操作可能引发的重要页面变化，再选择行动。仓库提供轨迹处理和推理代码。

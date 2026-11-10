@@ -1,3 +1,11 @@
+---
+title: "An In-depth Look at Gemini's Language Abilities | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-11444/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # An In-depth Look at Gemini's Language Abilities
 
 Bibliographic record for An In-depth Look at Gemini's Language Abilities. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Syeda Nahida Akter, Zichun Yu, Aashiq Muhamed, Tianyue Ou, Alex Bäuerle, Ángel
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-11444/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-11444/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_11444,
+  title = {{An In-depth Look at Gemini's Language Abilities}},
+  author = {{Syeda Nahida Akter} and {Zichun Yu} and {Aashiq Muhamed} and {Tianyue Ou} and {Alex Bäuerle} and {Ángel Alexander Cabrera} and {Krish Dholakia} and {Chenyan Xiong} and {Graham Neubig}},
+  year = {2023},
+  eprint = {2312.11444v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.11444v2},
+  note = {First published: 2023-12-18; Recorded arXiv version: v2; Recorded version updated: 2023-12-24T12:25:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

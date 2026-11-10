@@ -1,3 +1,11 @@
+---
+title: "Upsonic (GPT Computer Assistant) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-onuratakan-gpt-computer-assistant/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Upsonic (GPT Computer Assistant)
 
 Upsonic（原名 GPT Computer Assistant）是一个支持 MCP 和桌面屏幕及输入自动化的 Python 智能体框架。

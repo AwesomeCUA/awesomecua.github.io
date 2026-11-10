@@ -1,3 +1,11 @@
+---
+title: "Windows MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sbroenne-mcp-windows/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Windows MCP Server
 
 一个 MCP 服务器和命令行工具，让 AI 智能体查看 Windows 应用控件并执行桌面操作，也为视觉任务提供截图、鼠标和键盘功能。

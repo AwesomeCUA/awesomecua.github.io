@@ -1,3 +1,11 @@
+---
+title: "Click-100k | AwesomeCUA"
+url: https://awesomecua.com/resources/url-bf847949766b2b257d1c/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Click-100k
 
 101,314 screenshot–instruction pairs with target boxes for click grounding, filtered from public GUI grounding sets and tutorial-video frames, packaged with EasyR1 point-prediction prompts.

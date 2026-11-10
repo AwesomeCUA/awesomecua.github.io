@@ -1,3 +1,11 @@
+---
+title: "InternVL3-1B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-6d5151d298f88e2602bb/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3-1B
 
 InternVL3-1B is a multimodal model whose training includes GUI operation examples; its model card also presents a GUI grounding evaluation.

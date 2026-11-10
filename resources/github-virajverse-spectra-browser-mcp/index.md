@@ -1,3 +1,11 @@
+---
+title: "SpectraBrowser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-virajverse-spectra-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # SpectraBrowser MCP
 
 Autonomous real-browser interaction engine and Chrome extension bridge exposing 99 MCP tools to AI agents.

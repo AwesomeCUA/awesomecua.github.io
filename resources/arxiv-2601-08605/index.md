@@ -1,3 +1,11 @@
+---
+title: "ExpSeek: Self-Triggered Experience Seeking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-08605/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ExpSeek: Self-Triggered Experience Seeking for Web Agents
 
 ExpSeek uses step-level entropy signals to decide when a web agent should request experience-based guidance. It supplies guidance tailored to the current step and evaluates the intervention across web-agent benchmarks.
@@ -26,6 +34,18 @@ Wenyuan Zhang, Xinghua Zhang, Haiyang Yu, Shuaiyi Nie, Bingli Wu, Juwei Yue, Tin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-08605/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-08605/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_08605,
+  title = {{ExpSeek: Self-Triggered Experience Seeking for Web Agents}},
+  author = {{Wenyuan Zhang} and {Xinghua Zhang} and {Haiyang Yu} and {Shuaiyi Nie} and {Bingli Wu} and {Juwei Yue} and {Tingwen Liu} and {Yongbin Li}},
+  year = {2026},
+  eprint = {2601.08605v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.08605v2},
+  note = {First published: 2026-01-13; Recorded arXiv version: v2; Recorded version updated: 2026-04-15T14:59:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

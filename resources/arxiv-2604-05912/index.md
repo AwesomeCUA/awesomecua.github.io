@@ -1,3 +1,11 @@
+---
+title: "FrontierFinance: A Long-Horizon Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-05912/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # FrontierFinance: A Long-Horizon Computer-Use Benchmark of Real-World Financial Tasks
 
 Bibliographic record for FrontierFinance: A Long-Horizon Computer-Use Benchmark of Real-World Financial Tasks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Michael Krumdick, Varshini Reddy, Shivani Chaudhary, William Day, Maarij Ahmed, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-05912/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-05912/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_05912,
+  title = {{FrontierFinance: A Long-Horizon Computer-Use Benchmark of Real-World Financial Tasks}},
+  author = {{Michael Krumdick} and {Varshini Reddy} and {Shivani Chaudhary} and {William Day} and {Maarij Ahmed} and {Hayan Haqqi} and {Muhammad Ahsen Fahim} and {Hanzallah Amjad} and {Ahmad Orakzai} and {Aqsa Gul} and {Chris Tanner}},
+  year = {2026},
+  eprint = {2604.05912v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.05912v1},
+  note = {First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T14:15:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

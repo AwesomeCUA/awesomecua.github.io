@@ -1,3 +1,11 @@
+---
+title: "Language-Conditioned Imitation Learning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2010-12083/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Language-Conditioned Imitation Learning for Robot Manipulation Tasks
 
 Status: excluded from the active CUA catalog after scope review.

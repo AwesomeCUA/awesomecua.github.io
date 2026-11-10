@@ -1,3 +1,11 @@
+---
+title: "Behavioral Cloning from Observation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1805-01954/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Behavioral Cloning from Observation
 
 Status: excluded from the active CUA catalog after scope review.

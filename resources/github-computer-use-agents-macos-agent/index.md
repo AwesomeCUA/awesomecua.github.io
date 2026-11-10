@@ -1,3 +1,11 @@
+---
+title: "MacOS Agent (BIGAI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-computer-use-agents-macos-agent/
+updated: 2026-10-19
+type: agent
+lang: en
+---
+
 # MacOS Agent (BIGAI)
 
 macOS agent in which a smolagents code agent dispatches per-application sub-agents that read accessibility trees and window screenshots and act through pyautogui mouse and keyboard input.

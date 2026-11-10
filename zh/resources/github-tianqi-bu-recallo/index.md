@@ -1,3 +1,11 @@
+---
+title: "Recallo · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tianqi-bu-recallo/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Recallo
 
 Recallo 是以本地为优先的浏览器智能体，使用持久化 SQLite 情节记忆保存跨浏览会话的信息。

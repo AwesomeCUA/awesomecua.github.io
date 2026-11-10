@@ -1,3 +1,11 @@
+---
+title: "jarvis-eyes-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-harshil1502-jarvis-eyes-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # jarvis-eyes-mcp
 
 macOS-native Model Context Protocol server for low-latency desktop awareness combining Accessibility tree extraction and screenshots.

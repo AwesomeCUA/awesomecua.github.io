@@ -1,3 +1,11 @@
+---
+title: "DynamicGUIBench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-20fa95f00391bf965af2/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # DynamicGUIBench
 
 Desktop benchmark of 500 OSWorld-style tasks whose interfaces change between observations through scripted pop-ups, timed edits and shifting lists, with bilingual instructions and end-state evaluators.

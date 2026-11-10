@@ -1,3 +1,11 @@
+---
+title: "TRACE: Trajectory-robust Admission with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-10297/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents
 
 TRACE orders screenshot evidence for monotonic visual-token reduction using layout priors, instruction relevance and feature novelty. Spatial token reserves and incremental KV contraction aim to preserve useful evidence for future GUI targets without repeatedly encoding retired frames.
@@ -26,6 +34,18 @@ Yuhao Wang, Mu Qiao, Xindong Zhang, Yunzhi Zhuge, Lei Zhang, Huchuan Lu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-10297/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-10297/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_10297,
+  title = {{TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents}},
+  author = {{Yuhao Wang} and {Mu Qiao} and {Xindong Zhang} and {Yunzhi Zhuge} and {Lei Zhang} and {Huchuan Lu}},
+  year = {2026},
+  eprint = {2609.10297v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.10297v1},
+  note = {First published: 2026-09-09; Recorded arXiv version: v1; Recorded version updated: 2026-09-09T15:12:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

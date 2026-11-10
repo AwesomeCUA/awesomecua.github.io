@@ -1,3 +1,11 @@
+---
+title: "Aevora | AwesomeCUA"
+url: https://awesomecua.com/resources/github-atluri0001-aevora/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Aevora
 
 Autonomous web agent that translates natural-language intent into multi-step browser actions.

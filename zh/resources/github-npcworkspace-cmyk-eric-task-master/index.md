@@ -1,3 +1,11 @@
+---
+title: "Eric Task Master · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-npcworkspace-cmyk-eric-task-master/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Eric Task Master
 
 持久运行的 Playwright 和 Chrome 任务执行器，可在发起任务的智能体会话退出后继续运行长期浏览器作业。

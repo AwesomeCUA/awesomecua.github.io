@@ -1,3 +1,11 @@
+---
+title: "PrivacyLens: Evaluating Privacy Norm… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-00138/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action
 
 Bibliographic record for PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yijia Shao, Tianshi Li, Weiyan Shi, Yanchen Liu, Diyi Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-00138/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-00138/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_00138,
+  title = {{PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action}},
+  author = {{Yijia Shao} and {Tianshi Li} and {Weiyan Shi} and {Yanchen Liu} and {Diyi Yang}},
+  year = {2024},
+  eprint = {2409.00138v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.00138v3},
+  note = {First published: 2024-08-29; Recorded arXiv version: v3; Recorded version updated: 2025-03-14T06:03:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

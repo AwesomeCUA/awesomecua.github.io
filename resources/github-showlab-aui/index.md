@@ -1,3 +1,11 @@
+---
+title: "Agent-friendly UI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-showlab-aui/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # Agent-friendly UI
 
 An evaluation and revision pipeline tests generated websites with computer-use agents, checks task completion against rules, and summarizes navigation failures.

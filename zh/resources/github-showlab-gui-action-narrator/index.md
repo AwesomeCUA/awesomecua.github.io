@@ -1,3 +1,11 @@
+---
+title: "GUI-Action Narrator · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-showlab-gui-action-narrator/
+updated: 2026-10-16
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Action Narrator
 
 用于描述 GUI 交互轨迹中操作的资源。

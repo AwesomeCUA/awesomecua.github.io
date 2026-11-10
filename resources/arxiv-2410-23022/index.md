@@ -1,3 +1,11 @@
+---
+title: "Online Intrinsic Rewards for Decision Making… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-23022/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Online Intrinsic Rewards for Decision Making Agents from Large Language Model Feedback
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "DevTools Lens MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aakcay5656-devtools-lens-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DevTools Lens MCP
 
 Chrome DevTools Model Context Protocol 服务器，向 AI 智能体开放控制台、网络、DOM 和性能检查功能。

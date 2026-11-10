@@ -1,3 +1,11 @@
+---
+title: "ESRL: Efficient Sampling-based Reinforcement… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-02223/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ESRL: Efficient Sampling-based Reinforcement Learning for Sequence Generation
 
 Bibliographic record for ESRL: Efficient Sampling-based Reinforcement Learning for Sequence Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chenglong Wang, Hang Zhou, Yimin Hu, Yifu Huo, Bei Li, Tongran Liu, Tong Xiao, J
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-02223/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-02223/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_02223,
+  title = {{ESRL: Efficient Sampling-based Reinforcement Learning for Sequence Generation}},
+  author = {{Chenglong Wang} and {Hang Zhou} and {Yimin Hu} and {Yifu Huo} and {Bei Li} and {Tongran Liu} and {Tong Xiao} and {Jingbo Zhu}},
+  year = {2023},
+  eprint = {2308.02223v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.02223v1},
+  note = {First published: 2023-08-04; Recorded arXiv version: v1; Recorded version updated: 2023-08-04T09:35:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

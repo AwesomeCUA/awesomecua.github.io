@@ -1,3 +1,11 @@
+---
+title: "Securing Computer-Use Agents: A Unified… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-07110/
+updated: 2026-11-06
+type: survey
+lang: en
+---
+
 # Securing Computer-Use Agents: A Unified Architecture-Lifecycle Framework for Deployment-Grounded Reliability
 
 Survey of computer-use agent reliability and security across browsers, desktops, and mobile apps, using architecture and lifecycle views to map failures and controls.
@@ -26,6 +34,18 @@ Zejian Chen, Zhanyuan Liu, Chaozhuo Li, Mengxiang Han, Songyang Liu, Litian Zhan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-07110/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-07110/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_07110,
+  title = {{Securing Computer-Use Agents: A Unified Architecture-Lifecycle Framework for Deployment-Grounded Reliability}},
+  author = {{Zejian Chen} and {Zhanyuan Liu} and {Chaozhuo Li} and {Mengxiang Han} and {Songyang Liu} and {Litian Zhang} and {Feng Gao} and {Yiming Hei} and {Xi Zhang}},
+  year = {2026},
+  eprint = {2605.07110v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.07110v1},
+  note = {First published: 2026-05-08; Recorded arXiv version: v1; Recorded version updated: 2026-05-08T01:38:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

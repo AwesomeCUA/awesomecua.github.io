@@ -1,3 +1,11 @@
+---
+title: "nnetnav-wa-qwen-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-511ba336435d406f3761/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # nnetnav-wa-qwen-7B
 
 Qwen-2.5-7B-Instruct fine-tuned on the NNetNav-WA WebArena trajectories, released by the Go-Browse project as its NNetNav-7B comparison model for WebArena web navigation.

@@ -1,3 +1,11 @@
+---
+title: "LearnAct · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lgy0404-learnact/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # LearnAct
 
 LearnAct 公开了用于 LearnGUI-Offline 上由演示引导的移动 GUI 智能体的推理和评估代码；仓库还描述了多智能体适配方法，并链接 LearnGUI 演示数据。

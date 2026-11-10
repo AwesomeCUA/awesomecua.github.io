@@ -1,3 +1,11 @@
+---
+title: "OpenJev-1.7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-24ec6c30e9bb9946c13f/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OpenJev-1.7B
 
 OpenJev-1.7B is a local decision model that scores typed options for browser agent steps, including the next operation and target element.

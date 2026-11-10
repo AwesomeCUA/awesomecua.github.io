@@ -1,3 +1,11 @@
+---
+title: "mobilerun-ios · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-droidrun-mobilerun-ios-releases/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # mobilerun-ios
 
 一个命令行桥接工具，将本地 iPhone 连接到 Mobilerun，以自然语言控制 iOS 设备，并以 macOS 和 Linux 二进制文件发布。

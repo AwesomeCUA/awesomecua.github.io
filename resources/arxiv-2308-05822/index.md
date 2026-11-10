@@ -1,3 +1,11 @@
+---
+title: "Encode-Store-Retrieve: Augmenting Human… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-05822/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Encode-Store-Retrieve: Augmenting Human Memory through Language-Encoded Egocentric Perception
 
 Status: excluded from the active CUA catalog after scope review.

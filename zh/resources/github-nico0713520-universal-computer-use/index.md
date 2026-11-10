@@ -1,3 +1,11 @@
+---
+title: "Universal Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nico0713520-universal-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Universal Computer Use
 
 轻量级、无需模型的 Model Context Protocol 插件，为多模态智能体提供原生 macOS 屏幕和输入控制。

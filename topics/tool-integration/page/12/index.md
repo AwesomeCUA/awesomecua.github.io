@@ -1,11 +1,17 @@
+---
+title: "Tool integration — computer-use…, page 12 | AwesomeCUA"
+url: https://awesomecua.com/topics/tool-integration/page/12/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Tool integration — computer-use research, page 12
 
 HTML page: https://awesomecua.com/topics/tool-integration/page/12/
 
 Full list: https://awesomecua.com/topics/tool-integration/index.md
 
-- [dsh-jiey-browser](https://awesomecua.com/resources/github-jiewaigongxing-dsh-jiey-browser/)
-- [dsh-live-loop](https://awesomecua.com/resources/github-powerrrrrrrr-dsh-live-loop/)
 - [dsh-llm-web-bridge](https://awesomecua.com/resources/github-huangyukaili1031-dsh-llm-web-bridge/)
 - [dsh-local-browser-search (dsh-search)](https://awesomecua.com/resources/github-yuanmingxue-dsh-search/)
 - [dsh-nuphus-mcp](https://awesomecua.com/resources/github-mrpulor-gh-dsh-nuphus-mcp/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/tool-integration/index.md
 - [FastHands](https://awesomecua.com/resources/github-tomaszteee-fasthands/)
 - [FastMCP Playwright Server](https://awesomecua.com/resources/github-ma-pony-mcp-playwright/)
 - [fearch](https://awesomecua.com/resources/github-funkyfunc-fearch/)
+- [Firecrawl](https://awesomecua.com/resources/github-firecrawl-firecrawl/)
+- [Firecrawl Agent-Browser Plugin](https://awesomecua.com/resources/github-firecrawl-agent-browser-plugin-firecrawl/)

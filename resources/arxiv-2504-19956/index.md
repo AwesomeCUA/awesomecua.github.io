@@ -1,3 +1,11 @@
+---
+title: "Securing Agentic AI: A Comprehensive Threat… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-19956/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents
 
 Bibliographic record for Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Vineeth Sai Narajala, Om Narayan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-19956/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-19956/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_19956,
+  title = {{Securing Agentic AI: A Comprehensive Threat Model and Mitigation Framework for Generative AI Agents}},
+  author = {{Vineeth Sai Narajala} and {Om Narayan}},
+  year = {2025},
+  eprint = {2504.19956v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.19956v2},
+  note = {First published: 2025-04-28; Recorded arXiv version: v2; Recorded version updated: 2025-05-02T18:42:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

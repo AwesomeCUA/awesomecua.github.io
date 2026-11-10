@@ -1,3 +1,11 @@
+---
+title: "Advancing Language Multi-Agent Learning with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-14496/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization
 
 Introduces CollabUIAgents, a multi-agent RL framework that assigns LLM-based process rewards to help agents generalize across interactive settings including mobile operations and web browsing.
@@ -26,6 +34,18 @@ Zhitao He, Zijun Liu, Peng Li, Yi R. Fung, Ming Yan, Ji Zhang, Fei Huang, Yang L
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-14496/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-14496/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_14496,
+  title = {{Advancing Language Multi-Agent Learning with Credit Re-Assignment for Interactive Environment Generalization}},
+  author = {{Zhitao He} and {Zijun Liu} and {Peng Li} and {Yi R. Fung} and {Ming Yan} and {Ji Zhang} and {Fei Huang} and {Yang Liu}},
+  year = {2025},
+  eprint = {2502.14496v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.14496v3},
+  note = {First published: 2025-02-20; Recorded arXiv version: v3; Recorded version updated: 2025-08-20T09:42:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Vadgr · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-montbrain-vadgr/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Vadgr
 
 Vadgr 通过命令行或手机应用在桌面电脑上运行智能体任务，并可借助屏幕截图和输入控制来自动操作应用。

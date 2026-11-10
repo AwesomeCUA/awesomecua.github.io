@@ -1,3 +1,11 @@
+---
+title: "agentboard | AwesomeCUA"
+url: https://awesomecua.com/resources/url-be5b952e5f0b4b7e4747/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # agentboard
 
 Evaluation data of the AgentBoard benchmark for multi-turn LLM agents: 9 tasks in embodied, game, web and tool settings, including WebShop and WebArena, with goals, subgoals and difficulty labels.

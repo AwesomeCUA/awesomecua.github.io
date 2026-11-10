@@ -1,3 +1,11 @@
+---
+title: "kalgebra-kai | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shiinahiiragi-kalgebra/
+updated: 2026-10-18
+type: infrastructure
+lang: en
+---
+
 # kalgebra-kai
 
 Modified KAlgebra build from ScienceBoard with a local HTTP server that reports variables and plotted 2D and 3D functions and can switch tabs or add calculations and plots, so the benchmark can check math tasks.

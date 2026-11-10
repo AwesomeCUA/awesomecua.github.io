@@ -1,3 +1,11 @@
+---
+title: "wayhand-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-timlai666-wayhand-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # wayhand-mcp
 
 本地 Model Context Protocol 服务器，使 Claude Code 和 Codex 能够观察并操作 GNOME Wayland 桌面。

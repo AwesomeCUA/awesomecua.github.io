@@ -1,3 +1,11 @@
+---
+title: "OSWorld GPT-4o-mini Benchmark Evaluation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-suraj-ranganath-osworld-gpt4o-mini-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # OSWorld GPT-4o-mini Benchmark Evaluation
 
 Evaluates GPT-4o-mini on OSWorld desktop automation tasks comparing screenshot-only, accessibility-tree, and Set-of-Mark observation modes.

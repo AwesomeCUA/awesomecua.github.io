@@ -1,3 +1,11 @@
+---
+title: "Magnitude | AwesomeCUA"
+url: https://awesomecua.com/resources/github-magnitudedev-browser-agent/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # Magnitude
 
 A TypeScript browser-agent framework in which a visually grounded model returns pixel coordinates for mouse and keyboard actions, with act and extract calls, a visual test runner and an MCP server.

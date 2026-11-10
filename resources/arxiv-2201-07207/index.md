@@ -1,3 +1,11 @@
+---
+title: "Language Models as Zero-Shot Planners… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2201-07207/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents
 
 Bibliographic record for Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenlong Huang, Pieter Abbeel, Deepak Pathak, Igor Mordatch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2201-07207/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2201-07207/citation.csl.json
+
+```bibtex
+@misc{arxiv_2201_07207,
+  title = {{Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents}},
+  author = {{Wenlong Huang} and {Pieter Abbeel} and {Deepak Pathak} and {Igor Mordatch}},
+  year = {2022},
+  eprint = {2201.07207v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2201.07207v2},
+  note = {First published: 2022-01-18; Recorded arXiv version: v2; Recorded version updated: 2022-03-08T06:47:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

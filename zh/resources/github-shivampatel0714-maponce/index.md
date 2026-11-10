@@ -1,3 +1,11 @@
+---
+title: "maponce · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shivampatel0714-maponce/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # maponce
 
 使用 LLM 对浏览器自动化流程进行一次映射或录制，随后通过 Playwright 确定性重放，无需调用 LLM。

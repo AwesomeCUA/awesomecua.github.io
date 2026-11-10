@@ -1,3 +1,11 @@
+---
+title: "browser-rs-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-maestrojeong-browser-rs-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # browser-rs-mcp
 
 轻量级、约 5.5MB、注重隐蔽性的 Rust 浏览器 MCP 服务器，允许多个 AI 智能体共享一个 Chrome 实例。

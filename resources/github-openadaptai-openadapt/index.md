@@ -1,3 +1,11 @@
+---
+title: "OpenAdapt | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # OpenAdapt
 
 Tools for learning and automating workflows from desktop demonstrations.

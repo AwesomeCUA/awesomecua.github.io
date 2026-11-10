@@ -1,3 +1,11 @@
+---
+title: "Unleashing the Power of Mobile Cloud… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1105-3232/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Unleashing the Power of Mobile Cloud Computing using ThinkAir
 
 Status: excluded from the active CUA catalog after scope review.

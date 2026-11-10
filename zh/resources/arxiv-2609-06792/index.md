@@ -1,3 +1,11 @@
+---
+title: "Improving Proficiency and Efficiency of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-06792/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Improving Proficiency and Efficiency of Android GUI Agents via Self-Generating Tool Actions
 
 DroidTool 通过提议、实现、测试和修复生成应用状态工具；关系测试关联工具的前置条件与效果，并评估这些工具加入 Android GUI 智能体后的表现。
@@ -27,6 +35,18 @@ Juyong Lee, Woogyeol Jin, Kimin Lee
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-06792/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-06792/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_06792,
+  title = {{Improving Proficiency and Efficiency of Android GUI Agents via Self-Generating Tool Actions}},
+  author = {{Juyong Lee} and {Woogyeol Jin} and {Kimin Lee}},
+  year = {2026},
+  eprint = {2609.06792v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.06792v1},
+  note = {First published: 2026-09-06; Recorded arXiv version: v1; Recorded version updated: 2026-09-06T19:22:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

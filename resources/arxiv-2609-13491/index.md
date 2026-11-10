@@ -1,3 +1,11 @@
+---
+title: "Token Efficient Task Execution via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-13491/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Token Efficient Task Execution via Application Behavior Modeling for Web Agents
 
 OdoBot builds a model of web-application behavior from successful task demonstrations and uses it to guide task execution. Its Canvas LMS evaluation compares token use and completion with existing web agents.
@@ -26,6 +34,18 @@ Alexandru Ianta, Eleni Stroulia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-13491/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-13491/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_13491,
+  title = {{Token Efficient Task Execution via Application Behavior Modeling for Web Agents}},
+  author = {{Alexandru Ianta} and {Eleni Stroulia}},
+  year = {2026},
+  eprint = {2609.13491v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.13491v1},
+  note = {First published: 2026-09-11; Recorded arXiv version: v1; Recorded version updated: 2026-09-11T19:57:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

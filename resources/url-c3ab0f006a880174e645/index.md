@@ -1,3 +1,11 @@
+---
+title: "AgentTrek-1.0-32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c3ab0f006a880174e645/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # AgentTrek-1.0-32B
 
 A web-agent checkpoint fine-tuned from Qwen2.5-32B-Instruct using the AgentTrek trajectory-synthesis project. The release includes model weights.

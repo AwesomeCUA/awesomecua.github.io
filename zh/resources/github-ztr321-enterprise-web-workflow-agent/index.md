@@ -1,3 +1,11 @@
+---
+title: "Enterprise Web Workflow Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ztr321-enterprise-web-workflow-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Enterprise Web Workflow Agent
 
 企业网页工作流智能体框架，结合 browser-use 自动化、人工参与的安全检查关卡、轨迹日志记录和评测。

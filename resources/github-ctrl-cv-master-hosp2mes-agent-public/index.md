@@ -1,3 +1,11 @@
+---
+title: "Hosp2MES-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ctrl-cv-master-hosp2mes-agent-public/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Hosp2MES-Agent
 
 Hosp2MES-Agent is a long-horizon browser GUI agent for executing multi-page Manufacturing Execution System (MES) workflows with state verification.

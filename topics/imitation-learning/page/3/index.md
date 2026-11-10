@@ -1,3 +1,11 @@
+---
+title: "Imitation learning — computer-use…, page 3 | AwesomeCUA"
+url: https://awesomecua.com/topics/imitation-learning/page/3/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Imitation learning — computer-use research, page 3
 
 HTML page: https://awesomecua.com/topics/imitation-learning/page/3/

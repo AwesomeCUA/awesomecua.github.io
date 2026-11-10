@@ -1,3 +1,11 @@
+---
+title: "world_model_for_wa_desc_with_tao_formatt… · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-3ef18fbb67e0376561db/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # world_model_for_wa_desc_with_tao_formatted_w_cot
 
 用于训练 WMA 世界模型的格式化指令、输入与输出样本；该模型描述动作执行后 WebArena 页面如何变化。数据含 11795 条训练样本和 2949 条验证样本。

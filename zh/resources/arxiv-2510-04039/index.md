@@ -1,3 +1,11 @@
+---
+title: "\\textsc{GUI-Spotlight}: Adaptive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-04039/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # \textsc{GUI-Spotlight}: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding
 
 GUI-Spotlight 训练定位模型对图像进行推理，并调用工具逐步缩小视觉关注范围。模型使用 18,500 个样本训练后，在 ScreenSpot-Pro 上评估这一方法。
@@ -27,6 +35,18 @@ Bin Lei, Nuo Xu, Ali Payani, Mingyi Hong, Chunhua Liao, Yu Cao, Caiwen Ding
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-04039/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-04039/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_04039,
+  title = {{\textbackslash{}textsc\textbraceleft{}GUI-Spotlight\textbraceright{}: Adaptive Iterative Focus Refinement for Enhanced GUI Visual Grounding}},
+  author = {{Bin Lei} and {Nuo Xu} and {Ali Payani} and {Mingyi Hong} and {Chunhua Liao} and {Yu Cao} and {Caiwen Ding}},
+  year = {2025},
+  eprint = {2510.04039v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.04039v1},
+  note = {First published: 2025-10-05; Recorded arXiv version: v1; Recorded version updated: 2025-10-05T05:15:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

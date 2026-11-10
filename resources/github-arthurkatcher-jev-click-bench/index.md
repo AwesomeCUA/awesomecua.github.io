@@ -1,3 +1,11 @@
+---
+title: "jev-click-bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-arthurkatcher-jev-click-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # jev-click-bench
 
 jev-click-bench evaluates Jev 1.14 bounding-box grounding on ScreenSpot-v2 and ScreenSpot-Pro with official scoring and per-click logs.

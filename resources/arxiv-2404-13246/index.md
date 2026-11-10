@@ -1,3 +1,11 @@
+---
+title: "ISQA: Informative Factuality Feedback for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-13246/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ISQA: Informative Factuality Feedback for Scientific Summarization
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "openadapt-capture | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openadaptai-openadapt-capture/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # openadapt-capture
 
 A desktop recorder for GUI demonstrations that pairs mouse and keyboard actions with screen frames and stores sessions for later inspection in Python.

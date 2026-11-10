@@ -1,3 +1,11 @@
+---
+title: "LiveNewsBench: Evaluating LLM Web Search… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-13543/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # LiveNewsBench: Evaluating LLM Web Search Capabilities with Freshly Curated News
 
 Bibliographic record for LiveNewsBench: Evaluating LLM Web Search Capabilities with Freshly Curated News. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yunfan Zhang, Kathleen McKeown, Smaranda Muresan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-13543/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-13543/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_13543,
+  title = {{LiveNewsBench: Evaluating LLM Web Search Capabilities with Freshly Curated News}},
+  author = {{Yunfan Zhang} and {Kathleen McKeown} and {Smaranda Muresan}},
+  year = {2026},
+  eprint = {2602.13543v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.13543v1},
+  note = {First published: 2026-02-14; Recorded arXiv version: v1; Recorded version updated: 2026-02-14T01:18:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "TabCtrl · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-g1at-tabctrl/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # TabCtrl
 
 面向 Chrome 和 Edge 的自带密钥多模型浏览器智能体，按任务隔离标签页。

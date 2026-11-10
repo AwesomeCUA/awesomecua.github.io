@@ -1,3 +1,11 @@
+---
+title: "Mobile Next MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mobile-next-mobile-mcp/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # Mobile Next MCP
 
 MCP 服务器，提供移动设备的无障碍快照、截图和设备交互，支持真机、模拟器和仿真器。

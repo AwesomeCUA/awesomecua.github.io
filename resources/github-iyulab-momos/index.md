@@ -1,3 +1,11 @@
+---
+title: "Momos | AwesomeCUA"
+url: https://awesomecua.com/resources/github-iyulab-momos/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Momos
 
 Autonomous UI inspection agent that interacts with live applications to uncover runtime and UX flow defects missed by static analysis.

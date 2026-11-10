@@ -1,3 +1,11 @@
+---
+title: "mcp-camoufox · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agelyhq-mcp-camoufox/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mcp-camoufox
 
 基于具有反检测功能的 Camoufox Firefox 浏览器构建的浏览器自动化 MCP 服务器，用于智能体导航时绕过机器人拦截。

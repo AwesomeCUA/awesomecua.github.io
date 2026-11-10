@@ -1,3 +1,11 @@
+---
+title: "ProfBench: Multi-Domain Rubrics requiring… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-18941/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge
 
 Bibliographic record for ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhilin Wang, Jaehun Jung, Ximing Lu, Shizhe Diao, Ellie Evans, Jiaqi Zeng, Pavlo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-18941/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-18941/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_18941,
+  title = {{ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to Answer and Judge}},
+  author = {{Zhilin Wang} and {Jaehun Jung} and {Ximing Lu} and {Shizhe Diao} and {Ellie Evans} and {Jiaqi Zeng} and {Pavlo Molchanov} and {Yejin Choi} and {Jan Kautz} and {Yi Dong}},
+  year = {2025},
+  eprint = {2510.18941v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.18941v2},
+  note = {First published: 2025-10-21; Recorded arXiv version: v2; Recorded version updated: 2026-05-16T23:42:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Workflow Use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browser-use-workflow-use/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # Workflow Use
 
 将录制的浏览器会话或 Browser Use 智能体运行转为参数化工作流文件，由 Playwright 确定性重放，并在步骤失败时回退至 LLM 智能体。

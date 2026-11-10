@@ -1,3 +1,11 @@
+---
+title: "iPrefBench: A User-Centric Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34735/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents
 
 Introduces iPrefBench, an iOS benchmark for mobile agents that tests when they infer missing user preferences from activity history and when they ask the user.
@@ -26,6 +34,18 @@ Yuting Ning, Ruijia Cheng, Sushobhan Ghosh, Peitong Duan, HungShi Lin, Abhishek 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34735/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34735/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34735,
+  title = {{iPrefBench: A User-Centric Benchmark for Personalized Mobile Use Agents}},
+  author = {{Yuting Ning} and {Ruijia Cheng} and {Sushobhan Ghosh} and {Peitong Duan} and {HungShi Lin} and {Abhishek Sundararajan} and {Shreyash Pandey} and {Huan Sun} and {Jeffrey Nichols} and {Eldon Schoop}},
+  year = {2026},
+  eprint = {2610.34735v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34735v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T02:35:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

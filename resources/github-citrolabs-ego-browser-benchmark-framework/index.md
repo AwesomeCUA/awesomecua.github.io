@@ -1,3 +1,11 @@
+---
+title: "Ego Browser Benchmark Framework | AwesomeCUA"
+url: https://awesomecua.com/resources/github-citrolabs-ego-browser-benchmark-framework/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Ego Browser Benchmark Framework
 
 Ego Browser Benchmark Framework is a reproducible harness for comparing foundation models on controlled browser-use agent tasks.

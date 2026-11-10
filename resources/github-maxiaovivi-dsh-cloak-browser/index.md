@@ -1,3 +1,11 @@
+---
+title: "dsh-cloak-browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maxiaovivi-dsh-cloak-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-cloak-browser
 
 Native CloakBrowser plugin for DeepSeek Harness providing isolated anti-detect browser sessions and DOM snapshots.

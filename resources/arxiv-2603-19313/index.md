@@ -1,3 +1,11 @@
+---
+title: "Memory-Driven Role-Playing: Evaluation and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-19313/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Memory-Driven Role-Playing: Evaluation and Enhancement of Persona Knowledge Utilization in LLMs
 
 Status: excluded from the active CUA catalog after scope review.

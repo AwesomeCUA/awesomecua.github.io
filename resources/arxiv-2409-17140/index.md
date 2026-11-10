@@ -1,3 +1,11 @@
+---
+title: "AXIS: Efficient Human-Agent-Computer… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-17140/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents
 
 Introduces AXIS, an API-first application agent that can use UI actions and expand its available APIs through automated application exploration. The work evaluates the approach on Microsoft Word tasks.
@@ -26,6 +34,18 @@ Junting Lu, Zhiyang Zhang, Fangkai Yang, Jue Zhang, Lu Wang, Chao Du, Qingwei Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-17140/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-17140/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_17140,
+  title = {{AXIS: Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents}},
+  author = {{Junting Lu} and {Zhiyang Zhang} and {Fangkai Yang} and {Jue Zhang} and {Lu Wang} and {Chao Du} and {Qingwei Lin} and {Saravan Rajmohan} and {Dongmei Zhang} and {Qi Zhang}},
+  year = {2024},
+  eprint = {2409.17140v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.17140v2},
+  note = {First published: 2024-09-25; Recorded arXiv version: v2; Recorded version updated: 2025-05-19T16:12:40Z.}
+}
+```
 
 ## Publication record
 

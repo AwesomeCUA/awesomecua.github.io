@@ -1,3 +1,11 @@
+---
+title: "MCP Desktop Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tanob-mcp-desktop-automation/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # MCP Desktop Automation
 
 MCP Desktop Automation is a Model Context Protocol server using RobotJS to provide screen capture, mouse movement, and keyboard input to LLMs.

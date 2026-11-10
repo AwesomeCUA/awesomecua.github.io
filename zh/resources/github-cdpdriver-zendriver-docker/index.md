@@ -1,3 +1,11 @@
+---
+title: "zendriver-docker · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cdpdriver-zendriver-docker/
+updated: 2026-11-10
+type: infrastructure
+lang: zh-CN
+---
+
 # zendriver-docker
 
 一个 Docker 项目模板，在虚拟 Wayland 显示器上用 Zendriver 驱动有界面、带 GPU 加速的 Chrome，并可通过 VNC 观察和调试运行过程。

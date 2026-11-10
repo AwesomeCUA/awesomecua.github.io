@@ -1,3 +1,11 @@
+---
+title: "ClawGUI-Eval · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e8cea6261ab19611ad23/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # ClawGUI-Eval
 
 面向六项图形界面定位基准的评测数据，包含图像、提示词和已有输出，可用于推理、判定与指标计算流程。

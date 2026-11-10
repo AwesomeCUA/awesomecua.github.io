@@ -1,3 +1,11 @@
+---
+title: "TinyFish · 发布方 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/organization-tinyfish/
+updated: 2026-10-16
+type: company
+lang: zh-CN
+---
+
 # TinyFish
 
 与 TinyFish 计算机使用或浏览器自动化产品相关的发布方或产品品牌。

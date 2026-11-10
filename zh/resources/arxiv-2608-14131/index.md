@@ -1,3 +1,11 @@
+---
+title: "LegacyWorld: Atomicity-Aware Evaluation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-14131/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # LegacyWorld: Atomicity-Aware Evaluation of GUI Agents for Legacy Workflows
 
 LegacyWorld 按原子性标准评估 Windows GUI 工作流：要么正确完成，要么失败且不留下持久的非预期更改；比较专家提示与从记录的标准路径生成的提示，并区分有效完成、安全失败和非原子性副作用。
@@ -27,6 +35,18 @@ Thilo Reintjes, Sivajeet Chand, Derui Zhu, Sushant Kumar Pandey, Alexander Prets
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-14131/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-14131/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_14131,
+  title = {{LegacyWorld: Atomicity-Aware Evaluation of GUI Agents for Legacy Workflows}},
+  author = {{Thilo Reintjes} and {Sivajeet Chand} and {Derui Zhu} and {Sushant Kumar Pandey} and {Alexander Pretschner}},
+  year = {2026},
+  eprint = {2608.14131v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.14131v1},
+  note = {First published: 2026-08-14; Recorded arXiv version: v1; Recorded version updated: 2026-08-14T09:36:33Z.}
+}
+```
 
 ## arXiv 版本记录
 

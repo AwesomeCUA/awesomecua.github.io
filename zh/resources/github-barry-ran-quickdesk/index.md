@@ -1,3 +1,11 @@
+---
+title: "QuickDesk · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-barry-ran-quickdesk/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # QuickDesk
 
 QuickDesk 是面向 AI 的远程桌面客户端和主机，内置 MCP 服务器，用于传输屏幕画面和控制远程计算机。

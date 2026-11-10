@@ -1,3 +1,11 @@
+---
+title: "Anchor: Preventing Artifact Drift for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-26321/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Anchor: Preventing Artifact Drift for Reliable Agent Verification
 
 Anchor 生成采购与制造流程任务，构建 ERP-Bench，并用共享的状态验证器评测浏览器和计算机使用智能体。
@@ -27,6 +35,18 @@ Abhijay Rana, Maksim Ivanov
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-26321/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-26321/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_26321,
+  title = {{Anchor: Preventing Artifact Drift for Reliable Agent Verification}},
+  author = {{Abhijay Rana} and {Maksim Ivanov}},
+  year = {2026},
+  eprint = {2605.26321v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.26321v2},
+  note = {First published: 2026-05-25; Recorded arXiv version: v2; Recorded version updated: 2026-10-30T18:47:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

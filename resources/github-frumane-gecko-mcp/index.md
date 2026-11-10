@@ -1,3 +1,11 @@
+---
+title: "gecko-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-frumane-gecko-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # gecko-mcp
 
 Model Context Protocol server for driving Firefox-family browsers (Firefox, Floorp, LibreWolf, Waterfox, Zen, Mullvad).

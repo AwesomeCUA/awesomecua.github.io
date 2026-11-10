@@ -1,3 +1,11 @@
+---
+title: "Browser Agent Failure Corpus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mutantweb-browser-agent-failure-corpus/
+updated: 2026-11-04
+type: dataset
+lang: en
+---
+
 # Browser Agent Failure Corpus
 
 Browser Agent Failure Corpus is a versioned dataset of browser-agent action failures, execution traces, and guardrail counterexamples.

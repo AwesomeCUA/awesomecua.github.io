@@ -1,3 +1,11 @@
+---
+title: "WebMCP Deadbolt · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-faxanfm-webmcp-deadbolt/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # WebMCP Deadbolt
 
 面向 WebMCP 浏览器商务智能体的中间件，提供默认拒绝的能力门控、结构化拒绝和对抗性防护。

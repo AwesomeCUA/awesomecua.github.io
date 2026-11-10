@@ -1,3 +1,11 @@
+---
+title: "User-Oriented Multi-Turn Dialogue Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-08225/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale
 
 Status: excluded from the active CUA catalog after scope review.

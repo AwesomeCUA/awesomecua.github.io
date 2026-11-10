@@ -1,3 +1,11 @@
+---
+title: "recast · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yagna-1-recast/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # recast
 
 编译器，可将录制的 AI 浏览器智能体执行轨迹转换为确定性、零 token 消耗的 Playwright 测试脚本。

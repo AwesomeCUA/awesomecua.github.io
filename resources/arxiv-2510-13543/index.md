@@ -1,3 +1,11 @@
+---
+title: "In-Browser LLM-Guided Fuzzing for Real-Time… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-13543/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers
 
 Proposes an in-browser fuzzing framework that uses language-model guidance to test indirect prompt-injection vulnerabilities in agentic browsers. The work focuses on unwanted actions triggered by webpage instructions under the browser agent's user privileges.
@@ -26,6 +34,18 @@ Avihay Cohen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-13543/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-13543/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_13543,
+  title = {{In-Browser LLM-Guided Fuzzing for Real-Time Prompt Injection Testing in Agentic AI Browsers}},
+  author = {{Avihay Cohen}},
+  year = {2025},
+  eprint = {2510.13543v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.13543v1},
+  note = {First published: 2025-10-15; Recorded arXiv version: v1; Recorded version updated: 2025-10-15T13:39:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

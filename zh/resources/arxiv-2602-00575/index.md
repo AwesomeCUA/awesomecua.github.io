@@ -1,3 +1,11 @@
+---
+title: "Agentic Reward Modeling: Verifying GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-00575/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction
 
 VAGEN 先提取易获取的证据来核验 GUI 轨迹，必要时再用工具探查环境；在 OSWorld-Verified 和 AndroidWorld 上评估核验准确率及成本。
@@ -27,6 +35,18 @@ Chaoqun Cui, Jing Huang, Shijing Wang, Liming Zheng, Qingchao Kong, Zhixiong Zen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-00575/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-00575/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_00575,
+  title = {{Agentic Reward Modeling: Verifying GUI Agent via Progressive Trajectory-Grounded Interaction}},
+  author = {{Chaoqun Cui} and {Jing Huang} and {Shijing Wang} and {Liming Zheng} and {Qingchao Kong} and {Zhixiong Zeng}},
+  year = {2026},
+  eprint = {2602.00575v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.00575v2},
+  note = {First published: 2026-01-31; Recorded arXiv version: v2; Recorded version updated: 2026-07-25T06:54:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

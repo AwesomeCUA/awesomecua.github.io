@@ -1,3 +1,11 @@
+---
+title: "Spotlight: Mobile UI Understanding using… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2209-14927/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Spotlight: Mobile UI Understanding using Vision-Language Models with a Focus
 
 提出 Spotlight 视觉语言模型，以 UI 截图和选定的关注区域为条件。评估基于截图的移动 UI 理解，并探索多任务学习和少样本提示。
@@ -27,6 +35,18 @@ Gang Li, Yang Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2209-14927/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2209-14927/citation.csl.json
+
+```bibtex
+@misc{arxiv_2209_14927,
+  title = {{Spotlight: Mobile UI Understanding using Vision-Language Models with a Focus}},
+  author = {{Gang Li} and {Yang Li}},
+  year = {2022},
+  eprint = {2209.14927v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2209.14927v4},
+  note = {First published: 2022-09-29; Recorded arXiv version: v4; Recorded version updated: 2023-02-24T01:41:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "DomA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dom-actions-doma/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # DomA
 
 Source-available edition of the DomA browser-agent extension for Chrome and Edge: it observes pages through set-of-marks screenshots and element lists, acts with DOM events and CDP clicks, and serves its tools over MCP.

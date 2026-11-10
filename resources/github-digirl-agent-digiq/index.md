@@ -1,3 +1,11 @@
+---
+title: "Digi-Q | AwesomeCUA"
+url: https://awesomecua.com/resources/github-digirl-agent-digiq/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # Digi-Q
 
 Offline device-control training code that learns action values and uses them to select promising actions, with linked trajectories and checkpoints.

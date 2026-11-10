@@ -1,3 +1,11 @@
+---
+title: "Buddy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ghorbelhamdi-buddy-android/
+updated: 2026-10-20
+type: agent
+lang: en
+---
+
 # Buddy
 
 Android app whose accessibility service serves a local MCP server of phone tools, letting Claude Code, Codex or OpenCode, run in an on-device proot Linux, read the screen, tap, type and open apps.

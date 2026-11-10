@@ -1,3 +1,11 @@
+---
+title: "uiacli (Windows UI Automation CLI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amitse-uiacli/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # uiacli (Windows UI Automation CLI)
 
 Exposes Windows desktop applications to AI agents via structured UI Automation trees and CLI commands.

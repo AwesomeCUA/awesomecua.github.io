@@ -1,3 +1,11 @@
+---
+title: "MobileAgent (Alipay) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alipay-mobile-agent/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # MobileAgent (Alipay)
 
 移动设备控制的研究实现，结合操作流程上下文与人机交互，执行个性化任务。

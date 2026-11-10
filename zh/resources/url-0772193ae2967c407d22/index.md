@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_plan_iterative · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0772193ae2967c407d22/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # lumos_web_agent_plan_iterative
 
 这是用于训练 Lumos-Iterative 网页智能体规划模块的数据集；数据概览列出 1009 条 Mind2Web 任务标注。

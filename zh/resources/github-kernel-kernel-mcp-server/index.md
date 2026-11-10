@@ -1,3 +1,11 @@
+---
+title: "Kernel MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kernel-kernel-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Kernel MCP Server
 
 Kernel MCP Server 将 AI 智能体连接到 Kernel 上的低延迟云浏览器沙箱和无服务器执行环境。

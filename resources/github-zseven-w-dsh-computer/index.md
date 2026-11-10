@@ -1,3 +1,11 @@
+---
+title: "zseven-w DSH Computer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zseven-w-dsh-computer/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # zseven-w DSH Computer
 
 Background macOS desktop automation plugin for DeepSeek Harness that observes and controls apps without stealing focus.

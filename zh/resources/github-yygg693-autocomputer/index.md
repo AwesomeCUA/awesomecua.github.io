@@ -1,3 +1,11 @@
+---
+title: "autocomputer · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yygg693-autocomputer/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # autocomputer
 
 桌面 GUI 自动化平台，结合 Rust 执行核心、Python SDK、MCP 服务器和 HTML5 监控仪表盘。

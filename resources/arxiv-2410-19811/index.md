@@ -1,3 +1,11 @@
+---
+title: "ControlAgent: Automating Control System… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-19811/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise
 
 Bibliographic record for ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xingang Guo, Darioush Keivan, Usman Syed, Lianhui Qin, Huan Zhang, Geir Dullerud
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-19811/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-19811/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_19811,
+  title = {{ControlAgent: Automating Control System Design via Novel Integration of LLM Agents and Domain Expertise}},
+  author = {{Xingang Guo} and {Darioush Keivan} and {Usman Syed} and {Lianhui Qin} and {Huan Zhang} and {Geir Dullerud} and {Peter Seiler} and {Bin Hu}},
+  year = {2024},
+  eprint = {2410.19811v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.19811v1},
+  note = {First published: 2024-10-17; Recorded arXiv version: v1; Recorded version updated: 2024-10-17T17:42:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "bitmap · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vcaesar-bitmap/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # bitmap
 
 bitmap 是用于在屏幕截图区域中查找图像匹配位置的 Go 工具；示例使用 RobotGo 将指针移至匹配位置。

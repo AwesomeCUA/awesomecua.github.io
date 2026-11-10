@@ -1,3 +1,11 @@
+---
+title: "RealCADBench: Benchmarking Parametric CAD… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-03773/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # RealCADBench: Benchmarking Parametric CAD Modeling from Industrial Design Intents
 
 Bibliographic record for RealCADBench: Benchmarking Parametric CAD Modeling from Industrial Design Intents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guanlin Li, Zhichao Huang, Huimu Yu, Yichen Long, Hongsen Liu, Linxin Cai, Qiuhe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-03773/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-03773/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_03773,
+  title = {{RealCADBench: Benchmarking Parametric CAD Modeling from Industrial Design Intents}},
+  author = {{Guanlin Li} and {Zhichao Huang} and {Huimu Yu} and {Yichen Long} and {Hongsen Liu} and {Linxin Cai} and {Qiuhe Hong} and {Zongzhen Li} and {Wei Wang} and {Xianwen Zhong} and {Yuchen Wang}},
+  year = {2026},
+  eprint = {2609.03773v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.03773v2},
+  note = {First published: 2026-09-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-04T02:31:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

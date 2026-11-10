@@ -1,3 +1,11 @@
+---
+title: "Twin · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5a63318fd49cbcc84ad1/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Twin
 
 无代码平台将自然语言目标转为定时运行的业务智能体，优先调用现有 API，必要时由 Web Agent 在隔离的云端浏览器中点击、输入和填写表单。

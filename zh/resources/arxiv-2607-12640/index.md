@@ -1,3 +1,11 @@
+---
+title: "A Learning-Rate-Gated Failure of GRPO in… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-12640/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism
 
 研究一个受控场景：GRPO 未能改进表现较强的小型 Web 智能体，还可能降低文本任务轨道的表现。奖励可达且匹配的任务及组件移植实验，用于区分优化空间有限与依赖学习率的失败机制。
@@ -27,6 +35,18 @@ Chengguang Gan, Zhixi Cai, Yunhao Liang, Hanjun Wei, Shiwen Ni, Qinghao Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-12640/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-12640/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_12640,
+  title = {{A Learning-Rate-Gated Failure of GRPO in a Small Language and Vision-Language Model Web Agent: A Controlled Null and Its Mechanism}},
+  author = {{Chengguang Gan} and {Zhixi Cai} and {Yunhao Liang} and {Hanjun Wei} and {Shiwen Ni} and {Qinghao Zhang}},
+  year = {2026},
+  eprint = {2607.12640v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.12640v1},
+  note = {First published: 2026-07-14; Recorded arXiv version: v1; Recorded version updated: 2026-07-14T11:17:35Z.}
+}
+```
 
 ## arXiv 版本记录
 

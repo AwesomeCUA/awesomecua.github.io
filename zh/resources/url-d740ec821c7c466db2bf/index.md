@@ -1,3 +1,11 @@
+---
+title: "asil-qwen35-2b-rl · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d740ec821c7c466db2bf/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # asil-qwen35-2b-rl
 
 这是用于基于结构化状态和语义动作的应用控制方法的 ASIL 强化学习检查点，随附可加载的模型权重。

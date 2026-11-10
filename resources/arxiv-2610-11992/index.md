@@ -1,3 +1,11 @@
+---
+title: "Multifunctional synaptic learning and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-11992/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multifunctional synaptic learning and neuromorphic computing using crystalline TiO$_x$/NiO$_x$ heterojunction-based memory devices
 
 Status: excluded from the active CUA catalog after scope review.

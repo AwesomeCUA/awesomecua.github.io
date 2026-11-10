@@ -1,3 +1,11 @@
+---
+title: "grok-chrome-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dietghardev-grok-chrome-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # grok-chrome-mcp
 
 Model Context Protocol server enabling Grok Build and coding agents to click through and verify live Chrome web apps.

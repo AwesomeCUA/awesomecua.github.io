@@ -1,3 +1,11 @@
+---
+title: "K²-Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-k2-agent-k2-agent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # K²-Agent
 
 A hierarchical mobile-device agent that combines a demonstration-informed planner with a learned action executor; the release includes AndroidWorld evaluation trajectories.

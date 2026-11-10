@@ -1,3 +1,11 @@
+---
+title: "GLM-4.6V-FP8 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2a99aab63fc1fe65610d/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GLM-4.6V-FP8
 
 An FP8 multimodal model checkpoint supports tool calls using screenshots as inputs and generates or edits frontend code from images of interfaces.

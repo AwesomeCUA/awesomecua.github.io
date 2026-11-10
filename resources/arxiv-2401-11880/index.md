@@ -1,3 +1,11 @@
+---
+title: "PsySafe: A Comprehensive Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-11880/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety
 
 Status: excluded from the active CUA catalog after scope review.

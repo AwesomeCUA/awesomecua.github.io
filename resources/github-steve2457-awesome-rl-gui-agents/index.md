@@ -1,3 +1,11 @@
+---
+title: "Awesome Reinforcement Learning for GUI Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/github-steve2457-awesome-rl-gui-agents/
+updated: 2026-11-09
+type: learning
+lang: en
+---
+
 # Awesome Reinforcement Learning for GUI Agents
 
 A curated reading list of reinforcement learning work on GUI agents, organized by learning methods, reward and efficiency questions, datasets, and training environments.

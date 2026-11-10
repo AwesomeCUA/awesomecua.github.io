@@ -1,3 +1,11 @@
+---
+title: "Computer-Use-Agent (Windows) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nabhpatodi10-computer-use-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Computer-Use-Agent (Windows)
 
 LangGraph-based Windows computer-use agent combining UI Automation tree inspection, OmniParser visual grounding, and human confirmation gates.

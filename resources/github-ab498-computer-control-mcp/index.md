@@ -1,3 +1,11 @@
+---
+title: "Computer Control MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ab498-computer-control-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Computer Control MCP
 
 Computer Control MCP is a zero-dependency Model Context Protocol server providing mouse, keyboard, window, and RapidOCR screen control via PyAutoGUI.

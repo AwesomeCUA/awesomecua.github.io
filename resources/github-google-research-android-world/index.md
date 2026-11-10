@@ -1,3 +1,11 @@
+---
+title: "AndroidWorld | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-research-android-world/
+updated: 2026-10-20
+type: benchmark
+lang: en
+---
+
 # AndroidWorld
 
 Android environment with programmatic task evaluation for mobile agents.

@@ -1,3 +1,11 @@
+---
+title: "Agent S2: A Compositional… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-00906/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents
 
 Combines generalist and specialist models with hierarchical planning and multiple grounding methods for computer-use tasks.
@@ -26,6 +34,18 @@ Saaket Agashe, Kyle Wong, Vincent Tu, Jiachen Yang, Ang Li, Xin Eric Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-00906/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-00906/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_00906,
+  title = {{Agent S2: A Compositional Generalist-Specialist Framework for Computer Use Agents}},
+  author = {{Saaket Agashe} and {Kyle Wong} and {Vincent Tu} and {Jiachen Yang} and {Ang Li} and {Xin Eric Wang}},
+  year = {2025},
+  eprint = {2504.00906v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.00906v1},
+  note = {First published: 2025-04-01; Recorded arXiv version: v1; Recorded version updated: 2025-04-01T15:40:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

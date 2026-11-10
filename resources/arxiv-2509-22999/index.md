@@ -1,3 +1,11 @@
+---
+title: "Enhanced Hybrid Temporal Computing Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-22999/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Enhanced Hybrid Temporal Computing Using Deterministic Summations for Ultra-Low-Power Accelerators
 
 Status: excluded from the active CUA catalog after scope review.

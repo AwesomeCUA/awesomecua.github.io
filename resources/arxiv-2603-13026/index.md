@@ -1,3 +1,11 @@
+---
+title: "PISmith: Reinforcement Learning-based Red… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-13026/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PISmith: Reinforcement Learning-based Red Teaming for Prompt Injection Defenses
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Application-level Benchmarking of Quantum… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-01363/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Application-level Benchmarking of Quantum Computers using Nonlocal Game Strategies
 
 Status: excluded from the active CUA catalog after scope review.

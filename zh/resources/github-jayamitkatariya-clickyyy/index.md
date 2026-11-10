@@ -1,3 +1,11 @@
+---
+title: "Clickyy · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jayamitkatariya-clickyyy/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Clickyy
 
 Clickyy 是 macOS 桌面自动化 CLI 和 MCP 服务器，结合原生 Accessibility 元素定位与 Quartz 输入模拟。

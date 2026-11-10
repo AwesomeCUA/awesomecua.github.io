@@ -1,3 +1,11 @@
+---
+title: "Agent360 Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agent360dk-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Agent360 Browser MCP
 
 Human-in-the-loop browser MCP server that pauses for user 2FA, CAPTCHA, or confirmation prompts before resuming agent execution.

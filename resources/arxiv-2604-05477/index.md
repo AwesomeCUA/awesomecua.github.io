@@ -1,3 +1,11 @@
+---
+title: "Don't Act Blindly: Robust GUI Automation via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-05477/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction
 
 Introduces VeriGUI, which checks expected action effects and reasons about recovery before subsequent GUI actions. Training combines synthetic failure trajectories with verification-weighted GRPO, evaluated on an AndroidControl-based robustness benchmark.
@@ -26,6 +34,18 @@ Yuzhe Zhang, Xianwei Xue, Xingyong Wu, Mengke Chen, Chen Liu, Xinran He, Run Sha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-05477/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-05477/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_05477,
+  title = {{Don't Act Blindly: Robust GUI Automation via Action-Effect Verification and Self-Correction}},
+  author = {{Yuzhe Zhang} and {Xianwei Xue} and {Xingyong Wu} and {Mengke Chen} and {Chen Liu} and {Xinran He} and {Run Shao} and {Feiran Liu} and {Huanmin Xu} and {Qiutong Pan} and {Haiwei Wang}},
+  year = {2026},
+  eprint = {2604.05477v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.05477v1},
+  note = {First published: 2026-04-07; Recorded arXiv version: v1; Recorded version updated: 2026-04-07T06:16:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

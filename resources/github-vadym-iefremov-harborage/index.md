@@ -1,3 +1,11 @@
+---
+title: "Harborage | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vadym-iefremov-harborage/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Harborage
 
 On-demand pool manager providing isolated headless browser sessions for concurrent AI web agents.

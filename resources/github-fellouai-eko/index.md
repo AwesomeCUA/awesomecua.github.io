@@ -1,3 +1,11 @@
+---
+title: "Eko | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fellouai-eko/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # Eko
 
 Eko is a JavaScript framework for building multi-step agents that operate in computer and browser environments, with workflow and tool controls.

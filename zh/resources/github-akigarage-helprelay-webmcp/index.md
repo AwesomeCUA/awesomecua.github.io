@@ -1,3 +1,11 @@
+---
+title: "HelpRelay WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-akigarage-helprelay-webmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # HelpRelay WebMCP
 
 零依赖的 WebMCP 协作运行环境，使人工操作员与浏览器智能体能够安全地协同完成网页导航任务。

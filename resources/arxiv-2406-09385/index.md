@@ -1,3 +1,11 @@
+---
+title: "Towards Vision-Language Geo-Foundation Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-09385/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Towards Vision-Language Geo-Foundation Model: A Survey
 
 Bibliographic record for Towards Vision-Language Geo-Foundation Model: A Survey. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yue Zhou, Zhihang Zhong, Litong Feng, Wayne Zhang, Xue Jiang, Junchi Yan, Xue Ya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-09385/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-09385/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_09385,
+  title = {{Towards Vision-Language Geo-Foundation Model: A Survey}},
+  author = {{Yue Zhou} and {Zhihang Zhong} and {Litong Feng} and {Wayne Zhang} and {Xue Jiang} and {Junchi Yan} and {Xue Yang}},
+  year = {2024},
+  eprint = {2406.09385v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.09385v3},
+  note = {First published: 2024-06-13; Recorded arXiv version: v3; Recorded version updated: 2026-09-04T23:24:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

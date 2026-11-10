@@ -1,3 +1,11 @@
+---
+title: "SLIDEFORGE: An LLM Agent for Controllable… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-03109/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SLIDEFORGE: An LLM Agent for Controllable Editing of Slides as Structured Artifacts
 
 Bibliographic record for SLIDEFORGE: An LLM Agent for Controllable Editing of Slides as Structured Artifacts. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haozhen Zheng, Fulin Wang, Tianhu Xiong, Yingjie Yu, Shengyi Qian, Hanchao Yu, A
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-03109/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-03109/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_03109,
+  title = {{SLIDEFORGE: An LLM Agent for Controllable Editing of Slides as Structured Artifacts}},
+  author = {{Haozhen Zheng} and {Fulin Wang} and {Tianhu Xiong} and {Yingjie Yu} and {Shengyi Qian} and {Hanchao Yu} and {Alex Schwing} and {Klara Nahrstedt} and {Mingyuan Wu}},
+  year = {2026},
+  eprint = {2609.03109v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.03109v1},
+  note = {First published: 2026-09-02; Recorded arXiv version: v1; Recorded version updated: 2026-09-02T19:44:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

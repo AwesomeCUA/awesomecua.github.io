@@ -1,3 +1,11 @@
+---
+title: "Universal quantum computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1711-00094/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal quantum computing using $(\mathbb{Z}_d)^3$ symmetry-protected topologically ordered states
 
 Status: excluded from the active CUA catalog after scope review.

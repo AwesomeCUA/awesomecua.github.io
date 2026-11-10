@@ -1,3 +1,11 @@
+---
+title: "AgentEval | AwesomeCUA"
+url: https://awesomecua.com/resources/url-85b700fbb7f1c599b7c3/
+updated: 2026-11-10
+type: benchmark
+lang: en
+---
+
 # AgentEval
 
 Benchmark suite of the AgentGym framework: a 1,160-item test split over 14 environments, with WebShop and WebArena web tasks next to text-game, embodied, tool-use and SQL tasks.

@@ -1,3 +1,11 @@
+---
+title: "Qontinui Runner · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qontinui-qontinui-runner/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Qontinui Runner
 
 Qontinui Runner 是一款桌面应用，可执行按配置定义的图形界面自动化项目并监控其进度。它支持鼠标、键盘和屏幕操作。

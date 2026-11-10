@@ -1,3 +1,11 @@
+---
+title: "ClickAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-samsung-clickagent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # ClickAgent
 
 ClickAgent 将高层 MLLM 动作推理与专门的 UI 元素定位模型分离，用于 Android 任务自动化。

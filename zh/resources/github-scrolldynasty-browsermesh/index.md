@@ -1,3 +1,11 @@
+---
+title: "BrowserMesh · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scrolldynasty-browsermesh/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # BrowserMesh
 
 用 Rust 编写的多智能体浏览器 MCP 运行时，管理隔离、持久化且并行的 Playwright 会话。

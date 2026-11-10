@@ -1,3 +1,11 @@
+---
+title: "AIPex · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aipexstudio-aipex/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AIPex
 
 AIPex 是一款隐私优先的 Chrome 浏览器自动化智能体，通过 CDP 和 MCP 操作标签页、DOM 元素及用户会话。

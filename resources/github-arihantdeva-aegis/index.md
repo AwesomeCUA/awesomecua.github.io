@@ -1,3 +1,11 @@
+---
+title: "Aegis (Hardened Computer-Use Sandbox) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-arihantdeva-aegis/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Aegis (Hardened Computer-Use Sandbox)
 
 Aegis is an off-screen, capability-dropped Docker browser and desktop sandbox for isolating computer-use agents.

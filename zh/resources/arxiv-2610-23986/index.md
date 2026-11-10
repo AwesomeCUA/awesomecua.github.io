@@ -1,3 +1,11 @@
+---
+title: "BlenderWorld: Benchmarking Visual Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-23986/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References
 
 以智能体通过 shell、Python 和 MCP 工具创建可编辑 Blender 项目为任务，结合多视角渲染、任务专用评分准则和视觉质量评分评判交付场景。
@@ -27,6 +35,18 @@ Xinyu Fang, Yuchi Wang, Weihao Yu, Rongyao Fang, Zhaohai Li, Zhixun Li, Tianchen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-23986/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-23986/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_23986,
+  title = {{BlenderWorld: Benchmarking Visual Agents for 3D Creation from Real-World References}},
+  author = {{Xinyu Fang} and {Yuchi Wang} and {Weihao Yu} and {Rongyao Fang} and {Zhaohai Li} and {Zhixun Li} and {Tiancheng Gu} and {Xilin Wei} and {Yuhang Zang} and {Hongsheng Li} and {Dahua Lin} and {Guofeng Zhang} and {Shuai Bai} and {Zhibo Yang} and {Dayiheng Liu}},
+  year = {2026},
+  eprint = {2610.23986v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.23986v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T12:46:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

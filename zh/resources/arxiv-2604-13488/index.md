@@ -1,3 +1,11 @@
+---
+title: "Towards Scalable Lightweight GUI Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-13488/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Towards Scalable Lightweight GUI Agents via Multi-role Orchestration
 
 提出轻量级 GUI 智能体训练框架 LAMO，使智能体既能独立执行任务，也能在多智能体流程中配合规划器执行操作。
@@ -27,6 +35,18 @@ Ziwei Wang, Junjie Zheng, Leyang Yang, Sheng Zhou, Xiaoxuan Tang, Zhouhua Fang, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-13488/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-13488/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_13488,
+  title = {{Towards Scalable Lightweight GUI Agents via Multi-role Orchestration}},
+  author = {{Ziwei Wang} and {Junjie Zheng} and {Leyang Yang} and {Sheng Zhou} and {Xiaoxuan Tang} and {Zhouhua Fang} and {Zhiwei Liu} and {Dajun Chen} and {Yong Li} and {Jiajun Bu}},
+  year = {2026},
+  eprint = {2604.13488v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.13488v1},
+  note = {First published: 2026-04-15; Recorded arXiv version: v1; Recorded version updated: 2026-04-15T05:23:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "MMSearch-Plus: Benchmarking… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-21475/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents
 
 提出多模态浏览基准 MMSearch-Plus，要求迭代图文检索；配套智能体框架可标记和裁剪图像，以开展定向搜索。
@@ -27,6 +35,18 @@ Xijia Tao, Yihua Teng, Xinxing Su, Xinyu Fu, Jihao Wu, Chaofan Tao, Ziru Liu, Ha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-21475/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-21475/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_21475,
+  title = {{MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents}},
+  author = {{Xijia Tao} and {Yihua Teng} and {Xinxing Su} and {Xinyu Fu} and {Jihao Wu} and {Chaofan Tao} and {Ziru Liu} and {Haoli Bai} and {Rui Liu} and {Lingpeng Kong}},
+  year = {2025},
+  eprint = {2508.21475v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.21475v3},
+  note = {First published: 2025-08-29; Recorded arXiv version: v3; Recorded version updated: 2026-03-18T09:07:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

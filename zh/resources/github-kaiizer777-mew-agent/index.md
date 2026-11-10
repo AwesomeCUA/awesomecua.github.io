@@ -1,3 +1,11 @@
+---
+title: "mew-agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kaiizer777-mew-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # mew-agent
 
 mew-agent 是 Rust 原生浏览器智能体，通过 CDP 操作可见的 Chromium，使用无障碍树感知，并以视觉感知作为后备方式。

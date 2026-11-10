@@ -1,3 +1,11 @@
+---
+title: "Pi Desktop for Windows | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ayouyi-pi-desktop-for-windows/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Pi Desktop for Windows
 
 Native Windows desktop GUI client and workspace for the Pi coding and computer-use agent.

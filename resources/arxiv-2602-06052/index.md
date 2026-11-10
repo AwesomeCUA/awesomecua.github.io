@@ -1,3 +1,11 @@
+---
+title: "A Survey of Agent Memory in the Second Half… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-06052/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents
 
 Bibliographic record for A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Wei-Chieh Huang, Weizhi Zhang, Yueqing Liang, Yuanchen Bei, Yankai Chen, Tao Fen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-06052/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-06052/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_06052,
+  title = {{A Survey of Agent Memory in the Second Half: Towards Self-Evolving and Long-Horizon Agents}},
+  author = {{Wei-Chieh Huang} and {Weizhi Zhang} and {Yueqing Liang} and {Yuanchen Bei} and {Yankai Chen} and {Tao Feng} and {Xinyu Pan} and {Zhen Tan} and {Yu Wang} and {Tianxin Wei} and {Shanglin Wu} and {Ruiyao Xu} and {Liangwei Yang} and {Rui Yang} and {Wooseong Yang} and {Chin-Yuan Yeh} and {Hanrong Zhang} and {Haozhen Zhang} and {Siqi Zhu} and {Henry Peng Zou} and {Wanjia Zhao} and {Song Wang} and {Wujiang Xu} and {Zixuan Ke} and {Zheng Hui} and {Dawei Li} and {Yaozu Wu} and {Langzhou He} and {Chen Wang} and {Xiongxiao Xu} and {Baixiang Huang} and {Juntao Tan} and {Shelby Heinecke} and {Huan Wang} and {Caiming Xiong} and {Ahmed A. Metwally} and {Jun Yan} and {Chen-Yu Lee} and {Hanqing Zeng} and {Yinglong Xia} and {Xiaokai Wei} and {Ali Payani} and {Yu Wang} and {Haitong Ma} and {Wenya Wang} and {Chenguang Wang} and {Yu Zhang} and {Xin Eric Wang} and {Yongfeng Zhang} and {Jiaxuan You} and {Hanghang Tong} and {Xiao Luo} and {Xue Liu} and {Yizhou Sun} and {Wei Wang} and {Julian McAuley} and {James Zou} and {Jiawei Han} and {Philip S. Yu} and {Kai Shu}},
+  year = {2026},
+  eprint = {2602.06052v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.06052v4},
+  note = {First published: 2026-01-14; Recorded arXiv version: v4; Recorded version updated: 2026-08-04T20:54:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

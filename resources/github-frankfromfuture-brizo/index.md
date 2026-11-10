@@ -1,3 +1,11 @@
+---
+title: "Brizo Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-frankfromfuture-brizo/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Brizo Use
 
 Open browser-use runtime, local bridge, CLI, and AI harness adapter for driving live web sessions.

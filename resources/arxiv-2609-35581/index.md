@@ -1,3 +1,11 @@
+---
+title: "QC-Stark: A Multi-Task Benchmark Revealing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-35581/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # QC-Stark: A Multi-Task Benchmark Revealing Capability Dissociations in LLMs Evaluated on Quantum Computing Tasks
 
 Status: excluded from the active CUA catalog after scope review.

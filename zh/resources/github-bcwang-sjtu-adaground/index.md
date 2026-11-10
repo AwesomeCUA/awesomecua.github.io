@@ -1,3 +1,11 @@
+---
+title: "AdaGround · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bcwang-sjtu-adaground/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # AdaGround
 
 无需训练的界面定位框架，按目标大小调整截图缩放，并核验候选点击位置后决定接受或修正。

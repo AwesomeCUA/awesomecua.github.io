@@ -1,3 +1,11 @@
+---
+title: "a11y-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-perception-dynamics-inc-a11y-computer-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # a11y-computer-use
 
 Accessibility-first computer-use runtime that feeds pruned accessibility-tree snapshots to AI agents so they click semantic UI elements.

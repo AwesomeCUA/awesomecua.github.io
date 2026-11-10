@@ -1,3 +1,11 @@
+---
+title: "CUAWright (formerly Webwright) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-webwright/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # CUAWright (formerly Webwright)
 
 使用自动化代码执行浏览器和桌面任务的智能体框架。

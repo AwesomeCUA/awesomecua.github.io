@@ -1,3 +1,11 @@
+---
+title: "Enhancing Cooperative Multi-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-05262/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration
 
 Status: excluded from the active CUA catalog after scope review.

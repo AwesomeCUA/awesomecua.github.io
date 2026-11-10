@@ -1,3 +1,11 @@
+---
+title: "ZeroGUI: Automating Online GUI Learning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-23762/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # ZeroGUI: Automating Online GUI Learning at Zero Human Cost
 
 结合生成的任务、估计的成功奖励和在线强化学习，自动训练 GUI 智能体的交互能力。
@@ -27,6 +35,18 @@ Chenyu Yang, Shiqian Su, Shi Liu, Xuan Dong, Yue Yu, Weijie Su, Xuehui Wang, Zha
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-23762/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-23762/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_23762,
+  title = {{ZeroGUI: Automating Online GUI Learning at Zero Human Cost}},
+  author = {{Chenyu Yang} and {Shiqian Su} and {Shi Liu} and {Xuan Dong} and {Yue Yu} and {Weijie Su} and {Xuehui Wang} and {Zhaoyang Liu} and {Jinguo Zhu} and {Hao Li} and {Wenhai Wang} and {Yu Qiao} and {Xizhou Zhu} and {Jifeng Dai}},
+  year = {2025},
+  eprint = {2505.23762v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.23762v1},
+  note = {First published: 2025-05-29; Recorded arXiv version: v1; Recorded version updated: 2025-05-29T17:59:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

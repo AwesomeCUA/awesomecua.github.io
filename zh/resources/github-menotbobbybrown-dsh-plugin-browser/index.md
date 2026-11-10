@@ -1,3 +1,11 @@
+---
+title: "dsh-plugin-browser (github.com/menotbobby… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-menotbobbybrown-dsh-plugin-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-plugin-browser
 
 面向 DeepSeek Harness 的原生无头及可视化网页浏览器自动化插件。

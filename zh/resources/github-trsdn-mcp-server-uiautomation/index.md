@@ -1,3 +1,11 @@
+---
+title: "UIAutomationMcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-trsdn-mcp-server-uiautomation/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # UIAutomationMcp
 
 Windows UI Automation 工具包，提供 CLI、MCP 服务器和 VS Code 扩展，用于检查和操作原生桌面控件。

@@ -1,3 +1,11 @@
+---
+title: "GUI-G2 3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d80fa13b647c4020a755/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # GUI-G2 3B
 
 The 3B GUI-G2 grounding checkpoint: Qwen2.5-VL-3B-Instruct fine-tuned with Gaussian point and coverage rewards to locate interface elements in screenshots from text instructions.

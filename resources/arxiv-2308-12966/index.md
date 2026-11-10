@@ -1,3 +1,11 @@
+---
+title: "Qwen-VL: A Versatile Vision-Language Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-12966/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond
 
 Status: excluded from the active CUA catalog after scope review.

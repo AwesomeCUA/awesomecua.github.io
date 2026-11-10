@@ -1,3 +1,11 @@
+---
+title: "SlimerJS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-laurentj-slimerjs/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # SlimerJS
 
 SlimerJS is a Firefox-based scriptable browser for controlling pages with JavaScript, including navigation, clicks, content changes, and screenshots.

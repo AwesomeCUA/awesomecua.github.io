@@ -1,3 +1,11 @@
+---
+title: "MedBrowseComp: Benchmarking Medical Deep… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-14963/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MedBrowseComp: Benchmarking Medical Deep Research and Computer Use
 
 Introduces MedBrowseComp, a benchmark of human-curated, multi-hop medical questions for agents retrieving and synthesizing facts from live knowledge bases in a computer-use setting.
@@ -26,6 +34,18 @@ Shan Chen, Pedro Moreira, Yuxin Xiao, Sam Schmidgall, Jeremy Warner, Hugo Aerts,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-14963/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-14963/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_14963,
+  title = {{MedBrowseComp: Benchmarking Medical Deep Research and Computer Use}},
+  author = {{Shan Chen} and {Pedro Moreira} and {Yuxin Xiao} and {Sam Schmidgall} and {Jeremy Warner} and {Hugo Aerts} and {Thomas Hartvigsen} and {Jack Gallifant} and {Danielle S. Bitterman}},
+  year = {2025},
+  eprint = {2505.14963v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.14963v1},
+  note = {First published: 2025-05-20; Recorded arXiv version: v1; Recorded version updated: 2025-05-20T22:42:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

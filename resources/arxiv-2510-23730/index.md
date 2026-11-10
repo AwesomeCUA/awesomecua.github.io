@@ -1,3 +1,11 @@
+---
+title: "Evaluating Long-Term Memory for Long-Context… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-23730/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Evaluating Long-Term Memory for Long-Context Question Answering
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "chrome-eye · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-trvux-chrome-eye/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # chrome-eye
 
 Model Context Protocol 服务器，向 Claude Code 提供 56 个结构化 JSON Chrome CDP 工具，作为截图的快速替代方式。

@@ -1,3 +1,11 @@
+---
+title: "bm (Conversational Grocery Browser Agent) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gonzalo123-bm/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # bm (Conversational Grocery Browser Agent)
 
 使用 Strands 和 Amazon Bedrock 构建的对话式杂货购物 TUI 智能体，可驱动实时网页浏览器。

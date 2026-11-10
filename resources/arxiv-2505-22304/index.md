@@ -1,3 +1,11 @@
+---
+title: "CADReview: Automatically Reviewing CAD… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-22304/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CADReview: Automatically Reviewing CAD Programs with Error Detection and Correction
 
 Status: excluded from the active CUA catalog after scope review.

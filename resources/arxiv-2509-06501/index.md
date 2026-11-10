@@ -1,3 +1,11 @@
+---
+title: "WebExplorer: Explore and Evolve for Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-06501/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents
 
 Bibliographic record for WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Junteng Liu, Yunji Li, Chi Zhang, Jingyang Li, Aili Chen, Ke Ji, Weiyu Cheng, Zi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-06501/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-06501/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_06501,
+  title = {{WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents}},
+  author = {{Junteng Liu} and {Yunji Li} and {Chi Zhang} and {Jingyang Li} and {Aili Chen} and {Ke Ji} and {Weiyu Cheng} and {Zijia Wu} and {Chengyu Du} and {Qidi Xu} and {Jiayuan Song} and {Zhengmao Zhu} and {Wenhu Chen} and {Pengyu Zhao} and {Junxian He}},
+  year = {2025},
+  eprint = {2509.06501v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.06501v3},
+  note = {First published: 2025-09-08; Recorded arXiv version: v3; Recorded version updated: 2025-09-26T02:31:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

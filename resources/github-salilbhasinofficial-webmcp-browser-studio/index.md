@@ -1,3 +1,11 @@
+---
+title: "Bridge Studio (WebMCP Browser Studio) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-salilbhasinofficial-webmcp-browser-studio/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Bridge Studio (WebMCP Browser Studio)
 
 Visible, human-governed browser workspace that converts live web workflows into reusable WebMCP tools.

@@ -1,3 +1,11 @@
+---
+title: "Privacy-Computation trade-offs in Private… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-19012/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Privacy-Computation trade-offs in Private Repetition and Metaselection
 
 Status: excluded from the active CUA catalog after scope review.

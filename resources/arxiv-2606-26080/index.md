@@ -1,3 +1,11 @@
+---
+title: "Neglected Free Lunch from Post-training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-26080/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents
 
 Bibliographic record for Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Changdae Oh, Wendi Li, Seongheon Park, Samuel Yeh, Tanwi Mallick, Sharon Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-26080/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-26080/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_26080,
+  title = {{Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents}},
+  author = {{Changdae Oh} and {Wendi Li} and {Seongheon Park} and {Samuel Yeh} and {Tanwi Mallick} and {Sharon Li}},
+  year = {2026},
+  eprint = {2606.26080v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.26080v1},
+  note = {First published: 2026-06-24; Recorded arXiv version: v1; Recorded version updated: 2026-06-24T17:54:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

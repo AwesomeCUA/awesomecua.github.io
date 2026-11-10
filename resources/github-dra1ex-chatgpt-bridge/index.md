@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Browser Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dra1ex-chatgpt-bridge/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ChatGPT Browser Bridge
 
 A browser extension and local server that operate a signed-in ChatGPT tab and expose its chat sessions, tab controls, and artifacts to local clients.

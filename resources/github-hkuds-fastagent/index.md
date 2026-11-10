@@ -1,3 +1,11 @@
+---
+title: "FastAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hkuds-fastagent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # FastAgent
 
 FastAgent is a lightweight multi-agent orchestration framework by HKUDS for low-latency tool, browser, and desktop workflow execution.

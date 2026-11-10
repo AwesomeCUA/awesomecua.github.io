@@ -1,3 +1,11 @@
+---
+title: "Proposer-Agent-Evaluator(PAE): Autonomous… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-13194/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents
 
 Combines autonomous task proposal, web interaction, and visual success evaluation to discover skills and improve browser-agent policies.
@@ -26,6 +34,18 @@ Yifei Zhou, Qianlan Yang, Kaixiang Lin, Min Bai, Xiong Zhou, Yu-Xiong Wang, Serg
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-13194/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-13194/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_13194,
+  title = {{Proposer-Agent-Evaluator(PAE): Autonomous Skill Discovery For Foundation Model Internet Agents}},
+  author = {{Yifei Zhou} and {Qianlan Yang} and {Kaixiang Lin} and {Min Bai} and {Xiong Zhou} and {Yu-Xiong Wang} and {Sergey Levine} and {Erran Li}},
+  year = {2024},
+  eprint = {2412.13194v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.13194v1},
+  note = {First published: 2024-12-17; Recorded arXiv version: v1; Recorded version updated: 2024-12-17T18:59:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

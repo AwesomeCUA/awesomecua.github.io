@@ -1,3 +1,11 @@
+---
+title: "Enhanced Claude Computer Use for Mac · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-swilliams9772-mac-computer-use/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Enhanced Claude Computer Use for Mac
 
 将 Anthropic Claude Computer Use 适配至原生 macOS，并加入扩展思考、AppleScript 集成和 Retina 坐标缩放。

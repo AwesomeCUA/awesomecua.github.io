@@ -1,3 +1,11 @@
+---
+title: "CRAB: Cross-environment Agent Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-01511/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents
 
 Introduces CRAB, a framework for cross-environment agent tasks with graph-based evaluation and a benchmark spanning desktop and phone interactions.
@@ -26,6 +34,18 @@ Tianqi Xu, Linyao Chen, Dai-Jie Wu, Yanjun Chen, Zecheng Zhang, Xiang Yao, Zhiqi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-01511/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-01511/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_01511,
+  title = {{CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents}},
+  author = {{Tianqi Xu} and {Linyao Chen} and {Dai-Jie Wu} and {Yanjun Chen} and {Zecheng Zhang} and {Xiang Yao} and {Zhiqiang Xie} and {Yongchao Chen} and {Shilong Liu} and {Bochen Qian} and {Anjie Yang} and {Zhaoxuan Jin} and {Jianbo Deng} and {Philip Torr} and {Bernard Ghanem} and {Guohao Li}},
+  year = {2024},
+  eprint = {2407.01511v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.01511v4},
+  note = {First published: 2024-07-01; Recorded arXiv version: v4; Recorded version updated: 2025-07-20T13:42:07Z.}
+}
+```
 
 ## Publication record
 

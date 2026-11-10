@@ -1,3 +1,11 @@
+---
+title: "VG-RL-filter-dataset-hf · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-07fb5e963998782505a6/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # VG-RL-filter-dataset-hf
 
 这是为 GUI-Spotlight 第二阶段训练发布的数据集；数据卡说明作者在该阶段使用了 18.5K 个样本。

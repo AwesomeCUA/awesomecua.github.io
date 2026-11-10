@@ -1,3 +1,11 @@
+---
+title: "ZennoPoster MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zennolab-zennoposter-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ZennoPoster MCP
 
 将 Claude 和 MCP 智能体连接到 ZennoPoster 7 浏览器自动化工作流的官方 Model Context Protocol 服务器。

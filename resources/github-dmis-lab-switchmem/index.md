@@ -1,3 +1,11 @@
+---
+title: "SwitchMem | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dmis-lab-switchmem/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # SwitchMem
 
 Memory-routing implementation that chooses text or image demonstrations for a frozen GUI actor, with offline evaluation and Android transfer experiments.

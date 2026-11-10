@@ -1,3 +1,11 @@
+---
+title: "Microsoft Paint MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-miguelcespedes-microsoft-paint-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Microsoft Paint MCP Server
 
 面向 Microsoft Paint 的语义化 Model Context Protocol 接口，让 AI 智能体绘制几何图形、图表并编辑画布。

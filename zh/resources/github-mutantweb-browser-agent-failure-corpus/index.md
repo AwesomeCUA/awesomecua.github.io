@@ -1,3 +1,11 @@
+---
+title: "Browser Agent Failure Corpus · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mutantweb-browser-agent-failure-corpus/
+updated: 2026-11-04
+type: dataset
+lang: zh-CN
+---
+
 # Browser Agent Failure Corpus
 
 Browser Agent Failure Corpus 是一个带版本管理的数据集，收录浏览器智能体的动作失败、执行轨迹和防护机制反例。

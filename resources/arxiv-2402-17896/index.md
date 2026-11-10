@@ -1,3 +1,11 @@
+---
+title: "Researchy Questions: A Dataset of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-17896/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents
 
 Bibliographic record for Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Corby Rosset, Ho-Lam Chung, Guanghui Qin, Ethan C. Chau, Zhuo Feng, Ahmed Awadal
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-17896/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-17896/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_17896,
+  title = {{Researchy Questions: A Dataset of Multi-Perspective, Decompositional Questions for LLM Web Agents}},
+  author = {{Corby Rosset} and {Ho-Lam Chung} and {Guanghui Qin} and {Ethan C. Chau} and {Zhuo Feng} and {Ahmed Awadallah} and {Jennifer Neville} and {Nikhil Rao}},
+  year = {2024},
+  eprint = {2402.17896v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.17896v1},
+  note = {First published: 2024-02-27; Recorded arXiv version: v1; Recorded version updated: 2024-02-27T21:27:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

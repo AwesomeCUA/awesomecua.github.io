@@ -1,3 +1,11 @@
+---
+title: "Predicate Systems (formerly SentienceAPI) · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4ee15c39dc38f230ad58/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Predicate Systems (formerly SentienceAPI)
 
 浏览器智能体运行时信任层：侧车程序在每项操作执行前按本地策略检查，SDK 将网页转为紧凑的排序元素快照，并通过 DOM 断言验证结果。

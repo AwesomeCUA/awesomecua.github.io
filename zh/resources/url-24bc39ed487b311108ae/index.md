@@ -1,3 +1,11 @@
+---
+title: "Operator System Card · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-24bc39ed487b311108ae/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Operator System Card
 
 Operator 系统卡介绍了经过训练、可从截图识别并操作网页的浏览器智能体，说明其任务评估、风险政策、用户确认机制和监控措施。
@@ -23,6 +31,17 @@ The card describes supervised learning for screen perception and input control, 
 
 - BibTeX：https://awesomecua.com/resources/url-24bc39ed487b311108ae/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-24bc39ed487b311108ae/citation.csl.json
+
+```bibtex
+@misc{cua_d1af8932538e968e7166f752,
+  title = {{Operator System Card}},
+  year = {2025},
+  month = jan,
+  publisher = {OpenAI},
+  url = {https://openai.com/index/operator-system-card},
+  note = {Publication date: 2025-01-23.}
+}
+```
 
 ## 发表记录
 

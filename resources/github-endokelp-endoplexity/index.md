@@ -1,3 +1,11 @@
+---
+title: "Endoplexity | AwesomeCUA"
+url: https://awesomecua.com/resources/github-endokelp-endoplexity/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Endoplexity
 
 Chrome extension and agentic browser controller powered by local Claude and Cursor subscriptions.

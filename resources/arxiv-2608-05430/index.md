@@ -1,3 +1,11 @@
+---
+title: "Robust Context-Aware Detection of Malicious… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-05430/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Robust Context-Aware Detection of Malicious Instructions in Text
 
 Bibliographic record for Robust Context-Aware Detection of Malicious Instructions in Text. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Buzhao Liu, Xinhang Ma, Yevgeniy Vorobeychik
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-05430/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-05430/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_05430,
+  title = {{Robust Context-Aware Detection of Malicious Instructions in Text}},
+  author = {{Buzhao Liu} and {Xinhang Ma} and {Yevgeniy Vorobeychik}},
+  year = {2026},
+  eprint = {2608.05430v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.05430v1},
+  note = {First published: 2026-08-05; Recorded arXiv version: v1; Recorded version updated: 2026-08-05T21:44:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

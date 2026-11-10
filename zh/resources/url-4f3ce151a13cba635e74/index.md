@@ -1,3 +1,11 @@
+---
+title: "Retriever AI (rtrvr.ai) · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4f3ce151a13cba635e74/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Retriever AI (rtrvr.ai)
 
 Retriever AI 浏览器智能体在用户已登录会话的 Chrome 扩展或云端浏览器中运行，读取页面结构并点击、输入、填写表单，也可通过 API 和 MCP 调用。

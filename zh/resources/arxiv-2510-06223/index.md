@@ -1,3 +1,11 @@
+---
+title: "A Multimodal GUI Architecture for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-06223/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants
 
 提出一种 MCP 架构，向语音 LLM 助手开放应用的 GUI 导航图及当前视图工具，使用户可通过语音与界面交互。
@@ -27,6 +35,18 @@ Hans G. W. van Dam
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-06223/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-06223/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_06223,
+  title = {{A Multimodal GUI Architecture for Interfacing with LLM-Based Conversational Assistants}},
+  author = {{Hans G. W. van Dam}},
+  year = {2025},
+  eprint = {2510.06223v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.06223v2},
+  note = {First published: 2025-08-31; Recorded arXiv version: v2; Recorded version updated: 2025-10-09T12:55:47Z.}
+}
+```
 
 ## arXiv 版本记录
 

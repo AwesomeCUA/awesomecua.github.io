@@ -1,3 +1,11 @@
+---
+title: "WorkArena: How Capable Are Web Agents at… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2403-07718/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?
 
 提出 ServiceNow 上的企业网页任务和 BrowserGym 接口，用于评估浏览器智能体。
@@ -27,6 +35,18 @@ Alexandre Drouin, Maxime Gasse, Massimo Caccia, Issam H. Laradji, Manuel Del Ver
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2403-07718/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2403-07718/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_07718,
+  title = {{WorkArena: How Capable Are Web Agents at Solving Common Knowledge Work Tasks?}},
+  author = {{Alexandre Drouin} and {Maxime Gasse} and {Massimo Caccia} and {Issam H. Laradji} and {Manuel Del Verme} and {Tom Marty} and {Léo Boisvert} and {Megh Thakkar} and {Quentin Cappart} and {David Vazquez} and {Nicolas Chapados} and {Alexandre Lacoste}},
+  year = {2024},
+  eprint = {2403.07718v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.07718v5},
+  note = {First published: 2024-03-12; Recorded arXiv version: v5; Recorded version updated: 2024-07-23T06:19:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

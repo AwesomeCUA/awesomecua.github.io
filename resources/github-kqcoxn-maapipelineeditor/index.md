@@ -1,3 +1,11 @@
+---
+title: "MaaPipelineEditor | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kqcoxn-maapipelineeditor/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MaaPipelineEditor
 
 A browser-based visual editor for MaaFramework Pipeline JSON that builds automation flows as connected nodes, with OCR and screenshot helpers, node templates, flow debugging and an optional local service.

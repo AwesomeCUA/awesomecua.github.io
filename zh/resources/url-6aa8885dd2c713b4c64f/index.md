@@ -1,3 +1,11 @@
+---
+title: "Pathology-Dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6aa8885dd2c713b4c64f/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # Pathology-Dataset
 
 供 Orion 计算机使用智能体在 QuPath 中执行数字病理任务的数据集：包含教程材料、基于 CAMELYON 切片的淋巴结转移分割和 TP53 指数计算，并附测试套件。

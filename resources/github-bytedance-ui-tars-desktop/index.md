@@ -1,3 +1,11 @@
+---
+title: "UI-TARS Desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bytedance-ui-tars-desktop/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # UI-TARS Desktop
 
 Desktop app for a local GUI agent driven by UI-TARS and Seed-1.5-VL/1.6 models, offering local and remote operators for computers and browsers; the repository also ships the Agent TARS CLI and web UI.

@@ -1,3 +1,11 @@
+---
+title: "AgentSynth tasks and trajectories · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-58a209f2b3b970916396/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # AgentSynth tasks and trajectories
 
 已发布的 AgentSynth 任务定义和记录的 GUI 轨迹，包含 OSWorld 及 InSTA 训练配置，以及打包的截图、思考内容和命令。

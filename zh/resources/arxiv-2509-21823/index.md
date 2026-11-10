@@ -1,3 +1,11 @@
+---
+title: "ProRe: A Proactive Reward System for GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-21823/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration
 
 ProRe 让推理器向专用执行智能体分配有针对性的环境探查任务，以评估 GUI 任务结果；新增观测用于奖励判断，并分别评估评判准确率和后续智能体任务成功率。
@@ -27,6 +35,18 @@ Gaole Dai, Shiqi Jiang, Ting Cao, Yuqing Yang, Yuanchun Li, Rui Tan, Mo Li, Lili
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-21823/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-21823/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_21823,
+  title = {{ProRe: A Proactive Reward System for GUI Agents via Reasoner-Actor Collaboration}},
+  author = {{Gaole Dai} and {Shiqi Jiang} and {Ting Cao} and {Yuqing Yang} and {Yuanchun Li} and {Rui Tan} and {Mo Li} and {Lili Qiu}},
+  year = {2025},
+  eprint = {2509.21823v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.21823v2},
+  note = {First published: 2025-09-26; Recorded arXiv version: v2; Recorded version updated: 2026-04-15T09:19:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

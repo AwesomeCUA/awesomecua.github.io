@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-playwright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chenyuheee-dsh-browser-playwright/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-browser-playwright
 
 Snapshot-first Playwright browser automation plugin for DeepSeek Harness using accessibility-tree interactions.

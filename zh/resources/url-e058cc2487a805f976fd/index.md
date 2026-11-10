@@ -1,3 +1,11 @@
+---
+title: "WebThinker-QwQ-32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e058cc2487a805f976fd/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # WebThinker-QwQ-32B
 
 WebThinker-QwQ-32B 是一款已发布的推理模型，可在撰写研究报告时搜索和浏览网页。模型卡介绍了利用推理轨迹生成的偏好数据进行训练的方法。

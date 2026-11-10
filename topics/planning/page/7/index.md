@@ -1,3 +1,11 @@
+---
+title: "Planning — computer-use research, page 7 | AwesomeCUA"
+url: https://awesomecua.com/topics/planning/page/7/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Planning — computer-use research, page 7
 
 HTML page: https://awesomecua.com/topics/planning/page/7/

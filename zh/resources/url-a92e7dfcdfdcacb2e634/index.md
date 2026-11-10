@@ -1,3 +1,11 @@
+---
+title: "GUI-Owl 32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a92e7dfcdfdcacb2e634/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-Owl 32B
 
 Mobile-Agent-v3 项目的 32B GUI-Owl 检查点，基于 Qwen2.5-VL-32B-Instruct 微调，用于 GUI 定位和操作，可在 Mobile-Agent-v3 框架中充当专门智能体。

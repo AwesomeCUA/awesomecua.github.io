@@ -1,3 +1,11 @@
+---
+title: "Local Computer-Use Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-storage1n1-local-computer-use-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Local Computer-Use Agent
 
 Offline computer-use agent combining Ollama vision-language models (`qwen3-vl`, `minicpm-v`) with Set-of-Marks grounding and crop-zoom refinement.

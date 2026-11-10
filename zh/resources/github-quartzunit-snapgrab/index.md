@@ -1,3 +1,11 @@
+---
+title: "Snapgrab · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-quartzunit-snapgrab/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Snapgrab
 
 Snapgrab 通过 Python API 和 MCP 工具获取网站截图与页面元数据，并提供视口及图像格式选项。

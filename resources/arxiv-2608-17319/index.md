@@ -1,3 +1,11 @@
+---
+title: "Wuying-Browser-Agent: Real-World Centric… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-17319/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Wuying-Browser-Agent: Real-World Centric Fundamental Long-Horizon Browser Agents
 
 Combines a browser execution framework, recovery-oriented supervision, and online reinforcement learning, with a bilingual live-web task benchmark.
@@ -26,6 +34,18 @@ AIMAE Team, Tianxiang Chen, Yan Cheng, Zhangye Han, Xiaowei Li, Chang Liu, Cheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-17319/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-17319/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_17319,
+  title = {{Wuying-Browser-Agent: Real-World Centric Fundamental Long-Horizon Browser Agents}},
+  author = {{AIMAE Team} and {Tianxiang Chen} and {Yan Cheng} and {Zhangye Han} and {Xiaowei Li} and {Chang Liu} and {Cheng Liu} and {Zhongqiang Ma} and {Long Peng} and {Xiaobing Tu} and {Yinggui Wang} and {Hongliang Wei} and {Chen Wu} and {Daiping Xin} and {Kunyu Zhou} and {Pengyang Zhou} and {Peiyuan Chen} and {Ziyuan Chen} and {Yutao Deng} and {Chunyu Dong} and {Xiangyu Fu} and {Yicheng Feng} and {Ruian He} and {Haochen Li} and {Miancan Liu} and {Zhengqin Liu} and {Wei Peng} and {Jinkui Ren} and {Haoyu Tan} and {Dong Xiao} and {Rongkun Xue} and {Shujian Yang} and {Xianhang Ye} and {Ziqi Yuan} and {Ziyang Yu} and {Linghan Zhang} and {Xiantao Zhang} and {Xuanpu Zhao} and {Yinan Zhao} and {Zhenghui Zhao} and {Bin Zhu} and {Likai Zou}},
+  year = {2026},
+  eprint = {2608.17319v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.17319v1},
+  note = {First published: 2026-08-18; Recorded arXiv version: v1; Recorded version updated: 2026-08-18T03:23:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

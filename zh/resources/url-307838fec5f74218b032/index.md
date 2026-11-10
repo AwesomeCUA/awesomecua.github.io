@@ -1,3 +1,11 @@
+---
+title: "Browse AI · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-307838fec5f74218b032/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Browse AI
 
 无代码网页抓取与监测平台，其机器人在目标网站上重放录制的点击、输入、下拉选择、登录和翻页，或由 AI 创建数据表，再按计划提取数据。

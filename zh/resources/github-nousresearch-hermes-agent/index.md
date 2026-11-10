@@ -1,3 +1,11 @@
+---
+title: "Hermes Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nousresearch-hermes-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Hermes Agent
 
 Hermes Agent 是 Nous Research 开发的可自我改进的自主智能体，具备程序化技能合成、浏览器控制和多平台沙箱功能。

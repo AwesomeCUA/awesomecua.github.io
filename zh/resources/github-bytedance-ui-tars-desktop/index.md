@@ -1,3 +1,11 @@
+---
+title: "UI-TARS Desktop · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bytedance-ui-tars-desktop/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # UI-TARS Desktop
 
 由 UI-TARS 和 Seed-1.5-VL/1.6 模型驱动的本地 GUI 智能体桌面应用，提供计算机及浏览器的本地和远程操作器；仓库还提供 Agent TARS CLI 和网页界面。

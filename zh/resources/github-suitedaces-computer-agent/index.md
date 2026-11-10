@@ -1,3 +1,11 @@
+---
+title: "Taskhomie · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-suitedaces-computer-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Taskhomie
 
 Taskhomie 是本地计算机使用智能体，通过截图、鼠标和键盘动作及 shell 命令执行自然语言描述的桌面任务。

@@ -1,3 +1,11 @@
+---
+title: "agent-browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vercel-labs-agent-browser/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # agent-browser
 
 面向 AI 智能体的浏览器自动化命令行接口，提供浏览器状态和交互命令。

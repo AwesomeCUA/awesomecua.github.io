@@ -1,3 +1,11 @@
+---
+title: "MobileIPL: Enhancing Mobile Agents Thinking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-12299/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning
 
 MobileIPL samples trees of action-planning thoughts, propagates rule-based leaf rewards backward, and forms preference pairs for reasoning-level optimization. It also expands screenshot-based instruction data through staged evolution before evaluation on mobile GUI-agent benchmarks.
@@ -26,6 +34,18 @@ Kun Huang, Weikai Xu, Yuxuan Liu, Quandong Wang, Pengzhi Gao, Wei Liu, Jian Luan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-12299/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-12299/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_12299,
+  title = {{MobileIPL: Enhancing Mobile Agents Thinking Process via Iterative Preference Learning}},
+  author = {{Kun Huang} and {Weikai Xu} and {Yuxuan Liu} and {Quandong Wang} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Bin Wang} and {Bo An}},
+  year = {2025},
+  eprint = {2505.12299v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.12299v4},
+  note = {First published: 2025-05-18; Recorded arXiv version: v4; Recorded version updated: 2026-03-21T09:25:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

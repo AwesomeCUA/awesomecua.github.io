@@ -1,3 +1,11 @@
+---
+title: "DesignRepair: Dual-Stream Design… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-01606/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models
 
 Bibliographic record for DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mingyue Yuan, Jieshan Chen, Zhenchang Xing, Aaron Quigley, Yuyu Luo, Tianqi Luo,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-01606/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-01606/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_01606,
+  title = {{DesignRepair: Dual-Stream Design Guideline-Aware Frontend Repair with Large Language Models}},
+  author = {{Mingyue Yuan} and {Jieshan Chen} and {Zhenchang Xing} and {Aaron Quigley} and {Yuyu Luo} and {Tianqi Luo} and {Gelareh Mohammadi} and {Qinghua Lu} and {Liming Zhu}},
+  year = {2024},
+  eprint = {2411.01606v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.01606v2},
+  note = {First published: 2024-11-03; Recorded arXiv version: v2; Recorded version updated: 2024-12-12T11:27:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

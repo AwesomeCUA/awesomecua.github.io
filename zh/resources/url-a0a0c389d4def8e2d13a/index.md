@@ -1,3 +1,11 @@
+---
+title: "Asteroid · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a0a0c389d4def8e2d13a/
+updated: 2026-10-19
+type: product
+lang: zh-CN
+---
+
 # Asteroid
 
 托管医疗自动化平台，其智能体通过屏幕操作 EHR、保险支付方门户及 Windows、Linux 或 Citrix 应用，再将重复运行转为脚本或私有 API 调用，并以 API 提供服务。

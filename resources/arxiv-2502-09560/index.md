@@ -1,3 +1,11 @@
+---
+title: "EmbodiedBench: Comprehensive Benchmarking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-09560/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents
 
 Bibliographic record for EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Rui Yang, Hanyang Chen, Junyu Zhang, Mark Zhao, Cheng Qian, Kangrui Wang, Qineng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-09560/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-09560/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_09560,
+  title = {{EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents}},
+  author = {{Rui Yang} and {Hanyang Chen} and {Junyu Zhang} and {Mark Zhao} and {Cheng Qian} and {Kangrui Wang} and {Qineng Wang} and {Teja Venkat Koripella} and {Marziyeh Movahedi} and {Manling Li} and {Heng Ji} and {Huan Zhang} and {Tong Zhang}},
+  year = {2025},
+  eprint = {2502.09560v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.09560v3},
+  note = {First published: 2025-02-13; Recorded arXiv version: v3; Recorded version updated: 2025-06-05T07:22:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

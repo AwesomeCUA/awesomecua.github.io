@@ -1,3 +1,11 @@
+---
+title: "ParamMem: Augmenting Language Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-23320/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ParamMem: Augmenting Language Agents with Parametric Reflective Memory
 
 Status: excluded from the active CUA catalog after scope review.

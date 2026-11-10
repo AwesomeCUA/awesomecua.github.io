@@ -1,3 +1,11 @@
+---
+title: "WebOperator (github.com/KazKozDev/WebOperator) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kazkozdev-weboperator/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # WebOperator
 
 WebOperator is an AI browser agent and MCP server that automates a user's existing Chrome profile through the Chrome DevTools Protocol.

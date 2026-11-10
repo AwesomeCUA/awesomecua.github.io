@@ -1,3 +1,11 @@
+---
+title: "Intent Browser Runtime (ibr) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hop-top-ibr/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Intent Browser Runtime (ibr)
 
 Intent Browser Runtime（ibr）使用 Playwright 和 Vercel AI SDK，将自然语言指令转化为稳健的 XPath/DOM 动作。

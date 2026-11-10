@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-8B-Thinking | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d1305a893a47ac03d0de/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-VL-8B-Thinking
 
 A general vision-language weight release whose documented visual-agent capability includes recognizing PC and mobile GUI elements and invoking tools to complete tasks.

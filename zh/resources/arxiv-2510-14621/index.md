@@ -1,3 +1,11 @@
+---
+title: "ColorBench: Benchmarking Mobile Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-14621/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks
 
 ColorBench 用从真实设备采集的状态图表示移动端任务，提供包含多条有效路径和错误路径的准动态环境。它以完成情况、子任务进度和原子级诊断评估单应用及跨应用任务。
@@ -27,6 +35,18 @@ Yuanyi Song, Heyuan Huang, Qiqiang Lin, Yin Zhao, Xiangmou Qu, Jun Wang, Xingyu 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-14621/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-14621/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_14621,
+  title = {{ColorBench: Benchmarking Mobile Agents with Graph-Structured Framework for Complex Long-Horizon Tasks}},
+  author = {{Yuanyi Song} and {Heyuan Huang} and {Qiqiang Lin} and {Yin Zhao} and {Xiangmou Qu} and {Jun Wang} and {Xingyu Lou} and {Weiwen Liu} and {Zhuosheng Zhang} and {Jun Wang} and {Yong Yu} and {Weinan Zhang} and {Zhaoxiang Wang}},
+  year = {2025},
+  eprint = {2510.14621v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.14621v1},
+  note = {First published: 2025-10-16; Recorded arXiv version: v1; Recorded version updated: 2025-10-16T12:30:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

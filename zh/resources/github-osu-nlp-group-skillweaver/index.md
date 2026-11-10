@@ -1,3 +1,11 @@
+---
+title: "SkillWeaver · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-skillweaver/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # SkillWeaver
 
 网页智能体框架，可探索网站、合成可复用的交互 API，并构建供后续任务使用的技能库。

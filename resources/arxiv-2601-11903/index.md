@@ -1,3 +1,11 @@
+---
+title: "AEMA: Verifiable Evaluation Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-11903/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AEMA: Verifiable Evaluation Framework for Trustworthy and Controlled Agentic LLM Systems
 
 Status: excluded from the active CUA catalog after scope review.

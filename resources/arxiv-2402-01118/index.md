@@ -1,3 +1,11 @@
+---
+title: "PokeLLMon: A Human-Parity Agent for Pokemon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-01118/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PokeLLMon: A Human-Parity Agent for Pokemon Battles with Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

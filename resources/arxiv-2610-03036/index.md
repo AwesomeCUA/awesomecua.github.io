@@ -1,3 +1,11 @@
+---
+title: "WebFovea: When the Model Is Right but the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-03036/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites
 
 Describes WebFovea, a vision-based live-web agent whose execution loop checks action parsing, browser effects, feedback accuracy, and observation delivery. The report analyzes failures such as coordinate mismatches and silent control interactions and documents corresponding harness changes.
@@ -26,6 +34,18 @@ Jiangang Han
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-03036/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-03036/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_03036,
+  title = {{WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites}},
+  author = {{Jiangang Han}},
+  year = {2026},
+  eprint = {2610.03036v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.03036v2},
+  note = {First published: 2026-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-10-07T13:46:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

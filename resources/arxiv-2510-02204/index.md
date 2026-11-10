@@ -1,3 +1,11 @@
+---
+title: "Say One Thing, Do Another? Diagnosing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-02204/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents
 
 Introduces an evaluation framework for mobile GUI agents that compares actions implied by their reasoning with intended and executed actions to diagnose mismatches.
@@ -26,6 +34,18 @@ Lingzhong Dong, Ziqi Zhou, Shuaibo Yang, Haiyue Sheng, Pengzhou Cheng, Zongru Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-02204/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-02204/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_02204,
+  title = {{Say One Thing, Do Another? Diagnosing Reasoning-Execution Gaps in VLM-Powered Mobile-Use Agents}},
+  author = {{Lingzhong Dong} and {Ziqi Zhou} and {Shuaibo Yang} and {Haiyue Sheng} and {Pengzhou Cheng} and {Zongru Wu} and {Zheng Wu} and {Gongshen Liu} and {Zhuosheng Zhang}},
+  year = {2025},
+  eprint = {2510.02204v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.02204v1},
+  note = {First published: 2025-10-02; Recorded arXiv version: v1; Recorded version updated: 2025-10-02T16:51:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

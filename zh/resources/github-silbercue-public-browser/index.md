@@ -1,3 +1,11 @@
+---
+title: "Public Browser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-silbercue-public-browser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Public Browser
 
 面向 Claude Code 和 Cursor、节省 token 的 Chrome 自动化桥接工具和 CLI。

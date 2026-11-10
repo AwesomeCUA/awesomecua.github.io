@@ -1,3 +1,11 @@
+---
+title: "Mage-VL-Cowork: A Full Training Recipe… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-40747/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses
 
 提出 Mage-VL-Cowork，一款针对 GUI、代码和终端操作训练的计算机使用智能体；Mage-CUA-Forge 生成桌面与网页训练任务。
@@ -27,6 +35,18 @@ Xiaoyi Zhang, Haoqing Wang, Xinjie Zhang, Xiang Ming, Xing Wang, Senqiao Yang, K
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-40747/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-40747/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_40747,
+  title = {{Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses}},
+  author = {{Xiaoyi Zhang} and {Haoqing Wang} and {Xinjie Zhang} and {Xiang Ming} and {Xing Wang} and {Senqiao Yang} and {Kaichen Zhang} and {Zhaoyang Jia} and {Andong Tan} and {Xinjiang Wang} and {Jinghao Guo} and {Yifei Shen} and {Xiao Li} and {Peng Zhang} and {Xun Guo} and {Jiahao Li} and {Shicheng Zheng} and {Jinglu Wang} and {Zongyu Guo} and {Wenxuan Xie} and {Bin Li} and {Yan Lu}},
+  year = {2026},
+  eprint = {2610.40747v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.40747v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T15:54:48Z.}
+}
+```
 
 ## arXiv 版本记录
 

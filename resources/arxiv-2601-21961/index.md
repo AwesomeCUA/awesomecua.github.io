@@ -1,3 +1,11 @@
+---
+title: "How do Visual Attributes Influence Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-21961/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors
 
 Introduces VAF, a controlled pipeline that varies webpage appearance while retaining item semantics. It measures both agent clicks and reasoning references to study which visual design factors change browsing decisions.
@@ -26,6 +34,18 @@ Kuai Yu, Naicheng Yu, Han Wang, Rui Yang, Huan Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-21961/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-21961/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_21961,
+  title = {{How do Visual Attributes Influence Web Agents? A Comprehensive Evaluation of User Interface Design Factors}},
+  author = {{Kuai Yu} and {Naicheng Yu} and {Han Wang} and {Rui Yang} and {Huan Zhang}},
+  year = {2026},
+  eprint = {2601.21961v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.21961v2},
+  note = {First published: 2026-01-29; Recorded arXiv version: v2; Recorded version updated: 2026-02-27T16:47:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

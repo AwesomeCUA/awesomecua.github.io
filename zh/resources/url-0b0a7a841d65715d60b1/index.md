@@ -1,3 +1,11 @@
+---
+title: "VeriOS-Agent-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0b0a7a841d65715d60b1/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # VeriOS-Agent-7B
 
 一个 7B 操作系统智能体模型，在正常情况下执行 GUI 操作，识别到不可信场景时向人询问，采用 SFT 与 GRPO 分三阶段训练。

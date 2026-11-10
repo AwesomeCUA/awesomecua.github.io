@@ -1,3 +1,11 @@
+---
+title: "MobileSafetyBench: Evaluating Safety of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-17520/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control
 
 Evaluates mobile agents on misuse, side effects, and indirect prompt-injection risks in an Android emulator environment.
@@ -26,6 +34,18 @@ Juyong Lee, Dongyoon Hahm, June Suk Choi, W. Bradley Knox, Kimin Lee
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-17520/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-17520/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_17520,
+  title = {{MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control}},
+  author = {{Juyong Lee} and {Dongyoon Hahm} and {June Suk Choi} and {W. Bradley Knox} and {Kimin Lee}},
+  year = {2024},
+  eprint = {2410.17520v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.17520v3},
+  note = {First published: 2024-10-23; Recorded arXiv version: v3; Recorded version updated: 2026-01-27T01:51:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

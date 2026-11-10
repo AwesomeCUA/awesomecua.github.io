@@ -1,3 +1,11 @@
+---
+title: "WorldGUI-Bench · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b540fe81c57cedb1f556/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # WorldGUI-Bench
 
 这套桌面图形界面评估数据包含用户请求、教学视频和用于改变任务初始状态的预操作，并提供任务元数据与数据归档。

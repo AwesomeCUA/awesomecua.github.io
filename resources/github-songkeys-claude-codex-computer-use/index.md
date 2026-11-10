@@ -1,3 +1,11 @@
+---
+title: "Claude Codex Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-songkeys-claude-codex-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Claude Codex Computer Use
 
 Bridge allowing Claude Code to invoke OpenAI Codex's native macOS Computer Use engine.

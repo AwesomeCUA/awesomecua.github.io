@@ -1,3 +1,11 @@
+---
+title: "Awesome Computer Use · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-philfung-awesome-computer-use/
+updated: 2026-11-09
+type: learning
+lang: zh-CN
+---
+
 # Awesome Computer Use
 
 一份计算机图形界面操作领域的精选资料清单，收录桌面与网页智能体的演示、框架和论文。

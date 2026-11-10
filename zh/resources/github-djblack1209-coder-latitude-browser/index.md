@@ -1,3 +1,11 @@
+---
+title: "Latitude Browser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-djblack1209-coder-latitude-browser/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Latitude Browser
 
 用于管理隔离的浏览器配置文件、代理路由和多会话网页自动化的桌面工作空间。

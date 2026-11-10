@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-72B-Instruct-GPTQ-Int4 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-272f5b74277ca7a8f1f5/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2-VL-72B-Instruct-GPTQ-Int4
 
 这是一款用于理解图像和视频的量化 Qwen2-VL 视觉语言模型。模型卡还描述了依据视觉信息和指令操作移动设备的能力。

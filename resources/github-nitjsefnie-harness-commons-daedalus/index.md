@@ -1,3 +1,11 @@
+---
+title: "Daedalus Browser Bridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nitjsefnie-harness-commons-daedalus/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Daedalus Browser Bridge
 
 Chrome-extension remote control bridge allowing AI agents to drive a live Chrome instance over HTTP.

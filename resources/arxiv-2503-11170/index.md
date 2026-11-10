@@ -1,3 +1,11 @@
+---
+title: "DeskVision: Large Scale Desktop Region… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-11170/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents
 
 Introduces AutoCaptioner, DeskVision, and GUIExplorer for generating desktop region descriptions and training interface-understanding models.
@@ -26,6 +34,18 @@ Yibin Xu, Liang Yang, Hao Chen, Hua Wang, Zhi Chen, Yaohua Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-11170/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-11170/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_11170,
+  title = {{DeskVision: Large Scale Desktop Region Captioning for Advanced GUI Agents}},
+  author = {{Yibin Xu} and {Liang Yang} and {Hao Chen} and {Hua Wang} and {Zhi Chen} and {Yaohua Tang}},
+  year = {2025},
+  eprint = {2503.11170v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.11170v1},
+  note = {First published: 2025-03-14; Recorded arXiv version: v1; Recorded version updated: 2025-03-14T08:16:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

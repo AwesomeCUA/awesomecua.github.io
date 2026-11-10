@@ -1,3 +1,11 @@
+---
+title: "Chrome Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-frsorrentino-chrome-bridge/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Chrome Bridge
 
 MCP 服务器加 Chrome 扩展，让 Claude Code 操作用户已登录的 Chrome，提供 69 个工具，涵盖表单、导航、DOM 与网络检查、审计以及页面声明的 WebMCP 工具。

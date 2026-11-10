@@ -1,3 +1,11 @@
+---
+title: "PokeClaw · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agents-io-pokeclaw/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # PokeClaw
 
 Android 应用在设备端运行手机控制智能体，通过 Accessibility 服务读取 UI 树，并用设备端 Gemma 4 或可选云端模型执行点击、滑动和输入。

@@ -1,3 +1,11 @@
+---
+title: "AI Vision (Chrome Screenshot Assistant) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-stiwarilbj-ai-vision/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AI Vision (Chrome Screenshot Assistant)
 
 Chrome extension that captures selected webpage regions for Gemini visual analysis, OCR extraction, and contextual Q&A.

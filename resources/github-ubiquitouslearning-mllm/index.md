@@ -1,3 +1,11 @@
+---
+title: "mllm | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ubiquitouslearning-mllm/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # mllm
 
 mllm is a C++ multimodal LLM inference engine optimized for on-device execution on mobile NPU/CPU hardware.

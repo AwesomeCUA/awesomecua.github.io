@@ -1,3 +1,11 @@
+---
+title: "VillagerAgent & VillagerBench · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cnsdqd-dyb-villageragent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # VillagerAgent & VillagerBench
 
 VillagerAgent 提供基于有向无环图的多智能体协调器，以及 Minecraft 中的 VillagerBench 评测套件。

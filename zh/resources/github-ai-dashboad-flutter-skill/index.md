@@ -1,3 +1,11 @@
+---
+title: "flutter-skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ai-dashboad-flutter-skill/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # flutter-skill
 
 这是一个 MCP 服务器和命令行工具，为智能体提供检查和操作运行中网页、桌面及移动应用的能力，支持导航、点击、输入和测试断言。

@@ -1,3 +1,11 @@
+---
+title: "ORBIT: A Framework for Multi-Agent Safety and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-33102/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # ORBIT: A Framework for Multi-Agent Safety and Security Evaluations
 
 Inspect-based framework that varies multi-agent roles, communication, attacks and defenses, with BrowserGym and virtual-desktop GUI adapters alongside coding and other tool scenarios.
@@ -26,6 +34,18 @@ Ben Hagag, William L. Anderson, Srija Chakraborty, Christian Schroeder de Witt
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-33102/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-33102/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_33102,
+  title = {{ORBIT: A Framework for Multi-Agent Safety and Security Evaluations}},
+  author = {{Ben Hagag} and {William L. Anderson} and {Srija Chakraborty} and {Christian Schroeder de Witt}},
+  year = {2026},
+  eprint = {2609.33102v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.33102v1},
+  note = {First published: 2026-09-27; Recorded arXiv version: v1; Recorded version updated: 2026-09-27T02:20:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

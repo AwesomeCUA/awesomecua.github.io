@@ -1,3 +1,11 @@
+---
+title: "HealthEnv | AwesomeCUA"
+url: https://awesomecua.com/resources/github-possibleme2026-lang-healthenv/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # HealthEnv
 
 HealthEnv compiles longitudinal clinical question-answering tasks into stateful, verifiable computer-use evaluation environments.

@@ -1,13 +1,17 @@
+---
+title: "Automation — computer-use research, page 18 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/18/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 18
 
 HTML page: https://awesomecua.com/topics/automation/page/18/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [mcp-remote-macos-use](https://awesomecua.com/resources/github-baryhuang-mcp-remote-macos-use/)
-- [mcp-serial-hid-kvm](https://awesomecua.com/resources/github-sunasaji-mcp-serial-hid-kvm/)
-- [mcp-server-browser-use](https://awesomecua.com/resources/github-saik0s-mcp-browser-use/)
-- [mcp-server-macos-use](https://awesomecua.com/resources/github-mediar-ai-mcp-server-macos-use/)
 - [mcp-vroid](https://awesomecua.com/resources/github-nhodges-mcp-vroid/)
 - [MCPSafari](https://awesomecua.com/resources/github-epistates-mcpsafari/)
 - [md-e2e](https://awesomecua.com/resources/github-a-ryan-kr-md-e2e/)
@@ -60,7 +64,11 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Nanobrowser Free AI](https://awesomecua.com/resources/github-aminemabrouk17-nanobrowser-free-ai/)
 - [nanoMuse](https://awesomecua.com/resources/github-nano-muse-nanomuse/)
 - [natbot](https://awesomecua.com/resources/github-nat-natbot/)
-- [Native by K](https://awesomecua.com/resources/github-karunya-muddana-native/)
 - [native-devtools-mcp](https://awesomecua.com/resources/github-vectora-foundry-native-devtools-mcp/)
 - [NaveedAshraf Browser Bridge](https://awesomecua.com/resources/github-naveedashraf1-browser-automation-extension/)
 - [navforge](https://awesomecua.com/resources/github-huzjie-navforge/)
+- [NaviFlow](https://awesomecua.com/resources/github-marc-ing-navi-flow/)
+- [Nehemiah](https://awesomecua.com/resources/github-boringcomputers-nehemiah/)
+- [NekoPilot](https://awesomecua.com/resources/github-skyaerope-nekopilot/)
+- [nekoro-browser](https://awesomecua.com/resources/github-zeshuochen-nekoro-browser/)
+- [Nell (Open Source Instinct)](https://awesomecua.com/resources/github-iabdulwasey-nell/)

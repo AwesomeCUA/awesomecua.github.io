@@ -1,11 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 19 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/19/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 19
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/19/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [Firecrawl Agent-Browser Plugin](https://awesomecua.com/resources/github-firecrawl-agent-browser-plugin-firecrawl/)
-- [Firecrawl MCP Server](https://awesomecua.com/resources/github-firecrawl-firecrawl-mcp-server/)
 - [Firefox DevTools MCP](https://awesomecua.com/resources/github-mozilla-firefox-devtools-mcp/)
 - [firefox-bidi-mcp](https://awesomecua.com/resources/github-enne2-firefox-bidi-mcp/)
 - [firefox-headless-server MCP](https://awesomecua.com/resources/github-qoli-firefox-headless-server/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [guo6x dsh-pilot](https://awesomecua.com/resources/github-guo6x-dsh-pilot/)
 - [haden-browser](https://awesomecua.com/resources/github-haden-min-haden-browser/)
 - [hai-agents](https://awesomecua.com/resources/github-hcompai-hai-agents-python/)
+- [hai-agents](https://awesomecua.com/resources/github-hcompai-hai-agents-ts/)
+- [handraise](https://awesomecua.com/resources/github-sy-d-handraise/)

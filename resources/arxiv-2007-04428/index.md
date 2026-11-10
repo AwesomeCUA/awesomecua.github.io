@@ -1,3 +1,11 @@
+---
+title: "Discourse Coherence, Reference Grounding and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2007-04428/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Discourse Coherence, Reference Grounding and Goal Oriented Dialogue
 
 Status: excluded from the active CUA catalog after scope review.

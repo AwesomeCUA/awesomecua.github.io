@@ -1,3 +1,11 @@
+---
+title: "WALL-E: Embodied Robotic WAiter Load Lifting… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-15962/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # WALL-E: Embodied Robotic WAiter Load Lifting with Large Language Model
 
 Bibliographic record for WALL-E: Embodied Robotic WAiter Load Lifting with Large Language Model. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Tianyu Wang, Yifan Li, Haitao Lin, Xiangyang Xue, Yanwei Fu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-15962/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-15962/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_15962,
+  title = {{WALL-E: Embodied Robotic WAiter Load Lifting with Large Language Model}},
+  author = {{Tianyu Wang} and {Yifan Li} and {Haitao Lin} and {Xiangyang Xue} and {Yanwei Fu}},
+  year = {2023},
+  eprint = {2308.15962v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.15962v2},
+  note = {First published: 2023-08-30; Recorded arXiv version: v2; Recorded version updated: 2023-08-31T13:51:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

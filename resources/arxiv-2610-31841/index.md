@@ -1,3 +1,11 @@
+---
+title: "FORCA: A Force-Aware Coding Agent for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-31841/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation
 
 Bibliographic record for FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiao Tan, Yixuan Wang, Zhexi Wang, Wenzhen Yuan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-31841/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-31841/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_31841,
+  title = {{FORCA: A Force-Aware Coding Agent for Contact-Rich Robot Manipulation}},
+  author = {{Xiao Tan} and {Yixuan Wang} and {Zhexi Wang} and {Wenzhen Yuan}},
+  year = {2026},
+  eprint = {2610.31841v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.31841v1},
+  note = {First published: 2026-10-22; Recorded arXiv version: v1; Recorded version updated: 2026-10-22T19:24:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

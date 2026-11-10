@@ -1,3 +1,11 @@
+---
+title: "Sandbox0 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sandbox0-ai-sandbox0/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Sandbox0
 
 Sandbox0 is an open-source cloud sandbox platform with persistent storage volumes and sub-second microVM/container resume for AI agents.

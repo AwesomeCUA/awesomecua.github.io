@@ -1,3 +1,11 @@
+---
+title: "lumos_unified_plan_iterative (model) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-457c2111894524e9dfda/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # lumos_unified_plan_iterative
 
 A released Lumos planning checkpoint fine-tuned for web-agent tasks alongside question answering, multimodal, and math tasks.

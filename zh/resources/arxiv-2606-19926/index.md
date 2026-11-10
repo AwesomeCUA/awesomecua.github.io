@@ -1,3 +1,11 @@
+---
+title: "MemGUI-Agent: An End-to-End Long-Horizon… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-19926/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management
 
 MemGUI-Agent 让控制移动端 UI 的同一策略自主选择上下文管理操作。模型利用标注轨迹训练结构化历史、UI 状态和近期步骤字段，以保留跨应用事实并限制上下文增长。
@@ -27,6 +35,18 @@ Guangyi Liu, Gao Wu, Congxiao Liu, Pengxiang Zhao, Liang Liu, Mading Li, Qi Zhan
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-19926/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-19926/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_19926,
+  title = {{MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management}},
+  author = {{Guangyi Liu} and {Gao Wu} and {Congxiao Liu} and {Pengxiang Zhao} and {Liang Liu} and {Mading Li} and {Qi Zhang} and {Mengyan Wang} and {Liang Guo} and {Yong Liu}},
+  year = {2026},
+  eprint = {2606.19926v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.19926v1},
+  note = {First published: 2026-06-18; Recorded arXiv version: v1; Recorded version updated: 2026-06-18T08:26:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

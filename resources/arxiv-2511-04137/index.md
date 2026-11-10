@@ -1,3 +1,11 @@
+---
+title: "Learning from Online Videos at Inference Time… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-04137/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Learning from Online Videos at Inference Time for Computer-Use Agents
 
 This work retrieves online video tutorials and converts them into structured GUI action demonstrations with short objectives. A two-stage selection process supplies a relevant local trajectory as in-context guidance at each execution step.
@@ -26,6 +34,18 @@ Yujian Liu, Ze Wang, Hao Chen, Ximeng Sun, Xiaodong Yu, Jialian Wu, Jiang Liu, E
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-04137/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-04137/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_04137,
+  title = {{Learning from Online Videos at Inference Time for Computer-Use Agents}},
+  author = {{Yujian Liu} and {Ze Wang} and {Hao Chen} and {Ximeng Sun} and {Xiaodong Yu} and {Jialian Wu} and {Jiang Liu} and {Emad Barsoum} and {Zicheng Liu} and {Shiyu Chang}},
+  year = {2025},
+  eprint = {2511.04137v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.04137v1},
+  note = {First published: 2025-11-06; Recorded arXiv version: v1; Recorded version updated: 2025-11-06T07:29:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

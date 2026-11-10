@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis 4B AW | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a2362e23fdcbc73763e6/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # OS-Genesis 4B AW
 
 InternVL2-4B checkpoint fine-tuned on OS-Genesis AndroidWorld trajectories; its card prompt pairs a screenshot and accessibility tree with the goal and action history to produce the next thought and action.

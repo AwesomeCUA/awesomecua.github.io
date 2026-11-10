@@ -1,3 +1,11 @@
+---
+title: "jev-browser (github.com/MahmoudAdelbghany/jev-… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mahmoudadelbghany-jev-browser/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # jev-browser
 
 jev-browser is an MCP server that lets an agent navigate Chromium pages through Jev-selected actions. It checks page changes and returns uncertain steps to the driving agent.

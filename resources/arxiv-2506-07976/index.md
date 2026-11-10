@@ -1,3 +1,11 @@
+---
+title: "Thinking vs. Doing: Agents that Reason by… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-07976/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction
 
 Test-Time Interaction scales the interaction horizon so web agents can explore, backtrack and revise plans within a rollout. Its online reinforcement-learning curriculum adjusts rollout lengths and is evaluated on WebVoyager and WebArena.
@@ -26,6 +34,18 @@ Junhong Shen, Hao Bai, Lunjun Zhang, Yifei Zhou, Amrith Setlur, Shengbang Tong, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2506-07976/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2506-07976/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_07976,
+  title = {{Thinking vs. Doing: Agents that Reason by Scaling Test-Time Interaction}},
+  author = {{Junhong Shen} and {Hao Bai} and {Lunjun Zhang} and {Yifei Zhou} and {Amrith Setlur} and {Shengbang Tong} and {Diego Caples} and {Nan Jiang} and {Tong Zhang} and {Ameet Talwalkar} and {Aviral Kumar}},
+  year = {2025},
+  eprint = {2506.07976v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.07976v2},
+  note = {First published: 2025-06-09; Recorded arXiv version: v2; Recorded version updated: 2025-06-10T12:50:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

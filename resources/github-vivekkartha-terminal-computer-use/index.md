@@ -1,3 +1,11 @@
+---
+title: "Terminal Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vivekkartha-terminal-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Terminal Computer Use
 
 Terminal Computer Use provides shell-based desktop automation skills for managing files, windows, and clipboards without screenshot loops.

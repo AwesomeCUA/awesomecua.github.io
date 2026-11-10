@@ -1,10 +1,17 @@
+---
+title: "评测：Computer-Use 研究与资源（第 25 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/evaluation/page/25/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 评测：Computer-Use 研究与资源（第 25 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/25/
 
 完整列表：https://awesomecua.com/zh/topics/evaluation/index.md
 
-- [PixelCheck](https://awesomecua.com/zh/resources/github-xcodethink-pixelcheck/)
 - [PlayCoder](https://awesomecua.com/zh/resources/github-tencent-playcoder/)
 - [PlayJev](https://awesomecua.com/zh/resources/github-omnijev-playjev/)
 - [Playwright Flow Tester MCP](https://awesomecua.com/zh/resources/github-sadiuysal-playwright-flow-tester/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/evaluation/page/25/
 - [TraceFact](https://awesomecua.com/zh/resources/github-alex0ai-tracefact/)
 - [UI Debugger MCP](https://awesomecua.com/zh/resources/github-developerz-ai-ui-debugger-mcp/)
 - [UI Defect Mocker](https://awesomecua.com/zh/resources/github-zju-aces-ise-uidefectmocker/)
+- [VideoCAD training and evaluation code](https://awesomecua.com/zh/resources/github-ghadinehme-videocad/)

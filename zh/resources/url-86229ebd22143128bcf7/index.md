@@ -1,3 +1,11 @@
+---
+title: "BearCubs · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-86229ebd22143128bcf7/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # BearCubs
 
 面向实时网页的智能体基准，包含 111 道题，评测智能体通过文本与多模态交互浏览网页并提取事实答案的能力。

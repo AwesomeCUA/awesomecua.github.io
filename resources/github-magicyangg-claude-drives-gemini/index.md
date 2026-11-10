@@ -1,3 +1,11 @@
+---
+title: "claude-drives-gemini | AwesomeCUA"
+url: https://awesomecua.com/resources/github-magicyangg-claude-drives-gemini/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # claude-drives-gemini
 
 Claude Code skill that drives a logged-in Google Gemini web session in Chrome for cross-model consultation and research.

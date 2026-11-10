@@ -1,3 +1,11 @@
+---
+title: "From Untrusted Input to Trusted Memory: A… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-04329/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # From Untrusted Input to Trusted Memory: A Systematic Study of Memory Poisoning Attacks in LLM Agents
 
 Status: excluded from the active CUA catalog after scope review.

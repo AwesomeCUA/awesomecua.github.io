@@ -1,3 +1,11 @@
+---
+title: "Social Browser Publisher for Codex | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jacky391977-social-browser-publisher/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Social Browser Publisher for Codex
 
 Codex skill that uses an authenticated Chrome session to preview and publish posts across Instagram, Facebook, and Threads.

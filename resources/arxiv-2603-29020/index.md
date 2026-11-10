@@ -1,3 +1,11 @@
+---
+title: "Emergence WebVoyager: Toward Consistent and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-29020/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild
 
 Audits sources of ambiguity and operational variation in WebVoyager evaluation and introduces standardized guidance for task setup, failure handling, annotation and reporting. Emergence WebVoyager applies this protocol to a web-agent evaluation.
@@ -26,6 +34,18 @@ Deepak Akkil, Mowafak Allaham, Amal Raj, Tamer Abuelsaad, Ravi Kokku
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-29020/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-29020/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_29020,
+  title = {{Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild}},
+  author = {{Deepak Akkil} and {Mowafak Allaham} and {Amal Raj} and {Tamer Abuelsaad} and {Ravi Kokku}},
+  year = {2026},
+  eprint = {2603.29020v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.29020v1},
+  note = {First published: 2026-03-30; Recorded arXiv version: v1; Recorded version updated: 2026-03-30T21:27:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "CraftDriver · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dtopuzov-craftdriver/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # CraftDriver
 
 CraftDriver 通过 WebDriver 和 BiDi 自动操作浏览器，提供定位器、操作、断言、运行轨迹，以及让编程智能体检查实时网页的命令行工具。

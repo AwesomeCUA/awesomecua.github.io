@@ -1,3 +1,11 @@
+---
+title: "Grok Chrome Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-davidsolheim-grok-chrome-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Grok Chrome Bridge
 
 Chrome 桥接工具，让 Grok Build 在开发期间检查实时运行的本地 Web 应用并与之交互。

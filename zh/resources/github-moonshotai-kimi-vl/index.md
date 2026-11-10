@@ -1,3 +1,11 @@
+---
+title: "Kimi-VL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-moonshotai-kimi-vl/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Kimi-VL
 
 Moonshot AI 的开源权重 MoE 视觉语言模型，具有 28 亿激活的 LLM 参数和原生分辨率编码器；README 报告了用于操作系统智能体的 OSWorld、ScreenSpot-Pro 和 OSWorld-G 结果。

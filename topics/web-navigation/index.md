@@ -1,3 +1,11 @@
+---
+title: "Web navigation — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation
 
 Reviewed topic membership; resources can appear in multiple topics.
@@ -857,8 +865,6 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   Controlled adversarial web environment for measuring how autonomous browser agents fail under deceptive UI and prompt traps.
 - [MMSearch-Plus](https://awesomecua.com/resources/github-mmsearch-plus-mmsearch-plus/) — Date not recorded
   A benchmark of 311 visual reasoning tasks for multimodal browsing agents, requiring iterative image and text retrieval. The repository links the dataset and provides a loading helper.
-- [Navi-Bench](https://awesomecua.com/resources/github-yutori-ai-navi-bench/) — Date not recorded
-  Navi-Bench evaluates web agents on everyday consumer tasks executed directly on live websites with deterministic outcome verifiers.
 - [Next-Gen CAPTCHAs](https://awesomecua.com/resources/github-metaagentx-nextgen-captchas/) — Date not recorded
   Next-Gen CAPTCHAs provides an interactive benchmark and generator of cognitive-gap CAPTCHA challenges for defending against GUI web agents.
 - [Nightshift](https://awesomecua.com/resources/github-yayaq1-nightshift/) — Date not recorded
@@ -2040,8 +2046,6 @@ Full source records: https://awesomecua.com/downloads/topics/web-navigation/reco
   DeepSeek Harness plugin integrating the AntiBrow anti-detect browser for stealth web automation.
 - [dsh-browser-firefox](https://awesomecua.com/resources/github-tuojc-dsh-browser-firefox/) — Date not recorded
   Firefox browser-control plugin and extension for DeepSeek Harness enabling agents to read and drive live Firefox tabs.
-- [dsh-browser-full-access](https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/) — Date not recorded
-  Background-tab full-access fork of `dsh-browser` for DeepSeek Harness web automation.
 - [dsh-browser-ops](https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/) — Date not recorded
   DeepSeek Harness plugin combining agent-driven real-browser control with workflow recording.
 - [dsh-browser-playwright](https://awesomecua.com/resources/github-chenyuheee-dsh-browser-playwright/) — Date not recorded

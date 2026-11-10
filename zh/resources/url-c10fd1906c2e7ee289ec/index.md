@@ -1,3 +1,11 @@
+---
+title: "FiftyOne GUI Grounding Training Set… · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c10fd1906c2e7ee289ec/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # FiftyOne GUI Grounding Training Set with Synthetic Augmentation
 
 4,036 张 GUI 截图，多为 macOS 浏览器页面，附交互关键点和任务描述；包含 739 张人工标注原图，以及通过 FiftyOne 插件制作的 3,297 张色觉与任务改写变体。

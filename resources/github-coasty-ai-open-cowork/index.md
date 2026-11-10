@@ -1,3 +1,11 @@
+---
+title: "open-cowork | AwesomeCUA"
+url: https://awesomecua.com/resources/github-coasty-ai-open-cowork/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # open-cowork
 
 open-cowork is an open-source computer-use coworker that operates local desktops, cloud VMs, and browsers with human-in-the-loop approval.

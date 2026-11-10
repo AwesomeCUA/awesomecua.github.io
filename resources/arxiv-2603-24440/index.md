@@ -1,3 +1,11 @@
+---
+title: "CUA-Suite: Massive Human-annotated Video… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-24440/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents
 
 CUA-Suite combines continuous expert desktop demonstrations in VideoCUA with the UI-Vision evaluation benchmark and GroundCUA grounding data. Screen recordings, cursor traces and layered annotations support study of temporal behavior and professional software workflows.
@@ -26,6 +34,18 @@ Xiangru Jian, Shravan Nayak, Kevin Qinghong Lin, Aarash Feizi, Kaixin Li, Patric
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-24440/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-24440/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_24440,
+  title = {{CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents}},
+  author = {{Xiangru Jian} and {Shravan Nayak} and {Kevin Qinghong Lin} and {Aarash Feizi} and {Kaixin Li} and {Patrice Bechard} and {Spandana Gella} and {Sai Rajeswar}},
+  year = {2026},
+  eprint = {2603.24440v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.24440v1},
+  note = {First published: 2026-03-25; Recorded arXiv version: v1; Recorded version updated: 2026-03-25T15:52:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

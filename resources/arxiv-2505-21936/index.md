@@ -1,3 +1,11 @@
+---
+title: "RedTeamCUA: Realistic Adversarial Testing of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-21936/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments
 
 RedTeamCUA combines a virtual-machine OS environment with containerized websites for controlled prompt-injection tests spanning both interfaces. Its RTC-Bench contains 864 examples and can initialize agents at injection points to separate attack susceptibility from navigation failures.
@@ -26,6 +34,18 @@ Zeyi Liao, Jaylen Jones, Linxi Jiang, Yuting Ning, Eric Fosler-Lussier, Yu Su, Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-21936/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-21936/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_21936,
+  title = {{RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments}},
+  author = {{Zeyi Liao} and {Jaylen Jones} and {Linxi Jiang} and {Yuting Ning} and {Eric Fosler-Lussier} and {Yu Su} and {Zhiqiang Lin} and {Huan Sun}},
+  year = {2025},
+  eprint = {2505.21936v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.21936v5},
+  note = {First published: 2025-05-28; Recorded arXiv version: v5; Recorded version updated: 2026-03-01T07:50:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

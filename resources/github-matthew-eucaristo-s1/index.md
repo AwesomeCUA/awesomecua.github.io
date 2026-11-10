@@ -1,3 +1,11 @@
+---
+title: "s1 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-matthew-eucaristo-s1/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # s1
 
 s1 is a voice-first macOS computer-use agent that inspects the Accessibility tree, executes UI actions, and displays an auditable step trail.

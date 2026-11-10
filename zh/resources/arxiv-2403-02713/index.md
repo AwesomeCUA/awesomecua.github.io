@@ -1,3 +1,11 @@
+---
+title: "Android in the Zoo: Chain-of-Action-Thoug… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2403-02713/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Android in the Zoo: Chain-of-Action-Thought for GUI Agents
 
 提出 Chain-of-Action-Thought 和 Android-In-The-Zoo 标注，将先前操作、屏幕观察、预期执行的操作及预期结果关联起来。
@@ -27,6 +35,18 @@ Jiwen Zhang, Jihao Wu, Yihua Teng, Minghui Liao, Nuo Xu, Xiao Xiao, Zhongyu Wei,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2403-02713/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2403-02713/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_02713,
+  title = {{Android in the Zoo: Chain-of-Action-Thought for GUI Agents}},
+  author = {{Jiwen Zhang} and {Jihao Wu} and {Yihua Teng} and {Minghui Liao} and {Nuo Xu} and {Xiao Xiao} and {Zhongyu Wei} and {Duyu Tang}},
+  year = {2024},
+  eprint = {2403.02713v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.02713v2},
+  note = {First published: 2024-03-05; Recorded arXiv version: v2; Recorded version updated: 2024-07-13T02:12:30Z.}
+}
+```
 
 ## 发表记录
 

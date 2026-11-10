@@ -1,3 +1,11 @@
+---
+title: "Boxcar | AwesomeCUA"
+url: https://awesomecua.com/resources/github-status-labs-boxcar/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # Boxcar
 
 Boxcar provisions disposable Windows 11 and Ubuntu desktop virtual-machine sandboxes for LLM computer-use agents.

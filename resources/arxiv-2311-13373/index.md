@@ -1,3 +1,11 @@
+---
+title: "Large Language Model as a Policy Teacher for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-13373/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Large Language Model as a Policy Teacher for Training Reinforcement Learning Agents
 
 Bibliographic record for Large Language Model as a Policy Teacher for Training Reinforcement Learning Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zihao Zhou, Bin Hu, Chenyang Zhao, Pu Zhang, Bin Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-13373/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-13373/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_13373,
+  title = {{Large Language Model as a Policy Teacher for Training Reinforcement Learning Agents}},
+  author = {{Zihao Zhou} and {Bin Hu} and {Chenyang Zhao} and {Pu Zhang} and {Bin Liu}},
+  year = {2023},
+  eprint = {2311.13373v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.13373v6},
+  note = {First published: 2023-11-22; Recorded arXiv version: v6; Recorded version updated: 2024-05-27T14:00:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

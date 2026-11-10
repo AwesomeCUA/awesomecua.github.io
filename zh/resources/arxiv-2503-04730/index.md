@@ -1,3 +1,11 @@
+---
+title: "WinClick: GUI Grounding with Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-04730/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # WinClick: GUI Grounding with Multimodal Large Language Models
 
 提出基于截图的 Windows GUI 智能体，以及用于评估可操作界面区域定位能力的 WinSpot 基准。
@@ -27,6 +35,18 @@ Zheng Hui, Yinheng Li, Dan zhao, Tianyi Chen, Colby Banbury, Kazuhito Koishida
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-04730/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-04730/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_04730,
+  title = {{WinClick: GUI Grounding with Multimodal Large Language Models}},
+  author = {{Zheng Hui} and {Yinheng Li} and {Dan zhao} and {Tianyi Chen} and {Colby Banbury} and {Kazuhito Koishida}},
+  year = {2025},
+  eprint = {2503.04730v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.04730v1},
+  note = {First published: 2025-01-27; Recorded arXiv version: v1; Recorded version updated: 2025-01-27T08:29:17Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Open Record/Replay · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-humblebanana-open-record-replay/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Open Record/Replay
 
 Open Record/Replay 使用 Accessibility 元数据记录 macOS 用户演示，并将其编译为可复用的智能体技能。

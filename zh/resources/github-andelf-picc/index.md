@@ -1,3 +1,11 @@
+---
+title: "PICC · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-andelf-picc/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # PICC
 
 PICC 是 macOS 工具集合，包含基于辅助功能接口的应用自动化命令行工具和界面树查看器，可检查并操作界面元素。

@@ -1,3 +1,11 @@
+---
+title: "Towards Computer-Using Personal Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-15515/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Towards Computer-Using Personal Agents
 
 Proposes computer-using personal agents connected to user-controlled data repositories, discussing privacy, interoperability, and collaborative tasks.
@@ -26,6 +34,18 @@ Piero A. Bonatti, John Domingue, Anna Lisa Gentile, Andreas Harth, Olaf Hartig, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-15515/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-15515/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_15515,
+  title = {{Towards Computer-Using Personal Agents}},
+  author = {{Piero A. Bonatti} and {John Domingue} and {Anna Lisa Gentile} and {Andreas Harth} and {Olaf Hartig} and {Aidan Hogan} and {Katja Hose} and {Ernesto Jimenez-Ruiz} and {Deborah L. McGuinness} and {Chang Sun} and {Ruben Verborgh} and {Jesse Wright}},
+  year = {2025},
+  eprint = {2503.15515v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.15515v1},
+  note = {First published: 2025-01-31; Recorded arXiv version: v1; Recorded version updated: 2025-01-31T12:26:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

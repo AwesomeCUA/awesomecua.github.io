@@ -1,3 +1,11 @@
+---
+title: "OpenPhone (Secondly) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-secondly-com-openphone/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # OpenPhone (Secondly)
 
 基于 LineageOS 的 AI 原生 Android 系统；其特权助手通过新增框架服务读取屏幕和 UI 树，跨应用点击、滑动和输入，并提供确认、监视器和审计日志。

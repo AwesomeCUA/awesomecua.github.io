@@ -1,3 +1,11 @@
+---
+title: "GAIA: A Data Flywheel System for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-18197/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models
 
 GAIA 用正反例训练 GUI 操作评判模型，再用该模型收集改进后的样例进入下一轮训练，并研究这种数据循环如何影响不同 GUI 智能体在测试时的操作选择。
@@ -27,6 +35,18 @@ Shaokang Wang, Pei Fu, Ruoceng Zhang, Shaojie Zhang, Xiuwen Xi, Jiahui Yang, Bin
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-18197/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-18197/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_18197,
+  title = {{GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models}},
+  author = {{Shaokang Wang} and {Pei Fu} and {Ruoceng Zhang} and {Shaojie Zhang} and {Xiuwen Xi} and {Jiahui Yang} and {Bin Qin} and {Ying Huang} and {Zhenbo Luo} and {Jian Luan}},
+  year = {2026},
+  eprint = {2601.18197v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.18197v2},
+  note = {First published: 2026-01-26; Recorded arXiv version: v2; Recorded version updated: 2026-06-26T07:19:55Z.}
+}
+```
 
 ## arXiv 版本记录
 

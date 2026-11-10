@@ -1,3 +1,11 @@
+---
+title: "WebLeaper: Empowering Efficiency and Efficacy… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-24697/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking
 
 Bibliographic record for WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhengwei Tao, Haiyang Shen, Baixuan Li, Wenbiao Yin, Jialong Wu, Kuan Li, Zhongw
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-24697/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-24697/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24697,
+  title = {{WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling Info-Rich Seeking}},
+  author = {{Zhengwei Tao} and {Haiyang Shen} and {Baixuan Li} and {Wenbiao Yin} and {Jialong Wu} and {Kuan Li} and {Zhongwang Zhang} and {Huifeng Yin} and {Rui Ye} and {Liwen Zhang} and {Xinyu Wang} and {Pengjun Xie} and {Jingren Zhou} and {Yong Jiang}},
+  year = {2025},
+  eprint = {2510.24697v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24697v1},
+  note = {First published: 2025-10-28; Recorded arXiv version: v1; Recorded version updated: 2025-10-28T17:51:42Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Holotron-12B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6c16f91d8d79d7836283/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holotron-12B
 
 H Company 与 NVIDIA 的计算机使用策略检查点，基于 Nemotron Nano 12B v2 VL 使用定位和导航数据微调，采用混合 SSM 与注意力骨干以实现高吞吐量多图像推理。

@@ -1,3 +1,11 @@
+---
+title: "Industry — computer-use research, page 2 | AwesomeCUA"
+url: https://awesomecua.com/topics/industry/page/2/
+updated: 2026-11-09
+type: topic
+lang: en
+---
+
 # Industry — computer-use research, page 2
 
 HTML page: https://awesomecua.com/topics/industry/page/2/

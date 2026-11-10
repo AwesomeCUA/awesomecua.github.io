@@ -1,3 +1,11 @@
+---
+title: "Boss Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-padolphylis-boss-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Boss Agent
 
 Local job-search browser agent that parses natural-language criteria, drives Chrome on Boss Zhipin, and manages application state.

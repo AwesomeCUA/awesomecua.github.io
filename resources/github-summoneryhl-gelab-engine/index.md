@@ -1,3 +1,11 @@
+---
+title: "GUI Exploration Lab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-summoneryhl-gelab-engine/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # GUI Exploration Lab
 
 A synthetic GUI environment with configurable screens, icons and navigation graphs for training and evaluating agents on screen navigation.

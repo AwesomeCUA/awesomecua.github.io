@@ -1,3 +1,11 @@
+---
+title: "SPA-Bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ai-agents-2030-spa-bench/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # SPA-Bench
 
 涵盖 66 款中英文 Android 应用中的 340 项单应用和跨应用任务，支持以插件方式接入 11 种手机智能体，并自动从粗到细检测任务是否成功。

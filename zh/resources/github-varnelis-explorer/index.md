@@ -1,3 +1,11 @@
+---
+title: "Explorer · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-varnelis-explorer/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Explorer
 
 跨平台 GUI 自动化系统，提供基于视觉的可交互元素检测、语音导航、屏幕录制，以及交互轨迹的创建和重放工具。

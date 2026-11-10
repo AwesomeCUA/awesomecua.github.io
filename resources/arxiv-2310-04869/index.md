@@ -1,3 +1,11 @@
+---
+title: "ILuvUI: Instruction-tuned LangUage-Vision… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-04869/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations
 
 ILuvUI generates 335,000 conversational training examples paired with UI screenshots, covering questions, descriptions, and plans. The resulting vision-language model is assessed on element detection, response quality, and examples of multi-step UI navigation.
@@ -26,6 +34,18 @@ Yue Jiang, Eldon Schoop, Amanda Swearngin, Jeffrey Nichols
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-04869/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-04869/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_04869,
+  title = {{ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations}},
+  author = {{Yue Jiang} and {Eldon Schoop} and {Amanda Swearngin} and {Jeffrey Nichols}},
+  year = {2023},
+  eprint = {2310.04869v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.04869v1},
+  note = {First published: 2023-10-07; Recorded arXiv version: v1; Recorded version updated: 2023-10-07T16:32:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "appium-android | AwesomeCUA"
+url: https://awesomecua.com/resources/github-appium-appium-android/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # appium-android
 
 A monorepo of Appium packages for Android device and UI automation, including an Android driver, an ADB wrapper, and a device server for UiAutomator2 commands.

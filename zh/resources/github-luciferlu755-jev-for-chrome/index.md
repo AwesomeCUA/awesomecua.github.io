@@ -1,3 +1,11 @@
+---
+title: "jev-for-chrome · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-luciferlu755-jev-for-chrome/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # jev-for-chrome
 
 Chrome 扩展，使用 TypeSafe Jev System-One 决策模型执行网页浏览、点击和输入。

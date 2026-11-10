@@ -1,3 +1,11 @@
+---
+title: "Agent Banana: High-Fidelity Image Editing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-09084/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling
 
 Bibliographic record for Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ruijie Ye, Jiayi Zhang, Zhuoxin Liu, Zihao Zhu, Siyuan Yang, Li Li, Tianfu Fu, F
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-09084/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-09084/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_09084,
+  title = {{Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling}},
+  author = {{Ruijie Ye} and {Jiayi Zhang} and {Zhuoxin Liu} and {Zihao Zhu} and {Siyuan Yang} and {Li Li} and {Tianfu Fu} and {Franck Dernoncourt} and {Yue Zhao} and {Jiacheng Zhu} and {Ryan Rossi} and {Wenhao Chai} and {Zhengzhong Tu}},
+  year = {2026},
+  eprint = {2602.09084v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.09084v2},
+  note = {First published: 2026-02-09; Recorded arXiv version: v2; Recorded version updated: 2026-02-21T19:01:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

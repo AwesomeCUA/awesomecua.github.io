@@ -1,3 +1,11 @@
+---
+title: "VisCAD: A Foundation Model Suite with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-03811/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VisCAD: A Foundation Model Suite with Multimodal Industrial CAD Intelligence
 
 Bibliographic record for VisCAD: A Foundation Model Suite with Multimodal Industrial CAD Intelligence. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Guanlin Li, Zhichao Huang, Huimu Yu, Yichen Long, Hongsen Liu, Linxin Cai, Qiuhe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-03811/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-03811/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_03811,
+  title = {{VisCAD: A Foundation Model Suite with Multimodal Industrial CAD Intelligence}},
+  author = {{Guanlin Li} and {Zhichao Huang} and {Huimu Yu} and {Yichen Long} and {Hongsen Liu} and {Linxin Cai} and {Qiuhe Hong} and {Ziqi Liu} and {Luya Wang} and {Wenxiang Wu} and {Ning Zhang} and {Yuchen Wang}},
+  year = {2026},
+  eprint = {2609.03811v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.03811v2},
+  note = {First published: 2026-09-03; Recorded arXiv version: v2; Recorded version updated: 2026-09-04T02:31:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

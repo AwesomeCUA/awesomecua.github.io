@@ -1,3 +1,11 @@
+---
+title: "UGround-V1-Data-Box · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9e89e3332db1770388bc/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # UGround-V1-Data-Box
 
 UGround-V1-Data-Box 包含带有图像和对话的 Web-Hybrid 与 Web-Direct 图形界面定位数据；其边界框版本使用归一化坐标。

@@ -1,3 +1,11 @@
+---
+title: "ScreenSpot v2 · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-bd7214de6d98917c2350/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # ScreenSpot v2
 
 ScreenSpot 定位测试集的第二版，由 OS-Copilot 发布，桌面、移动端和网页标注分别存放，截图则共用一个归档文件。

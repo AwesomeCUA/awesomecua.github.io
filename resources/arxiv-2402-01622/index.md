@@ -1,3 +1,11 @@
+---
+title: "TravelPlanner: A Benchmark for Real-World… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-01622/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # TravelPlanner: A Benchmark for Real-World Planning with Language Agents
 
 Bibliographic record for TravelPlanner: A Benchmark for Real-World Planning with Language Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jian Xie, Kai Zhang, Jiangjie Chen, Tinghui Zhu, Renze Lou, Yuandong Tian, Yangh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2402-01622/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2402-01622/citation.csl.json
+
+```bibtex
+@misc{arxiv_2402_01622,
+  title = {{TravelPlanner: A Benchmark for Real-World Planning with Language Agents}},
+  author = {{Jian Xie} and {Kai Zhang} and {Jiangjie Chen} and {Tinghui Zhu} and {Renze Lou} and {Yuandong Tian} and {Yanghua Xiao} and {Yu Su}},
+  year = {2024},
+  eprint = {2402.01622v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2402.01622v4},
+  note = {First published: 2024-02-02; Recorded arXiv version: v4; Recorded version updated: 2024-10-23T15:02:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

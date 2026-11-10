@@ -1,3 +1,11 @@
+---
+title: "MPO (Meta Plan Optimization) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-weiminxiong-mpo/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MPO (Meta Plan Optimization)
 
 MPO 通过偏好学习优化可复用的高层元计划，引导 LLM 智能体完成交互式网页任务和决策任务。

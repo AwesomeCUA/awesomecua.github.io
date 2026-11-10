@@ -1,3 +1,11 @@
+---
+title: "OpenWebAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-openwebagent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # OpenWebAgent
 
 OpenWebAgent provides a Chrome extension, HTML simplification parser, and backend server for building LLM-driven web browsing agents.

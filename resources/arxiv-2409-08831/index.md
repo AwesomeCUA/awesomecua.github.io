@@ -1,3 +1,11 @@
+---
+title: "Breaking reCAPTCHAv2 | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-08831/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Breaking reCAPTCHAv2
 
 Bibliographic record for Breaking reCAPTCHAv2. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Andreas Plesner, Tobias Vontobel, Roger Wattenhofer
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-08831/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-08831/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_08831,
+  title = {{Breaking reCAPTCHAv2}},
+  author = {{Andreas Plesner} and {Tobias Vontobel} and {Roger Wattenhofer}},
+  year = {2024},
+  eprint = {2409.08831v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.08831v1},
+  note = {First published: 2024-09-13; Recorded arXiv version: v1; Recorded version updated: 2024-09-13T13:47:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

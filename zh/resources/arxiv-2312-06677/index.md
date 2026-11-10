@@ -1,3 +1,11 @@
+---
+title: "Intelligent Virtual Assistants with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2312-06677/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Intelligent Virtual Assistants with LLM-based Process Automation
 
 提出移动端流程自动化架构 LLMPA，用于分解请求、识别界面元素、预测动作和检查错误；通过演示评估其在支付宝中的多步操作。
@@ -27,6 +35,18 @@ Yanchu Guan, Dong Wang, Zhixuan Chu, Shiyu Wang, Feiyue Ni, Ruihua Song, Longfei
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2312-06677/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2312-06677/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_06677,
+  title = {{Intelligent Virtual Assistants with LLM-based Process Automation}},
+  author = {{Yanchu Guan} and {Dong Wang} and {Zhixuan Chu} and {Shiyu Wang} and {Feiyue Ni} and {Ruihua Song} and {Longfei Li} and {Jinjie Gu} and {Chenyi Zhuang}},
+  year = {2023},
+  eprint = {2312.06677v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.06677v1},
+  note = {First published: 2023-12-04; Recorded arXiv version: v1; Recorded version updated: 2023-12-04T07:51:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

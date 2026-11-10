@@ -1,3 +1,11 @@
+---
+title: "MobileBench-OL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xiaomi-research-mobilebench-ol/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # MobileBench-OL
 
 MobileBench-OL provides an online evaluation harness for testing mobile GUI agents on real Android devices with dynamic task verification.

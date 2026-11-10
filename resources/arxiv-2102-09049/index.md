@@ -1,3 +1,11 @@
+---
+title: "Efficient Reservoir Computing using Field… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2102-09049/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Efficient Reservoir Computing using Field Programmable Gate Array and Electro-optic Modulation
 
 Status: excluded from the active CUA catalog after scope review.

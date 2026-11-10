@@ -1,3 +1,11 @@
+---
+title: "Fast Stencil Computations using Fast Fourier… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2105-06676/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Fast Stencil Computations using Fast Fourier Transforms
 
 Status: excluded from the active CUA catalog after scope review.

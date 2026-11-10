@@ -1,3 +1,11 @@
+---
+title: "Enhanced delegated computing using coherence | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1501-06730/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Enhanced delegated computing using coherence
 
 Status: excluded from the active CUA catalog after scope review.

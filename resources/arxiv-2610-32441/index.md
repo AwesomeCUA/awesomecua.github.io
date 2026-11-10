@@ -1,3 +1,11 @@
+---
+title: "SCI-AGENT-EXAM: Benchmarking Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-32441/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SCI-AGENT-EXAM: Benchmarking Agents on Scientific Research Tasks
 
 Status: excluded from the active CUA catalog after scope review.

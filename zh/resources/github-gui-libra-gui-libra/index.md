@@ -1,3 +1,11 @@
+---
+title: "GUI-Libra · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gui-libra-gui-libra/
+updated: 2026-11-04
+type: model
+lang: zh-CN
+---
+
 # GUI-Libra
 
 GUI-Libra 提供原生 GUI 智能体的训练和评测流水线，采用动作感知监督和部分可验证的 RL。

@@ -1,3 +1,11 @@
+---
+title: "cmux-skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-george4data-cmux-skill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cmux-skill
 
 智能体技能，让 Claude Code 和编程智能体能够驱动 `cmux` 终端及其嵌入式浏览器工作区。

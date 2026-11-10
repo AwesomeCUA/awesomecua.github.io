@@ -1,3 +1,11 @@
+---
+title: "Benchmarking Agentic Workflow Generation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-07869/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Benchmarking Agentic Workflow Generation
 
 Status: excluded from the active CUA catalog after scope review.

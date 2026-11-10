@@ -1,3 +1,11 @@
+---
+title: "MobileSafetyBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jylee425-mobilesafetybench/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # MobileSafetyBench
 
 MobileSafetyBench 是 Android 模拟器测试环境，借助 ADB 和 Appium 获取观察、执行操作并检查任务是否成功，同时评估移动设备控制智能体的安全性与有用性。

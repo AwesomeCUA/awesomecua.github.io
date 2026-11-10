@@ -1,3 +1,11 @@
+---
+title: "OpenCode Browser MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hogandong486-opencode-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # OpenCode Browser MCP
 
 Browser Model Context Protocol server for OpenCode supporting Chromium, Firefox, and WebKit automation.

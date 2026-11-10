@@ -1,10 +1,17 @@
+---
+title: "Evaluation — computer-use research, page 21 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/21/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 21
 
 HTML page: https://awesomecua.com/topics/evaluation/page/21/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
-- [OSWorld-V2 0624 Codex attempt trajectories](https://awesomecua.com/resources/url-9112dfcb201f2de7241f/)
 - [OSWorld-Verified trajectories](https://awesomecua.com/resources/url-2c99f0de2840277abc72/)
 - [osworld_v2_assets_gated](https://awesomecua.com/resources/url-3de50fa3eee0081d31ac/)
 - [P-GUI-Evo](https://awesomecua.com/resources/url-b79ca6f7731ebf067709/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [Kimi-VL-A3B-Instruct](https://awesomecua.com/resources/url-a42c3bca105218f17645/)
 - [Kimi-VL-A3B-Thinking-2506](https://awesomecua.com/resources/url-fb5921fec3f7c313ab5b/)
 - [Llama8b-NNetNav-WA](https://awesomecua.com/resources/url-c9d2a9288a568db12bd1/)
+- [Magma-R1](https://awesomecua.com/resources/url-e5e74846aeaa8398673e/)

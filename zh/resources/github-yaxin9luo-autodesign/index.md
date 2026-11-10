@@ -1,3 +1,11 @@
+---
+title: "AutoDesign · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yaxin9luo-autodesign/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # AutoDesign
 
 一套将论文转化为可编辑海报、幻灯片、网页和视频的智能体设计系统。其工作流程通过浏览器审查渲染后的屏幕和打印效果。

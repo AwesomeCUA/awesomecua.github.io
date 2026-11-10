@@ -1,3 +1,11 @@
+---
+title: "CogAgent · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-cogagent/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # CogAgent
 
 用于 GUI 理解与交互的视觉语言模型。

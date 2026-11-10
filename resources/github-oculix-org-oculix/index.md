@@ -1,3 +1,11 @@
+---
+title: "OculiX (SikuliX continuation) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-oculix-org-oculix/
+updated: 2026-10-17
+type: tool
+lang: en
+---
+
 # OculiX (SikuliX continuation)
 
 A maintained continuation of SikuliX that locates on-screen targets with image matching and OCR, drives desktop or Android interfaces, and exposes scripting and optional MCP interfaces.

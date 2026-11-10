@@ -1,3 +1,11 @@
+---
+title: "MolmoPoint-GUISyn (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a7e3c6c6b37793c3151c/
+updated: 2026-10-19
+type: dataset
+lang: en
+---
+
 # MolmoPoint-GUISyn
 
 Ai2's synthetic GUI grounding set of about 36K code-rendered desktop, mobile and web screenshots, each with dense element boxes, names and five natural-language intents per element for training pointing models.

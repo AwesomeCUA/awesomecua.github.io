@@ -1,3 +1,11 @@
+---
+title: "DeepSeek Harness Desktop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tengqi159-deepseek-harness-desktop/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DeepSeek Harness Desktop
 
 macOS desktop companion app for DeepSeek Harness with research-file attachments and local tool management.

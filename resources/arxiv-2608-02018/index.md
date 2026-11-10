@@ -1,3 +1,11 @@
+---
+title: "Invisible Ink Threats: Adversarial Goals… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-02018/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents
 
 Introduces II-Bench for low-harm indirect prompt injections against computer-use agents and HITLCUA for testing them in virtual-machine and web environments with simulated user review.
@@ -26,6 +34,18 @@ Jia-Chen Zhang, Ze-Yu Zhang, Kai-Wei Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-02018/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-02018/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_02018,
+  title = {{Invisible Ink Threats: Adversarial Goals Behind Legitimate Tasks in Computer-Use Agents}},
+  author = {{Jia-Chen Zhang} and {Ze-Yu Zhang} and {Kai-Wei Zhang}},
+  year = {2026},
+  eprint = {2608.02018v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.02018v2},
+  note = {First published: 2026-08-03; Recorded arXiv version: v2; Recorded version updated: 2026-08-06T02:33:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

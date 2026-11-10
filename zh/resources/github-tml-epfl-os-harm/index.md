@@ -1,3 +1,11 @@
+---
+title: "OS-Harm · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tml-epfl-os-harm/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # OS-Harm
 
 评估计算机使用智能体在滥用、提示注入和模型意外行为方面安全性的基准。

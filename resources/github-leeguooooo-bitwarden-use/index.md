@@ -1,3 +1,11 @@
+---
+title: "bitwarden-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leeguooooo-bitwarden-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # bitwarden-use
 
 A vault CLI supplies browser agents with site account lookup and login guidance while managing Bitwarden or Vaultwarden credentials and passkeys.

@@ -1,3 +1,11 @@
+---
+title: "agent-qa (tool) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vostride-agent-qa/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # agent-qa
 
 agent-qa is an AI quality-assurance runner that executes natural-language user-journey tests across web, Android, and iOS interfaces.

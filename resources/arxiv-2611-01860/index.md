@@ -1,3 +1,11 @@
+---
+title: "Advances in Agentic Computer Graphics | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-01860/
+updated: 2026-11-03
+type: paper
+lang: en
+---
+
 # Advances in Agentic Computer Graphics
 
 Bibliographic record for Advances in Agentic Computer Graphics. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hengyu Liu, Jihyeon Je, Ruiqi Wang, Mingxuan Wu, Haven Feng, Qixing Huang, Georg
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-01860/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-01860/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_01860,
+  title = {{Advances in Agentic Computer Graphics}},
+  author = {{Hengyu Liu} and {Jihyeon Je} and {Ruiqi Wang} and {Mingxuan Wu} and {Haven Feng} and {Qixing Huang} and {Georgios Pavlakos} and {Hao Zhang} and {Jiajun Wu} and {Maneesh Agrawala} and {Leonidas Guibas} and {R. Kenny Jones} and {Shangzhe Wu} and {Guandao Yang}},
+  year = {2026},
+  eprint = {2611.01860v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.01860v1},
+  note = {First published: 2026-11-01; Recorded arXiv version: v1; Recorded version updated: 2026-11-01T12:52:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

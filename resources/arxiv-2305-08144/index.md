@@ -1,3 +1,11 @@
+---
+title: "Mobile-Env: Building Qualified Evaluation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-08144/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction
 
 Provides an Android benchmark toolkit with controlled environments, intermediate feedback, and task sets for reproducible GUI-agent evaluation.
@@ -26,6 +34,18 @@ Danyang Zhang, Zhennan Shen, Rui Xie, Situo Zhang, Tianbao Xie, Zihan Zhao, Siyu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-08144/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-08144/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_08144,
+  title = {{Mobile-Env: Building Qualified Evaluation Benchmarks for LLM-GUI Interaction}},
+  author = {{Danyang Zhang} and {Zhennan Shen} and {Rui Xie} and {Situo Zhang} and {Tianbao Xie} and {Zihan Zhao} and {Siyuan Chen} and {Lu Chen} and {Hongshen Xu} and {Ruisheng Cao} and {Kai Yu}},
+  year = {2023},
+  eprint = {2305.08144v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.08144v4},
+  note = {First published: 2023-05-14; Recorded arXiv version: v4; Recorded version updated: 2024-06-13T11:51:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

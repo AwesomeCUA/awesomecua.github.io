@@ -1,3 +1,11 @@
+---
+title: "InfiGUI-R1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-reallm-labs-infigui-r1/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # InfiGUI-R1
 
 分两个阶段训练的 3B GUI 智能体：先从教师模型蒸馏空间推理能力，再通过奖励准确子目标的强化学习训练错误恢复能力。

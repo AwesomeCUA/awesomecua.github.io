@@ -1,3 +1,11 @@
+---
+title: "OS-Kairos: Adaptive Interaction for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-16465/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents
 
 Uses step-level confidence estimates to decide when a GUI agent should act autonomously or request human intervention in complex situations.
@@ -26,6 +34,18 @@ Pengzhou Cheng, Zheng Wu, Zongru Wu, Aston Zhang, Zhuosheng Zhang, Gongshen Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-16465/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-16465/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_16465,
+  title = {{OS-Kairos: Adaptive Interaction for MLLM-Powered GUI Agents}},
+  author = {{Pengzhou Cheng} and {Zheng Wu} and {Zongru Wu} and {Aston Zhang} and {Zhuosheng Zhang} and {Gongshen Liu}},
+  year = {2025},
+  eprint = {2503.16465v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.16465v3},
+  note = {First published: 2025-02-26; Recorded arXiv version: v3; Recorded version updated: 2025-07-14T15:56:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

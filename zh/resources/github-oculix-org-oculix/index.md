@@ -1,3 +1,11 @@
+---
+title: "OculiX (SikuliX continuation) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-oculix-org-oculix/
+updated: 2026-10-17
+type: tool
+lang: zh-CN
+---
+
 # OculiX (SikuliX continuation)
 
 持续维护的 SikuliX 后续项目，通过图像匹配和 OCR 定位屏幕目标，操控桌面或 Android 界面，并提供脚本接口和可选的 MCP 接口。

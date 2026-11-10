@@ -1,3 +1,11 @@
+---
+title: "Opera Neon | AwesomeCUA"
+url: https://awesomecua.com/resources/url-94d58f25e6fd4a2076ab/
+updated: 2026-10-18
+type: product
+lang: en
+---
+
 # Opera Neon
 
 Opera's subscription agentic browser whose Neon Do agent opens, closes and acts across tabs inside the user's logged-in session, with task workspaces, prompt cards and MCP or CLI access for outside agents.

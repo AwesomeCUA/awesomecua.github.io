@@ -1,3 +1,11 @@
+---
+title: "CUAAudit: Meta-Evaluation of Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-10577/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents
 
 CUAAudit examines vision-language models that judge computer-use task completion from an instruction and final environment state. Across macOS, Windows and Linux benchmarks, it measures accuracy, confidence calibration and disagreement between auditors.
@@ -26,6 +34,18 @@ Marta Sumyk, Oleksandr Kosovan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-10577/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-10577/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_10577,
+  title = {{CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents}},
+  author = {{Marta Sumyk} and {Oleksandr Kosovan}},
+  year = {2026},
+  eprint = {2603.10577v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.10577v2},
+  note = {First published: 2026-03-11; Recorded arXiv version: v2; Recorded version updated: 2026-03-12T07:30:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

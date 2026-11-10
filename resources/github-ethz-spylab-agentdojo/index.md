@@ -1,3 +1,11 @@
+---
+title: "AgentDojo | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ethz-spylab-agentdojo/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # AgentDojo
 
 Python benchmark package for prompt-injection security of tool-calling agents, with workspace, banking, travel and Slack suites, pluggable attacks and defenses, and a script that scores utility and attack success.

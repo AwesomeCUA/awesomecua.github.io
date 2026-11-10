@@ -1,3 +1,11 @@
+---
+title: "AiBrowser for Android | AwesomeCUA"
+url: https://awesomecua.com/resources/github-doable-team-aibrowser-android/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # AiBrowser for Android
 
 Turns a spare Android phone into a headed Chromium instance that AI agents can drive remotely.

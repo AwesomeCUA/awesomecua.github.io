@@ -1,3 +1,11 @@
+---
+title: "Text2Sim: Agentic Physics-Based Simulation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-36593/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Text2Sim: Agentic Physics-Based Simulation Generation with Distilled Expertise
 
 Bibliographic record for Text2Sim: Agentic Physics-Based Simulation Generation with Distilled Expertise. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiaoyu Xiong, Tsun-Hsuan Wang, Yi-Ling Qiao, Tao Du, Minchen Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-36593/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-36593/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_36593,
+  title = {{Text2Sim: Agentic Physics-Based Simulation Generation with Distilled Expertise}},
+  author = {{Xiaoyu Xiong} and {Tsun-Hsuan Wang} and {Yi-Ling Qiao} and {Tao Du} and {Minchen Li}},
+  year = {2026},
+  eprint = {2609.36593v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.36593v2},
+  note = {First published: 2026-09-29; Recorded arXiv version: v2; Recorded version updated: 2026-09-30T14:35:06Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

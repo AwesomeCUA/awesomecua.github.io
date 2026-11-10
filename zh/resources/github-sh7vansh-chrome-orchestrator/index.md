@@ -1,3 +1,11 @@
+---
+title: "Chrome Orchestrator · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sh7vansh-chrome-orchestrator/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chrome Orchestrator
 
 用于无头 AI 浏览器会话的统一 Model Context Protocol 网关和动态容器编排器。

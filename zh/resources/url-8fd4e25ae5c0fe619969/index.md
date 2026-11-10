@@ -1,3 +1,11 @@
+---
+title: "Cie1/MMSearch-Plus · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8fd4e25ae5c0fe619969/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Cie1/MMSearch-Plus
 
 一个包含 311 项图像任务的数据集，用于评估通过迭代检索图像和文本来回答问题的多模态网页浏览智能体。

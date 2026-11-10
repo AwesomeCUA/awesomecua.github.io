@@ -1,3 +1,11 @@
+---
+title: "MaaFramework | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maaxyz-maaframework/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # MaaFramework
 
 MaaFramework is an image-recognition automation framework for black-box testing, with a low-code task pipeline and documented integration and API interfaces.

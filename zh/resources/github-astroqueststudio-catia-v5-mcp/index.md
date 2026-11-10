@@ -1,3 +1,11 @@
+---
+title: "catia-v5-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-astroqueststudio-catia-v5-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # catia-v5-mcp
 
 这款 MCP 服务器让智能体通过 COM 在 CATIA V5 中建模并检查零件和装配体。它提供经过预先校验的批量操作，并检查生成的几何形状和组件姿态。

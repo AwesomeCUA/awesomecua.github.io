@@ -1,3 +1,11 @@
+---
+title: "Caesar: Deep Agentic Web Exploration for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-20855/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Caesar: Deep Agentic Web Exploration for Creative Answer Synthesis
 
 Bibliographic record for Caesar: Deep Agentic Web Exploration for Creative Answer Synthesis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jason Liang, Elliot Meyerson, Risto Miikkulainen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-20855/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-20855/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_20855,
+  title = {{Caesar: Deep Agentic Web Exploration for Creative Answer Synthesis}},
+  author = {{Jason Liang} and {Elliot Meyerson} and {Risto Miikkulainen}},
+  year = {2026},
+  eprint = {2604.20855v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.20855v3},
+  note = {First published: 2026-02-24; Recorded arXiv version: v3; Recorded version updated: 2026-05-08T05:14:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

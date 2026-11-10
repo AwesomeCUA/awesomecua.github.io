@@ -1,3 +1,11 @@
+---
+title: "Argus (macOS Vision-AX MCP Plugin) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-korisame-argus/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Argus (macOS Vision-AX MCP Plugin)
 
 Claude Code MCP 插件，提供 40 种 macOS 自动化工具，并通过统一的 Accessibility、AppleScript 和 Vision OCR 解析器使用这些工具。

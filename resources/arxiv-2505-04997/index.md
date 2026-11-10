@@ -1,3 +1,11 @@
+---
+title: "Foam-Agent: A Large Language Model-Based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-04997/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows
 
 Bibliographic record for Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ling Yue, Nithin Somasekharan, Tingwen Zhang, Yadi Cao, Zhangze Chen, Shimin Di,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-04997/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-04997/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_04997,
+  title = {{Foam-Agent: A Large Language Model-Based Multi-Agent Framework for Automating Computational Fluid Dynamics Workflows}},
+  author = {{Ling Yue} and {Nithin Somasekharan} and {Tingwen Zhang} and {Yadi Cao} and {Zhangze Chen} and {Shimin Di} and {Shaowu Pan}},
+  year = {2025},
+  eprint = {2505.04997v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.04997v3},
+  note = {First published: 2025-05-08; Recorded arXiv version: v3; Recorded version updated: 2026-08-13T17:41:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

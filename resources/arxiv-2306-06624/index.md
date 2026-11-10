@@ -1,3 +1,11 @@
+---
+title: "RestGPT: Connecting Large Language Models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-06624/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # RestGPT: Connecting Large Language Models with Real-World RESTful APIs
 
 Bibliographic record for RestGPT: Connecting Large Language Models with Real-World RESTful APIs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yifan Song, Weimin Xiong, Dawei Zhu, Wenhao Wu, Han Qian, Mingbo Song, Hailiang 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2306-06624/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2306-06624/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_06624,
+  title = {{RestGPT: Connecting Large Language Models with Real-World RESTful APIs}},
+  author = {{Yifan Song} and {Weimin Xiong} and {Dawei Zhu} and {Wenhao Wu} and {Han Qian} and {Mingbo Song} and {Hailiang Huang} and {Cheng Li} and {Ke Wang} and {Rong Yao} and {Ye Tian} and {Sujian Li}},
+  year = {2023},
+  eprint = {2306.06624v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.06624v2},
+  note = {First published: 2023-06-11; Recorded arXiv version: v2; Recorded version updated: 2023-08-27T02:55:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

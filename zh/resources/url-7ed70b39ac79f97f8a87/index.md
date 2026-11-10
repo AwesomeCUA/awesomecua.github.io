@@ -1,3 +1,11 @@
+---
+title: "GUI-Perturbed · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7ed70b39ac79f97f8a87/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # GUI-Perturbed
 
 逐步网页定位基准，对 Mind2Web 页面施加样式、缩放和文字大小扰动后重新渲染，并将每张截图与直接或关系型指令及目标框配对。

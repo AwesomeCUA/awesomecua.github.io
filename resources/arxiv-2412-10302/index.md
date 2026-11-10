@@ -1,3 +1,11 @@
+---
+title: "DeepSeek-VL2: Mixture-of-Experts… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-10302/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding
 
 Bibliographic record for DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhiyu Wu, Xiaokang Chen, Zizheng Pan, Xingchao Liu, Wen Liu, Damai Dai, Huazuo G
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-10302/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-10302/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_10302,
+  title = {{DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding}},
+  author = {{Zhiyu Wu} and {Xiaokang Chen} and {Zizheng Pan} and {Xingchao Liu} and {Wen Liu} and {Damai Dai} and {Huazuo Gao} and {Yiyang Ma} and {Chengyue Wu} and {Bingxuan Wang} and {Zhenda Xie} and {Yu Wu} and {Kai Hu} and {Jiawei Wang} and {Yaofeng Sun} and {Yukun Li} and {Yishi Piao} and {Kang Guan} and {Aixin Liu} and {Xin Xie} and {Yuxiang You} and {Kai Dong} and {Xingkai Yu} and {Haowei Zhang} and {Liang Zhao} and {Yisong Wang} and {Chong Ruan}},
+  year = {2024},
+  eprint = {2412.10302v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.10302v1},
+  note = {First published: 2024-12-13; Recorded arXiv version: v1; Recorded version updated: 2024-12-13T17:37:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

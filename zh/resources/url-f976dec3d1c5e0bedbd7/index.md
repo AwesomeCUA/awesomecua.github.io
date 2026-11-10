@@ -1,3 +1,11 @@
+---
+title: "ShowUI Desktop · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f976dec3d1c5e0bedbd7/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # ShowUI Desktop
 
 基于 OmniAct 截图构建的 7,496 个桌面定位样例，其标注经 GPT-4o 改写，用于描述元素外观、空间关系和功能。

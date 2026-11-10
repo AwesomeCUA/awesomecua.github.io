@@ -1,3 +1,11 @@
+---
+title: "Large Language Models Play StarCraft II… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-11865/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Large Language Models Play StarCraft II: Benchmarks and A Chain of Summarization Approach
 
 Status: excluded from the active CUA catalog after scope review.

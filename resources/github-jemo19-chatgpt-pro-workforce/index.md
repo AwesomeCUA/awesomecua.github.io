@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Pro Workforce for Codex | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jemo19-chatgpt-pro-workforce/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ChatGPT Pro Workforce for Codex
 
 Codex skill that orchestrates parallel logged-in ChatGPT Pro browser chats as a reviewable research workforce.

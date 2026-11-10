@@ -1,3 +1,11 @@
+---
+title: "Lifelong Learning of Large Language Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-07278/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Lifelong Learning of Large Language Model based Agents: A Roadmap
 
 Bibliographic record for Lifelong Learning of Large Language Model based Agents: A Roadmap. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Junhao Zheng, Chengming Shi, Xidi Cai, Qiuke Li, Duzhen Zhang, Chenxing Li, Dong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-07278/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-07278/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_07278,
+  title = {{Lifelong Learning of Large Language Model based Agents: A Roadmap}},
+  author = {{Junhao Zheng} and {Chengming Shi} and {Xidi Cai} and {Qiuke Li} and {Duzhen Zhang} and {Chenxing Li} and {Dong Yu} and {Qianli Ma}},
+  year = {2025},
+  eprint = {2501.07278v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.07278v2},
+  note = {First published: 2025-01-13; Recorded arXiv version: v2; Recorded version updated: 2026-01-11T02:56:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

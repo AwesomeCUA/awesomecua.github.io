@@ -1,3 +1,11 @@
+---
+title: "Genie: A Generator of Natural Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1904-09020/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Genie: A Generator of Natural Language Semantic Parsers for Virtual Assistant Commands
 
 Bibliographic record for Genie: A Generator of Natural Language Semantic Parsers for Virtual Assistant Commands. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Giovanni Campagna, Silei Xu, Mehrad Moradshahi, Richard Socher, Monica S. Lam
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1904-09020/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1904-09020/citation.csl.json
+
+```bibtex
+@misc{arxiv_1904_09020,
+  title = {{Genie: A Generator of Natural Language Semantic Parsers for Virtual Assistant Commands}},
+  author = {{Giovanni Campagna} and {Silei Xu} and {Mehrad Moradshahi} and {Richard Socher} and {Monica S. Lam}},
+  year = {2019},
+  eprint = {1904.09020v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1904.09020v1},
+  note = {First published: 2019-04-18; Recorded arXiv version: v1; Recorded version updated: 2019-04-18T21:33:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Revisiting Observation Reduction for Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-29397/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Revisiting Observation Reduction for Web Agents: Comprehensive Evaluation with a Lightweight Framework
 
 Introduces a lightweight framework for evaluating HTML reduction in web agents, using Minimal Failure Set coverage to assess pruning and optimize latency.
@@ -26,6 +34,18 @@ Masafumi Enomoto, Ryoma Obara, Haochen Zhang, Masafumi Oyamada
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-29397/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-29397/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29397,
+  title = {{Revisiting Observation Reduction for Web Agents: Comprehensive Evaluation with a Lightweight Framework}},
+  author = {{Masafumi Enomoto} and {Ryoma Obara} and {Haochen Zhang} and {Masafumi Oyamada}},
+  year = {2026},
+  eprint = {2605.29397v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29397v1},
+  note = {First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T05:46:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

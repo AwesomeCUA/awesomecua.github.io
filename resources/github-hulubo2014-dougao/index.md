@@ -1,3 +1,11 @@
+---
+title: "DouGao (豆糕) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hulubo2014-dougao/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # DouGao (豆糕)
 
 DouGao is an on-device Android AI assistant combining VLM screen control across Accessibility, Shizuku, and Root channels with direct file editing.

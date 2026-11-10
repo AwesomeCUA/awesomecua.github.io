@@ -1,3 +1,11 @@
+---
+title: "ChartEditBench: Evaluating Grounded… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-15758/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models
 
 Bibliographic record for ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Manav Nitin Kapadnis, Lawanya Baghel, Atharva Naik, Carolyn Rosé
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-15758/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-15758/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_15758,
+  title = {{ChartEditBench: Evaluating Grounded Multi-Turn Chart Editing in Multimodal Language Models}},
+  author = {{Manav Nitin Kapadnis} and {Lawanya Baghel} and {Atharva Naik} and {Carolyn Rosé}},
+  year = {2026},
+  eprint = {2602.15758v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.15758v1},
+  note = {First published: 2026-02-17; Recorded arXiv version: v1; Recorded version updated: 2026-02-17T17:45:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

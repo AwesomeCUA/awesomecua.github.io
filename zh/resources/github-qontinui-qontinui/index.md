@@ -1,3 +1,11 @@
+---
+title: "Qontinui · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-qontinui-qontinui/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Qontinui
 
 Qontinui 是基于模型的 GUI 自动化框架，以状态图表示应用屏幕，并使用视觉模板和 OCR 匹配。

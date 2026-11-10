@@ -1,3 +1,11 @@
+---
+title: "ProjGuard: Safety Monitoring for Computer-Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-13631/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections
 
 Bibliographic record for ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kebin Contreras, Carlos Hinojosa, Jorge Bacca, Bernard Ghanem
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-13631/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-13631/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_13631,
+  title = {{ProjGuard: Safety Monitoring for Computer-Use Agents via Low-Dimensional Projections}},
+  author = {{Kebin Contreras} and {Carlos Hinojosa} and {Jorge Bacca} and {Bernard Ghanem}},
+  year = {2026},
+  eprint = {2605.13631v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.13631v2},
+  note = {First published: 2026-05-13; Recorded arXiv version: v2; Recorded version updated: 2026-06-10T08:07:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

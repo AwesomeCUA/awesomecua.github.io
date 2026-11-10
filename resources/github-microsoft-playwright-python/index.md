@@ -1,3 +1,11 @@
+---
+title: "Playwright for Python | AwesomeCUA"
+url: https://awesomecua.com/resources/github-microsoft-playwright-python/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Playwright for Python
 
 Python package of Playwright that drives Chromium, Firefox and WebKit through one API, with synchronous and asynchronous interfaces for page navigation and screenshots.

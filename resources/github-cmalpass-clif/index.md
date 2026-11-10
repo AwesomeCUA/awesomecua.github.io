@@ -1,3 +1,11 @@
+---
+title: "CLIF | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cmalpass-clif/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # CLIF
 
 CLIF is a Windows desktop UI automation CLI and local MCP server for inspecting and driving WPF, WinForms, and WinUI applications.

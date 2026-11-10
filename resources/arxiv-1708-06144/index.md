@@ -1,3 +1,11 @@
+---
+title: "Classical multiparty computation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1708-06144/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Classical multiparty computation using quantum resources
 
 Status: excluded from the active CUA catalog after scope review.

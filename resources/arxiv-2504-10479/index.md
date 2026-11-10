@@ -1,3 +1,11 @@
+---
+title: "InternVL3: Exploring Advanced Training and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-10479/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models
 
 Bibliographic record for InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jinguo Zhu, Weiyun Wang, Zhe Chen, Zhaoyang Liu, Shenglong Ye, Lixin Gu, Hao Tia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-10479/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-10479/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_10479,
+  title = {{InternVL3: Exploring Advanced Training and Test-Time Recipes for Open-Source Multimodal Models}},
+  author = {{Jinguo Zhu} and {Weiyun Wang} and {Zhe Chen} and {Zhaoyang Liu} and {Shenglong Ye} and {Lixin Gu} and {Hao Tian} and {Yuchen Duan} and {Weijie Su} and {Jie Shao} and {Zhangwei Gao} and {Erfei Cui} and {Xuehui Wang} and {Yue Cao} and {Yangzhou Liu} and {Xingguang Wei} and {Hongjie Zhang} and {Haomin Wang} and {Weiye Xu} and {Hao Li} and {Jiahao Wang} and {Nianchen Deng} and {Songze Li} and {Yinan He} and {Tan Jiang} and {Jiapeng Luo} and {Yi Wang} and {Conghui He} and {Botian Shi} and {Xingcheng Zhang} and {Wenqi Shao} and {Junjun He} and {Yingtong Xiong} and {Wenwen Qu} and {Peng Sun} and {Penglong Jiao} and {Han Lv} and {Lijun Wu} and {Kaipeng Zhang} and {Huipeng Deng} and {Jiaye Ge} and {Kai Chen} and {Limin Wang} and {Min Dou} and {Lewei Lu} and {Xizhou Zhu} and {Tong Lu} and {Dahua Lin} and {Yu Qiao} and {Jifeng Dai} and {Wenhai Wang}},
+  year = {2025},
+  eprint = {2504.10479v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.10479v3},
+  note = {First published: 2025-04-14; Recorded arXiv version: v3; Recorded version updated: 2025-04-19T03:47:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

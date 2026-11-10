@@ -1,3 +1,11 @@
+---
+title: "Explorer (tool) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-varnelis-explorer/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Explorer
 
 A cross-platform GUI automation system with vision-based interactable detection, voice navigation, screen recording, and tools for creating and replaying traces.

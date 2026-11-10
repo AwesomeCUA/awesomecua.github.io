@@ -1,3 +1,11 @@
+---
+title: "Win32 MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-randynorthrup-win32-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Win32 MCP Server
 
 Win32 MCP Server exposes 53 native Windows Win32 and UI Automation tools over the Model Context Protocol for desktop agents.

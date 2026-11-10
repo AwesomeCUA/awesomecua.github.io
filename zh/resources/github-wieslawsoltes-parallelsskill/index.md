@@ -1,3 +1,11 @@
+---
+title: "Parallels CLI Skill for Codex · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wieslawsoltes-parallelsskill/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Parallels CLI Skill for Codex
 
 可移植的 Codex 技能，用于在 macOS 上创建、生成快照和控制 Parallels Desktop 虚拟机。

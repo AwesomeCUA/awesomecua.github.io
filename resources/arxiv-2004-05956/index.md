@@ -1,3 +1,11 @@
+---
+title: "Multi-qubit quantum computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2004-05956/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multi-qubit quantum computing using discrete-time quantum walks on closed graphs
 
 Status: excluded from the active CUA catalog after scope review.

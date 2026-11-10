@@ -1,3 +1,11 @@
+---
+title: "BugCraft · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ec17d3267cd49548d2d4/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # BugCraft
 
 这款视觉智能体将 Minecraft 崩溃报告转成复现步骤，并通过宏接口执行。项目页还介绍了 BugCraft-Bench。

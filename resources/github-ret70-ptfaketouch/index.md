@@ -1,3 +1,11 @@
+---
+title: "PTFakeTouch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ret70-ptfaketouch/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # PTFakeTouch
 
 An iOS framework that injects simulated touch events from inside an app, with calls for touch begin, move and end phases that produce taps at a point and swipes.

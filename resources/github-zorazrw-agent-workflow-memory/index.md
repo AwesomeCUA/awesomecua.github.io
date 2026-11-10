@@ -1,3 +1,11 @@
+---
+title: "Agent Workflow Memory implementation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zorazrw-agent-workflow-memory/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # Agent Workflow Memory implementation
 
 Research code that extracts reusable browser-task routines from demonstrations or prior executions, stores them as workflow memory and reuses them during subsequent navigation.

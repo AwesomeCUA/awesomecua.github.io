@@ -1,3 +1,11 @@
+---
+title: "ScreenLeak | AwesomeCUA"
+url: https://awesomecua.com/resources/github-screenpipe-screenleak/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # ScreenLeak
 
 ScreenLeak is a multimodal benchmark for measuring sensitive-information detection and PII redaction in continuous screen recording data.

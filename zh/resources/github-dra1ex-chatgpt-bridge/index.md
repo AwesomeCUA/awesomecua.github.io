@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Browser Bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dra1ex-chatgpt-bridge/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # ChatGPT Browser Bridge
 
 一套浏览器扩展和本地服务器，可操作已登录的 ChatGPT 标签页，并向本地客户端提供聊天会话、标签页控制和生成文件。

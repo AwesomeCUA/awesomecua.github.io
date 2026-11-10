@@ -1,3 +1,11 @@
+---
+title: "SkillTracer: Structural Failure… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a2c0216a0d8875e86dee/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # SkillTracer: Structural Failure Attribution and Refinement of Agentic Skills in Long-Horizon Web Tasks
 
 SkillTracer 将网页智能体技能表示为可检查的计划图，利用交互轨迹定位故障，并在长期任务与多次执行中改进可复用技能。
@@ -27,6 +35,21 @@ Yuyang Li, Yiran Dou, Jie-Jing Shao, Yueming Lyu, Ivor Tsang, Haiyan Yin
 
 - BibTeX：https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-a2c0216a0d8875e86dee/citation.csl.json
+
+```bibtex
+@inproceedings{cua_45a63fafce531cad6be9c3df,
+  title = {{SkillTracer: Structural Failure Attribution and Refinement of Agentic Skills in Long-Horizon Web Tasks}},
+  author = {{Yuyang Li} and {Yiran Dou} and {Jie-Jing Shao} and {Yueming Lyu} and {Ivor Tsang} and {Haiyan Yin}},
+  year = {2026},
+  month = aug,
+  booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+  publisher = {ACM},
+  pages = {2897-2908},
+  doi = {10.1145/3770855.3817981},
+  url = {https://doi.org/10.1145/3770855.3817981},
+  note = {Publication date: 2026-08-08.}
+}
+```
 
 ## 发表记录
 

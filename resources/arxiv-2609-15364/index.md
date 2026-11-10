@@ -1,3 +1,11 @@
+---
+title: "RSIAgent: Autonomous Exploration for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-15364/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments
 
 Introduces RSIAgent, a training-free framework that explores unfamiliar digital interfaces, stores environment-specific action knowledge, and reuses that memory for later tasks.
@@ -26,6 +34,18 @@ Sibo Zhu, Shicheng Fan, Xinyue Wang, Wenyi Wu, Kun Zhou, Biwei Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-15364/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-15364/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_15364,
+  title = {{RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments}},
+  author = {{Sibo Zhu} and {Shicheng Fan} and {Xinyue Wang} and {Wenyi Wu} and {Kun Zhou} and {Biwei Huang}},
+  year = {2026},
+  eprint = {2609.15364v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.15364v2},
+  note = {First published: 2026-09-14; Recorded arXiv version: v2; Recorded version updated: 2026-09-18T21:46:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

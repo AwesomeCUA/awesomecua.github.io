@@ -1,3 +1,11 @@
+---
+title: "无需训练的方法：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/training-free/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 无需训练的方法
 
 Reviewed topic membership; resources can appear in multiple topics.

@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-7f7d17a0873e6ffda2b9/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-8B
 
 这是 InternVL3.5 系列中的一个 8B 多模态模型检查点；模型卡在介绍更广泛的视觉推理和推理效率工作时，也说明了其图形界面交互能力。

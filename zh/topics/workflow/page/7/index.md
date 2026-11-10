@@ -1,10 +1,17 @@
+---
+title: "工作流：Computer-Use 研究与资源（第 7 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/workflow/page/7/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 工作流：Computer-Use 研究与资源（第 7 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/workflow/page/7/
 
 完整列表：https://awesomecua.com/zh/topics/workflow/index.md
 
-- [Jev Social](https://awesomecua.com/zh/resources/github-socai-io-jev-social/)
 - [Job Hunter](https://awesomecua.com/zh/resources/github-liooo0-job-hunter/)
 - [Job Hunter AI](https://awesomecua.com/zh/resources/github-fred-brown-3-job-hunter-ai/)
 - [Job Pilot 2027 (秋招雷达 2027)](https://awesomecua.com/zh/resources/github-qiulingzhu809-sudo-job-pilot-2027/)
@@ -61,6 +68,7 @@ HTML 页面：https://awesomecua.com/zh/topics/workflow/page/7/
 - [Napaxi](https://awesomecua.com/zh/resources/github-antgroup-napaxi/)
 - [Narada Code and OperatorMini](https://awesomecua.com/zh/resources/url-fd28110220935a0fae26/)
 - [Narada Operator](https://awesomecua.com/zh/resources/url-68d09b76ec0f61b7a6c5/)
-- [Native by K](https://awesomecua.com/zh/resources/github-karunya-muddana-native/)
 - [navforge](https://awesomecua.com/zh/resources/github-huzjie-navforge/)
 - [Nell (Open Source Instinct)](https://awesomecua.com/zh/resources/github-iabdulwasey-nell/)
+- [Neurosim](https://awesomecua.com/zh/resources/github-anaishowland-neurosim/)
+- [Northstar (Legacy Portal CUA)](https://awesomecua.com/zh/resources/github-zoyaarief-legacy-credit-union-automation/)

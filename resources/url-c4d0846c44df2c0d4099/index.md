@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-2B-Instruct | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c4d0846c44df2c0d4099/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-VL-2B-Instruct
 
 A vision-language model whose card describes visual-agent operation of PC and mobile interfaces, including element recognition and tool use. This repository releases its weights.

@@ -1,3 +1,11 @@
+---
+title: "ArenaRL: Scaling RL for Open-Ended Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-06487/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking
 
 Bibliographic record for ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Qiang Zhang, Boli Chen, Fanrui Zhang, Ruixue Ding, Shihang Wang, Qiuchen Wang, Y
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-06487/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-06487/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_06487,
+  title = {{ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking}},
+  author = {{Qiang Zhang} and {Boli Chen} and {Fanrui Zhang} and {Ruixue Ding} and {Shihang Wang} and {Qiuchen Wang} and {Yinfeng Huang} and {Haonan Zhang} and {Rongxiang Zhu} and {Pengyong Wang} and {Ailin Ren} and {Xin Li} and {Pengjun Xie} and {Jiawei Liu} and {Ning Guo} and {Jingren Zhou} and {Zheng-Jun Zha}},
+  year = {2026},
+  eprint = {2601.06487v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.06487v3},
+  note = {First published: 2026-01-10; Recorded arXiv version: v3; Recorded version updated: 2026-07-22T09:23:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

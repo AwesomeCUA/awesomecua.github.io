@@ -1,3 +1,11 @@
+---
+title: "Absorbed in Inertia: Activation Analysis for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-37176/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Absorbed in Inertia: Activation Analysis for Computer-Use Agents
 
 Studies repetitive, unproductive actions in desktop agents through their internal activation states. It proposes Reset, Reroute, Restore, a context intervention that temporarily resets an agent’s trajectory and later restores it to help escape repeated ineffective behavior.
@@ -26,6 +34,18 @@ Giulio Segalini, Zhi Wen Soi, Jérémie Decouchant, Lydia Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-37176/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-37176/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_37176,
+  title = {{Absorbed in Inertia: Activation Analysis for Computer-Use Agents}},
+  author = {{Giulio Segalini} and {Zhi Wen Soi} and {Jérémie Decouchant} and {Lydia Chen}},
+  year = {2026},
+  eprint = {2609.37176v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.37176v1},
+  note = {First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T10:01:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

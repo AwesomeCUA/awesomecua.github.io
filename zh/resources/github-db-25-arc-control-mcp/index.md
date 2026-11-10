@@ -1,3 +1,11 @@
+---
+title: "arc-control-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-db-25-arc-control-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # arc-control-mcp
 
 用于控制 macOS 上 Arc 浏览器的 Model Context Protocol 服务器，支持空间、标签页、导航和页面交互。

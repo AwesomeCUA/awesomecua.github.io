@@ -1,3 +1,11 @@
+---
+title: "GELab Zero | AwesomeCUA"
+url: https://awesomecua.com/resources/github-stepfun-ai-gelab-zero/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # GELab Zero
 
 Open mobile GUI agent stack pairing a 4B model that runs on consumer hardware with local multi-device infrastructure, an MCP server, and AndroidDaily benchmark tasks.

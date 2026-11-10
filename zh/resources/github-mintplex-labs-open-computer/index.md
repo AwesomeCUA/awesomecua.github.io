@@ -1,3 +1,11 @@
+---
+title: "Open Computer · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mintplex-labs-open-computer/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Open Computer
 
 Open Computer 为智能体提供隔离的 Debian 桌面，配有浏览器和原生应用控制功能。用户可通过实时界面观察并协助智能体。

@@ -1,3 +1,11 @@
+---
+title: "Agent Lightning: Train ANY AI Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2508-03680/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agent Lightning: Train ANY AI Agents with Reinforcement Learning
 
 Bibliographic record for Agent Lightning: Train ANY AI Agents with Reinforcement Learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xufang Luo, Yuge Zhang, Zhiyuan He, Zilong Wang, Siyun Zhao, Dongsheng Li, Luna 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2508-03680/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2508-03680/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_03680,
+  title = {{Agent Lightning: Train ANY AI Agents with Reinforcement Learning}},
+  author = {{Xufang Luo} and {Yuge Zhang} and {Zhiyuan He} and {Zilong Wang} and {Siyun Zhao} and {Dongsheng Li} and {Luna K. Qiu} and {Yuqing Yang}},
+  year = {2025},
+  eprint = {2508.03680v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.03680v1},
+  note = {First published: 2025-08-05; Recorded arXiv version: v1; Recorded version updated: 2025-08-05T17:50:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

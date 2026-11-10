@@ -1,3 +1,11 @@
+---
+title: "ScreenClaw (睇虾) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ginsing1226-screenclaw/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ScreenClaw (睇虾)
 
 Windows 可视化 GUI 自动化辅助工具，结合基于百分比坐标的网格叠加层与非阻塞式工作流录制和重放。

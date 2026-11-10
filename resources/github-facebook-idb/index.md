@@ -1,3 +1,11 @@
+---
+title: "idb | AwesomeCUA"
+url: https://awesomecua.com/resources/github-facebook-idb/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # idb
 
 idb is a CLI and Python client for automating iOS simulators and devices, with remote companions and commands for app and test workflows.

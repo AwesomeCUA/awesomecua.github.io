@@ -1,3 +1,11 @@
+---
+title: "solveReCaptcha-Typescript | AwesomeCUA"
+url: https://awesomecua.com/resources/github-conghuy113-solverecaptcha-typescript/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # solveReCaptcha-Typescript
 
 TypeScript library and browser automation helper for solving reCAPTCHA challenges in Playwright and Puppeteer pipelines.

@@ -1,3 +1,11 @@
+---
+title: "Agent-R: Training Language Model Agents to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2501-11425/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training
 
 Builds self-critique training examples from searched recovery paths to improve agents' ability to detect and correct errors during interaction.
@@ -26,6 +34,18 @@ Siyu Yuan, Zehui Chen, Zhiheng Xi, Junjie Ye, Zhengyin Du, Jiecao Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2501-11425/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2501-11425/citation.csl.json
+
+```bibtex
+@misc{arxiv_2501_11425,
+  title = {{Agent-R: Training Language Model Agents to Reflect via Iterative Self-Training}},
+  author = {{Siyu Yuan} and {Zehui Chen} and {Zhiheng Xi} and {Junjie Ye} and {Zhengyin Du} and {Jiecao Chen}},
+  year = {2025},
+  eprint = {2501.11425v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2501.11425v3},
+  note = {First published: 2025-01-20; Recorded arXiv version: v3; Recorded version updated: 2025-03-24T10:18:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

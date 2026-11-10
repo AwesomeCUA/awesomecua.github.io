@@ -1,3 +1,11 @@
+---
+title: "selenium-with-fingerprints · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bablosoft-selenium-with-fingerprints/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # selenium-with-fingerprints
 
 selenium-with-fingerprints 是一个 Windows 插件，可用从 FingerprintSwitcher 服务获取的指纹启动 Selenium WebDriver 浏览器。

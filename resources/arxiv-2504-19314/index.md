@@ -1,3 +1,11 @@
+---
+title: "BrowseComp-ZH: Benchmarking Web Browsing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-19314/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese
 
 Bibliographic record for BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Peilin Zhou, Bruce Leon, Xiang Ying, Can Zhang, Yifan Shao, Qichen Ye, Dading Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-19314/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-19314/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_19314,
+  title = {{BrowseComp-ZH: Benchmarking Web Browsing Ability of Large Language Models in Chinese}},
+  author = {{Peilin Zhou} and {Bruce Leon} and {Xiang Ying} and {Can Zhang} and {Yifan Shao} and {Qichen Ye} and {Dading Chong} and {Zhiling Jin} and {Chenxuan Xie} and {Meng Cao} and {Yuxin Gu} and {Sixin Hong} and {Jing Ren} and {Jian Chen} and {Chao Liu} and {Yining Hua}},
+  year = {2025},
+  eprint = {2504.19314v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.19314v2},
+  note = {First published: 2025-04-27; Recorded arXiv version: v2; Recorded version updated: 2025-05-01T05:02:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

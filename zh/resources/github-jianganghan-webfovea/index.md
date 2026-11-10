@@ -1,3 +1,11 @@
+---
+title: "WebFovea · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jianganghan-webfovea/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # WebFovea
 
 WebFovea 是基于视觉的网页智能体，将注视区域的视觉裁剪细化与实时浏览器交互结合起来。

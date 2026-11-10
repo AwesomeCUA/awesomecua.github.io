@@ -1,3 +1,11 @@
+---
+title: "GUI_Reflection_8b_SFT | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e2c687595af929b4332a/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # GUI_Reflection_8b_SFT
 
 Final GUI Reflection agent checkpoint, built on InternVL, that predicts mobile GUI actions from a screenshot and task goal after training on reflection and error-correction data.

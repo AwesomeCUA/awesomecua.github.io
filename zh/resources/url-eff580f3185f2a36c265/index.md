@@ -1,3 +1,11 @@
+---
+title: "Yutori · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-eff580f3185f2a36c265/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Yutori
 
 Yutori 网页智能体平台，提供 Navigator 计算机使用模型 API（浏览器用 n1.5、完整桌面用 n2）、浏览、研究和 Scout 网页监测任务 API，以及 Delegate 个人智能体。

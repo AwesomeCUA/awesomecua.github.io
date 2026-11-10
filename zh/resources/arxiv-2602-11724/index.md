@@ -1,3 +1,11 @@
+---
+title: "WebTestPilot: Agentic End-to-End Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-11724/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WebTestPilot: Agentic End-to-End Web Testing against Natural Language Specification by Inferring Oracles with Symbolized GUI Elements
 
 WebTestPilot 将自然语言需求转化为网页测试步骤，围绕符号化 GUI 元素推断前置与后置条件；包含注入缺陷的网页应用的基准用于检验这些结合上下文的判定条件能否区分应用缺陷与智能体失误。
@@ -27,6 +35,18 @@ Xiwen Teoh, Yun Lin, Duc-Minh Nguyen, Ruofei Ren, Wenjie Zhang, Jin Song Dong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-11724/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-11724/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_11724,
+  title = {{WebTestPilot: Agentic End-to-End Web Testing against Natural Language Specification by Inferring Oracles with Symbolized GUI Elements}},
+  author = {{Xiwen Teoh} and {Yun Lin} and {Duc-Minh Nguyen} and {Ruofei Ren} and {Wenjie Zhang} and {Jin Song Dong}},
+  year = {2026},
+  eprint = {2602.11724v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.11724v3},
+  note = {First published: 2026-02-12; Recorded arXiv version: v3; Recorded version updated: 2026-04-23T15:00:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

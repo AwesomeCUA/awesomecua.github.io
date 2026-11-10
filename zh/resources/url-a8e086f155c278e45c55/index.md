@@ -1,3 +1,11 @@
+---
+title: "Holo1.5 72B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a8e086f155c278e45c55/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo1.5 72B
 
 H Company 的 Holo1.5 系列 72B 模型，基于 Qwen2.5-VL-72B-Instruct 微调，用于网页、桌面和移动界面的 UI 元素定位及屏幕问答。

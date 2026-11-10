@@ -1,3 +1,11 @@
+---
+title: "OpenJev-Data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a54a35c90681ced60cec/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # OpenJev-Data
 
 OpenJev-Data 提供带标签的浏览器操作步骤，用于训练模型选择网页智能体的下一步操作及目标元素，并提供固定测试集以评估端点。

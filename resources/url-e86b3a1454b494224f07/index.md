@@ -1,3 +1,11 @@
+---
+title: "AgentBreaker: Evaluating Context-Aware… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e86b3a1454b494224f07/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents
 
 AgentBreaker generates page-specific prompt injections in HTML elements to test web agents, then evaluates attacks and defenses on 60 webpages from Online-Mind2Web.
@@ -26,6 +34,23 @@ Yongbi Son, Changoo Lee, Dongwon Shin, Byoungyoung Lee, Sanghyun Hong, Sooel Son
 
 - BibTeX: https://awesomecua.com/resources/url-e86b3a1454b494224f07/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-e86b3a1454b494224f07/citation.csl.json
+
+```bibtex
+@article{cua_861d6dad3d57e1ef47ee74a3,
+  title = {{AgentBreaker: Evaluating Context-Aware Indirect Prompt Injection Risks in Modern Web Agents}},
+  author = {{Yongbi Son} and {Changoo Lee} and {Dongwon Shin} and {Byoungyoung Lee} and {Sanghyun Hong} and {Sooel Son}},
+  year = {2026},
+  month = oct,
+  journal = {Proceedings of the ACM on Software Engineering},
+  publisher = {Association for Computing Machinery (ACM)},
+  volume = {3},
+  number = {ISSTA},
+  pages = {1696-1717},
+  doi = {10.1145/3832165},
+  url = {https://doi.org/10.1145/3832165},
+  note = {Publication date: 2026-10-01.}
+}
+```
 
 ## Publication record
 

@@ -1,3 +1,11 @@
+---
+title: "DiMo-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vivo-dimo-gui/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # DiMo-GUI
 
 GUI grounding research using modality-aware visual reasoning and test-time scaling.

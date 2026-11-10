@@ -1,3 +1,11 @@
+---
+title: "PeriGuru: A Peripheral Robotic Mobile… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2409-09354/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM
 
 PeriGuru 通过计算机视觉解读手机 GUI 截图，并用语言模型决定下一步操作；外围机械臂执行手机交互，提供另一种移动应用操作方式。
@@ -27,6 +35,18 @@ Kelin Fu, Yang Tian, Kaigui Bian
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2409-09354/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2409-09354/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_09354,
+  title = {{PeriGuru: A Peripheral Robotic Mobile App Operation Assistant based on GUI Image Understanding and Prompting with LLM}},
+  author = {{Kelin Fu} and {Yang Tian} and {Kaigui Bian}},
+  year = {2024},
+  eprint = {2409.09354v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.09354v1},
+  note = {First published: 2024-09-14; Recorded arXiv version: v1; Recorded version updated: 2024-09-14T07:54:25Z.}
+}
+```
 
 ## arXiv 版本记录
 

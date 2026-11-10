@@ -1,3 +1,11 @@
+---
+title: "Molmo and PixMo: Open Weights and Open Data… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-17146/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Molmo and PixMo: Open Weights and Open Data for State-of-the-Art Vision-Language Models
 
 Status: excluded from the active CUA catalog after scope review.

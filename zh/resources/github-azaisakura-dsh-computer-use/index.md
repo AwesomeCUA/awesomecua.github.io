@@ -1,3 +1,11 @@
+---
+title: "AzaiSakura dsh-computer-use (macOS) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-azaisakura-dsh-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AzaiSakura dsh-computer-use (macOS)
 
 针对 DeepSeek Harness 重新实现的 OpenAI macOS Computer Use 插件。

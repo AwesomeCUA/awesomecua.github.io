@@ -1,3 +1,11 @@
+---
+title: "BRYES (Brain-Eyes) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alvseek-bryes/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # BRYES (Brain-Eyes)
 
 BRYES 将高层推理规划器（“Brain”）与可替换的视觉感知和定位后端（“Eyes”）解耦，用于计算机使用。

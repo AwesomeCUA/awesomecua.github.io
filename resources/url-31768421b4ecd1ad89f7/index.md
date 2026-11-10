@@ -1,3 +1,11 @@
+---
+title: "OS-Genesis web training data | AwesomeCUA"
+url: https://awesomecua.com/resources/url-31768421b4ecd1ad89f7/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # OS-Genesis web training data
 
 Gated OS-Genesis web release holding one JSONL file of reverse-task-synthesis training trajectories and a screenshot archive, named in the project README as training data for its WA checkpoints.

@@ -1,3 +1,11 @@
+---
+title: "OpenApps · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-facebookresearch-openapps/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # OpenApps
 
 提供可配置的浏览器应用和任务奖励，用于测试计算机使用智能体在内容、布局和外观变化下的表现。

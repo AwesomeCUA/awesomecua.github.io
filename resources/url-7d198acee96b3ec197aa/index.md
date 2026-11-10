@@ -1,3 +1,11 @@
+---
+title: "WebThinker-R1-14B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7d198acee96b3ec197aa/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # WebThinker-R1-14B
 
 WebThinker-R1-14B is a released reasoning model whose card describes web search, page exploration through clicks, and report drafting during research tasks.

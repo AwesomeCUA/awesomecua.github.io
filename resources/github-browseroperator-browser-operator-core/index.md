@@ -1,3 +1,11 @@
+---
+title: "Browser Operator (agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browseroperator-browser-operator-core/
+updated: 2026-10-19
+type: agent
+lang: en
+---
+
 # Browser Operator
 
 Chromium-based AI browser whose DevTools panel runs a multi-agent framework (web-task, action, form-fill, research and verification agents) over accessibility trees with OpenRouter, OpenAI, Groq or LiteLLM models.

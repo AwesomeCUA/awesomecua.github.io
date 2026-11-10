@@ -1,3 +1,11 @@
+---
+title: "DI-Bench: Systematically Generating In-Domain… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-05776/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DI-Bench: Systematically Generating In-Domain Data Intelligence Benchmarks for Enterprise Agents
 
 Status: excluded from the active CUA catalog after scope review.

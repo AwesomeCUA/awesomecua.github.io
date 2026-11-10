@@ -1,3 +1,11 @@
+---
+title: "SkillHarm: Lifecycle-Aware Skill-Based… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-02540/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction
 
 Bibliographic record for SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuting Ning, Zhehao Zhang, Yash Kumar Lal, Boyu Gou, Junyi Li, Weitong Ruan, Che
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-02540/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-02540/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_02540,
+  title = {{SkillHarm: Lifecycle-Aware Skill-Based Attacks via Automated Construction}},
+  author = {{Yuting Ning} and {Zhehao Zhang} and {Yash Kumar Lal} and {Boyu Gou} and {Junyi Li} and {Weitong Ruan} and {Chentao Ye} and {Rahul Gupta} and {Diyi Yang} and {Yu Su} and {Huan Sun}},
+  year = {2026},
+  eprint = {2606.02540v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.02540v2},
+  note = {First published: 2026-06-01; Recorded arXiv version: v2; Recorded version updated: 2026-10-11T22:23:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

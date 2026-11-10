@@ -1,3 +1,11 @@
+---
+title: "Kura | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4f4e7c972e678f1d8c48/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Kura
 
 Enterprise browser-agent builder whose Recursion agent runs plain-language steps on the live page and saves them as workflow blocks (actions, navigation, extraction, checks) with cached selectors, deployable as APIs.

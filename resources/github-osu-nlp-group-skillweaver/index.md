@@ -1,3 +1,11 @@
+---
+title: "SkillWeaver | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-skillweaver/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # SkillWeaver
 
 A web-agent framework that explores sites, synthesizes reusable interaction APIs and builds a skill library for later tasks.

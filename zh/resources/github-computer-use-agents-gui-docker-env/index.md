@@ -1,3 +1,11 @@
+---
+title: "GUI-Docker-Env · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-computer-use-agents-gui-docker-env/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # GUI-Docker-Env
 
 GUI-Docker-Env 在 Docker 中托管 OSWorld Ubuntu 桌面模拟器，提供可配置的虚拟机镜像、身份验证、并发限制和状态接口。

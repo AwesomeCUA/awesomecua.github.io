@@ -1,3 +1,11 @@
+---
+title: "VibeSurf for OpenClaw | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vibesurf-ai-claw-surf/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # VibeSurf for OpenClaw
 
 An OpenClaw skill that routes browser navigation, page extraction, screenshots, and workflows through VibeSurf's HTTP API.

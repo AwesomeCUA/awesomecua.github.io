@@ -1,3 +1,11 @@
+---
+title: "MobileWorld (Tongyi-MAI) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tongyi-mai-mobileworld/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # MobileWorld (Tongyi-MAI)
 
 容器化 Android 评估环境，包含纯 GUI、智能体与用户交互及 MCP 增强的任务，并检查应用和后端状态。

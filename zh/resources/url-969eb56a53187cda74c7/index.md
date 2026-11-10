@@ -1,3 +1,11 @@
+---
+title: "KV-Ground-4B-BaseQw3vl · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-969eb56a53187cda74c7/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # KV-Ground-4B-BaseQw3vl
 
 这款 4B 界面定位模型接收高分辨率截图和文字指令，基于 Qwen3-VL-4B-Instruct 经监督训练及基于奖励的训练得到。

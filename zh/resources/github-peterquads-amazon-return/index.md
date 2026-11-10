@@ -1,3 +1,11 @@
+---
+title: "Amazon Return Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-peterquads-amazon-return/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Amazon Return Skill
 
 Claude 浏览器技能，可在用户已登录的浏览器中完成端到端的 Amazon 退货流程。

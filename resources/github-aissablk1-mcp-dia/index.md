@@ -1,3 +1,11 @@
+---
+title: "mcp-dia | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aissablk1-mcp-dia/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # mcp-dia
 
 Model Context Protocol server for controlling Dia Browser tabs, pages, and built-in AI features over the Chrome DevTools Protocol.

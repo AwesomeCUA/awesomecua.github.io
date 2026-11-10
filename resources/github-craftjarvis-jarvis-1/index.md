@@ -1,3 +1,11 @@
+---
+title: "JARVIS-1 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-craftjarvis-jarvis-1/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # JARVIS-1
 
 JARVIS-1 is an open-world multimodal Minecraft agent with episodic multimodal memory and goal-conditioned keyboard/mouse control.

@@ -1,3 +1,11 @@
+---
+title: "SafeFlow: Semantic Information-Flow… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-25255/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems
 
 提出面向多智能体任务委派的语义信息流防御 SafeFlow；评估场景包括有害网页智能体行为。
@@ -27,6 +35,18 @@ Haowen Dai, Zonghao Ying, Wenfeng Li, Xiangfan Wu, Yisong Xiao, Tianyuan Zhang, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-25255/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-25255/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_25255,
+  title = {{SafeFlow: Semantic Information-Flow Control for Blocking Malicious Propagation in Multi-Agent Systems}},
+  author = {{Haowen Dai} and {Zonghao Ying} and {Wenfeng Li} and {Xiangfan Wu} and {Yisong Xiao} and {Tianyuan Zhang} and {Jiaye Lin} and {Lei Wei} and {Guangyuan Dong} and {Xitong Ling} and {Xixun Lin} and {Quanchen Zou} and {Xiangzheng Zhang}},
+  year = {2026},
+  eprint = {2607.25255v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.25255v2},
+  note = {First published: 2026-07-28; Recorded arXiv version: v2; Recorded version updated: 2026-07-29T23:58:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Mirage (Adversarial Web Benchmark) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shushant17711-mirage/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Mirage (Adversarial Web Benchmark)
 
 受控的对抗性网页环境，用于衡量自主浏览器智能体如何在欺骗性 UI 和提示陷阱下失败。

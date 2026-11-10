@@ -1,3 +1,11 @@
+---
+title: "skillproof | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hccccc01333-skillproof/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # skillproof
 
 skillproof records a human browser demonstration once and compiles it into a replayable agent skill paired with an explicit completion verifier.

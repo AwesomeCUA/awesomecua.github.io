@@ -1,3 +1,11 @@
+---
+title: "App Use · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-erickjtorres-app-use/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # App Use
 
 App Use 是 Python 框架，通过 Appium 和无障碍树检查，将 LLM 智能体连接到 Android 和 iOS 移动端应用。

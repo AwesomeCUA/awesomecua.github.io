@@ -1,3 +1,11 @@
+---
+title: "UI-S1 released training examples | AwesomeCUA"
+url: https://awesomecua.com/resources/url-16184830c0f4bdb146fa/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # UI-S1 released training examples
 
 A public example subset of the UI-S1 mobile training data, packaged as JSONL annotations and Parquet images.

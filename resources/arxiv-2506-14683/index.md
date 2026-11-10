@@ -1,3 +1,11 @@
+---
+title: "Unified Software Engineering Agent as AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-14683/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Unified Software Engineering Agent as AI Software Engineer
 
 Status: excluded from the active CUA catalog after scope review.

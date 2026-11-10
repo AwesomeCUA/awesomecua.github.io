@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-7B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b9c90048411606b00db0/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen2-VL-7B-Instruct
 
 这款 7B 指令微调多模态模型处理图像和视频；模型卡还介绍了依据视觉输入操作移动设备的能力。

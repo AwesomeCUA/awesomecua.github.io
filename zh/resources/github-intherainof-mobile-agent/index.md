@@ -1,3 +1,11 @@
+---
+title: "InTheRainOf Mobile Agent (随身Agent) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-intherainof-mobile-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # InTheRainOf Mobile Agent (随身Agent)
 
 在设备端运行的 Android AI 智能体，用于自动操作手机应用和执行日常移动端任务。

@@ -1,3 +1,11 @@
+---
+title: "MCPSafari · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-epistates-mcpsafari/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MCPSafari
 
 原生 macOS Safari Model Context Protocol 服务器，让 AI 智能体检查并控制用户已登录的 Safari 浏览器。

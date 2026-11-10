@@ -1,3 +1,11 @@
+---
+title: "WebOlympus: An Open Platform for Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-07e274077af6ea9fd5f9/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # WebOlympus: An Open Platform for Web Agents on Live Websites
 
 提出 WebOlympus 开放平台，可用少量代码或 Chrome 扩展让网页智能体在真实网站运行，并通过人工或模型检查的安全监控器阻止有害操作。
@@ -27,6 +35,21 @@ Boyuan Zheng, Boyu Gou, Scott Salisbury, Zheng Du, Huan Sun, Yu Su
 
 - BibTeX：https://awesomecua.com/resources/url-07e274077af6ea9fd5f9/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-07e274077af6ea9fd5f9/citation.csl.json
+
+```bibtex
+@inproceedings{cua_702219eb2a27d3d3eb2d691d,
+  title = {{WebOlympus: An Open Platform for Web Agents on Live Websites}},
+  author = {{Boyuan Zheng} and {Boyu Gou} and {Scott Salisbury} and {Zheng Du} and {Huan Sun} and {Yu Su}},
+  year = {2024},
+  month = nov,
+  booktitle = {Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations},
+  publisher = {Association for Computational Linguistics},
+  pages = {187-197},
+  doi = {10.18653/v1/2024.emnlp-demo.20},
+  url = {https://aclanthology.org/2024.emnlp-demo.20/},
+  note = {Publication date: 2024-11.}
+}
+```
 
 ## 发表记录
 

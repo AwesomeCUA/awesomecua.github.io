@@ -1,3 +1,11 @@
+---
+title: "Steward: Natural Language Web Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-15441/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Steward: Natural Language Web Automation
 
 Introduces Steward, a natural-language browser automation system that repeatedly plans and executes website actions. The paper examines completion detection, state representation, responsiveness, and caching in real-site tasks.
@@ -26,6 +34,18 @@ Brian Tang, Kang G. Shin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-15441/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-15441/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_15441,
+  title = {{Steward: Natural Language Web Automation}},
+  author = {{Brian Tang} and {Kang G. Shin}},
+  year = {2024},
+  eprint = {2409.15441v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.15441v1},
+  note = {First published: 2024-09-23; Recorded arXiv version: v1; Recorded version updated: 2024-09-23T18:06:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

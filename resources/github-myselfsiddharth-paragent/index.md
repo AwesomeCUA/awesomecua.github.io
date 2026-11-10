@@ -1,3 +1,11 @@
+---
+title: "Paragent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-myselfsiddharth-paragent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Paragent
 
 Stateful browser execution layer that records an agent task once, replays it without LLM calls, and self-repairs when selectors change.

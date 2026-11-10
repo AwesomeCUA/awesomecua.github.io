@@ -1,3 +1,11 @@
+---
+title: "playwright-with-fingerprints · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bablosoft-playwright-with-fingerprints/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # playwright-with-fingerprints
 
 playwright-with-fingerprints 是 Windows 插件，可将获取的浏览器指纹应用于使用 Playwright 的网页自动化会话。

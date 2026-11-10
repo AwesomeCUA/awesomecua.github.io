@@ -1,3 +1,11 @@
+---
+title: "AndroidControl-Curated: Revealing the… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-18488/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # AndroidControl-Curated: Revealing the True Potential of GUI Agents through Benchmark Purification
 
 AndroidControl-Curated 核查 AndroidControl 中的歧义和事实错误，形成修订后的评估数据集。论文还在精选子集上对小型 Magma-R1 模型进行后训练，研究数据质量对 GUI 操作评估的影响。
@@ -27,6 +35,18 @@ Ho Fai Leung, Xiaoyan Xi, Fei Zuo
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-18488/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-18488/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_18488,
+  title = {{AndroidControl-Curated: Revealing the True Potential of GUI Agents through Benchmark Purification}},
+  author = {{Ho Fai Leung} and {Xiaoyan Xi} and {Fei Zuo}},
+  year = {2025},
+  eprint = {2510.18488v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.18488v1},
+  note = {First published: 2025-10-21; Recorded arXiv version: v1; Recorded version updated: 2025-10-21T10:11:33Z.}
+}
+```
 
 ## arXiv 版本记录
 

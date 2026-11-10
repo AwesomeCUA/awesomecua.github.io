@@ -1,3 +1,11 @@
+---
+title: "Kernel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kernel-kernel-images/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Kernel
 
 Kernel supplies isolated Chrome browser instances for web agents and automation. Its images support remote control, live viewing, and session recording.

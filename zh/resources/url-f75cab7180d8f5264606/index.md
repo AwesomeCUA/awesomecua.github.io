@@ -1,3 +1,11 @@
+---
+title: "ZeroGUI-AndroidLab-7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f75cab7180d8f5264606/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # ZeroGUI-AndroidLab-7B
 
 ZeroGUI-AndroidLab-7B 是 GUI 智能体模型权重，其训练流程会生成界面任务、依据截图估计奖励，并通过在线强化学习持续适应。

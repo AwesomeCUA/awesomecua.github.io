@@ -1,3 +1,11 @@
+---
+title: "FinanceBench: A New Benchmark for Financial… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-11944/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # FinanceBench: A New Benchmark for Financial Question Answering
 
 Bibliographic record for FinanceBench: A New Benchmark for Financial Question Answering. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Pranab Islam, Anand Kannappan, Douwe Kiela, Rebecca Qian, Nino Scherrer, Bertie 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2311-11944/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2311-11944/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_11944,
+  title = {{FinanceBench: A New Benchmark for Financial Question Answering}},
+  author = {{Pranab Islam} and {Anand Kannappan} and {Douwe Kiela} and {Rebecca Qian} and {Nino Scherrer} and {Bertie Vidgen}},
+  year = {2023},
+  eprint = {2311.11944v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.11944v1},
+  note = {First published: 2023-11-20; Recorded arXiv version: v1; Recorded version updated: 2023-11-20T17:28:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

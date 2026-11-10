@@ -1,3 +1,11 @@
+---
+title: "UI-TARS 1.5 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4d32ad3682ae2d71c178/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # UI-TARS 1.5 7B
 
 UI-TARS 1.5 GUI-agent checkpoint in the Qwen2.5-VL architecture with about 8.3B parameters stored in FP32, released under Apache-2.0 for English image-text-to-text use in Transformers.

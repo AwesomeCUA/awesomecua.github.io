@@ -1,3 +1,11 @@
+---
+title: "WebSRC: A Dataset for Web-Based Structural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2101-09465/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebSRC: A Dataset for Web-Based Structural Reading Comprehension
 
 Introduces question answering over webpage text and structure, with aligned HTML, screenshots, and metadata for structural reading comprehension.
@@ -26,6 +34,18 @@ Xingyu Chen, Zihan Zhao, Lu Chen, Danyang Zhang, Jiabao Ji, Ao Luo, Yuxuan Xiong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2101-09465/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2101-09465/citation.csl.json
+
+```bibtex
+@misc{arxiv_2101_09465,
+  title = {{WebSRC: A Dataset for Web-Based Structural Reading Comprehension}},
+  author = {{Xingyu Chen} and {Zihan Zhao} and {Lu Chen} and {Danyang Zhang} and {Jiabao Ji} and {Ao Luo} and {Yuxuan Xiong} and {Kai Yu}},
+  year = {2021},
+  eprint = {2101.09465v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2101.09465v2},
+  note = {First published: 2021-01-23; Recorded arXiv version: v2; Recorded version updated: 2021-11-08T08:31:44Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

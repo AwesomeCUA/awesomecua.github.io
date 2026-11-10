@@ -1,3 +1,11 @@
+---
+title: "Lumen browser agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-omxyz-lumen/
+updated: 2026-10-17
+type: agent
+lang: zh-CN
+---
+
 # Lumen browser agent
 
 基于截图、通过 Chrome DevTools Protocol 运行的浏览器智能体，支持会话续接、上下文压缩、操作重放和可配置的完成状态检查。

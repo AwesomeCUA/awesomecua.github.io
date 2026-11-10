@@ -1,3 +1,11 @@
+---
+title: "MobileRAG: Enhancing Mobile Agent with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-03891/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation
 
 MobileRAG 结合检索和记忆组件，支持需要外部知识或较长操作序列的移动任务；同时提出 MobileRAG-Eval，在复杂的真实应用任务中研究这些需求。
@@ -27,6 +35,18 @@ Gowen Loo, Chang Liu, Qinghong Yin, Xiang Chen, Jiawei Chen, Jingyuan Zhang, Yu 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-03891/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-03891/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_03891,
+  title = {{MobileRAG: Enhancing Mobile Agent with Retrieval-Augmented Generation}},
+  author = {{Gowen Loo} and {Chang Liu} and {Qinghong Yin} and {Xiang Chen} and {Jiawei Chen} and {Jingyuan Zhang} and {Yu Tian}},
+  year = {2025},
+  eprint = {2509.03891v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.03891v1},
+  note = {First published: 2025-09-04; Recorded arXiv version: v1; Recorded version updated: 2025-09-04T05:22:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

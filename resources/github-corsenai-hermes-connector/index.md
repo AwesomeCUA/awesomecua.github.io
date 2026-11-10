@@ -1,3 +1,11 @@
+---
+title: "Hermes Connector | AwesomeCUA"
+url: https://awesomecua.com/resources/github-corsenai-hermes-connector/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Hermes Connector
 
 Hermes Connector is a Chrome extension that bridges Hermes Agent to the user's live browser tabs, DOM context, and authenticated sessions.

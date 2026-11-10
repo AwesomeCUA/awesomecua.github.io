@@ -1,3 +1,11 @@
+---
+title: "From Code to Playable Systems: CEGame-Bench… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-26098/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # From Code to Playable Systems: CEGame-Bench for Long-Horizon Game Creation Agents
 
 Bibliographic record for From Code to Playable Systems: CEGame-Bench for Long-Horizon Game Creation Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zixuan Dong, Yanghai Wang, Hanyan Bian, Jiaxi Tao, Junze Li, Jiadong Wang, Xinyu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-26098/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-26098/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_26098,
+  title = {{From Code to Playable Systems: CEGame-Bench for Long-Horizon Game Creation Agents}},
+  author = {{Zixuan Dong} and {Yanghai Wang} and {Hanyan Bian} and {Jiaxi Tao} and {Junze Li} and {Jiadong Wang} and {Xinyu Che} and {Lin Liu} and {Baoyun Peng} and {Xiaodong Wang} and {Jiaheng Liu}},
+  year = {2026},
+  eprint = {2610.26098v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.26098v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T09:59:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "gWorld-32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e44096836ef47bc66d9c/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # gWorld-32B
 
 这是一个已发布的移动端图形界面世界模型，接收屏幕截图和操作，并以可渲染的 HTML 预测下一界面。模型卡称其基于 Qwen3-VL-32B。

@@ -1,3 +1,11 @@
+---
+title: "AgentMD: Empowering Language Agents for Risk… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-13225/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentMD: Empowering Language Agents for Risk Prediction with Large-Scale Clinical Tool Learning
 
 Status: excluded from the active CUA catalog after scope review.

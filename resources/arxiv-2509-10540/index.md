@@ -1,3 +1,11 @@
+---
+title: "EchoLeak: The First Real-World Zero-Click… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-10540/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # EchoLeak: The First Real-World Zero-Click Prompt Injection Exploit in a Production LLM System
 
 Status: excluded from the active CUA catalog after scope review.

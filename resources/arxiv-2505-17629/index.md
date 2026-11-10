@@ -1,3 +1,11 @@
+---
+title: "TransBench: Breaking Barriers for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-17629/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments
 
 Introduces TransBench to evaluate GUI grounding transfer across app versions, iOS, Android, Web, and functionally distinct applications.
@@ -26,6 +34,18 @@ Yuheng Lu, Qian Yu, Hongru Wang, Zeming Liu, Wei Su, Yanping Liu, Yuhang Guo, Ma
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-17629/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-17629/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_17629,
+  title = {{TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments}},
+  author = {{Yuheng Lu} and {Qian Yu} and {Hongru Wang} and {Zeming Liu} and {Wei Su} and {Yanping Liu} and {Yuhang Guo} and {Maocheng Liang} and {Yunhong Wang} and {Haifeng Wang}},
+  year = {2025},
+  eprint = {2505.17629v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.17629v2},
+  note = {First published: 2025-05-23; Recorded arXiv version: v2; Recorded version updated: 2025-05-27T07:41:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

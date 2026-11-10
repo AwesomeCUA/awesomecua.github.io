@@ -1,3 +1,11 @@
+---
+title: "scrcpy | AwesomeCUA"
+url: https://awesomecua.com/resources/github-genymobile-scrcpy/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # scrcpy
 
 scrcpy mirrors Android devices and lets users control them with a computer keyboard and mouse over USB or TCP/IP on Linux, Windows and macOS.

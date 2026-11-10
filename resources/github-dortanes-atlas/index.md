@@ -1,3 +1,11 @@
+---
+title: "Atlas Desktop Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dortanes-atlas/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Atlas Desktop Agent
 
 Atlas is a voice-and-screen desktop agent that observes active windows and executes mouse and keyboard actions.

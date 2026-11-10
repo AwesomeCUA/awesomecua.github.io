@@ -1,3 +1,11 @@
+---
+title: "plasmate-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-plasmate-labs-plasmate-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # plasmate-mcp
 
 plasmate-mcp 通过 Plasmate 引擎为 MCP 客户端提供浏览器会话，以及查看页面语义结构、点击元素和运行 JavaScript 的工具。

@@ -1,3 +1,11 @@
+---
+title: "Coati: Host-Grounded Execution for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-02644/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Coati: Host-Grounded Execution for Installable Mobile GUI Agents
 
 Introduces Coati, an installable Android GUI agent that checks action outcomes with phone-side evidence, stores per-app procedures, and routes simpler steps to a fast executor.
@@ -26,6 +34,18 @@ Yudou Ying, Pu Shi, Hanlei Shi, Yuhua Zheng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-02644/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-02644/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_02644,
+  title = {{Coati: Host-Grounded Execution for Installable Mobile GUI Agents}},
+  author = {{Yudou Ying} and {Pu Shi} and {Hanlei Shi} and {Yuhua Zheng}},
+  year = {2026},
+  eprint = {2611.02644v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.02644v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T07:06:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

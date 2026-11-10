@@ -1,3 +1,11 @@
+---
+title: "VisionAX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rao-studios-visionax/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # VisionAX
 
 Computer-vision accessibility-tree (AX/A11Y) generator that synthesizes structured UI trees from raw desktop pixels.

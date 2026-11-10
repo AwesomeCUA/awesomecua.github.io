@@ -1,3 +1,11 @@
+---
+title: "MacAgentBench: Benchmarking AI Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-22557/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop
 
 Introduces macOS tasks spanning GUI and command-line interaction, with deterministic checks and intermediate-progress scoring for application workflows.
@@ -26,6 +34,18 @@ Yikun Fu, Bowen Fu, Zhenyu Wu, Shuang Cheng, Xiaowei Sun, Bowen Yang, Zehao Li, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-22557/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-22557/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_22557,
+  title = {{MacAgentBench: Benchmarking AI Agents on Real-World macOS Desktop}},
+  author = {{Yikun Fu} and {Bowen Fu} and {Zhenyu Wu} and {Shuang Cheng} and {Xiaowei Sun} and {Bowen Yang} and {Zehao Li} and {Yibo Zhao} and {Zichen Ding} and {Zhoumianze Liu} and {Shijie Wang} and {Biqing Qi} and {Bowen Zhou}},
+  year = {2026},
+  eprint = {2606.22557v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.22557v1},
+  note = {First published: 2026-06-21; Recorded arXiv version: v1; Recorded version updated: 2026-06-21T15:32:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

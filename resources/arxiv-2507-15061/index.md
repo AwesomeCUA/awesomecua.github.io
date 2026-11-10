@@ -1,3 +1,11 @@
+---
+title: "WebShaper: Agentically Data Synthesizing via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-15061/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization
 
 Bibliographic record for WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhengwei Tao, Jialong Wu, Wenbiao Yin, Junkai Zhang, Baixuan Li, Haiyang Shen, K
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-15061/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-15061/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_15061,
+  title = {{WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization}},
+  author = {{Zhengwei Tao} and {Jialong Wu} and {Wenbiao Yin} and {Junkai Zhang} and {Baixuan Li} and {Haiyang Shen} and {Kuan Li} and {Liwen Zhang} and {Xinyu Wang} and {Yong Jiang} and {Pengjun Xie} and {Fei Huang} and {Jingren Zhou}},
+  year = {2025},
+  eprint = {2507.15061v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.15061v1},
+  note = {First published: 2025-07-20; Recorded arXiv version: v1; Recorded version updated: 2025-07-20T17:53:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

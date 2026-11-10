@@ -1,3 +1,11 @@
+---
+title: "Characterizing Unintended Consequences… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-09875/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing
 
 通过社交媒体分析和访谈，研究人与 GUI 智能体协作浏览网页时的意外后果，并围绕规划、界面交互、反馈、隐私和信任梳理观察到的失误、用户影响及缓解做法。
@@ -27,6 +35,18 @@ Shuning Zhang, Jingruo Chen, Zhiqi Gao, Jiajing Gao, Xin Yi, Hewu Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-09875/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-09875/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_09875,
+  title = {{Characterizing Unintended Consequences in Human-GUI Agent Collaboration for Web Browsing}},
+  author = {{Shuning Zhang} and {Jingruo Chen} and {Zhiqi Gao} and {Jiajing Gao} and {Xin Yi} and {Hewu Li}},
+  year = {2025},
+  eprint = {2505.09875v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.09875v2},
+  note = {First published: 2025-05-15; Recorded arXiv version: v2; Recorded version updated: 2025-05-16T07:01:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

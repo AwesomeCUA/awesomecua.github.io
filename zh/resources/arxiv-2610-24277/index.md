@@ -1,3 +1,11 @@
+---
+title: "SPIDES: Information-Flow Control for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-24277/
+updated: 2026-10-20
+type: paper
+lang: zh-CN
+---
+
 # SPIDES: Information-Flow Control for Browser Agents
 
 SPIDES 将 HTML 完整性与保密性标签传递到智能体上下文，并以信息流策略和审批关口管控浏览器操作，在带标签的 MicroNet 生态中评估。
@@ -27,6 +35,18 @@ Egor Zverev, Juhee Kim, Leon Trampert, Boris Köpf, Aashish Kolluri, Shruti Topl
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-24277/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-24277/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_24277,
+  title = {{SPIDES: Information-Flow Control for Browser Agents}},
+  author = {{Egor Zverev} and {Juhee Kim} and {Leon Trampert} and {Boris Köpf} and {Aashish Kolluri} and {Shruti Tople} and {Santiago Zanella-Béguelin}},
+  year = {2026},
+  eprint = {2610.24277v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.24277v1},
+  note = {First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T22:12:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

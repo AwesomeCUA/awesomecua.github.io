@@ -1,3 +1,11 @@
+---
+title: "AIVANE · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-taiyouqu-aivane/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # AIVANE
 
 AIVANE 是跨平台 GUI 自动化助手，结合 YOLO 图标检测、OCR 和多模态 LLM 控制桌面。

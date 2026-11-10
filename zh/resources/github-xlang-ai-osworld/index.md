@@ -1,3 +1,11 @@
+---
+title: "OSWorld · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xlang-ai-osworld/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # OSWorld
 
 通过实际执行任务，评估智能体在真实桌面环境中的表现。

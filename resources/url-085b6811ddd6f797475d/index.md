@@ -1,3 +1,11 @@
+---
+title: "Aria-UI context-aware checkpoint | AwesomeCUA"
+url: https://awesomecua.com/resources/url-085b6811ddd6f797475d/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # Aria-UI context-aware checkpoint
 
 The context-aware Aria-UI release that uses interaction context to support grounding in dynamic Android and desktop agent tasks.

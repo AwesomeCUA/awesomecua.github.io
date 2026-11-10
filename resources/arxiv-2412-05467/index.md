@@ -1,3 +1,11 @@
+---
+title: "The BrowserGym Ecosystem for Web Agent Research | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-05467/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The BrowserGym Ecosystem for Web Agent Research
 
 Describes BrowserGym's shared web interaction environment and AgentLab tooling for consistent experiments across multiple agent benchmarks.
@@ -26,6 +34,18 @@ Thibault Le Sellier De Chezelles, Maxime Gasse, Alexandre Drouin, Massimo Caccia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-05467/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-05467/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_05467,
+  title = {{The BrowserGym Ecosystem for Web Agent Research}},
+  author = {{Thibault Le Sellier De Chezelles} and {Maxime Gasse} and {Alexandre Drouin} and {Massimo Caccia} and {Léo Boisvert} and {Megh Thakkar} and {Tom Marty} and {Rim Assouel} and {Sahar Omidi Shayegan} and {Lawrence Keunho Jang} and {Xing Han Lù} and {Ori Yoran} and {Dehan Kong} and {Frank F. Xu} and {Siva Reddy} and {Quentin Cappart} and {Graham Neubig} and {Ruslan Salakhutdinov} and {Nicolas Chapados} and {Alexandre Lacoste}},
+  year = {2024},
+  eprint = {2412.05467v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.05467v4},
+  note = {First published: 2024-12-06; Recorded arXiv version: v4; Recorded version updated: 2025-02-28T16:02:27Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Genie | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vimalmathew26-genie/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Genie
 
 Genie is an autonomous Linux desktop agent with 3-tier UI resolution across AT-SPI accessibility trees, Chrome CDP, and VLM vision.

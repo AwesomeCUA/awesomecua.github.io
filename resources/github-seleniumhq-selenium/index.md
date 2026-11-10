@@ -1,3 +1,11 @@
+---
+title: "Selenium | AwesomeCUA"
+url: https://awesomecua.com/resources/github-seleniumhq-selenium/
+updated: 2026-10-20
+type: infrastructure
+lang: en
+---
+
 # Selenium
 
 Browser automation project implementing W3C WebDriver, with Java, Python, Ruby, .NET and JavaScript bindings, Selenium Grid for spreading sessions across machines, and the Rust-based Selenium Manager for driver setup.

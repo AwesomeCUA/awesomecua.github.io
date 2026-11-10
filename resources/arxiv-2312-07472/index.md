@@ -1,3 +1,11 @@
+---
+title: "MP5: A Multi-modal Open-ended Embodied System… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-07472/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception
 
 Bibliographic record for MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yiran Qin, Enshen Zhou, Qichang Liu, Zhenfei Yin, Lu Sheng, Ruimao Zhang, Yu Qia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-07472/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-07472/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_07472,
+  title = {{MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception}},
+  author = {{Yiran Qin} and {Enshen Zhou} and {Qichang Liu} and {Zhenfei Yin} and {Lu Sheng} and {Ruimao Zhang} and {Yu Qiao} and {Jing Shao}},
+  year = {2023},
+  eprint = {2312.07472v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.07472v4},
+  note = {First published: 2023-12-12; Recorded arXiv version: v4; Recorded version updated: 2024-03-26T18:08:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

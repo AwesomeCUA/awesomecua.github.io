@@ -1,3 +1,11 @@
+---
+title: "Screen Recognition: Creating… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2101-04893/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels
 
 从移动设备截图推断 UI 元素和无障碍元数据，支持屏幕阅读器与 iOS 应用交互。
@@ -27,6 +35,18 @@ Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2101-04893/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2101-04893/citation.csl.json
+
+```bibtex
+@misc{arxiv_2101_04893,
+  title = {{Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels}},
+  author = {{Xiaoyi Zhang} and {Lilian de Greef} and {Amanda Swearngin} and {Samuel White} and {Kyle Murray} and {Lisa Yu} and {Qi Shan} and {Jeffrey Nichols} and {Jason Wu} and {Chris Fleizach} and {Aaron Everitt} and {Jeffrey P. Bigham}},
+  year = {2021},
+  eprint = {2101.04893v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2101.04893v1},
+  note = {First published: 2021-01-13; Recorded arXiv version: v1; Recorded version updated: 2021-01-13T05:56:15Z.}
+}
+```
 
 ## arXiv 版本记录
 

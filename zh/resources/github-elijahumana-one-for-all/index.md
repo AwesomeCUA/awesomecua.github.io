@@ -1,3 +1,11 @@
+---
+title: "one-for-all · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-elijahumana-one-for-all/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # one-for-all
 
 面向 AI 智能体的统一 macOS 控制平面，覆盖浏览器自动化、原生桌面应用、终端和系统硬件。

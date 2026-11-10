@@ -1,3 +1,11 @@
+---
+title: "UI-Venus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-inclusionai-ui-venus/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # UI-Venus
 
 GUI agent model family; UI-Venus-2, at 9B and 27B, acts on mobile, web and desktop in one end-to-end agent, trained with keypoint-based multi-judge task verification.

@@ -1,3 +1,11 @@
+---
+title: "world_model_for_wa_desc_with_tao_formatted_w_c… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3ef18fbb67e0376561db/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # world_model_for_wa_desc_with_tao_formatted_w_cot
 
 Formatted instruction, input and output examples for training the WMA world model, which describes how a WebArena page changes after an action, with 11795 training and 2949 validation rows.

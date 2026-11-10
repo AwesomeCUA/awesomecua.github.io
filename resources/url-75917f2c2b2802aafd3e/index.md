@@ -1,3 +1,11 @@
+---
+title: "ScienceBoard VMware environment | AwesomeCUA"
+url: https://awesomecua.com/resources/url-75917f2c2b2802aafd3e/
+updated: 2026-10-17
+type: infrastructure
+lang: en
+---
+
 # ScienceBoard VMware environment
 
 A prebuilt Ubuntu virtual-machine archive containing the software environment used for ScienceBoard scientific computer-use tasks.

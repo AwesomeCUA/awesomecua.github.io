@@ -1,3 +1,11 @@
+---
+title: "ELAM-7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-057b43bab2e1e58fc58e/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # ELAM-7B
 
 A model fine-tuned on automotive UI screenshots to return tap coordinates for test instructions and judge expected results at relevant interface elements.

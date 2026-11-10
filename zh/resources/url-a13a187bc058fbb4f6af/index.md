@@ -1,3 +1,11 @@
+---
+title: "Go-Browse-WA processed data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a13a187bc058fbb4f6af/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # Go-Browse-WA processed data
 
 扁平化的网页交互训练记录，包含无障碍树观察、助手续写、轨迹奖励和步骤链接元数据。

@@ -1,3 +1,11 @@
+---
+title: "Turing Test on Screen: A Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-09574/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization
 
 提出 Agent Humanization Benchmark (AHB) 和移动端触控动态数据，用于评估 GUI 智能体的触控行为与人类行为的相似程度。
@@ -27,6 +35,18 @@ Jiachen Zhu, Lingyu Yang, Rong Shan, Congmin Zheng, Zeyu Zheng, Weiwen Liu, Yong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-09574/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-09574/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_09574,
+  title = {{Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization}},
+  author = {{Jiachen Zhu} and {Lingyu Yang} and {Rong Shan} and {Congmin Zheng} and {Zeyu Zheng} and {Weiwen Liu} and {Yong Yu} and {Weinan Zhang} and {Jianghao Lin}},
+  year = {2026},
+  eprint = {2604.09574v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.09574v1},
+  note = {First published: 2026-02-24; Recorded arXiv version: v1; Recorded version updated: 2026-02-24T04:29:42Z.}
+}
+```
 
 ## arXiv 版本记录
 

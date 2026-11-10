@@ -1,3 +1,11 @@
+---
+title: "Everything Maa · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-khazixw2-everything-maa/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Everything Maa
 
 一套面向 Claude Code 和 Codex 的 13 个 AI 技能与 MCP 配置档，用于构建、编辑、测试和诊断 MaaFramework 自动化项目，并通过 maafw-cli 执行设备与 Pipeline 操作。

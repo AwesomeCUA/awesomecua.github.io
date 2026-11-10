@@ -1,3 +1,11 @@
+---
+title: "RelationGUI & RelationQA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-malonghui-relationgui/
+updated: 2026-11-04
+type: dataset
+lang: en
+---
+
 # RelationGUI & RelationQA
 
 RelationGUI provides datasets and training code for explicit spatial, hierarchical, and functional relational understanding in GUI agents.

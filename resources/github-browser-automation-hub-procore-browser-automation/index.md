@@ -1,3 +1,11 @@
+---
+title: "Procore Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-procore-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Procore Browser Automation
 
 A Procore browser automation scaffold with actions for construction RFIs, submittal tracking, daily logs, and project-report export.

@@ -1,3 +1,11 @@
+---
+title: "universe-starter-agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openai-universe-starter-agent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # universe-starter-agent
 
 这款已弃用的入门智能体使用 A3C 训练，在 Universe 游戏中操作，包括通过 VNC 远程桌面运行、观察和操作存在延迟的游戏。

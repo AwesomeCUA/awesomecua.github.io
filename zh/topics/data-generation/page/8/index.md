@@ -1,3 +1,11 @@
+---
+title: "数据生成：Computer-Use 研究与资源（第 8 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/data-generation/page/8/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 数据生成：Computer-Use 研究与资源（第 8 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/data-generation/page/8/

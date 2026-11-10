@@ -1,3 +1,11 @@
+---
+title: "Agent Data Protocol: Unifying Datasets… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-24702/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents
 
 agent data protocol (ADP) 为浏览、工具使用、编程等智能体任务提供统一训练数据格式，涵盖网页操作流程。
@@ -27,6 +35,18 @@ Yueqi Song, Ketan Ramaneti, Zaid Sheikh, Ziru Chen, Boyu Gou, Tianbao Xie, Yihen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-24702/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-24702/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_24702,
+  title = {{Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents}},
+  author = {{Yueqi Song} and {Ketan Ramaneti} and {Zaid Sheikh} and {Ziru Chen} and {Boyu Gou} and {Tianbao Xie} and {Yiheng Xu} and {Danyang Zhang} and {Apurva Gandhi} and {Fan Yang} and {Joseph Liu} and {Tianyue Ou} and {Zhihao Yuan} and {Frank Xu} and {Shuyan Zhou} and {Xingyao Wang} and {Xiang Yue} and {Tao Yu} and {Huan Sun} and {Yu Su} and {Graham Neubig}},
+  year = {2025},
+  eprint = {2510.24702v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.24702v2},
+  note = {First published: 2025-10-28; Recorded arXiv version: v2; Recorded version updated: 2026-03-04T04:17:07Z.}
+}
+```
 
 ## arXiv 版本记录
 

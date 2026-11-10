@@ -1,3 +1,11 @@
+---
+title: "Patchright Python | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-python/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Patchright Python
 
 Patchright Python is the Python package of Patchright: a patched Playwright that drives Chromium through the usual sync and async APIs with automation leaks removed.

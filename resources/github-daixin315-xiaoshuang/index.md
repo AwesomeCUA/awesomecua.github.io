@@ -1,3 +1,11 @@
+---
+title: "XiaoShuang (小双桌面女神) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-daixin315-xiaoshuang/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # XiaoShuang (小双桌面女神)
 
 Cross-platform desktop AI companion with screen reading, real-time translation, and Hermes-linked app automation.

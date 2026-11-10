@@ -1,3 +1,11 @@
+---
+title: "Voice2Task Post-Training | AwesomeCUA"
+url: https://awesomecua.com/resources/github-raidriar7170-voice2task-posttraining/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Voice2Task Post-Training
 
 Post-training and evaluation pipeline for mapping spoken Chinese ASR commands into schema-valid browser agent action plans.

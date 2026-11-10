@@ -1,3 +1,11 @@
+---
+title: "Notte Skills | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nottelabs-notte-skills/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Notte Skills
 
 Notte Skills equips coding agents to operate local or cloud browsers through browser actions and hosted MCP tools, with support for reusable automation functions.

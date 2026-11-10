@@ -1,3 +1,11 @@
+---
+title: "E2B Surf | AwesomeCUA"
+url: https://awesomecua.com/resources/github-e2b-dev-surf/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # E2B Surf
 
 E2B Surf is a web-based computer-use agent combining OpenAI Computer-Using Agent models with an isolated E2B Desktop virtual machine.

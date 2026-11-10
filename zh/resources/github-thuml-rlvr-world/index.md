@@ -1,3 +1,11 @@
+---
+title: "RLVR-World · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thuml-rlvr-world/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # RLVR-World
 
 RLVR-World 使用可验证强化学习训练世界模型，预测网页和游戏智能体的状态转移。

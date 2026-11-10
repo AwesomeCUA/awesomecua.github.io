@@ -1,3 +1,11 @@
+---
+title: "Libretto · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cashew-labs-libretto/
+updated: 2026-11-06
+type: tool
+lang: zh-CN
+---
+
 # Libretto
 
 Libretto 是一套工具，为编程智能体提供实时浏览器和 CLI，用于检查页面、记录用户动作、构建脚本和调试网页集成。

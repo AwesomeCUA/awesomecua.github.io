@@ -1,3 +1,11 @@
+---
+title: "Qwen3-8B-CK-Pro | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f06109ae04d4c3133f90/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # Qwen3-8B-CK-Pro
 
 Qwen3-8B-CK-Pro is the CK-Pro-8B agent foundation model from Cognitive Kernel-Pro, fine-tuned from Qwen3-8B on self-collected trajectories; the card reports 32.7% Pass@1 on the GAIA dev set.

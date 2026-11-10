@@ -1,3 +1,11 @@
+---
+title: "Comment on \"Electron transport through… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-0912-3431/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Comment on "Electron transport through correlated molecules computed using the time-independent Wigner function: Two critical tests"
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Bytebot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bytebot-ai-bytebot/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # Bytebot
 
 开源桌面智能体，在自有 Ubuntu Linux 虚拟桌面中工作，提供网页任务界面、任务及直接控制的 REST API、接管模式和密码管理器登录功能。

@@ -1,3 +1,11 @@
+---
+title: "Cactus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cactus-compute-cactus/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Cactus
 
 Cactus is a cross-platform on-device LLM and VLM inference framework for mobile and edge AI agents.

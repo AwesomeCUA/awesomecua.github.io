@@ -1,3 +1,11 @@
+---
+title: "Chrome for AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pelag-michael-chrome-for-ai/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrome for AI
 
 Patchright-powered Model Context Protocol server enabling AI agents to drive real Google Chrome tabs and cookies.

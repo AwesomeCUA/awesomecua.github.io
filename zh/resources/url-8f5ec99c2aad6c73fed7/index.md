@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL-235B-A22B-Instruct · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8f5ec99c2aad6c73fed7/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Qwen3-VL-235B-A22B-Instruct
 
 这是 Qwen3-VL 视觉语言模型权重；其模型卡介绍了操作计算机和移动端 GUI 的视觉智能体能力，包括元素识别和工具使用。

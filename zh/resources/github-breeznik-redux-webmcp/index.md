@@ -1,3 +1,11 @@
+---
+title: "redux-webmcp · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-breeznik-redux-webmcp/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # redux-webmcp
 
 这是面向 Redux Toolkit 应用的 WebMCP 桥接库，让浏览器智能体执行获准的操作并查看状态变化。开发者可要求特定操作先获得批准。

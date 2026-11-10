@@ -1,3 +1,11 @@
+---
+title: "FedMABench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wwh0411-fedmabench/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # FedMABench
 
 联邦式移动端智能体训练与评估套件，可调整用户数据异质性和应用分布，并发布了分区标注及推理、评分脚本。

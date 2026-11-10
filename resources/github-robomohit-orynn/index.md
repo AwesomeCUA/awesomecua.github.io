@@ -1,3 +1,11 @@
+---
+title: "Orynn | AwesomeCUA"
+url: https://awesomecua.com/resources/github-robomohit-orynn/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Orynn
 
 Orynn is a Windows desktop agent that controls native applications by UI Automation control names without screenshot loops.

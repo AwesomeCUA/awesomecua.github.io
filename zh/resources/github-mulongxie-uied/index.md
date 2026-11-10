@@ -1,3 +1,11 @@
+---
+title: "UIED (UI Element Detection) · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mulongxie-uied/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # UIED (UI Element Detection)
 
 UIED 结合泛洪填充/Canny 组件分析与深度文本识别，检测 UI 截图中的图形控件和文本块。

@@ -1,3 +1,11 @@
+---
+title: "Desktop Commander MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wonderwhy-er-desktopcommandermcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Desktop Commander MCP
 
 Desktop Commander MCP 是用于终端进程控制、交互式 REPL 和精准文件编辑的 Model Context Protocol 服务器。

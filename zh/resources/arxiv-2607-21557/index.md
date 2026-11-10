@@ -1,3 +1,11 @@
+---
+title: "OpenForgeRL: Train Harness-native Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-21557/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # OpenForgeRL: Train Harness-native Agents in Any Environment
 
 OpenForgeRL 通过模型调用记录代理和隔离的执行容器，将有状态智能体运行框架接入强化学习基础设施；其验证涵盖浏览器操作、计算机使用及工具型智能体，并考察运行框架选择对学得的执行稳定性的影响。
@@ -27,6 +35,18 @@ Xiao Yu, Baolin Peng, Ruize Xu, Hao Zou, Qianhui Wu, Hao Cheng, Wenlin Yao, Nikh
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-21557/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-21557/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_21557,
+  title = {{OpenForgeRL: Train Harness-native Agents in Any Environment}},
+  author = {{Xiao Yu} and {Baolin Peng} and {Ruize Xu} and {Hao Zou} and {Qianhui Wu} and {Hao Cheng} and {Wenlin Yao} and {Nikhil Singh} and {Zhou Yu} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2607.21557v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.21557v3},
+  note = {First published: 2026-07-23; Recorded arXiv version: v3; Recorded version updated: 2026-08-07T17:40:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Komos · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-65a9a9211f0dd2b7264a/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Komos
 
 托管自动化平台通过提示驱动的智能体在云端 Chromium 沙盒或自行托管的运行器中导航、点击、输入和提取网页数据，任务流程可由带解说的录屏或聊天创建。

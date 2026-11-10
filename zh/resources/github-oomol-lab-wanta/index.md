@@ -1,3 +1,11 @@
+---
+title: "Wanta · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-oomol-lab-wanta/
+updated: 2026-10-18
+type: agent
+lang: zh-CN
+---
+
 # Wanta
 
 面向工作智能体的 Electron 桌面宿主，内置 OpenCode 智能体及 Claude Code、Codex、Grok 适配器；集成浏览器让智能体和用户通过 ARIA 快照引用操作同一可见页面。

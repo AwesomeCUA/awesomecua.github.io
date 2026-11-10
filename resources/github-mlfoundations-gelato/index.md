@@ -1,3 +1,11 @@
+---
+title: "Gelato | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mlfoundations-gelato/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Gelato
 
 Release code for Gelato-30B-A3B, a GUI click-grounding model trained with GRPO on Click-100k: EasyR1 configs, click rewards, grounding evaluation scripts and logs, and a GPT-5-planned OS-World agent harness.

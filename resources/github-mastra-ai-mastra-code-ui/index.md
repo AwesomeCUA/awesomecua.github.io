@@ -1,3 +1,11 @@
+---
+title: "Mastra Code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mastra-ai-mastra-code-ui/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Mastra Code
 
 Mastra Code is an Electron desktop coding-agent harness supporting 70+ LLM providers, subagents, plan-and-build modes, and hooks.

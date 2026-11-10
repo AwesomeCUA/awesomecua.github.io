@@ -1,3 +1,11 @@
+---
+title: "OmniActor: A Generalist GUI and Embodied… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-02322/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # OmniActor: A Generalist GUI and Embodied Agent for 2D&3D Worlds
 
 Introduces OmniActor, which shares shallow model layers while separating deeper parameters to train jointly on GUI and embodied interactions. A unified action representation and mixed training data support evaluation in both task families.
@@ -26,6 +34,18 @@ Longrong Yang, Zhixiong Zeng, Yufeng Zhong, Jing Huang, Liming Zheng, Lei Chen, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-02322/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-02322/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_02322,
+  title = {{OmniActor: A Generalist GUI and Embodied Agent for 2D\&3D Worlds}},
+  author = {{Longrong Yang} and {Zhixiong Zeng} and {Yufeng Zhong} and {Jing Huang} and {Liming Zheng} and {Lei Chen} and {Haibo Qiu} and {Zequn Qin} and {Lin Ma} and {Xi Li}},
+  year = {2025},
+  eprint = {2509.02322v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.02322v1},
+  note = {First published: 2025-09-02; Recorded arXiv version: v1; Recorded version updated: 2025-09-02T13:47:54Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

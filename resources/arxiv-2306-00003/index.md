@@ -1,3 +1,11 @@
+---
+title: "Detecting Heart Disease from Multi-View… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-00003/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Detecting Heart Disease from Multi-View Ultrasound Images via Supervised Attention Multiple Instance Learning
 
 Status: excluded from the active CUA catalog after scope review.

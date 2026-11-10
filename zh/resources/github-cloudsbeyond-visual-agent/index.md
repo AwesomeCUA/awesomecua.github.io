@@ -1,3 +1,11 @@
+---
+title: "visual-agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cloudsbeyond-visual-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # visual-agent
 
 协议优先的框架，使视觉模型宿主能够安全地检查和操作软件 GUI 界面。

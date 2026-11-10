@@ -1,3 +1,11 @@
+---
+title: "GUI-Perturbed: Domain Randomization Reveals… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-14262/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GUI-Perturbed: Domain Randomization Reveals Systematic Brittleness in GUI Grounding Models
 
 Introduces GUI-Perturbed, which varies screenshot appearance and instruction wording independently to diagnose grounding failures. Experiments on three related model architectures examine relational instructions, browser zoom and augmentation-based fine-tuning.
@@ -26,6 +34,18 @@ Yangyue Wang, Harshvardhan Sikka, Yash Mathur, Tony Zhou, Jinu Nyachhyon, Pranav
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-14262/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-14262/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_14262,
+  title = {{GUI-Perturbed: Domain Randomization Reveals Systematic Brittleness in GUI Grounding Models}},
+  author = {{Yangyue Wang} and {Harshvardhan Sikka} and {Yash Mathur} and {Tony Zhou} and {Jinu Nyachhyon} and {Pranav Guruprasad}},
+  year = {2026},
+  eprint = {2604.14262v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.14262v2},
+  note = {First published: 2026-04-15; Recorded arXiv version: v2; Recorded version updated: 2026-07-01T10:12:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

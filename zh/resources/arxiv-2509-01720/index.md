@@ -1,3 +1,11 @@
+---
+title: "Succeed or Learn Slowly: Sample… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-01720/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Succeed or Learn Slowly: Sample Efficient Off-Policy Reinforcement Learning for Mobile App Control
 
 Succeed or Learn Slowly 对成功交互直接进行离策略更新，对负面样本采用更保守的正则化更新；Successful Transition Replay 在策略学习中优先使用成功经验，并在 AndroidWorld 上评估。
@@ -27,6 +35,18 @@ Georgios Papoudakis, Thomas Coste, Jianye Hao, Jun Wang, Kun Shao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-01720/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-01720/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_01720,
+  title = {{Succeed or Learn Slowly: Sample Efficient Off-Policy Reinforcement Learning for Mobile App Control}},
+  author = {{Georgios Papoudakis} and {Thomas Coste} and {Jianye Hao} and {Jun Wang} and {Kun Shao}},
+  year = {2025},
+  eprint = {2509.01720v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.01720v2},
+  note = {First published: 2025-09-01; Recorded arXiv version: v2; Recorded version updated: 2025-11-13T01:26:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

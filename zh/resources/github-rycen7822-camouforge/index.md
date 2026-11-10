@@ -1,3 +1,11 @@
+---
+title: "CamouForge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rycen7822-camouforge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # CamouForge
 
 原生 Windows GUI 管理工具，用于配置和启动相互隔离的 Camoufox 隐身浏览器配置文件。

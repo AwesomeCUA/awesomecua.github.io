@@ -1,3 +1,11 @@
+---
+title: "GUI-Libra 7B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f52794224f9541fd9eb3/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GUI-Libra 7B
 
 GUI-Libra 检查点基于 Qwen2.5-VL-7B-Instruct 微调，约有 82.9 亿 BF16 参数，将截图、任务和操作历史转化为<think>推理块及带 point_2d 坐标的 JSON 操作。

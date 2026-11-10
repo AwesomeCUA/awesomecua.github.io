@@ -1,3 +1,11 @@
+---
+title: "ChatGPT Web for Codex | AwesomeCUA"
+url: https://awesomecua.com/resources/github-naakto14-codex-chatgpt-web-naakto-fork/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ChatGPT Web for Codex
 
 Browser bridge exposing a logged-in ChatGPT Web session as a native model and tool provider for OpenAI Codex.

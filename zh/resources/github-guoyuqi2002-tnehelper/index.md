@@ -1,3 +1,11 @@
+---
+title: "Workday Expense & Invoice Assistant… · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-guoyuqi2002-tnehelper/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Workday Expense & Invoice Assistant (tnehelper)
 
 桌面与浏览器自动化智能体，将发票文档与 Workday 差旅及费用网页门户进行核对。

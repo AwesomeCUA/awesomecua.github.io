@@ -1,3 +1,11 @@
+---
+title: "AndroidCode · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-cf4d2d45a7314cb16acb/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # AndroidCode
 
 从移动 GUI 轨迹构建的 HTML 及标注数据，用于 Code2World 训练以操作为条件的 GUI 状态预测。

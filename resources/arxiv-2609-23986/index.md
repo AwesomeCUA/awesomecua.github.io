@@ -1,3 +1,11 @@
+---
+title: "Jev-Mem: System-One-Controlled Agentic Memory… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-23986/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents
 
 Status: excluded from the active CUA catalog after scope review.

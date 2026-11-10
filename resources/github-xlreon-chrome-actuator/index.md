@@ -1,3 +1,11 @@
+---
+title: "Chrome Actuator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlreon-chrome-actuator/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Chrome Actuator
 
 Browser companion that lets Grok and other AI agents drive an already-open Chrome window.

@@ -1,3 +1,11 @@
+---
+title: "UI2Code_N | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b04608609a8c392d110b/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # UI2Code_N
 
 A visual language model that turns UI screenshots into code and supports iterative interface editing and polishing. Its card includes a screenshot-to-HTML inference example.

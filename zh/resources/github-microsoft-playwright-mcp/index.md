@@ -1,3 +1,11 @@
+---
+title: "Playwright MCP (github.com/microsoft/play… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-playwright-mcp/
+updated: 2026-10-16
+type: tool
+lang: zh-CN
+---
+
 # Playwright MCP
 
 MCP 服务器，使 LLM 客户端能通过结构化无障碍快照驱动 Playwright 浏览器，并可选择启用视觉、PDF 和开发者工具功能。

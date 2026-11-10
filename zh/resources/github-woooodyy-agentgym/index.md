@@ -1,3 +1,11 @@
+---
+title: "AgentGym · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-woooodyy-agentgym/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # AgentGym
 
 AgentGym 提供交互式环境，用于开发和评估智能体，涵盖 WebShop 和 WebArena 等网页任务，并支持轨迹收集与训练。

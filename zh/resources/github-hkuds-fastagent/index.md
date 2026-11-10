@@ -1,3 +1,11 @@
+---
+title: "FastAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hkuds-fastagent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # FastAgent
 
 FastAgent 是 HKUDS 开发的轻量级多智能体编排框架，用于低延迟执行工具、浏览器和桌面工作流。

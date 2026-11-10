@@ -1,3 +1,11 @@
+---
+title: "Executable World Models for ARC-AGI-3 in the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-05138/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Executable World Models for ARC-AGI-3 in the Era of Coding Agents
 
 Bibliographic record for Executable World Models for ARC-AGI-3 in the Era of Coding Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sergey Rodionov
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-05138/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-05138/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_05138,
+  title = {{Executable World Models for ARC-AGI-3 in the Era of Coding Agents}},
+  author = {{Sergey Rodionov}},
+  year = {2026},
+  eprint = {2605.05138v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.05138v2},
+  note = {First published: 2026-05-06; Recorded arXiv version: v2; Recorded version updated: 2026-06-06T19:16:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

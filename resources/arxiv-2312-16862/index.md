@@ -1,3 +1,11 @@
+---
+title: "TinyGPT-V: Efficient Multimodal Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-16862/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones
 
 Bibliographic record for TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhengqing Yuan, Zhaoxu Li, Weiran Huang, Yanfang Ye, Lichao Sun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-16862/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-16862/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_16862,
+  title = {{TinyGPT-V: Efficient Multimodal Large Language Model via Small Backbones}},
+  author = {{Zhengqing Yuan} and {Zhaoxu Li} and {Weiran Huang} and {Yanfang Ye} and {Lichao Sun}},
+  year = {2023},
+  eprint = {2312.16862v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.16862v3},
+  note = {First published: 2023-12-28; Recorded arXiv version: v3; Recorded version updated: 2024-06-21T07:08:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

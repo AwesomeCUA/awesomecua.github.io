@@ -1,3 +1,11 @@
+---
+title: "agentic-cb (CLI Browser Control Plane) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-santusht06-agentic-cb/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # agentic-cb (CLI Browser Control Plane)
 
 CLI browser control plane unifying web session automation across messaging and productivity web apps.

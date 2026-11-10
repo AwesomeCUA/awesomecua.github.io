@@ -1,3 +1,11 @@
+---
+title: "CUA-Gym · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6aa1aa58a7a888395189/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # CUA-Gym
 
 CUA-Gym 提供用于智能体研究的计算机使用环境和任务资源。

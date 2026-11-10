@@ -1,3 +1,11 @@
+---
+title: "A Survey on Large Language Model-based Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-14222/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Survey on Large Language Model-based Agents for Statistics and Data Science
 
 Status: excluded from the active CUA catalog after scope review.

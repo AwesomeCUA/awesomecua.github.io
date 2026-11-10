@@ -1,3 +1,11 @@
+---
+title: "DSH iOS Simulator · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zseven-w-dsh-ios/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # DSH iOS Simulator
 
 这是一个 DeepSeek Harness 插件，让智能体通过实时视频、界面检查和点击工具操作 iOS 模拟器或通过 USB 连接的 iPhone。

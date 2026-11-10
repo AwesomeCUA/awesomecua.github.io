@@ -1,3 +1,11 @@
+---
+title: "SWE-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-swe-agent-swe-agent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SWE-agent
 
 SWE-agent introduces Agent-Computer Interfaces (ACI) enabling language models to autonomously navigate repositories, edit code, and run tests.

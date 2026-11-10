@@ -1,3 +1,11 @@
+---
+title: "OSRS-CV · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kaustubhlall-osrs-cv/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # OSRS-CV
 
 使用 YOLOv8 目标检测、Tesseract OCR 和类人的贝塞尔曲线鼠标轨迹，自动操作 Old School RuneScape 的 GUI 游戏过程。

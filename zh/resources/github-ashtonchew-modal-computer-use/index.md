@@ -1,3 +1,11 @@
+---
+title: "modal-computer-use · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ashtonchew-modal-computer-use/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # modal-computer-use
 
 提供以守护进程为核心的计算机使用基础功能，用于在 Modal 云沙箱中配置和控制 GUI 桌面。

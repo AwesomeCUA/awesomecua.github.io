@@ -1,3 +1,11 @@
+---
+title: "MAGAR: Multimodal Agents for GUI-Based… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-02472/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # MAGAR: Multimodal Agents for GUI-Based 3D Mechanical Assembly and Minimal Rework
 
 提出面向 GUI 三维机械装配决策与修复的 MAGAR-Bench，以及选择性修正装配输出和动作的 MAGAR。
@@ -27,6 +35,18 @@ Jingxuan Wei, Jiahao Fu, Fuqiang Wang, Xiaoming Wu, Yuwen Liu, Kaiwen Wei, Ming 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-02472/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-02472/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_02472,
+  title = {{MAGAR: Multimodal Agents for GUI-Based 3D Mechanical Assembly and Minimal Rework}},
+  author = {{Jingxuan Wei} and {Jiahao Fu} and {Fuqiang Wang} and {Xiaoming Wu} and {Yuwen Liu} and {Kaiwen Wei} and {Ming Yang} and {Junnan Zhu}},
+  year = {2026},
+  eprint = {2611.02472v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.02472v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T03:40:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

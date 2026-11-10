@@ -1,3 +1,11 @@
+---
+title: "LlamaTouch: A Faithful and Scalable Testbed… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-16054/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation
 
 LlamaTouch executes mobile tasks on devices and evaluates whether an agent visits manually annotated essential application or system states. Screenshot and hierarchy annotations, combined with exact and fuzzy state matching, support evaluation of 496 tasks across multiple agents.
@@ -26,6 +34,18 @@ Li Zhang, Shihe Wang, Xianqing Jia, Zhihan Zheng, Yunhe Yan, Longxi Gao, Yuanchu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-16054/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-16054/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_16054,
+  title = {{LlamaTouch: A Faithful and Scalable Testbed for Mobile UI Task Automation}},
+  author = {{Li Zhang} and {Shihe Wang} and {Xianqing Jia} and {Zhihan Zheng} and {Yunhe Yan} and {Longxi Gao} and {Yuanchun Li} and {Mengwei Xu}},
+  year = {2024},
+  eprint = {2404.16054v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.16054v2},
+  note = {First published: 2024-04-12; Recorded arXiv version: v2; Recorded version updated: 2024-08-02T13:49:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "OpenDesk (tool) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vitalops-opendesk/
+updated: 2026-10-20
+type: tool
+lang: en
+---
+
 # OpenDesk
 
 Computer-use MCP server and Python/TypeScript SDKs giving agents Set-of-Marks screenshots, accessibility-based UI actions, mouse, keyboard, OCR, CDP browser control and workflow replay on local or paired machines.

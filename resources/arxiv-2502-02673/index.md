@@ -1,3 +1,11 @@
+---
+title: "MedRAX: Medical Reasoning Agent for Chest X-ray | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-02673/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # MedRAX: Medical Reasoning Agent for Chest X-ray
 
 Bibliographic record for MedRAX: Medical Reasoning Agent for Chest X-ray. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Adibvafa Fallahpour, Jun Ma, Alif Munim, Hongwei Lyu, Bo Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-02673/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-02673/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_02673,
+  title = {{MedRAX: Medical Reasoning Agent for Chest X-ray}},
+  author = {{Adibvafa Fallahpour} and {Jun Ma} and {Alif Munim} and {Hongwei Lyu} and {Bo Wang}},
+  year = {2025},
+  eprint = {2502.02673v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.02673v2},
+  note = {First published: 2025-02-04; Recorded arXiv version: v2; Recorded version updated: 2025-05-29T01:45:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

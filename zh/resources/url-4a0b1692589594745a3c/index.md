@@ -1,3 +1,11 @@
+---
+title: "OpenCUA 72B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4a0b1692589594745a3c/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # OpenCUA 72B
 
 基于 Qwen2.5-VL 的计算机使用检查点，结合截图历史和反思推理来预测可执行的桌面操作。

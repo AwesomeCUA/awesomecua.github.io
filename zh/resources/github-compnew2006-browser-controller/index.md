@@ -1,3 +1,11 @@
+---
+title: "Browser Controller · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-compnew2006-browser-controller/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Controller
 
 MCP 服务器和 Chrome 扩展，使编程智能体能够实时读取现有浏览器的 DOM 和控制台，并控制交互。

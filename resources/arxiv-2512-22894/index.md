@@ -1,3 +1,11 @@
+---
+title: "DECEPTICON: How Dark Patterns Manipulate Web… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-22894/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DECEPTICON: How Dark Patterns Manipulate Web Agents
 
 DECEPTICON is an environment of 700 web navigation tasks that isolates dark patterns to measure how deceptive interface designs steer agent actions.
@@ -26,6 +34,18 @@ Phil Cuvin, Hao Zhu, Diyi Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-22894/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-22894/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_22894,
+  title = {{DECEPTICON: How Dark Patterns Manipulate Web Agents}},
+  author = {{Phil Cuvin} and {Hao Zhu} and {Diyi Yang}},
+  year = {2025},
+  eprint = {2512.22894v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.22894v2},
+  note = {First published: 2025-12-28; Recorded arXiv version: v2; Recorded version updated: 2026-02-06T11:44:30Z.}
+}
+```
 
 ## Publication record
 

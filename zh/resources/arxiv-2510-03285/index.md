@@ -1,3 +1,11 @@
+---
+title: "WAREX: Web Agent Reliability Evaluation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-03285/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # WAREX: Web Agent Reliability Evaluation on Existing Benchmarks
 
 WAREX 为现有网页智能体基准加入由系统不稳定及网站行为变化或干扰引发的运行稳定性挑战，并在 WebArena、WebVoyager 和 REAL 上评估这些干扰对任务完成的影响。
@@ -27,6 +35,18 @@ Su Kara, Fazle Faisal, Suman Nath
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-03285/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-03285/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_03285,
+  title = {{WAREX: Web Agent Reliability Evaluation on Existing Benchmarks}},
+  author = {{Su Kara} and {Fazle Faisal} and {Suman Nath}},
+  year = {2025},
+  eprint = {2510.03285v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.03285v1},
+  note = {First published: 2025-09-28; Recorded arXiv version: v1; Recorded version updated: 2025-09-28T20:51:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

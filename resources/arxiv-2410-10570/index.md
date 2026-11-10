@@ -1,3 +1,11 @@
+---
+title: "Mindalogue: LLM-Powered Nonlinear Interaction… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-10570/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Mindalogue: LLM-Powered Nonlinear Interaction for Effective Learning and Task Exploration
 
 Status: excluded from the active CUA catalog after scope review.

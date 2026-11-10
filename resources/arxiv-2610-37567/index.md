@@ -1,3 +1,11 @@
+---
+title: "Gym-Anything-RT: Scaling Real-Time… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-37567/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents
 
 Bibliographic record for Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Pranjal Aggarwal, Sean Welleck
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-37567/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-37567/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_37567,
+  title = {{Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents}},
+  author = {{Pranjal Aggarwal} and {Sean Welleck}},
+  year = {2026},
+  eprint = {2610.37567v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.37567v1},
+  note = {First published: 2026-10-27; Recorded arXiv version: v1; Recorded version updated: 2026-10-27T17:13:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "dsh-browser-ops | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lirui1024k-dsh-browser-ops/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-browser-ops
 
 DeepSeek Harness plugin combining agent-driven real-browser control with workflow recording.

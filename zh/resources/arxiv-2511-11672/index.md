@@ -1,3 +1,11 @@
+---
+title: "OSGym: Scalable OS Infra for Computer… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-11672/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # OSGym: Scalable OS Infra for Computer Use Agents
 
 OSGym 提供带 GUI 的完整操作系统沙盒，支持并行收集计算机使用数据和训练。它结合副本级状态管理、硬件感知调度、写时复制虚拟机磁盘和分层故障恢复。
@@ -27,6 +35,18 @@ Zengyi Qin, Jinyuan Chen, Yunze Man, Shengcao Cao, Ziqi Pang, Zhuoyuan Wang, Han
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-11672/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-11672/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_11672,
+  title = {{OSGym: Scalable OS Infra for Computer Use Agents}},
+  author = {{Zengyi Qin} and {Jinyuan Chen} and {Yunze Man} and {Shengcao Cao} and {Ziqi Pang} and {Zhuoyuan Wang} and {Han Fang} and {Ling Zhu} and {Zixin Xie} and {Zibu Wei} and {Tianshu Ran} and {Haoran Geng} and {Ray Pan} and {Qizhen Sun} and {Zachary Bright} and {Yuyang Cai} and {Chongye Yang} and {Jiace Zhao} and {Tianrui Liu} and {Han Cao} and {Yeyang Zhou} and {Rui Wang} and {Song Wang} and {Xiang Ren} and {Bo Zhang} and {Yutong Ban} and {Pieter Abbeel} and {Brian Anthony}},
+  year = {2025},
+  eprint = {2511.11672v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.11672v5},
+  note = {First published: 2025-11-11; Recorded arXiv version: v5; Recorded version updated: 2026-04-02T02:42:36Z.}
+}
+```
 
 ## arXiv 版本记录
 

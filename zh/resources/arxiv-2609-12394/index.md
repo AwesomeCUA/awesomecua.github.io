@@ -1,3 +1,11 @@
+---
+title: "BlueLM-GUI Technical Report: A… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-12394/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents
 
 介绍一条以真实设备上的交互轨迹、从失败中恢复有用监督信号以及持续演变的评估任务为核心的移动端智能体训练流程。
@@ -27,6 +35,17 @@ The annotation and scope were reviewed against the primary paper abstract.
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-12394/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-12394/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_12394,
+  title = {{BlueLM-GUI Technical Report: A Real-Device-Centric Flywheel for Self-Improving Mobile GUI Agents}},
+  year = {2026},
+  eprint = {2609.12394v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.12394v3},
+  note = {First published: 2026-09-11; Recorded arXiv version: v3; Recorded version updated: 2026-09-15T06:36:04Z; Authors: see the paper (https://arxiv.org/abs/2609.12394v3); this catalog does not list them.}
+}
+```
 
 ## arXiv 版本记录
 

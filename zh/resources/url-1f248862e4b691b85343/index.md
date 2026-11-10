@@ -1,3 +1,11 @@
+---
+title: "android_control_test · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-1f248862e4b691b85343/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # android_control_test
 
 android_control_test 提供经过处理的 Android Control 测试集，用于评估 InfiGUI-R1 移动界面智能体。

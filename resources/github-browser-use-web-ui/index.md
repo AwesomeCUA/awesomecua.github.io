@@ -1,3 +1,11 @@
+---
+title: "Browser Use WebUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-web-ui/
+updated: 2026-10-17
+type: tool
+lang: en
+---
+
 # Browser Use WebUI
 
 A Gradio interface for configuring and running Browser Use agents, including persistent browser sessions and interaction recordings.

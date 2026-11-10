@@ -1,3 +1,11 @@
+---
+title: "Comment on some articles regarding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1501-05941/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Comment on some articles regarding magnetization switching and computing using strain-mediated multiferroic composites
 
 Status: excluded from the active CUA catalog after scope review.

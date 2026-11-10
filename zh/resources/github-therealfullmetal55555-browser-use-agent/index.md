@@ -1,3 +1,11 @@
+---
+title: "Autonomous Vision Browser-Use Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-therealfullmetal55555-browser-use-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Autonomous Vision Browser-Use Agent
 
 基于 Playwright 的视觉浏览器智能体，具备循环检测、结合 DOM 与截图的定位，以及逐步 token 遥测功能。

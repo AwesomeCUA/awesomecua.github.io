@@ -1,3 +1,11 @@
+---
+title: "magpie Computer Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wbb6517-magpie-computer-use/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # magpie Computer Use
 
 一款 Magpie 插件，通过 MCP 工具让智能体查看 macOS 应用屏幕，并执行点击、输入、滚动和拖动。

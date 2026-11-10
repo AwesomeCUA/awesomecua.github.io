@@ -1,3 +1,11 @@
+---
+title: "viger1 dsh-pilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-viger1-dsh-pilot/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # viger1 dsh-pilot
 
 Permission-governed browser automation plugin for DeepSeek Harness enforced at the CDP boundary.

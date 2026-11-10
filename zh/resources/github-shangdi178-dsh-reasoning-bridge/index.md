@@ -1,3 +1,11 @@
+---
+title: "dsh-reasoning-bridge · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shangdi178-dsh-reasoning-bridge/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-reasoning-bridge
 
 DeepSeek Harness 插件，通过浏览器控制，将复杂推理步骤交由已登录的网页 AI 会话（ChatGPT、Claude、Gemini）处理。

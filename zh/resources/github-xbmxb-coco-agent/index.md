@@ -1,3 +1,11 @@
+---
+title: "CoCo-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xbmxb-coco-agent/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # CoCo-Agent
 
 结合屏幕与布局感知、条件式操作预测的智能手机自动化研究实现。

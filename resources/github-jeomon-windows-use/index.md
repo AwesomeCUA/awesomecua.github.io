@@ -1,3 +1,11 @@
+---
+title: "Windows-Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jeomon-windows-use/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Windows-Use
 
 A Python agent that drives Windows applications through the UI Automation tree, optionally with screenshots, choosing clicks, typing, scrolling, shortcuts, window actions and PowerShell commands with an LLM.

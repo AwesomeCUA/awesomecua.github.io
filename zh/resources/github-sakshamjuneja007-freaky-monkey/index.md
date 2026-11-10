@@ -1,3 +1,11 @@
+---
+title: "DEIMOS (Environment-Aware Computer Agent) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sakshamjuneja007-freaky-monkey/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # DEIMOS (Environment-Aware Computer Agent)
 
 感知环境的自主计算机使用智能体，可感知 OS 状态并执行多步骤桌面工作流。

@@ -1,3 +1,11 @@
+---
+title: "HarvestNet · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lethe044-harvestnet/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # HarvestNet
 
 面向 .NET 的自修复网页提取和浏览器自动化框架。

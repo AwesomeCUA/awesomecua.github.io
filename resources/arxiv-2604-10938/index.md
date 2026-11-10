@@ -1,3 +1,11 @@
+---
+title: "AgentWebBench: Benchmarking Multi-Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-10938/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AgentWebBench: Benchmarking Multi-Agent Coordination in Agentic Web
 
 Bibliographic record for AgentWebBench: Benchmarking Multi-Agent Coordination in Agentic Web. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Shanshan Zhong, Kate Shen, Chenyan Xiong
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-10938/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-10938/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_10938,
+  title = {{AgentWebBench: Benchmarking Multi-Agent Coordination in Agentic Web}},
+  author = {{Shanshan Zhong} and {Kate Shen} and {Chenyan Xiong}},
+  year = {2026},
+  eprint = {2604.10938v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.10938v1},
+  note = {First published: 2026-04-13; Recorded arXiv version: v1; Recorded version updated: 2026-04-13T03:18:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

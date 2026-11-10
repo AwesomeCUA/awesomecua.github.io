@@ -1,3 +1,11 @@
+---
+title: "TC-AE: Unlocking Token Capacity for Deep… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-07340/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders
 
 Status: excluded from the active CUA catalog after scope review.

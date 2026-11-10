@@ -1,3 +1,11 @@
+---
+title: "Agentic Robot Creation through Generation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-17881/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agentic Robot Creation through Generation, Verification, and Revision
 
 Bibliographic record for Agentic Robot Creation through Generation, Verification, and Revision. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xuebing Li, Yibo He, Sitong Liu, Ran Ji, Jiayuan Gu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-17881/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-17881/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_17881,
+  title = {{Agentic Robot Creation through Generation, Verification, and Revision}},
+  author = {{Xuebing Li} and {Yibo He} and {Sitong Liu} and {Ran Ji} and {Jiayuan Gu}},
+  year = {2026},
+  eprint = {2610.17881v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.17881v1},
+  note = {First published: 2026-10-13; Recorded arXiv version: v1; Recorded version updated: 2026-10-13T07:37:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

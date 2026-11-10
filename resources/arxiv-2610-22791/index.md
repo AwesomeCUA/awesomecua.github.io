@@ -1,3 +1,11 @@
+---
+title: "Self-Evolving Coding Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22791/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Self-Evolving Coding Agents via Harness-Policy Optimization
 
 Bibliographic record for Self-Evolving Coding Agents via Harness-Policy Optimization. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhepei Wei, Wenlin Yao, Baolin Peng, Danqing Wang, Qianhui Wu, Hao Cheng, Yu Men
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22791/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22791/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22791,
+  title = {{Self-Evolving Coding Agents via Harness-Policy Optimization}},
+  author = {{Zhepei Wei} and {Wenlin Yao} and {Baolin Peng} and {Danqing Wang} and {Qianhui Wu} and {Hao Cheng} and {Yu Meng} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2610.22791v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22791v1},
+  note = {First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T01:07:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

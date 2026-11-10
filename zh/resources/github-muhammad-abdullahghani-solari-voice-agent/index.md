@@ -1,3 +1,11 @@
+---
+title: "Solari Voice Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-muhammad-abdullahghani-solari-voice-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Solari Voice Agent
 
 基于 Solari Desktop 和 LangGraph 构建的语音指令驱动自主计算机使用智能体。

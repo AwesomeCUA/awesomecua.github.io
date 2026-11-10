@@ -1,3 +1,11 @@
+---
+title: "EAS agent-device demo · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-callstackincubator-eas-agent-device/
+updated: 2026-11-10
+type: agent
+lang: zh-CN
+---
+
 # EAS agent-device demo
 
 一个 Expo 示例，在 EAS Workflows 上运行基于 AI SDK 的 QA 智能体，通过 agent-device 操作 Android 应用和 iOS 模拟器、截取屏幕，并在 PR 中发布汇总。

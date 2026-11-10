@@ -1,3 +1,11 @@
+---
+title: "GuideBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-37b4f525e6d7a56a9967/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # GuideBench
 
 GUIDE 基准发布的数据：来自 10 款应用的新手口述屏幕录像的标注片段，用于预测用户行为状态、短期意图，以及是否提供帮助和如何帮助。

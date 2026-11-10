@@ -1,3 +1,11 @@
+---
+title: "Phi-Ground checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-cee45b940d5fbff3ccca/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # Phi-Ground checkpoint
 
 Microsoft Phi-Ground GUI 定位模型检查点，由 Phi-3.5-vision-instruct 微调，以 2 个 PyTorch 权重分片发布，附自定义 Phi-3-V 配置和处理代码，采用 MIT 许可证。

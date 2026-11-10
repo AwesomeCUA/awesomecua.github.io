@@ -1,3 +1,11 @@
+---
+title: "GUI-CEval: A Hierarchical and Comprehensive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-15039/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents
 
 GUI-CEval evaluates Chinese mobile GUI agents through a hierarchy of atomic abilities and application-level tasks collected on physical devices. Its diagnostics cover perception, planning, reflection, execution and post-action evaluation across a broad set of apps.
@@ -26,6 +34,18 @@ Yang Li, Yuchen Liu, Haoyu Lu, Zhiqiang Xia, Hongzhen Wang, Kaiyang Han, Changpe
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-15039/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-15039/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_15039,
+  title = {{GUI-CEval: A Hierarchical and Comprehensive Chinese Benchmark for Mobile GUI Agents}},
+  author = {{Yang Li} and {Yuchen Liu} and {Haoyu Lu} and {Zhiqiang Xia} and {Hongzhen Wang} and {Kaiyang Han} and {Changpeng Yang} and {Jinyang Wu} and {Jiaming Xu} and {Runyu Shi} and {Ying Huang}},
+  year = {2026},
+  eprint = {2603.15039v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.15039v1},
+  note = {First published: 2026-03-16; Recorded arXiv version: v1; Recorded version updated: 2026-03-16T09:45:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

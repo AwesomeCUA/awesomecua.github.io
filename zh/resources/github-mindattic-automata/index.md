@@ -1,3 +1,11 @@
+---
+title: "Automata · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mindattic-automata/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Automata
 
 面向 Windows、一次录制后可多次重放的浏览器自动化运行环境，将实时用户动作记录为确定性工作流。

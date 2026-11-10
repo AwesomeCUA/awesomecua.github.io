@@ -1,3 +1,11 @@
+---
+title: "Benchmarking System One decision models… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-00346/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Benchmarking System One decision models against trained classifiers and language models for automated decision gates
 
 Status: excluded from the active CUA catalog after scope review.

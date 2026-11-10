@@ -1,3 +1,11 @@
+---
+title: "CLIFT: Conformal Self-Verification for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-06829/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling
 
 提出 CLIFT，用训练阶段的评判器校验智能体生成的验证信号，再将其用于逐步奖励和轨迹选择。推理时使用固定的问题库比较候选网页执行轨迹，无须查询外部评判器。
@@ -27,6 +35,18 @@ Yifan Zhang, Yutong Dai, Viraj Prabhu, Zhiyuan Hu, Ran Xu, Zeyuan Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-06829/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-06829/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_06829,
+  title = {{CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling}},
+  author = {{Yifan Zhang} and {Yutong Dai} and {Viraj Prabhu} and {Zhiyuan Hu} and {Ran Xu} and {Zeyuan Chen}},
+  year = {2026},
+  eprint = {2610.06829v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.06829v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:57:51Z.}
+}
+```
 
 ## arXiv 版本记录
 

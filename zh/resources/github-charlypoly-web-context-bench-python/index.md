@@ -1,3 +1,11 @@
+---
+title: "Web Context Bench (Python) · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-charlypoly-web-context-bench-python/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # Web Context Bench (Python)
 
 基于本地页面的基准，比较 6 种浏览器表示在 token 用量、事实读取和目标元素选择上的表现，并采用确定性答案评分。

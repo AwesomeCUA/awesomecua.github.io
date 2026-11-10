@@ -1,3 +1,11 @@
+---
+title: "ESP32 iPhone Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-onehumanbeing-esp32-iphone-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # ESP32 iPhone Agent
 
 ESP32 iPhone Agent 将 ESP32 的 Bluetooth HID 鼠标和键盘模拟与视觉语言屏幕解析结合，用于控制未经改动的 iPhone。

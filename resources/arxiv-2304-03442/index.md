@@ -1,3 +1,11 @@
+---
+title: "Generative Agents: Interactive Simulacra of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2304-03442/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Generative Agents: Interactive Simulacra of Human Behavior
 
 Status: excluded from the active CUA catalog after scope review.

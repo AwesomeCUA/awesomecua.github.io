@@ -1,3 +1,11 @@
+---
+title: "CapMonster Cloud MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-capmonstercloud-capmonster-mcp-captcha-solver/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # CapMonster Cloud MCP Server
 
 官方 CapMonster Cloud Model Context Protocol 服务器，供浏览器智能体解决 reCAPTCHA、Turnstile 和图像验证码。

@@ -1,3 +1,11 @@
+---
+title: "cua-bench (ERPNext) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vaiyr-cua-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # cua-bench (ERPNext)
 
 cua-bench packages containerized ERPNext v15 accounting and enterprise workflows as Harbor RL and evaluation environments for GUI agents.

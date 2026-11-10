@@ -1,3 +1,11 @@
+---
+title: "OSWorld-MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-x-plug-osworld-mcp/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # OSWorld-MCP
 
 OSWorld-MCP benchmarks computer-use agents on hybrid GUI interaction and Model Context Protocol (MCP) tool invocation within OSWorld.

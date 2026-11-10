@@ -1,3 +1,11 @@
+---
+title: "gcv · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vcaesar-gcv/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # gcv
 
 一个 Go 图像匹配工具，可在桌面截图中定位截取的图像或模板，并提供使用 RobotGo 截图的示例。

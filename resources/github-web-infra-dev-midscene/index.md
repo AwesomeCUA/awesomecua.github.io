@@ -1,3 +1,11 @@
+---
+title: "Midscene.js | AwesomeCUA"
+url: https://awesomecua.com/resources/github-web-infra-dev-midscene/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # Midscene.js
 
 Visual automation toolkit for web, mobile, and desktop interfaces.

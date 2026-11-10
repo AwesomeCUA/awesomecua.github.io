@@ -1,3 +1,11 @@
+---
+title: "Computer-use agent datasets | AwesomeCUA"
+url: https://awesomecua.com/categories/dataset/
+updated: 2026-11-10
+type: category
+lang: en
+---
+
 # Computer-use agent datasets
 
 Computer-use datasets supply screenshots, instructions, element annotations and action trajectories for training or evaluating GUI agents. Supervision ranges from single-element grounding to complete multi-step trajectories.

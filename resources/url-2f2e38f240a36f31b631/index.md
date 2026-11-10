@@ -1,3 +1,11 @@
+---
+title: "Jedi-3B-1080p | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2f2e38f240a36f31b631/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Jedi-3B-1080p
 
 A Qwen2.5-VL-3B-based computer-use grounding checkpoint with an example that predicts mouse-action coordinates from an interface image.

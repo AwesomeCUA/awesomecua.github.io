@@ -1,3 +1,11 @@
+---
+title: "WorkBench: a Benchmark Dataset for Agents in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-00823/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting
 
 Bibliographic record for WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Olly Styles, Sam Miller, Patricio Cerda-Mardini, Tanaya Guha, Victor Sanchez, Be
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-00823/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-00823/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_00823,
+  title = {{WorkBench: a Benchmark Dataset for Agents in a Realistic Workplace Setting}},
+  author = {{Olly Styles} and {Sam Miller} and {Patricio Cerda-Mardini} and {Tanaya Guha} and {Victor Sanchez} and {Bertie Vidgen}},
+  year = {2024},
+  eprint = {2405.00823v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.00823v2},
+  note = {First published: 2024-05-01; Recorded arXiv version: v2; Recorded version updated: 2024-08-03T12:41:29Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

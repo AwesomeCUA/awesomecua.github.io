@@ -1,3 +1,11 @@
+---
+title: "ScaleCUA (THUDM) GLM-4.6V-Flash OSWorld SFT | AwesomeCUA"
+url: https://awesomecua.com/resources/url-f59c2dd51c1f5c570a28/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # ScaleCUA (THUDM) GLM-4.6V-Flash OSWorld SFT
 
 Supervised GLM-4.6V-Flash checkpoint from THUDM's ScaleCUA, released as the start point that online RL initializes from for its OSWorld desktop computer-use agent.

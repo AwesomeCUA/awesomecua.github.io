@@ -1,3 +1,11 @@
+---
+title: "A Safety and Security Framework for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-21990/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Safety and Security Framework for Real-World Agentic Systems
 
 Status: excluded from the active CUA catalog after scope review.

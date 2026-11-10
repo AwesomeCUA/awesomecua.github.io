@@ -1,3 +1,11 @@
+---
+title: "VideoMatGen: PBR Materials through Joint… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-16566/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # VideoMatGen: PBR Materials through Joint Generative Modeling
 
 Bibliographic record for VideoMatGen: PBR Materials through Joint Generative Modeling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jon Hasselgren, Zheng Zeng, Milos Hasan, Jacob Munkberg
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-16566/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-16566/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_16566,
+  title = {{VideoMatGen: PBR Materials through Joint Generative Modeling}},
+  author = {{Jon Hasselgren} and {Zheng Zeng} and {Milos Hasan} and {Jacob Munkberg}},
+  year = {2026},
+  eprint = {2603.16566v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.16566v1},
+  note = {First published: 2026-03-17; Recorded arXiv version: v1; Recorded version updated: 2026-03-17T14:24:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

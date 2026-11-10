@@ -1,3 +1,11 @@
+---
+title: "Falsifiable Commitment Planning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-24167/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Falsifiable Commitment Planning for Self-Correcting Web Agents
 
 Introduces FCPAgent, which attaches confirming and falsifying evidence to each skill-grounded plan step. A plan–test–repair loop checks actions and observations, then localizes contradictions so execution, skills, or plans can be revised at the appropriate level.
@@ -26,6 +34,18 @@ Guangyi Liu, Huan Zhao, Quanming Yao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-24167/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-24167/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_24167,
+  title = {{Falsifiable Commitment Planning for Self-Correcting Web Agents}},
+  author = {{Guangyi Liu} and {Huan Zhao} and {Quanming Yao}},
+  year = {2026},
+  eprint = {2607.24167v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.24167v1},
+  note = {First published: 2026-07-27; Recorded arXiv version: v1; Recorded version updated: 2026-07-27T08:48:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

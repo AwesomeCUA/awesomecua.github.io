@@ -1,3 +1,11 @@
+---
+title: "Preflight Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a40fc87ac700add33232/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Preflight Bench
 
 A dataset of paired screenshots, click outcomes and checker answers for evaluating pre-click checks on changing web pages. It includes Lance tables and development and test splits.

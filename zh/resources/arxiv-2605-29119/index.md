@@ -1,3 +1,11 @@
+---
+title: "PRO-CUA: Process-Reward Optimization for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-29119/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # PRO-CUA: Process-Reward Optimization for Computer Use Agents
 
 PRO-CUA 用逐步 RL 训练计算机使用智能体，以过程奖励模型给实时执行中生成的候选操作评分，并在实时网页基准上评测。
@@ -27,6 +35,18 @@ Yifei He, Rui Yang, Hao Bai, Tong Zhang, Han Zhao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-29119/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-29119/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29119,
+  title = {{PRO-CUA: Process-Reward Optimization for Computer Use Agents}},
+  author = {{Yifei He} and {Rui Yang} and {Hao Bai} and {Tong Zhang} and {Han Zhao}},
+  year = {2026},
+  eprint = {2605.29119v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29119v1},
+  note = {First published: 2026-05-27; Recorded arXiv version: v1; Recorded version updated: 2026-05-27T21:28:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

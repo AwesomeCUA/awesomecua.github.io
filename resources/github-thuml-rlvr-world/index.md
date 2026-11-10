@@ -1,3 +1,11 @@
+---
+title: "RLVR-World | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thuml-rlvr-world/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # RLVR-World
 
 RLVR-World trains world models with verifiable reinforcement learning to predict state transitions for web and game agents.

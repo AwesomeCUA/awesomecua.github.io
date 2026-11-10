@@ -1,3 +1,11 @@
+---
+title: "Inference-Time Scaling of Verification… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-15808/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification
 
 Bibliographic record for Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuxuan Wan, Tianqing Fang, Zaitang Li, Yintong Huo, Wenxuan Wang, Haitao Mi, Don
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-15808/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-15808/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_15808,
+  title = {{Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification}},
+  author = {{Yuxuan Wan} and {Tianqing Fang} and {Zaitang Li} and {Yintong Huo} and {Wenxuan Wang} and {Haitao Mi} and {Dong Yu} and {Michael R. Lyu}},
+  year = {2026},
+  eprint = {2601.15808v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.15808v2},
+  note = {First published: 2026-01-22; Recorded arXiv version: v2; Recorded version updated: 2026-04-29T08:40:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

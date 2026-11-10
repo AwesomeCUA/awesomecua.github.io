@@ -1,3 +1,11 @@
+---
+title: "anpl1623 AgentOS · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anpl1623-agentos/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # anpl1623 AgentOS
 
 本地优先的开源智能体运行时，用于在用户个人计算机上安全执行 AI 驱动的任务。

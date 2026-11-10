@@ -1,3 +1,11 @@
+---
+title: "UIBert: Learning Generic Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2107-13731/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # UIBert: Learning Generic Multimodal Representations for UI Understanding
 
 通过基于界面组件间关系的自监督任务，学习图像、文本和 UI 结构的共享表示。
@@ -27,6 +35,18 @@ Chongyang Bai, Xiaoxue Zang, Ying Xu, Srinivas Sunkara, Abhinav Rastogi, Jindong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2107-13731/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2107-13731/citation.csl.json
+
+```bibtex
+@misc{arxiv_2107_13731,
+  title = {{UIBert: Learning Generic Multimodal Representations for UI Understanding}},
+  author = {{Chongyang Bai} and {Xiaoxue Zang} and {Ying Xu} and {Srinivas Sunkara} and {Abhinav Rastogi} and {Jindong Chen} and {Blaise Aguera y Arcas}},
+  year = {2021},
+  eprint = {2107.13731v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2107.13731v2},
+  note = {First published: 2021-07-29; Recorded arXiv version: v2; Recorded version updated: 2021-08-10T08:55:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Deep Research Bench: Evaluating AI Web… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-06287/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Deep Research Bench: Evaluating AI Web Research Agents
 
 Deep Research Bench 提供 89 项多步网络研究任务和固定的网页抓取语料，用于持续评测搜索智能体及其执行轨迹。
@@ -27,6 +35,18 @@ FutureSearch, :, Nikos I. Bosse, Jon Evans, Robert G. Gambee, Daniel Hnyk, Peter
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-06287/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-06287/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_06287,
+  title = {{Deep Research Bench: Evaluating AI Web Research Agents}},
+  author = {{FutureSearch} and {:} and {Nikos I. Bosse} and {Jon Evans} and {Robert G. Gambee} and {Daniel Hnyk} and {Peter Mühlbacher} and {Lawrence Phillips} and {Dan Schwarz} and {Jack Wildman}},
+  year = {2025},
+  eprint = {2506.06287v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.06287v1},
+  note = {First published: 2025-05-06; Recorded arXiv version: v1; Recorded version updated: 2025-05-06T15:28:50Z.}
+}
+```
 
 ## arXiv 版本记录
 

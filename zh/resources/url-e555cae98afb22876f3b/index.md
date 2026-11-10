@@ -1,3 +1,11 @@
+---
+title: "DeskForge-1M · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e555cae98afb22876f3b/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # DeskForge-1M
 
 一个桌面图形界面数据集，包含截图、元素标注和操作记录，并提供训练集、验证集以及按应用、主题和分辨率划分的测试集。

@@ -1,3 +1,11 @@
+---
+title: "GUI-R1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ritzz-ai-gui-r1/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # GUI-R1
 
 提供使用可验证奖励的 GUI 操作模型训练与评估代码，以及相关强化学习数据和检查点链接。

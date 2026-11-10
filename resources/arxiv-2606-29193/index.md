@@ -1,3 +1,11 @@
+---
+title: "A Multi-Dataset Benchmark for Evaluating LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-29193/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Multi-Dataset Benchmark for Evaluating LLM Agents in Microservice Failure Diagnosis
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "globot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-globe-engineer-globot/
+updated: 2026-11-10
+type: agent
+lang: en
+---
+
 # globot
 
 A Python browser agent that drives Chromium through Playwright, turns the DOM snapshot into numbered clickable and input elements, and has an OpenAI model pick click, type, scroll or back actions.

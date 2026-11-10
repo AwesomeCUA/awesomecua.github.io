@@ -1,3 +1,11 @@
+---
+title: "BrowseComp | AwesomeCUA"
+url: https://awesomecua.com/resources/component-openai-simple-evals-browsecomp/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # BrowseComp
 
 OpenAI's 1,266-question benchmark for browsing agents, whose short, verifiable answers require persistent search and navigation across many websites and are graded by a model judge.

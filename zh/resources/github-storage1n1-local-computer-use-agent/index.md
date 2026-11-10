@@ -1,3 +1,11 @@
+---
+title: "Local Computer-Use Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-storage1n1-local-computer-use-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Local Computer-Use Agent
 
 离线计算机使用智能体，结合 Ollama 视觉语言模型（qwen3-vl、minicpm-v）、Set-of-Marks 定位和裁剪放大细化。

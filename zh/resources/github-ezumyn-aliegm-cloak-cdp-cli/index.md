@@ -1,3 +1,11 @@
+---
+title: "cloak-cdp-cli · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ezumyn-aliegm-cloak-cdp-cli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # cloak-cdp-cli
 
 供 AI 智能体通过 CDP 驱动 CloakBrowser 隐蔽 Chromium 实例的命令行界面。

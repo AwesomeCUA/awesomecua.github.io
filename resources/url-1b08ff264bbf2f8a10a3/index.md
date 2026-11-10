@@ -1,3 +1,11 @@
+---
+title: "Mano-CUA-2.0-4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-1b08ff264bbf2f8a10a3/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Mano-CUA-2.0-4B
 
 A released GUI action model that takes a desktop screenshot and task context to produce structured actions, including clicks, typing, scrolling and app launches.

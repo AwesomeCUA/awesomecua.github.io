@@ -1,3 +1,11 @@
+---
+title: "ViMo code | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ai-agents-2030-vimo/
+updated: 2026-10-19
+type: framework
+lang: en
+---
+
 # ViMo code
 
 Code for the ViMo GUI world model: Gemini-based next-screen text prediction, AITW and AndroidControl data processing, InstructPix2Pix-style graphic inference, and an AndroidWorld agent that consults it.

@@ -1,3 +1,11 @@
+---
+title: "Identifying the Risks of LM Agents with an… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2309-15817/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Identifying the Risks of LM Agents with an LM-Emulated Sandbox
 
 Status: excluded from the active CUA catalog after scope review.

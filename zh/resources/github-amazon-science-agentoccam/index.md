@@ -1,3 +1,11 @@
+---
+title: "AgentOccam · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amazon-science-agentoccam/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # AgentOccam
 
 AgentOccam 是网页操作智能体，利用网页描述和操作字符串，按网址和任务指令执行任务。仓库提供任务配置及评测脚本。

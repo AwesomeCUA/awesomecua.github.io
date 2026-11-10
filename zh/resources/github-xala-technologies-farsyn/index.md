@@ -1,3 +1,11 @@
+---
+title: "Farsyn · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xala-technologies-farsyn/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Farsyn
 
 地理体验与网页证据引擎，可驱动真实浏览器访问不同地区版本，并记录可验证的画面采集结果。

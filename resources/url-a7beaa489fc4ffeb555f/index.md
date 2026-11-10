@@ -1,3 +1,11 @@
+---
+title: "LearnGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a7beaa489fc4ffeb555f/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # LearnGUI
 
 Mobile GUI benchmark for learning from demonstrations: 2,252 offline tasks and 101 online tasks with human step-by-step trajectories, each query paired with one to three similar support demonstrations.

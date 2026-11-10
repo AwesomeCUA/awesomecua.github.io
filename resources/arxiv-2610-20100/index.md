@@ -1,3 +1,11 @@
+---
+title: "Task-State Governance: A Virtual Machine for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-20100/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution
 
 Presents TaskVM, an interface for specifying desired and preserved application state, checking agent actions, and exposing whether changes can be reversed or compensated.
@@ -26,6 +34,18 @@ Wenkui Yang, Yiming Hao, Kai Zhou, Chengyu Pu, Yuzhe Zhang, Jie Cao, Jin Huang, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-20100/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-20100/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_20100,
+  title = {{Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution}},
+  author = {{Wenkui Yang} and {Yiming Hao} and {Kai Zhou} and {Chengyu Pu} and {Yuzhe Zhang} and {Jie Cao} and {Jin Huang} and {Shuai Ma} and {Feng Tian}},
+  year = {2026},
+  eprint = {2610.20100v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.20100v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T12:35:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,8 +1,16 @@
+---
+title: "计算机使用智能体工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/tool/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体工具
 
 工具是智能体或开发者调用的实用程序，用来控制、观察或检查界面，包括 MCP 服务器、浏览器与设备控制器、屏幕解析器和录制工具。
 
-> AwesomeCUA 目录收录 1,163 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
+> AwesomeCUA 目录收录 1,162 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://awesomecua.com/categories/tool/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 
@@ -13,7 +21,7 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://aw
 | [Playwright MCP](https://awesomecua.com/resources/github-microsoft-playwright-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/microsoft/playwright-mcp/HEAD/LICENSE) | 33 |
 | [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/) | 跨平台 | — | 25 |
 | [agent-browser](https://awesomecua.com/resources/github-vercel-labs-agent-browser/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/vercel-labs/agent-browser/HEAD/LICENSE) | 19 |
-| [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE) | 18 |
+| [Chrome DevTools MCP](https://awesomecua.com/resources/github-chromedevtools-chrome-devtools-mcp/) | 网页 | [Apache-2.0（代码）](https://raw.githubusercontent.com/ChromeDevTools/chrome-devtools-mcp/HEAD/LICENSE) | 17 |
 | [Oracle E-Business Suite Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/oracle-ebs-browser-automation/HEAD/LICENSE) | 13 |
 | [SAP Fiori Browser Automation](https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/) | 网页 | [MIT（代码）](https://raw.githubusercontent.com/Browser-Automation-Hub/sap-fiori-browser-automation/HEAD/LICENSE) | 13 |
 
@@ -25,15 +33,15 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://aw
 
 ### 这些工具覆盖哪些平台？
 
-在 1,163 条已审核工具中，网页 682 条、桌面 577 条、跨平台 176 条、手机 106 条；21 条未记录平台。标注多个平台的条目在每个平台下各计一次。
+在 1,162 条已审核工具中，网页 681 条、桌面 577 条、跨平台 176 条、手机 106 条；21 条未记录平台。标注多个平台的条目在每个平台下各计一次。
 
 ### 哪些工具有对应的论文？
 
-1,163 条中有 18 条链接到提出或说明它的 arXiv 论文，例如 [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/)、[activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) 和 [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/)。
+1,162 条中有 18 条链接到提出或说明它的 arXiv 论文，例如 [OmniParser](https://awesomecua.com/resources/github-microsoft-omniparser/)、[activity-frames](https://awesomecua.com/resources/github-nossa-y-activity-frames/) 和 [DesignRepair](https://awesomecua.com/resources/github-ugaiforge-designrepair/)。
 
 ### 工具使用哪些许可证？
 
-最常见的声明许可证是 MIT（771 条）、Apache-2.0（137 条）和 AGPL-3.0（26 条）。1,163 条中有 194 条未记录声明的许可证。
+最常见的声明许可证是 MIT（770 条）、Apache-2.0（137 条）和 AGPL-3.0（26 条）。1,162 条中有 194 条未记录声明的许可证。
 
 ### 这个列表按什么排序？
 
@@ -22212,36 +22220,6 @@ DeepSeek Harness 插件，集成 AntiBrow 反检测浏览器，用于隐蔽的�
 
 - https://raw.githubusercontent.com/tuojc/dsh-browser-firefox/main/README.md（获取于 2026-11-04T17:30:33Z；SHA-256：2dc73d32215fa1deeb6493786321bf545e1de76d6091bbf95a16e9cd5c348220）
 - https://raw.githubusercontent.com/tuojc/dsh-browser-firefox/HEAD/LICENSE（获取于 2026-11-04T17:40:48Z；SHA-256：fddc93f41a22362f2d37cba695f1e6c8ef9ddb44a1389a9dea83089692de5050）
-
----
-
-## dsh-browser-full-access
-
-用于 DeepSeek Harness 网页自动化的 `dsh-browser` 分支，支持后台标签页的完整访问。
-
-- 目录页面：https://awesomecua.com/zh/resources/github-lianping-cyber-dsh-browser-full-access/
-- 原始来源：https://github.com/LianPing-cyber/dsh-browser-full-access
-- 类型：工具
-- 审核状态：已审核
-- 范围：核心
-- 运行环境：网页
-- 主题：网页导航、工具集成、自动化
-- 证据核查日期：2026-11-04T17:55:10Z
-- ID：github:lianping-cyber/dsh-browser-full-access
-
-- 完整记录 JSON：https://awesomecua.com/resources/github-lianping-cyber-dsh-browser-full-access/record.json
-
-### 许可证信息
-
-- 代码：MIT — https://raw.githubusercontent.com/LianPing-cyber/dsh-browser-full-access/HEAD/LICENSE
-- 数据：未记录
-- 文档：未记录
-- 权重：未记录
-
-### 一手证据
-
-- https://raw.githubusercontent.com/LianPing-cyber/dsh-browser-full-access/main/README.md（获取于 2026-11-04T17:55:10Z；SHA-256：b219352383bf466d485896d0946b502c0e4bc60f5cc12b459a0e8f0c0dab9996）
-- https://raw.githubusercontent.com/LianPing-cyber/dsh-browser-full-access/HEAD/LICENSE（获取于 2026-11-04T18:00:59Z；SHA-256：32322484ba682f6c61bbcd67323031d706fecbf9b84c8980b30205ecc3f84381）
 
 ---
 

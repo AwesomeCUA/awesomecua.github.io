@@ -1,3 +1,11 @@
+---
+title: "ComputerMate · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-one710-computermate/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ComputerMate
 
 ComputerMate 是一个跨平台 Model Context Protocol 服务器，为 AI 模型提供屏幕捕获、OCR、鼠标和键盘控制以及 Shell 控制能力。

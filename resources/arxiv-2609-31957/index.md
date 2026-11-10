@@ -1,3 +1,11 @@
+---
+title: "CaptchaArena: A Large-Scale, Fine-Grained… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-31957/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs
 
 Introduces CaptchaArena, a dataset of execution-verified interactive CAPTCHA solutions with screenshot–action trajectories, reasoning annotations, and pixel masks for irregular targets. The work trains a single policy across CAPTCHA types using supervised learning followed by verifier-reward reinforcement learning.
@@ -26,6 +34,18 @@ Zhenhao Zhang, Zhaoyu Fan, Haohan Ying, Jingwen Hu, Hancen Fan, Junhao Zhou, Zit
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-31957/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-31957/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_31957,
+  title = {{CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs}},
+  author = {{Zhenhao Zhang} and {Zhaoyu Fan} and {Haohan Ying} and {Jingwen Hu} and {Hancen Fan} and {Junhao Zhou} and {Zitian Chen} and {Linchao Zhu}},
+  year = {2026},
+  eprint = {2609.31957v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.31957v1},
+  note = {First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T20:04:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

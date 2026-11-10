@@ -1,3 +1,11 @@
+---
+title: "Accurate Chemical Reaction Modeling on Noisy… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-14038/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Accurate Chemical Reaction Modeling on Noisy Intermediate-Scale Quantum Computers Using a Noise-Resilient Wavefunction Ansatz
 
 Status: excluded from the active CUA catalog after scope review.

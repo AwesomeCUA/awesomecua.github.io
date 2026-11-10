@@ -1,3 +1,11 @@
+---
+title: "Cross-app — computer-use research, page 2 | AwesomeCUA"
+url: https://awesomecua.com/topics/cross-app/page/2/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Cross-app — computer-use research, page 2
 
 HTML page: https://awesomecua.com/topics/cross-app/page/2/

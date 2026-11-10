@@ -1,3 +1,11 @@
+---
+title: "OpenLens AI: Fully Autonomous Research Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-14778/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OpenLens AI: Fully Autonomous Research Agent for Health Infomatics
 
 Bibliographic record for OpenLens AI: Fully Autonomous Research Agent for Health Infomatics. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yuxiao Cheng, Jinli Suo
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-14778/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-14778/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_14778,
+  title = {{OpenLens AI: Fully Autonomous Research Agent for Health Infomatics}},
+  author = {{Yuxiao Cheng} and {Jinli Suo}},
+  year = {2025},
+  eprint = {2509.14778v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.14778v2},
+  note = {First published: 2025-09-18; Recorded arXiv version: v2; Recorded version updated: 2025-09-23T01:37:30Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Auto-UI (agent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gimme1dollar-auto-ui/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # Auto-UI
 
 A multimodal interface agent that uses earlier actions and future action plans to predict the next action. The repository provides training and inference instructions.

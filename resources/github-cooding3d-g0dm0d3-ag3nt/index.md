@@ -1,3 +1,11 @@
+---
+title: "G0DM0D3 AG3NT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cooding3d-g0dm0d3-ag3nt/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # G0DM0D3 AG3NT
 
 Permission-first local AI control center for Windows orchestrating local models, desktop actions, and browser tools.

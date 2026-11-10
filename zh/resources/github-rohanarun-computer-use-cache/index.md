@@ -1,3 +1,11 @@
+---
+title: "Computer-Use Cache · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rohanarun-computer-use-cache/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Computer-Use Cache
 
 可直接接入、兼容 OpenAI 的缓存代理，记录并重放重复的计算机使用和浏览器智能体工作流。

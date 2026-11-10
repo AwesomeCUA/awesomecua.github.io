@@ -1,3 +1,11 @@
+---
+title: "ColorGUI-32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-38672ac9af2e25fbfb58/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # ColorGUI-32B
 
 ColorGUI-32B is a mobile GUI action model adapted from Qwen3-VL-32B-Instruct. It reads screenshots and instructions to select actions for a mobile agent runtime.

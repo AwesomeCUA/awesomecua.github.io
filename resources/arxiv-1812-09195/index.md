@@ -1,3 +1,11 @@
+---
+title: "Learning to Navigate the Web | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1812-09195/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Learning to Navigate the Web
 
 Introduces guided RL for QWeb, using a curriculum of smaller instructions and generated tasks to train an agent that follows instructions and fills forms on web pages.
@@ -26,6 +34,18 @@ Izzeddin Gur, Ulrich Rueckert, Aleksandra Faust, Dilek Hakkani-Tur
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1812-09195/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1812-09195/citation.csl.json
+
+```bibtex
+@misc{arxiv_1812_09195,
+  title = {{Learning to Navigate the Web}},
+  author = {{Izzeddin Gur} and {Ulrich Rueckert} and {Aleksandra Faust} and {Dilek Hakkani-Tur}},
+  year = {2018},
+  eprint = {1812.09195v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1812.09195v1},
+  note = {First published: 2018-12-21; Recorded arXiv version: v1; Recorded version updated: 2018-12-21T15:32:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

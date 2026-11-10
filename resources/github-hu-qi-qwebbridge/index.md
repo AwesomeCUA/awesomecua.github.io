@@ -1,3 +1,11 @@
+---
+title: "QWebBridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hu-qi-qwebbridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # QWebBridge
 
 Browser bridge that lets AI agents navigate, click, fill forms, and read Chrome pages via the accessibility tree.

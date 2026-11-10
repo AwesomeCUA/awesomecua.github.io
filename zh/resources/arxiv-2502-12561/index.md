@@ -1,3 +1,11 @@
+---
+title: "UXAgent: An LLM Agent-Based Usability… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-12561/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design
 
 提出 UXAgent，通过浏览器连接器让模拟用户测试网站可用性，并向 UX 研究者展示其操作、回答和录像。
@@ -27,6 +35,18 @@ Yuxuan Lu, Bingsheng Yao, Hansu Gu, Jing Huang, Jessie Wang, Yang Li, Jiri Gesi,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-12561/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-12561/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_12561,
+  title = {{UXAgent: An LLM Agent-Based Usability Testing Framework for Web Design}},
+  author = {{Yuxuan Lu} and {Bingsheng Yao} and {Hansu Gu} and {Jing Huang} and {Jessie Wang} and {Yang Li} and {Jiri Gesi} and {Qi He} and {Toby Jia-Jun Li} and {Dakuo Wang}},
+  year = {2025},
+  eprint = {2502.12561v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.12561v3},
+  note = {First published: 2025-02-18; Recorded arXiv version: v3; Recorded version updated: 2025-04-05T01:55:09Z.}
+}
+```
 
 ## arXiv 版本记录
 

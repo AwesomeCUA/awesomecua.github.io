@@ -1,3 +1,11 @@
+---
+title: "mimiq | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gojiplus-mimiq/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # mimiq
 
 mimiq is a dynamic end-to-end agentic simulation and web UI evaluation runner integrating Cypress, Playwright, and Stagehand.

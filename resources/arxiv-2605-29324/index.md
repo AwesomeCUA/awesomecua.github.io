@@ -1,3 +1,11 @@
+---
+title: "STAMP: Training Explicit Memory for Mobile… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-29324/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # STAMP: Training Explicit Memory for Mobile GUI Agents in Controllable and Scalable Virtual Environments
 
 STAMP trains explicit memory for mobile GUI agents in virtual environments by injecting facts into generated tasks and using supervised data and online RL.
@@ -26,6 +34,18 @@ Junyang Wang, Haiyang Xu, Xi Zhang, Zhaoqing Zhu, Ming Yan, Jieping Ye, Jitao Sa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-29324/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-29324/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_29324,
+  title = {{STAMP: Training Explicit Memory for Mobile GUI Agents in Controllable and Scalable Virtual Environments}},
+  author = {{Junyang Wang} and {Haiyang Xu} and {Xi Zhang} and {Zhaoqing Zhu} and {Ming Yan} and {Jieping Ye} and {Jitao Sang}},
+  year = {2026},
+  eprint = {2605.29324v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.29324v1},
+  note = {First published: 2026-05-28; Recorded arXiv version: v1; Recorded version updated: 2026-05-28T04:00:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

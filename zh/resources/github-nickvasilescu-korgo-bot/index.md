@@ -1,3 +1,11 @@
+---
+title: "Korgo Bot · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nickvasilescu-korgo-bot/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # Korgo Bot
 
 Korgo Bot 是一款 macOS 应用，让持久运行的智能体共用云端桌面。智能体可以使用屏幕和文件工具，也可以将图形界面及浏览器任务交给托管智能体。

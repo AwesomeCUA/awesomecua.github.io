@@ -1,3 +1,11 @@
+---
+title: "SceneAgent: An Agentic Pipeline from 3D and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34745/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # SceneAgent: An Agentic Pipeline from 3D and 4D Captures to Simulation Environments
 
 Bibliographic record for SceneAgent: An Agentic Pipeline from 3D and 4D Captures to Simulation Environments. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Luke Hollis, Tianxing Fan, Heng Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34745/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34745/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34745,
+  title = {{SceneAgent: An Agentic Pipeline from 3D and 4D Captures to Simulation Environments}},
+  author = {{Luke Hollis} and {Tianxing Fan} and {Heng Yang}},
+  year = {2026},
+  eprint = {2610.34745v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34745v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T02:45:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "From Protoscience to Epistemic Monoculture… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-06647/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # From Protoscience to Epistemic Monoculture: How Benchmarking Set the Stage for the Deep Learning Revolution
 
 Status: excluded from the active CUA catalog after scope review.

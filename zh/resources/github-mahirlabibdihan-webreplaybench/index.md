@@ -1,3 +1,11 @@
+---
+title: "WebReplayBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mahirlabibdihan-webreplaybench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # WebReplayBench
 
 一个网页智能体基准，提供本地商店网站、BrowserGym 任务和数据库审计记录，用于衡量任务完成情况以及回溯时的重复写入。

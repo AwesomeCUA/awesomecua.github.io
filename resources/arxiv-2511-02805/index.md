@@ -1,3 +1,11 @@
+---
+title: "MemSearcher: Training LLMs to Reason, Search… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-02805/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MemSearcher: Training LLMs to Reason, Search and Manage Memory via End-to-End Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

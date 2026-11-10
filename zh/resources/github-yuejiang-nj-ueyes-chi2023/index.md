@@ -1,3 +1,11 @@
+---
+title: "UEyes · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yuejiang-nj-ueyes-chi2023/
+updated: 2026-11-04
+type: dataset
+lang: zh-CN
+---
+
 # UEyes
 
 UEyes 是眼动追踪数据集，记录 62 名参与者观看 1,980 张 UI 截图的情况，截图涵盖网页、桌面界面、移动端应用和海报。

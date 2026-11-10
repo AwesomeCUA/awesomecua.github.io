@@ -1,3 +1,11 @@
+---
+title: "webarena-world-model-sft | AwesomeCUA"
+url: https://awesomecua.com/resources/url-42686ac00c4ae107f147/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # webarena-world-model-sft
 
 DeepSeek-R1-Distill-Qwen-1.5B fine-tuned as a language world model for WebArena: it predicts which accessibility-tree items change after a web action, trained by SFT on chain-of-thought data before the RLVR stage.

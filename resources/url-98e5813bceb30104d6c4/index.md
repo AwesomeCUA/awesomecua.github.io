@@ -1,3 +1,11 @@
+---
+title: "Holo1.5 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-98e5813bceb30104d6c4/
+updated: 2026-10-18
+type: model
+lang: en
+---
+
 # Holo1.5 7B
 
 H Company's Qwen2.5-VL-7B-based Holo1.5 checkpoint for locating interface elements and answering questions about screens across web, desktop and mobile, trained with supervised fine-tuning then GRPO.

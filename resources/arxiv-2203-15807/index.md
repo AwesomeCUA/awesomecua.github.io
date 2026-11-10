@@ -1,3 +1,11 @@
+---
+title: "High Speed Photonic Neuromorphic Computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2203-15807/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # High Speed Photonic Neuromorphic Computing Using Recurrent Optical Spectrum Slicing Neural Networks
 
 Status: excluded from the active CUA catalog after scope review.

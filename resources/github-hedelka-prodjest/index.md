@@ -1,3 +1,11 @@
+---
+title: "Prodjest (DSH Browser Bridge) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hedelka-prodjest/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Prodjest (DSH Browser Bridge)
 
 Visual Chrome browser bridge for DeepSeek Harness with interactive user oversight.

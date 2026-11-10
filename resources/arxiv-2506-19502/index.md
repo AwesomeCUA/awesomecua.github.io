@@ -1,3 +1,11 @@
+---
+title: "MATE: LLM-Powered Multi-Agent Translation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2506-19502/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # MATE: LLM-Powered Multi-Agent Translation Environment for Accessibility Applications
 
 Status: excluded from the active CUA catalog after scope review.

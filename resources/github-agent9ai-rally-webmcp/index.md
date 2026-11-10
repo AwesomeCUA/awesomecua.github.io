@@ -1,3 +1,11 @@
+---
+title: "Rally v2 for WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agent9ai-rally-webmcp/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Rally v2 for WebMCP
 
 WebMCP orchestration runtime where ChatGPT initiates jobs and specialized browser agents execute and verify web tasks.

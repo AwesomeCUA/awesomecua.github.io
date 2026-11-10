@@ -1,3 +1,11 @@
+---
+title: "SAFETY SENTRY: Context-Aware Human… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-13594/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SAFETY SENTRY: Context-Aware Human Intervention via EXECUTE-ASK-REFUSE Routing
 
 Status: excluded from the active CUA catalog after scope review.

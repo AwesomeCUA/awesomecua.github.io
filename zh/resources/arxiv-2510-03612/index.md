@@ -1,3 +1,11 @@
+---
+title: "Cross-Modal Content Optimization for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-03612/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Cross-Modal Content Optimization for Steering Web Agent Preferences
 
 提出 Cross-Modal Preference Steering (CPS)：攻击者在黑盒条件下修改条目的图片和文本，以影响基于 VLM 的网页智能体选择。
@@ -27,6 +35,18 @@ Tanqiu Jiang, Min Bai, Nikolaos Pappas, Yanjun Qi, Sandesh Swamy
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-03612/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-03612/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_03612,
+  title = {{Cross-Modal Content Optimization for Steering Web Agent Preferences}},
+  author = {{Tanqiu Jiang} and {Min Bai} and {Nikolaos Pappas} and {Yanjun Qi} and {Sandesh Swamy}},
+  year = {2025},
+  eprint = {2510.03612v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.03612v1},
+  note = {First published: 2025-10-04; Recorded arXiv version: v1; Recorded version updated: 2025-10-04T01:57:20Z.}
+}
+```
 
 ## arXiv 版本记录
 

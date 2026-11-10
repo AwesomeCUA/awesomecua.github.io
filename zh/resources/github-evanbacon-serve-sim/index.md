@@ -1,3 +1,11 @@
+---
+title: "serve-sim · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-evanbacon-serve-sim/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # serve-sim
 
 一个命令行工具，通过 MJPEG 和 WebSocket 将已启动的 iOS 模拟器串流到浏览器预览页，并提供命令和 Agent Skill，让编程智能体发送点击、手势、文本输入和按键操作。

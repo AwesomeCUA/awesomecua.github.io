@@ -1,3 +1,11 @@
+---
+title: "Personal LLM Agents: Insights and Survey… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-05459/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security
 
 Bibliographic record for Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yuanchun Li, Hao Wen, Weijun Wang, Xiangyu Li, Yizhen Yuan, Guohong Liu, Jiachen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-05459/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-05459/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_05459,
+  title = {{Personal LLM Agents: Insights and Survey about the Capability, Efficiency and Security}},
+  author = {{Yuanchun Li} and {Hao Wen} and {Weijun Wang} and {Xiangyu Li} and {Yizhen Yuan} and {Guohong Liu} and {Jiacheng Liu} and {Wenxing Xu} and {Xiang Wang} and {Yi Sun} and {Rui Kong} and {Yile Wang} and {Hanfei Geng} and {Jian Luan} and {Xuefeng Jin} and {Zilong Ye} and {Guanjing Xiong} and {Fan Zhang} and {Xiang Li} and {Mengwei Xu} and {Zhijun Li} and {Peng Li} and {Yang Liu} and {Ya-Qin Zhang} and {Yunxin Liu}},
+  year = {2024},
+  eprint = {2401.05459v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.05459v2},
+  note = {First published: 2024-01-10; Recorded arXiv version: v2; Recorded version updated: 2024-05-08T06:16:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

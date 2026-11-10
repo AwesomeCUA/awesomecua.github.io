@@ -1,3 +1,11 @@
+---
+title: "Magentic-One: A Generalist Multi-Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2411-04468/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks
 
 提出由浏览、文件和编程智能体组成的协作团队，通过进度跟踪和错误恢复处理通用数字任务。
@@ -27,6 +35,18 @@ Adam Fourney, Gagan Bansal, Hussein Mozannar, Cheng Tan, Eduardo Salinas, Erkang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2411-04468/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2411-04468/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_04468,
+  title = {{Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks}},
+  author = {{Adam Fourney} and {Gagan Bansal} and {Hussein Mozannar} and {Cheng Tan} and {Eduardo Salinas} and {Erkang} and {Zhu} and {Friederike Niedtner} and {Grace Proebsting} and {Griffin Bassman} and {Jack Gerrits} and {Jacob Alber} and {Peter Chang} and {Ricky Loynd} and {Robert West} and {Victor Dibia} and {Ahmed Awadallah} and {Ece Kamar} and {Rafah Hosn} and {Saleema Amershi}},
+  year = {2024},
+  eprint = {2411.04468v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.04468v1},
+  note = {First published: 2024-11-07; Recorded arXiv version: v1; Recorded version updated: 2024-11-07T06:36:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

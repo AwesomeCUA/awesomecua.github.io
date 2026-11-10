@@ -1,3 +1,11 @@
+---
+title: "AppCopilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openbmb-appcopilot/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # AppCopilot
 
 AppCopilot 是跨 Android 应用执行任务的多模态移动智能体；仓库提供代码，以及通过 ADB 控制模拟器或实体手机的配置步骤。

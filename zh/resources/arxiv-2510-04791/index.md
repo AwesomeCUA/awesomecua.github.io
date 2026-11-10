@@ -1,3 +1,11 @@
+---
+title: "GUISpector: An MLLM Agent Framework for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2510-04791/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes
 
 提出 GUISpector，让 MLLM 智能体操作 GUI 原型、核查自然语言需求，并向开发者提供检查反馈。
@@ -27,6 +35,18 @@ Kristian Kolthoff, Felix Kretzer, Simone Paolo Ponzetto, Alexander Maedche, Chri
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2510-04791/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2510-04791/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_04791,
+  title = {{GUISpector: An MLLM Agent Framework for Automated Verification of Natural Language Requirements in GUI Prototypes}},
+  author = {{Kristian Kolthoff} and {Felix Kretzer} and {Simone Paolo Ponzetto} and {Alexander Maedche} and {Christian Bartelt}},
+  year = {2025},
+  eprint = {2510.04791v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.04791v1},
+  note = {First published: 2025-10-06; Recorded arXiv version: v1; Recorded version updated: 2025-10-06T13:15:24Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "gpuview · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-onlyterp-gpuview/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # gpuview
 
 面向 AI 智能体的 GPU 原生 Windows 屏幕感知工具，直接从 DXGI Desktop Duplication 合成器交接点捕获帧。

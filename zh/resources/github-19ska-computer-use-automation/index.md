@@ -1,3 +1,11 @@
+---
+title: "19ska Computer-Use Automation · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-19ska-computer-use-automation/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # 19ska Computer-Use Automation
 
 使用 LLM 探索一次 UI 工作流，再将轨迹编译为确定性回放脚本。

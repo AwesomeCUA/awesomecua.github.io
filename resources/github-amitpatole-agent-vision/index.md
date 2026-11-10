@@ -1,3 +1,11 @@
+---
+title: "AgentVision | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amitpatole-agent-vision/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # AgentVision
 
 A visual review tool for AI agents that renders interfaces and reports layout, contrast, text, and image issues. Agents can use its findings to revise and check their output again.

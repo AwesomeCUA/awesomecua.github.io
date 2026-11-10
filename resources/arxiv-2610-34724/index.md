@@ -1,3 +1,11 @@
+---
+title: "Harness-Model Collaboration for Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-34724/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Harness-Model Collaboration for Long-Horizon Continual Learning
 
 Introduces HaMo, a continual-learning framework for web agents that retrieves strategy cards from past workflows and updates model parameters to reuse them.
@@ -26,6 +34,18 @@ Zhen Bi, Zhizhi Peng, Yan Wang, Xueshu Chen, Haofei Zhang, Yaobo Zhang, Zeyu Yan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-34724/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-34724/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_34724,
+  title = {{Harness-Model Collaboration for Long-Horizon Continual Learning}},
+  author = {{Zhen Bi} and {Zhizhi Peng} and {Yan Wang} and {Xueshu Chen} and {Haofei Zhang} and {Yaobo Zhang} and {Zeyu Yang} and {Qing Shen} and {Jungang Lou}},
+  year = {2026},
+  eprint = {2610.34724v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.34724v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T02:21:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Lightcone SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tzafon-lightcone/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Lightcone SDK
 
 Lightcone 是 Tzafon 的 Python 和 TypeScript SDK，用于构建由 Northstar GUI 视觉语言模型驱动的计算机使用智能体。

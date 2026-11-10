@@ -1,3 +1,11 @@
+---
+title: "Behind the Magic, MERLIM: Multi-modal… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2312-02219/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models
 
 Bibliographic record for Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Andrés Villa, Juan Carlos León Alcázar, Alvaro Soto, Bernard Ghanem
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2312-02219/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2312-02219/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_02219,
+  title = {{Behind the Magic, MERLIM: Multi-modal Evaluation Benchmark for Large Image-Language Models}},
+  author = {{Andrés Villa} and {Juan Carlos León Alcázar} and {Alvaro Soto} and {Bernard Ghanem}},
+  year = {2023},
+  eprint = {2312.02219v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.02219v3},
+  note = {First published: 2023-12-03; Recorded arXiv version: v3; Recorded version updated: 2025-05-30T11:40:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

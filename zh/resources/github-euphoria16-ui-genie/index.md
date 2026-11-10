@@ -1,3 +1,11 @@
+---
+title: "UI-Genie · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-euphoria16-ui-genie/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # UI-Genie
 
 移动端智能体框架的训练与评估代码，利用智能体和奖励模型的反馈迭代生成轨迹。

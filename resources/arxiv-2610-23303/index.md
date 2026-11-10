@@ -1,3 +1,11 @@
+---
+title: "MobileJailBench: Red Queen Jailbreak… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-23303/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents
 
 MobileJailBench evaluates mobile-agent jailbreaks in a browser-based Android-like simulator, combining feedback-driven attack evolution, separately admitted task expansions and evidence-grounded outcome adjudication.
@@ -26,6 +34,18 @@ Songping Wang, Borui Li, Qinglong Liu, Yueming Lyu, Yi Huang, Fengting Li, Chao 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-23303/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-23303/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_23303,
+  title = {{MobileJailBench: Red Queen Jailbreak Benchmarking for Mobile Agents}},
+  author = {{Songping Wang} and {Borui Li} and {Qinglong Liu} and {Yueming Lyu} and {Yi Huang} and {Fengting Li} and {Chao Feng} and {Caifeng Shan}},
+  year = {2026},
+  eprint = {2610.23303v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.23303v1},
+  note = {First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T11:06:37Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "predicate-secure · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-predicatesystems-predicate-secure/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # predicate-secure
 
 predicate-secure 是面向浏览器智能体的安全封装库，可依据策略检查操作、验证结果并记录审计证据。

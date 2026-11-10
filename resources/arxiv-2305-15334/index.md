@@ -1,3 +1,11 @@
+---
+title: "Gorilla: Large Language Model Connected with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-15334/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Gorilla: Large Language Model Connected with Massive APIs
 
 Status: excluded from the active CUA catalog after scope review.

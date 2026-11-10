@@ -1,3 +1,11 @@
+---
+title: "Agent-SAMA: State-Aware Mobile Assistant · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-23596/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # Agent-SAMA: State-Aware Mobile Assistant
 
 将移动应用的执行过程建模为有限状态机，以支持跨界面状态转换的规划、验证和恢复。
@@ -27,6 +35,18 @@ Linqiang Guo, Wei Liu, Yi Wen Heng, Tse-Hsun, Chen, Yang Wang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-23596/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-23596/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_23596,
+  title = {{Agent-SAMA: State-Aware Mobile Assistant}},
+  author = {{Linqiang Guo} and {Wei Liu} and {Yi Wen Heng} and {Tse-Hsun} and {Chen} and {Yang Wang}},
+  year = {2025},
+  eprint = {2505.23596v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.23596v3},
+  note = {First published: 2025-05-29; Recorded arXiv version: v3; Recorded version updated: 2025-11-19T16:48:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

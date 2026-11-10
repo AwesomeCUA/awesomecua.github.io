@@ -1,3 +1,11 @@
+---
+title: "SwiftAutoGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nakaokarei-swiftautogui/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # SwiftAutoGUI
 
 SwiftAutoGUI is a native Swift library for macOS GUI automation providing mouse, keyboard, screenshot, template matching, and AppleScript control.

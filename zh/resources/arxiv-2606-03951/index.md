@@ -1,3 +1,11 @@
+---
+title: "Demo2Tutorial: From Human Experience to… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-03951/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Demo2Tutorial: From Human Experience to Multimodal Software Tutorials
 
 提出 Demo2Tutorial，将录制的软件操作整理为带任务图的多模态教程；报告这些教程有助于 GUI 智能体规划。
@@ -27,6 +35,18 @@ Zechen Bai, Zhiheng Chen, Yiqi Lin, Kevin Qinghong Lin, Difei Gao, Xiangwu Guo, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-03951/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-03951/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_03951,
+  title = {{Demo2Tutorial: From Human Experience to Multimodal Software Tutorials}},
+  author = {{Zechen Bai} and {Zhiheng Chen} and {Yiqi Lin} and {Kevin Qinghong Lin} and {Difei Gao} and {Xiangwu Guo} and {Xin Wang} and {Mike Zheng Shou}},
+  year = {2026},
+  eprint = {2606.03951v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.03951v1},
+  note = {First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T17:39:07Z.}
+}
+```
 
 ## arXiv 版本记录
 

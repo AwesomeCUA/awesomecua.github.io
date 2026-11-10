@@ -1,3 +1,11 @@
+---
+title: "Anatomy of Agentic Memory: Taxonomy and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-19320/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "AutoGUI: Scaling GUI Grounding with… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-01977/
+updated: 2026-10-19
+type: paper
+lang: zh-CN
+---
+
 # AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs
 
 根据交互前后的 UI 变化推断元素功能，生成经核验的标注，用于训练定位模型。
@@ -27,6 +35,18 @@ Hongxin Li, Jingfan Chen, Jingran Su, Yuntao Chen, Qing Li, Zhaoxiang Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-01977/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-01977/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_01977,
+  title = {{AutoGUI: Scaling GUI Grounding with Automatic Functionality Annotations from LLMs}},
+  author = {{Hongxin Li} and {Jingfan Chen} and {Jingran Su} and {Yuntao Chen} and {Qing Li} and {Zhaoxiang Zhang}},
+  year = {2025},
+  eprint = {2502.01977v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.01977v2},
+  note = {First published: 2025-02-04; Recorded arXiv version: v2; Recorded version updated: 2025-06-07T05:23:58Z.}
+}
+```
 
 ## arXiv 版本记录
 

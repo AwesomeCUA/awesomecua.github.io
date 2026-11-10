@@ -1,3 +1,11 @@
+---
+title: "reflex-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-8itlab-reflex-cu/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # reflex-computer-use
 
 reflex-computer-use is an MCP server for macOS and Windows that reads native UI accessibility trees and dispatches low-latency actions.

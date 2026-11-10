@@ -1,13 +1,17 @@
+---
+title: "自动化：Computer-Use 研究与资源（第 18 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/automation/page/18/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 自动化：Computer-Use 研究与资源（第 18 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/automation/page/18/
 
 完整列表：https://awesomecua.com/zh/topics/automation/index.md
 
-- [mcp-remote-macos-use](https://awesomecua.com/zh/resources/github-baryhuang-mcp-remote-macos-use/)
-- [mcp-serial-hid-kvm](https://awesomecua.com/zh/resources/github-sunasaji-mcp-serial-hid-kvm/)
-- [mcp-server-browser-use](https://awesomecua.com/zh/resources/github-saik0s-mcp-browser-use/)
-- [mcp-server-macos-use](https://awesomecua.com/zh/resources/github-mediar-ai-mcp-server-macos-use/)
 - [mcp-vroid](https://awesomecua.com/zh/resources/github-nhodges-mcp-vroid/)
 - [MCPSafari](https://awesomecua.com/zh/resources/github-epistates-mcpsafari/)
 - [md-e2e](https://awesomecua.com/zh/resources/github-a-ryan-kr-md-e2e/)
@@ -60,7 +64,11 @@ HTML 页面：https://awesomecua.com/zh/topics/automation/page/18/
 - [Nanobrowser Free AI](https://awesomecua.com/zh/resources/github-aminemabrouk17-nanobrowser-free-ai/)
 - [nanoMuse](https://awesomecua.com/zh/resources/github-nano-muse-nanomuse/)
 - [natbot](https://awesomecua.com/zh/resources/github-nat-natbot/)
-- [Native by K](https://awesomecua.com/zh/resources/github-karunya-muddana-native/)
 - [native-devtools-mcp](https://awesomecua.com/zh/resources/github-vectora-foundry-native-devtools-mcp/)
 - [NaveedAshraf Browser Bridge](https://awesomecua.com/zh/resources/github-naveedashraf1-browser-automation-extension/)
 - [navforge](https://awesomecua.com/zh/resources/github-huzjie-navforge/)
+- [NaviFlow](https://awesomecua.com/zh/resources/github-marc-ing-navi-flow/)
+- [Nehemiah](https://awesomecua.com/zh/resources/github-boringcomputers-nehemiah/)
+- [NekoPilot](https://awesomecua.com/zh/resources/github-skyaerope-nekopilot/)
+- [nekoro-browser](https://awesomecua.com/zh/resources/github-zeshuochen-nekoro-browser/)
+- [Nell (Open Source Instinct)](https://awesomecua.com/zh/resources/github-iabdulwasey-nell/)

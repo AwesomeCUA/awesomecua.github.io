@@ -1,3 +1,11 @@
+---
+title: "Ferrum · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rubycdp-ferrum/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Ferrum
 
 Ferrum 是通过开发者工具协议控制 Chrome 或 Chromium 的 Ruby API。它支持浏览器导航、页面交互和截图。

@@ -1,3 +1,11 @@
+---
+title: "PIRA-Bench: A Transition from Reactive… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-08013/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents
 
 PIRA-Bench 评估在任务与用户上下文交错、含噪声的 GUI 截图序列中主动推荐用户意图的能力。其 PIRF 基线结合记忆与状态跟踪，维护多个任务线索并识别协助时机。
@@ -27,6 +35,18 @@ Yuxiang Chai, Shunye Tang, Han Xiao, Rui Liu, Hongsheng Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-08013/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-08013/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_08013,
+  title = {{PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents}},
+  author = {{Yuxiang Chai} and {Shunye Tang} and {Han Xiao} and {Rui Liu} and {Hongsheng Li}},
+  year = {2026},
+  eprint = {2603.08013v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.08013v1},
+  note = {First published: 2026-03-09; Recorded arXiv version: v1; Recorded version updated: 2026-03-09T06:41:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "B-MoCA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jylee425-b-moca/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # B-MoCA
 
 Mobile control benchmark with varied interface configurations.

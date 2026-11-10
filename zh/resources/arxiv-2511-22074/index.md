@@ -1,3 +1,11 @@
+---
+title: "Real-Time Procedural Learning From… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2511-22074/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Real-Time Procedural Learning From Experience for AI Agents
 
 PRAXIS 保存操作结果，并检索过去的状态、操作与结果示例来指导智能体决策；评估使用 REAL 网页浏览基准。
@@ -27,6 +35,18 @@ Dasheng Bi, Yubin Hu, Mohammed N. Nasir
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2511-22074/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2511-22074/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_22074,
+  title = {{Real-Time Procedural Learning From Experience for AI Agents}},
+  author = {{Dasheng Bi} and {Yubin Hu} and {Mohammed N. Nasir}},
+  year = {2025},
+  eprint = {2511.22074v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.22074v2},
+  note = {First published: 2025-11-27; Recorded arXiv version: v2; Recorded version updated: 2025-12-02T22:56:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Agent models: Internalizing Chain-of-Action… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-06580/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agent models: Internalizing Chain-of-Action Generation into Reasoning models
 
 Status: excluded from the active CUA catalog after scope review.

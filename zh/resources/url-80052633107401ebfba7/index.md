@@ -1,3 +1,11 @@
+---
+title: "Copilot Studio computer use · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-80052633107401ebfba7/
+updated: 2026-10-18
+type: product
+lang: zh-CN
+---
+
 # Copilot Studio computer use
 
 Copilot Studio 智能体工具通过计算机使用模型，在配置好的机器上操作网站和 Windows 桌面应用，支持保存凭据、网站和应用白名单及人工监督。

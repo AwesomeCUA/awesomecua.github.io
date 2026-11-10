@@ -1,3 +1,11 @@
+---
+title: "LongHorizon-Harness: Advancing Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-01964/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks
 
 Introduces LongHorizon-Harness, which maintains verified task state outside an agent's execution context and audits subtasks; its evaluations include OSWorld~2.0.
@@ -26,6 +34,18 @@ Ziyu Ma, Hailang Huang, Shun Zou, Yong Wang, Shidong Yang, Yiming Hu, Fei Wei, X
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-01964/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-01964/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_01964,
+  title = {{LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks}},
+  author = {{Ziyu Ma} and {Hailang Huang} and {Shun Zou} and {Yong Wang} and {Shidong Yang} and {Yiming Hu} and {Fei Wei} and {XiangXiang Chu}},
+  year = {2026},
+  eprint = {2608.01964v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.01964v1},
+  note = {First published: 2026-08-03; Recorded arXiv version: v1; Recorded version updated: 2026-08-03T09:32:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

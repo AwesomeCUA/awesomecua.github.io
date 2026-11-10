@@ -1,3 +1,11 @@
+---
+title: "profile-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leeguooooo-profile-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # profile-use
 
 profile-use supplies local profile data for agent-driven web forms and applies confirmation and domain checks before sensitive entries or submission.

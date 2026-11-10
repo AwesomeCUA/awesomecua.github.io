@@ -1,3 +1,11 @@
+---
+title: "AgentQL · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8896d44370711136fd54/
+updated: 2026-10-16
+type: product
+lang: zh-CN
+---
+
 # AgentQL
 
 AgentQL 提供用于网页界面的自然语言查询和交互工具。

@@ -1,3 +1,11 @@
+---
+title: "Rico: A Mobile App Dataset for Building… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Rico: A Mobile App Dataset for Building Data-Driven Design Applications
 
 Introduces Rico, collecting Android interface designs and interaction traces through crowdsourced use followed by automated exploration. The paper demonstrates UI-layout retrieval using learned representations and describes visual, textual, structural, and interaction data.
@@ -26,6 +34,20 @@ Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang 
 
 - BibTeX: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-b560b5d6abaab98483f6/citation.csl.json
+
+```bibtex
+@inproceedings{cua_402ed654426712089390317c,
+  title = {{Rico: A Mobile App Dataset for Building Data-Driven Design Applications}},
+  author = {{Biplab Deka} and {Zifeng Huang} and {Chad Franzen} and {Joshua Hibschman} and {Daniel Afergan} and {Yang Li} and {Jeffrey Nichols} and {Ranjitha Kumar}},
+  year = {2017},
+  month = oct,
+  booktitle = {UIST '17: Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology},
+  pages = {845-854},
+  doi = {10.1145/3126594.3126651},
+  url = {https://doi.org/10.1145/3126594.3126651},
+  note = {Publication date: 2017-10-20.}
+}
+```
 
 ## Publication record
 

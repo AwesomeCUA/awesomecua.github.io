@@ -1,3 +1,11 @@
+---
+title: "noVNC · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-novnc-novnc/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # noVNC
 
 noVNC 是基于浏览器的 VNC 客户端及 JavaScript 库，可通过鼠标、键盘、剪贴板和触控输入查看并操控远程桌面。

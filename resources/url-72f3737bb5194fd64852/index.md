@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-3B-UI-R1-E | AwesomeCUA"
+url: https://awesomecua.com/resources/url-72f3737bb5194fd64852/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2.5-VL-3B-UI-R1-E
 
 Qwen2.5-VL-3B-UI-R1-E releases UI-R1-E-3B, a model that predicts click coordinates from interface screenshots and commands, with reported mobile, desktop, and web grounding evaluations.

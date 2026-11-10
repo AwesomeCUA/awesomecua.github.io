@@ -1,3 +1,11 @@
+---
+title: "MCP-CodexGPT · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mosmotov-mcp-codexgpt/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # MCP-CodexGPT
 
 跨平台 Model Context Protocol 桥接工具，供 Codex 或 Claude Code 对 ChatGPT Web 的代码和计划进行确定性审查。

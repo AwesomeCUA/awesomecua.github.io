@@ -1,3 +1,11 @@
+---
+title: "WebWalker · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alibaba-nlp-webwalker/
+updated: 2026-11-02
+type: benchmark
+lang: zh-CN
+---
+
 # WebWalker
 
 用于评测大型语言模型完成多步网页遍历和深度信息查找任务的评测基准与多智能体框架。

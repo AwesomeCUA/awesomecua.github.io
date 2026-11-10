@@ -1,3 +1,11 @@
+---
+title: "META-GUI dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-05a9a7c592089d1ddd46/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # META-GUI dataset
 
 Hub release of META-GUI, task-oriented dialogues in which an agent operates mobile apps: each turn pairs the conversation with screenshots, view-hierarchy XML, recorded GUI actions and a reply.

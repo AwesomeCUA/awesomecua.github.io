@@ -1,3 +1,11 @@
+---
+title: "ShowUI-Aloha | AwesomeCUA"
+url: https://awesomecua.com/resources/github-showlab-showui-aloha/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # ShowUI-Aloha
 
 Desktop agent that records demonstrations, derives semantic action traces, and uses them to plan and execute related workflows.

@@ -1,3 +1,11 @@
+---
+title: "PersonalAlign · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ilearn-lab-acl26-personalalign/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # PersonalAlign
 
 PersonalAlign 发布 AndroidIntent 评测，用于测试个性化移动界面智能体，并提供利用长期交互记录的 HIM-Agent 记忆方法。

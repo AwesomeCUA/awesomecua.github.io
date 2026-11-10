@@ -1,3 +1,11 @@
+---
+title: "cua-s1-nano-0.1 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3cdd5263b3b46a5e2003/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # cua-s1-nano-0.1
 
 A small computer-use classifier that scores predefined GUI element-action options from accessibility text or screenshot crops in one parallel pass.

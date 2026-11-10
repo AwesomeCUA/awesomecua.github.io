@@ -1,3 +1,11 @@
+---
+title: "ESC: Exploration with Soft Commonsense… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2301-13166/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation
 
 Bibliographic record for ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kaiwen Zhou, Kaizhi Zheng, Connor Pryor, Yilin Shen, Hongxia Jin, Lise Getoor, X
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2301-13166/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2301-13166/citation.csl.json
+
+```bibtex
+@misc{arxiv_2301_13166,
+  title = {{ESC: Exploration with Soft Commonsense Constraints for Zero-shot Object Navigation}},
+  author = {{Kaiwen Zhou} and {Kaizhi Zheng} and {Connor Pryor} and {Yilin Shen} and {Hongxia Jin} and {Lise Getoor} and {Xin Eric Wang}},
+  year = {2023},
+  eprint = {2301.13166v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2301.13166v3},
+  note = {First published: 2023-01-30; Recorded arXiv version: v3; Recorded version updated: 2023-07-06T06:25:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

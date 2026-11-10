@@ -1,3 +1,11 @@
+---
+title: "MobileRL · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-thudm-mobilerl/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # MobileRL
 
 基于难度自适应 ADAGRPO 算法的移动 GUI 智能体在线 RL 框架，提供容器化的 AndroidWorld 和 AndroidLab 评估环境及 MobileRL-9B 模型检查点。

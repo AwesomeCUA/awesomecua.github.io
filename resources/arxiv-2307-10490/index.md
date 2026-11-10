@@ -1,3 +1,11 @@
+---
+title: "Abusing Images and Sounds for Indirect… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-10490/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Abusing Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs
 
 Status: excluded from the active CUA catalog after scope review.

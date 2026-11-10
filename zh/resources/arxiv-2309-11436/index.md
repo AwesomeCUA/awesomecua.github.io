@@ -1,3 +1,11 @@
+---
+title: "You Only Look at Screens: Multimodal… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2309-11436/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # You Only Look at Screens: Multimodal Chain-of-Action Agents
 
 提出基于屏幕截图的智能体 Auto-GUI，利用先前动作和未来动作计划指导设备交互。
@@ -27,6 +35,18 @@ Zhuosheng Zhang, Aston Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2309-11436/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2309-11436/citation.csl.json
+
+```bibtex
+@misc{arxiv_2309_11436,
+  title = {{You Only Look at Screens: Multimodal Chain-of-Action Agents}},
+  author = {{Zhuosheng Zhang} and {Aston Zhang}},
+  year = {2023},
+  eprint = {2309.11436v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2309.11436v4},
+  note = {First published: 2023-09-20; Recorded arXiv version: v4; Recorded version updated: 2024-06-07T04:52:29Z.}
+}
+```
 
 ## 发表记录
 

@@ -1,3 +1,11 @@
+---
+title: "AgentRewardBench dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-866251b68d6bba8b8ba6/
+updated: 2026-11-02
+type: dataset
+lang: en
+---
+
 # AgentRewardBench dataset
 
 Hugging Face dataset release for AgentRewardBench containing trajectory evaluation instances across WebArena, VisualWebArena, AssistantBench, WorkArena, and OSWorld.

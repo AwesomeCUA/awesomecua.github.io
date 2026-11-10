@@ -1,3 +1,11 @@
+---
+title: "SkillPacks · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentsea-skillpacks/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # SkillPacks
 
 SkillPacks 记录并审核智能体的工具操作，供检索和后续训练使用；其示例展示了桌面操作流程。

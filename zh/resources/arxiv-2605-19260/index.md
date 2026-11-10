@@ -1,3 +1,11 @@
+---
+title: "AQuaUI: Visual Token Reduction for GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-19260/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # AQuaUI: Visual Token Reduction for GUI Agents with Adaptive Quadtrees
 
 AQuaUI 在推理时用自适应四叉树减少 GUI 截图词元，保留空间位置，并跨步骤复用先前的树结构。
@@ -27,6 +35,18 @@ Yuankai Li, Tinghui Zhu, Ha Min Son, Zhe Zhao, Xin Liu, Muhao Chen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-19260/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-19260/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_19260,
+  title = {{AQuaUI: Visual Token Reduction for GUI Agents with Adaptive Quadtrees}},
+  author = {{Yuankai Li} and {Tinghui Zhu} and {Ha Min Son} and {Zhe Zhao} and {Xin Liu} and {Muhao Chen}},
+  year = {2026},
+  eprint = {2605.19260v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.19260v1},
+  note = {First published: 2026-05-19; Recorded arXiv version: v1; Recorded version updated: 2026-05-19T02:13:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

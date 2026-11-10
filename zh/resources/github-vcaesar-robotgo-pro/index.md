@@ -1,3 +1,11 @@
+---
+title: "Robotgo Pro · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vcaesar-robotgo-pro/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Robotgo Pro
 
 一款需授权的桌面自动化软件包，可在 Mac、Windows 和 Linux 上读取屏幕与窗口，并控制鼠标和键盘输入。

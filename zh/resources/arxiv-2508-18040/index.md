@@ -1,3 +1,11 @@
+---
+title: "PerPilot: Personalizing VLM-based Mobile… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2508-18040/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # PerPilot: Personalizing VLM-based Mobile Agents via Memory and Exploration
 
 提出 PerPilot 和 PerInstruct 数据集，通过记忆检索、应用探索，以及在缺失上下文仍未解决时请求澄清，完成针对特定用户的移动端指令。
@@ -27,6 +35,18 @@ Xin Wang, Zhiyao Cui, Hao Li, Ya Zeng, Chenxu Wang, Ruiqi Song, Yihang Chen, Kun
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2508-18040/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2508-18040/citation.csl.json
+
+```bibtex
+@misc{arxiv_2508_18040,
+  title = {{PerPilot: Personalizing VLM-based Mobile Agents via Memory and Exploration}},
+  author = {{Xin Wang} and {Zhiyao Cui} and {Hao Li} and {Ya Zeng} and {Chenxu Wang} and {Ruiqi Song} and {Yihang Chen} and {Kun Shao} and {Qiaosheng Zhang} and {Jinzhuo Liu} and {Siyue Ren} and {Shuyue Hu} and {Zhen Wang}},
+  year = {2025},
+  eprint = {2508.18040v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2508.18040v1},
+  note = {First published: 2025-08-25; Recorded arXiv version: v1; Recorded version updated: 2025-08-25T13:57:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

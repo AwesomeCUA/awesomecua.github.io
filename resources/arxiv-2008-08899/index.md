@@ -1,3 +1,11 @@
+---
+title: "Document Visual Question Answering Challenge… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2008-08899/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Document Visual Question Answering Challenge 2020
 
 Bibliographic record for Document Visual Question Answering Challenge 2020. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Minesh Mathew, Ruben Tito, Dimosthenis Karatzas, R. Manmatha, C. V. Jawahar
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2008-08899/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2008-08899/citation.csl.json
+
+```bibtex
+@misc{arxiv_2008_08899,
+  title = {{Document Visual Question Answering Challenge 2020}},
+  author = {{Minesh Mathew} and {Ruben Tito} and {Dimosthenis Karatzas} and {R. Manmatha} and {C. V. Jawahar}},
+  year = {2020},
+  eprint = {2008.08899v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2008.08899v2},
+  note = {First published: 2020-08-20; Recorded arXiv version: v2; Recorded version updated: 2021-07-18T03:09:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

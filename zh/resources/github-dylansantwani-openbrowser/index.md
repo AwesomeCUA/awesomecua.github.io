@@ -1,3 +1,11 @@
+---
+title: "DylanSantwani OpenBrowser · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dylansantwani-openbrowser/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DylanSantwani OpenBrowser
 
 Chrome 扩展和零依赖 MCP 服务器，用于自动操作用户实际登录的 Chrome 浏览器。

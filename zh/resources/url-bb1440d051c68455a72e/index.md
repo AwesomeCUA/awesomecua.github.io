@@ -1,3 +1,11 @@
+---
+title: "Pix2Struct base (pretrained) · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-bb1440d051c68455a72e/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Pix2Struct base (pretrained)
 
 Pix2Struct 基础规模的预训练检查点，采用 Transformers 格式，通过将遮挡的网页截图解析为简化 HTML 进行学习，仅作为微调起点发布。

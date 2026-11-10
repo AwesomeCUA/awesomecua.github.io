@@ -1,3 +1,11 @@
+---
+title: "Hyperbrowser (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-053ebfe0afac66c86222/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # Hyperbrowser
 
 Browser infrastructure and automation services for AI agents.

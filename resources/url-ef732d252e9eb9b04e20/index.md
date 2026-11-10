@@ -1,3 +1,11 @@
+---
+title: "Hcompany/Holo4-35B-A3B-NVFP4 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-ef732d252e9eb9b04e20/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Hcompany/Holo4-35B-A3B-NVFP4
 
 Holo4-35B-A3B-NVFP4 is an NVFP4 computer-use vision-language checkpoint that consumes screenshots and tool results to request interface actions through an agent harness.

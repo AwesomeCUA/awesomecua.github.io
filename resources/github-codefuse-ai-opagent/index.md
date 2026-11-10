@@ -1,3 +1,11 @@
+---
+title: "OpAgent (github.com/codefuse-ai/OpAgent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-codefuse-ai-opagent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # OpAgent
 
 A web navigation agent with single-model and modular modes. Its modular loop observes screenshots, plans actions, grounds page targets, and executes browser operations through Playwright.

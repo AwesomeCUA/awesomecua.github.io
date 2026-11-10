@@ -1,3 +1,11 @@
+---
+title: "DOMShell · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-apireno-domshell/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DOMShell
 
 DOMShell 通过 CDP 和 MCP，将实时 Chrome 浏览器 DOM 树作为虚拟 Unix 文件系统（`cd`、`ls`、`click`、`text`）提供给 LLM 智能体。

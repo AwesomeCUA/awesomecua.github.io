@@ -1,3 +1,11 @@
+---
+title: "UFO3: Weaving the Digital Agent Galaxy | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-11332/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # UFO3: Weaving the Digital Agent Galaxy
 
 Bibliographic record for UFO3: Weaving the Digital Agent Galaxy. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Chaoyun Zhang, Liqun Li, He Huang, Chiming Ni, Bo Qiao, Si Qin, Yu Kang, Minghua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-11332/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-11332/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_11332,
+  title = {{UFO3: Weaving the Digital Agent Galaxy}},
+  author = {{Chaoyun Zhang} and {Liqun Li} and {He Huang} and {Chiming Ni} and {Bo Qiao} and {Si Qin} and {Yu Kang} and {Minghua Ma} and {Qingwei Lin} and {Saravan Rajmohan} and {Dongmei Zhang}},
+  year = {2025},
+  eprint = {2511.11332v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.11332v2},
+  note = {First published: 2025-11-14; Recorded arXiv version: v2; Recorded version updated: 2026-03-01T12:50:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

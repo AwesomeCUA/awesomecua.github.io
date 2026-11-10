@@ -1,3 +1,11 @@
+---
+title: "网页导航：Computer-Use 研究与资源（第 8 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/web-navigation/page/8/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 网页导航：Computer-Use 研究与资源（第 8 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/8/
@@ -8,7 +16,6 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/8/
 - [Mind2Web 2](https://awesomecua.com/zh/resources/github-osu-nlp-group-mind2web-2/)
 - [Mirage (Adversarial Web Benchmark)](https://awesomecua.com/zh/resources/github-shushant17711-mirage/)
 - [MMSearch-Plus](https://awesomecua.com/zh/resources/github-mmsearch-plus-mmsearch-plus/)
-- [Navi-Bench](https://awesomecua.com/zh/resources/github-yutori-ai-navi-bench/)
 - [Next-Gen CAPTCHAs](https://awesomecua.com/zh/resources/github-metaagentx-nextgen-captchas/)
 - [Nightshift](https://awesomecua.com/zh/resources/github-yayaq1-nightshift/)
 - [Odysseys](https://awesomecua.com/zh/resources/github-ljang0-odysseys/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/web-navigation/page/8/
 - [WebTailBench](https://awesomecua.com/zh/resources/url-3b6dfd52f98bfe76bc7f/)
 - [WebTestBench](https://awesomecua.com/zh/resources/github-friedrichor-webtestbench/)
 - [WebUIProof](https://awesomecua.com/zh/resources/github-yunyuntsai-webuiproof-benchmark/)
+- [WebVoyager](https://awesomecua.com/zh/resources/github-minorjerry-webvoyager/)

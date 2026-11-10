@@ -1,3 +1,11 @@
+---
+title: "Automify · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-aldovincenti-automify/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Automify
 
 Automify 是一个 Node.js 计算机使用框架，为 AI 智能体统一浏览器、CLI 和原生桌面工作流自动化。

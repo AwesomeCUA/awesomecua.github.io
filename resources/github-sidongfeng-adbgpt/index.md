@@ -1,3 +1,11 @@
+---
+title: "AdbGPT | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sidongfeng-adbgpt/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # AdbGPT
 
 An Android bug replay agent that extracts action details from written bug reports and uses the current app screen to guide reproduction steps.

@@ -1,3 +1,11 @@
+---
+title: "Recruit Auto-Reply · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kxc7558-recruit-auto-reply/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Recruit Auto-Reply
 
 面向招聘平台的本地浏览器扩展智能体，从检索知识库中获取答案以回复候选人消息，并上报未知问题。

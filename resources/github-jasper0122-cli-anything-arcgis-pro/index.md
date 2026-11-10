@@ -1,3 +1,11 @@
+---
+title: "CLI-Anything · ArcGIS Pro | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jasper0122-cli-anything-arcgis-pro/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # CLI-Anything · ArcGIS Pro
 
 A CLI and MCP bridge for ArcGIS Pro that lets agents inspect projects, run geoprocessing, and update an open map through an in-process add-in.

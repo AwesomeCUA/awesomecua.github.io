@@ -1,3 +1,11 @@
+---
+title: "Dia · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b56578c7f9a211a792f2/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Dia
 
 The Browser Company 面向 macOS 和 Windows 的 AI 浏览器，助手可读取打开的标签页和已连接的工作应用；需批准的智能体模式可在当前网站填写表单和起草回复。

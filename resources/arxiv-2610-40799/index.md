@@ -1,3 +1,11 @@
+---
+title: "CaPtain: A Pipeline for Post-Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-40799/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents
 
 Bibliographic record for CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yijia Fan, Xilin He, Yilei Jiang, Dongming Wu, Jiaxu Wang, Xiangyu Yue
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-40799/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-40799/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_40799,
+  title = {{CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents}},
+  author = {{Yijia Fan} and {Xilin He} and {Yilei Jiang} and {Dongming Wu} and {Jiaxu Wang} and {Xiangyu Yue}},
+  year = {2026},
+  eprint = {2610.40799v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.40799v1},
+  note = {First published: 2026-10-29; Recorded arXiv version: v1; Recorded version updated: 2026-10-29T18:01:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

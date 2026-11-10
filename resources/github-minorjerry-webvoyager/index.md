@@ -1,3 +1,11 @@
+---
+title: "WebVoyager | AwesomeCUA"
+url: https://awesomecua.com/resources/github-minorjerry-webvoyager/
+updated: 2026-10-19
+type: benchmark
+lang: en
+---
+
 # WebVoyager
 
 Multimodal web navigation agent and evaluation tasks on real websites.

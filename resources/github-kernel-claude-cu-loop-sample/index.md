@@ -1,3 +1,11 @@
+---
+title: "Kernel Claude Computer Use Loop | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kernel-claude-cu-loop-sample/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Kernel Claude Computer Use Loop
 
 Reference SDK implementation of Anthropic's Claude Computer Use agent loop driving remote cloud browsers via Kernel's Computer Controls API.

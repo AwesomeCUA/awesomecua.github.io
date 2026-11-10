@@ -1,3 +1,11 @@
+---
+title: "PeekabooX · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nordbyte-peekaboox/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # PeekabooX
 
 PeekabooX 是一套 Linux 桌面自动化工具，提供屏幕捕获、语义界面检查、输入操作和工作流，并通过命令行、Python 和 MCP 接口提供这些能力。

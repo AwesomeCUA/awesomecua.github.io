@@ -1,3 +1,11 @@
+---
+title: "Human-Guided Harm Recovery for Computer Use… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-18847/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Human-Guided Harm Recovery for Computer Use Agents
 
 Introduces a preference-trained reward model for guiding computer-use agents out of harmful states and BackBench, a benchmark of recovery tasks.
@@ -26,6 +34,18 @@ Christy Li, Sky CH-Wang, Andi Peng, Andreea Bobu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-18847/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-18847/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_18847,
+  title = {{Human-Guided Harm Recovery for Computer Use Agents}},
+  author = {{Christy Li} and {Sky CH-Wang} and {Andi Peng} and {Andreea Bobu}},
+  year = {2026},
+  eprint = {2604.18847v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.18847v2},
+  note = {First published: 2026-04-20; Recorded arXiv version: v2; Recorded version updated: 2026-05-28T03:46:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

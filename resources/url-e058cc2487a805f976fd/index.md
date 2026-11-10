@@ -1,3 +1,11 @@
+---
+title: "WebThinker-QwQ-32B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e058cc2487a805f976fd/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # WebThinker-QwQ-32B
 
 WebThinker-QwQ-32B is a released reasoning model for searching and navigating web pages while drafting research reports. Its card describes training on preferences derived from reasoning trajectories.

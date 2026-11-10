@@ -1,3 +1,11 @@
+---
+title: "mcp-anything · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zaymadkid-mcp-anything/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mcp-anything
 
 由 7 个 Model Context Protocol 服务器组成的套件，提供 228 项工具，将桌面应用和系统服务连接到 AI 智能体。

@@ -1,3 +1,11 @@
+---
+title: "WebRL outcome reward model 8B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d1e85aeb6d96859c109d/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # WebRL outcome reward model 8B
 
 The outcome-supervision checkpoint used by WebRL to score browser trajectories during policy training.

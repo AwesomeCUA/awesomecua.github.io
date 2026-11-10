@@ -1,3 +1,11 @@
+---
+title: "Dr. Bench: A Multidimensional Evaluation for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-02190/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports
 
 Bibliographic record for Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,17 @@ Relevance screening of the complete arXiv v2 abstract \(5 November 2026\) left t
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-02190/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-02190/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_02190,
+  title = {{Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports}},
+  year = {2025},
+  eprint = {2510.02190v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.02190v2},
+  note = {First published: 2025-10-02; Recorded arXiv version: v2; Recorded version updated: 2026-01-29T14:47:04Z; Authors: see the paper (https://arxiv.org/abs/2510.02190v2); this catalog does not list them.}
+}
+```
 
 ## Recorded arXiv snapshot
 

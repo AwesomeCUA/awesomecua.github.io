@@ -1,3 +1,11 @@
+---
+title: "MAI-UI 8B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-00b1a3abf9bcb424b264/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # MAI-UI 8B
 
 已发布的 MAI-UI 模型检查点，结合移动端 GUI 操作、智能体与用户交互，以及面向工具使用的导航能力。

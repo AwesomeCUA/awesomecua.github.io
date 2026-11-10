@@ -1,3 +1,11 @@
+---
+title: "Korgo Bot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nickvasilescu-korgo-bot/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # Korgo Bot
 
 Korgo Bot is a macOS app for persistent bots that share a cloud desktop. Bots can use screen and file tools or send GUI and browser tasks to a hosted agent.

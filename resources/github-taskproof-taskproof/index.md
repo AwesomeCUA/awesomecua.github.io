@@ -1,3 +1,11 @@
+---
+title: "taskproof | AwesomeCUA"
+url: https://awesomecua.com/resources/github-taskproof-taskproof/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # taskproof
 
 taskproof is an open-source CI harness that tests whether real AI computer-use and browser agents can complete tasks on live websites.

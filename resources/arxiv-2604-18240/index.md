@@ -1,3 +1,11 @@
+---
+title: "AJ-Bench: Benchmarking Agent-as-a-Judge for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-18240/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation
 
 AJ-Bench evaluates judge agents that actively gather evidence from search, data systems and graphical interfaces. Its annotated tasks and trajectories test information acquisition, state verification and process verification.
@@ -26,6 +34,18 @@ Wentao Shi, Yu Wang, Yuyang Zhao, Yuxin Chen, Fuli Feng, Xueyuan Hao, Xi Su, Qi 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-18240/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-18240/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_18240,
+  title = {{AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation}},
+  author = {{Wentao Shi} and {Yu Wang} and {Yuyang Zhao} and {Yuxin Chen} and {Fuli Feng} and {Xueyuan Hao} and {Xi Su} and {Qi Gu} and {Hui Su} and {Xunliang Cai} and {Xiangnan He}},
+  year = {2026},
+  eprint = {2604.18240v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.18240v1},
+  note = {First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T13:23:38Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

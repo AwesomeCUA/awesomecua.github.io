@@ -1,3 +1,11 @@
+---
+title: "browsegrab | AwesomeCUA"
+url: https://awesomecua.com/resources/github-arknill-browsegrab/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # browsegrab
 
 Token-efficient browser agent and MCP server for local LLMs combining Playwright, accessibility trees, and Markdown extraction.

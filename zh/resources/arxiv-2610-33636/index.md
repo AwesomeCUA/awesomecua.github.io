@@ -1,3 +1,11 @@
+---
+title: "Build or Adopt? Custom-Built vs… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-33636/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Build or Adopt? Custom-Built vs. General-Purpose LLM Agent Harnesses for Automotive GUI Testing
 
 比较定制框架与通用 LLM 智能体框架在基于 Android 的车载界面测试及公共应用任务中的表现。
@@ -27,6 +35,18 @@ Arsham Gholamzadeh Khoee, Ruyu Fu, Jiaqi Wei, Ruikun Deng, Robert Feldt, Dhasara
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-33636/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-33636/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_33636,
+  title = {{Build or Adopt? Custom-Built vs. General-Purpose LLM Agent Harnesses for Automotive GUI Testing}},
+  author = {{Arsham Gholamzadeh Khoee} and {Ruyu Fu} and {Jiaqi Wei} and {Ruikun Deng} and {Robert Feldt} and {Dhasarathy Parthasarathy} and {Yinan Yu}},
+  year = {2026},
+  eprint = {2610.33636v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.33636v1},
+  note = {First published: 2026-10-24; Recorded arXiv version: v1; Recorded version updated: 2026-10-24T12:32:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "GOV-REK: Governed Reward Engineering Kernels… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-01131/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # GOV-REK: Governed Reward Engineering Kernels for Designing Robust Multi-Agent Reinforcement Learning Systems
 
 Status: excluded from the active CUA catalog after scope review.

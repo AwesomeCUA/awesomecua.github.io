@@ -1,3 +1,11 @@
+---
+title: "BAMI: Training-Free Bias Mitigation in GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-06664/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # BAMI: Training-Free Bias Mitigation in GUI Grounding
 
 BAMI uses coarse-to-fine focus and candidate selection at inference time to address precision and ambiguity errors in GUI grounding.
@@ -26,6 +34,18 @@ Borui Zhang, Bo Zhang, Bo Wang, Wenzhao Zheng, Yuhao Cheng, Liang Tang, Yiqiang 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-06664/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-06664/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_06664,
+  title = {{BAMI: Training-Free Bias Mitigation in GUI Grounding}},
+  author = {{Borui Zhang} and {Bo Zhang} and {Bo Wang} and {Wenzhao Zheng} and {Yuhao Cheng} and {Liang Tang} and {Yiqiang Yan} and {Jie Zhou} and {Jiwen Lu}},
+  year = {2026},
+  eprint = {2605.06664v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.06664v1},
+  note = {First published: 2026-05-07; Recorded arXiv version: v1; Recorded version updated: 2026-05-07T17:59:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

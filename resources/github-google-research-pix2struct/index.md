@@ -1,3 +1,11 @@
+---
+title: "Pix2Struct | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-research-pix2struct/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # Pix2Struct
 
 Pix2Struct provides official training and inference code for screenshot-parsing vision-language pretraining across web and mobile UI tasks.

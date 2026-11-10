@@ -1,3 +1,11 @@
+---
+title: "openadapt-privacy · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openadaptai-openadapt-privacy/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # openadapt-privacy
 
 openadapt-privacy 可清除界面录制内容中的个人及健康信息，处理文本、事件数据、无障碍元素树和屏幕截图。该仓库已归档。

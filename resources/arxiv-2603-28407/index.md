@@ -1,3 +1,11 @@
+---
+title: "MiroEval: Benchmarking Multimodal Deep… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-28407/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome
 
 Bibliographic record for MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Fangda Ye, Yuxin Hu, Pengxiang Zhu, Yibo Li, Ziqi Jin, Yao Xiao, Yibo Wang, Lei 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-28407/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-28407/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_28407,
+  title = {{MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome}},
+  author = {{Fangda Ye} and {Yuxin Hu} and {Pengxiang Zhu} and {Yibo Li} and {Ziqi Jin} and {Yao Xiao} and {Yibo Wang} and {Lei Wang} and {Zhen Zhang} and {Lu Wang} and {Yue Deng} and {Bin Wang} and {Yifan Zhang} and {Liangcai Su} and {Xinyu Wang} and {He Zhao} and {Chen Wei} and {Qiang Ren} and {Bryan Hooi} and {An Bo} and {Shuicheng Yan} and {Lidong Bing}},
+  year = {2026},
+  eprint = {2603.28407v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.28407v1},
+  note = {First published: 2026-03-30; Recorded arXiv version: v1; Recorded version updated: 2026-03-30T13:16:03Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

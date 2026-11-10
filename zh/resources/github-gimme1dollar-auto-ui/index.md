@@ -1,3 +1,11 @@
+---
+title: "Auto-UI · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gimme1dollar-auto-ui/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Auto-UI
 
 Auto-UI 是利用历史操作和未来操作计划预测下一步动作的多模态界面智能体；仓库提供训练与推理说明。

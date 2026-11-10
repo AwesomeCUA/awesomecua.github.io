@@ -1,3 +1,11 @@
+---
+title: "Multilevel lattice-based kernel approximation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-15810/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multilevel lattice-based kernel approximation for elliptic PDEs with random coefficients
 
 Status: excluded from the active CUA catalog after scope review.

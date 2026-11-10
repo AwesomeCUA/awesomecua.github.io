@@ -1,3 +1,11 @@
+---
+title: "Codex Bridge to ChatGPT · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anightmonarch-codex-bridge-chatgpt/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Codex Bridge to ChatGPT
 
 自动完成本地 OpenAI Codex 会话与浏览器中的 ChatGPT Web 之间经过验证的推理交接。

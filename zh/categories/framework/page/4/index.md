@@ -1,10 +1,17 @@
+---
+title: "计算机使用智能体框架（第 4 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/framework/page/4/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体框架：第 4 页
 
 HTML 页面：https://awesomecua.com/zh/categories/framework/page/4/ · [English](https://awesomecua.com/categories/framework/page/4/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/framework/index.md
 
-- [CUArena](https://awesomecua.com/zh/resources/github-ogutdgn-cuarena/)：CUArena 将桌面和网页应用封装为可重置、可观察且可通过程序评分的强化学习环境。
 - [cuforge](https://awesomecua.com/zh/resources/github-huzjie-cuforge/)：cuforge 是在线强化学习与可验证任务合成平台，用于训练计算机使用 GUI 智能体。
 - [cuse](https://awesomecua.com/zh/resources/github-cuse-dev-cuse/)：cuse 是开源框架，用于构建通过显示、鼠标和键盘 API 控制虚拟化 Linux 桌面及浏览器的 AI 智能体。
 - [Cyber Seeds WebMCP](https://awesomecua.com/zh/resources/github-cyberseeds-uk-cyber-seeds-webmcp-challenge/)：面向操作消费者网页仪表盘的 WebMCP 浏览器智能体、由人类授权的安全与同意模式。
@@ -104,3 +111,4 @@ HTML 页面：https://awesomecua.com/zh/categories/framework/page/4/ · [English
 - [Kopilotti WebMCP](https://awesomecua.com/zh/resources/github-mikko-lab-kopilotti-webmcp/)：WebMCP 参考应用，其中浏览器智能体准备不具约束力的提案，且提案需要人类明确批准。
 - [Kortix Suna](https://awesomecua.com/zh/resources/github-kortix-ai-suna/)：Kortix Suna 是开源通用智能体平台，集成容器化浏览器、代码解释器、文件管理器和工具运行时。
 - [Kryptic](https://awesomecua.com/zh/resources/github-adnqcr7-code-kryptic/)：本地优先的 AI 工程与浏览器控制智能体运行环境，具备受限执行、验证和自我修复功能。
+- [LAI (Linux Native OS Agent)](https://awesomecua.com/zh/resources/github-cufelix-lai/)：面向 Linux 桌面的原生操作系统智能体运行时，提供系统范围的屏幕观察、无障碍信息检查和输入控制。

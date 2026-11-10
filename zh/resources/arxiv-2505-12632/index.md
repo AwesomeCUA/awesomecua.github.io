@@ -1,3 +1,11 @@
+---
+title: "Scalable Video-to-Dataset Generation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-12632/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents
 
 提出 MONDAY 及自动化流程，从跨操作系统平台的教学视频中提取移动端导航训练数据。
@@ -27,6 +35,18 @@ Yunseok Jang, Yeda Song, Sungryull Sohn, Lajanugen Logeswaran, Tiange Luo, Dong-
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-12632/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-12632/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_12632,
+  title = {{Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents}},
+  author = {{Yunseok Jang} and {Yeda Song} and {Sungryull Sohn} and {Lajanugen Logeswaran} and {Tiange Luo} and {Dong-Ki Kim} and {Kyunghoon Bae} and {Honglak Lee}},
+  year = {2025},
+  eprint = {2505.12632v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.12632v1},
+  note = {First published: 2025-05-19; Recorded arXiv version: v1; Recorded version updated: 2025-05-19T02:39:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

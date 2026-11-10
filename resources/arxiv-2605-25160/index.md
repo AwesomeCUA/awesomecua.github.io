@@ -1,3 +1,11 @@
+---
+title: "ScaleWoB: Guiding GUI Agents with Coding… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-25160/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ScaleWoB: Guiding GUI Agents with Coding Agents via Large-Scale Environmental Synthesis
 
 Introduces ScaleWoB, which synthesizes interactive GUI environments as backend-free webpages with verifiable rewards. Its mobile-oriented benchmark evaluates agent execution and compares selected synthetic tasks with real-app behavior.
@@ -26,6 +34,18 @@ Guohong Liu, Jialei Ye, Pengzhi Gao, Wei Liu, Jian Luan, Yunxin Liu, Yuanchun Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-25160/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-25160/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_25160,
+  title = {{ScaleWoB: Guiding GUI Agents with Coding Agents via Large-Scale Environmental Synthesis}},
+  author = {{Guohong Liu} and {Jialei Ye} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Yunxin Liu} and {Yuanchun Li}},
+  year = {2026},
+  eprint = {2605.25160v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.25160v2},
+  note = {First published: 2026-05-24; Recorded arXiv version: v2; Recorded version updated: 2026-06-18T02:24:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Pi Nodriver Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ayasakura-comp-pi-nodriver-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Pi Nodriver Browser
 
 Pi coding-agent browser extension powered by Nodriver, headful Chrome, and Xvfb virtual displays.

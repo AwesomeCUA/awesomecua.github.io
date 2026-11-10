@@ -1,3 +1,11 @@
+---
+title: "Portable medical devices creation technology… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-03323/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Portable medical devices creation technology by using the Bluetooth module
 
 Status: excluded from the active CUA catalog after scope review.

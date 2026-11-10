@@ -1,3 +1,11 @@
+---
+title: "AgentiTest · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kweinmeister-agentitest/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AgentiTest
 
 AgentiTest 是自然语言浏览器测试自动化框架，基于 Python pytest、Allure 报告和 LLM 网页智能体构建。

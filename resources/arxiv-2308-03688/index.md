@@ -1,3 +1,11 @@
+---
+title: "AgentBench: Evaluating LLMs as Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2308-03688/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AgentBench: Evaluating LLMs as Agents
 
 Evaluates language agents across eight interactive environments and analyzes failures in reasoning, decisions, and instruction following.
@@ -26,6 +34,18 @@ Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, Xuanyu Lei, Hanyu Lai, Yu Gu, Hanglia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2308-03688/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2308-03688/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_03688,
+  title = {{AgentBench: Evaluating LLMs as Agents}},
+  author = {{Xiao Liu} and {Hao Yu} and {Hanchen Zhang} and {Yifan Xu} and {Xuanyu Lei} and {Hanyu Lai} and {Yu Gu} and {Hangliang Ding} and {Kaiwen Men} and {Kejuan Yang} and {Shudan Zhang} and {Xiang Deng} and {Aohan Zeng} and {Zhengxiao Du} and {Chenhui Zhang} and {Sheng Shen} and {Tianjun Zhang} and {Yu Su} and {Huan Sun} and {Minlie Huang} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2023},
+  eprint = {2308.03688v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.03688v3},
+  note = {First published: 2023-08-07; Recorded arXiv version: v3; Recorded version updated: 2025-10-04T03:54:18Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

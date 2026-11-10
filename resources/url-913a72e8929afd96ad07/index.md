@@ -1,3 +1,11 @@
+---
+title: "Huzzle Labs | AwesomeCUA"
+url: https://awesomecua.com/resources/url-913a72e8929afd96ad07/
+updated: 2026-11-09
+type: company
+lang: en
+---
+
 # Huzzle Labs
 
 Company developing computer-use models, RL environments and evaluations for AI labs and enterprise work. Its site describes the Huzzle World model family.

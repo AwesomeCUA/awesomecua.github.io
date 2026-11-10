@@ -1,3 +1,11 @@
+---
+title: "Plottery: A Code-Integrated GUI for Matplotlib | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-14306/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Plottery: A Code-Integrated GUI for Matplotlib
 
 Bibliographic record for Plottery: A Code-Integrated GUI for Matplotlib. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Brian Hempel, Ruanqianqian Huang, Devamardeep Hayatpur, Sorin Lerner, Haijun Xia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-14306/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-14306/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_14306,
+  title = {{Plottery: A Code-Integrated GUI for Matplotlib}},
+  author = {{Brian Hempel} and {Ruanqianqian Huang} and {Devamardeep Hayatpur} and {Sorin Lerner} and {Haijun Xia}},
+  year = {2026},
+  eprint = {2610.14306v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.14306v1},
+  note = {First published: 2026-10-09; Recorded arXiv version: v1; Recorded version updated: 2026-10-09T20:32:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

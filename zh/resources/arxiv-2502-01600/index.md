@@ -1,3 +1,11 @@
+---
+title: "Reinforcement Learning for Long-Horizon… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-01600/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Reinforcement Learning for Long-Horizon Interactive LLM Agents
 
 LOOP 使用强化学习训练交互式数字智能体，使其在有状态的多应用环境中通过 API 调用完成任务。
@@ -27,6 +35,18 @@ Kevin Chen, Marco Cusumano-Towner, Brody Huval, Aleksei Petrenko, Jackson Hambur
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-01600/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-01600/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_01600,
+  title = {{Reinforcement Learning for Long-Horizon Interactive LLM Agents}},
+  author = {{Kevin Chen} and {Marco Cusumano-Towner} and {Brody Huval} and {Aleksei Petrenko} and {Jackson Hamburger} and {Vladlen Koltun} and {Philipp Krähenbühl}},
+  year = {2025},
+  eprint = {2502.01600v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.01600v3},
+  note = {First published: 2025-02-03; Recorded arXiv version: v3; Recorded version updated: 2025-03-08T05:23:57Z.}
+}
+```
 
 ## arXiv 版本记录
 

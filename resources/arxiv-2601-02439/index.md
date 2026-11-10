@@ -1,3 +1,11 @@
+---
+title: "WebGym: Scaling Training Environments for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-02439/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks
 
 WebGym supplies realistic web tasks with rubric-based evaluation and an asynchronous rollout system for reinforcement learning. It studies how training on an agent’s own interaction traces scales with task coverage and transfers to unseen websites.
@@ -26,6 +34,18 @@ Hao Bai, Alexey Taymanov, Tong Zhang, Aviral Kumar, Spencer Whitehead
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-02439/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-02439/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_02439,
+  title = {{WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks}},
+  author = {{Hao Bai} and {Alexey Taymanov} and {Tong Zhang} and {Aviral Kumar} and {Spencer Whitehead}},
+  year = {2026},
+  eprint = {2601.02439v6},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.02439v6},
+  note = {First published: 2026-01-05; Recorded arXiv version: v6; Recorded version updated: 2026-05-02T18:45:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

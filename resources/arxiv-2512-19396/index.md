@@ -1,3 +1,11 @@
+---
+title: "EchoTrail-GUI: Building Actionable Memory for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-19396/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration
 
 EchoTrail-GUI builds a memory of successful GUI trajectories through autonomous exploration filtered by a reward model. It retrieves relevant trajectories as in-context guidance for new tasks and evaluates the approach on AndroidWorld and AndroidLab.
@@ -26,6 +34,18 @@ Runze Li, Yuwen Zhai, Bo Xu, LiWu Xu, Nian Shi, Wei Zhang, Ran Lin, Liang Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-19396/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-19396/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_19396,
+  title = {{EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration}},
+  author = {{Runze Li} and {Yuwen Zhai} and {Bo Xu} and {LiWu Xu} and {Nian Shi} and {Wei Zhang} and {Ran Lin} and {Liang Wang}},
+  year = {2025},
+  eprint = {2512.19396v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.19396v3},
+  note = {First published: 2025-12-22; Recorded arXiv version: v3; Recorded version updated: 2026-04-10T06:20:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

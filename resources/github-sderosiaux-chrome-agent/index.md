@@ -1,3 +1,11 @@
+---
+title: "chrome-agent (github.com/sderosiaux/chrome-age… | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sderosiaux-chrome-agent/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # chrome-agent
 
 chrome-agent is a Rust CLI for browser agents to inspect pages, act through Chrome and check resulting state. It also records and replays local command sequences.

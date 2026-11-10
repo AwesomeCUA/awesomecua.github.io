@@ -1,3 +1,11 @@
+---
+title: "AndroidWorld-SeeAct-V · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-boyugou-android-world-seeact-v/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # AndroidWorld-SeeAct-V
 
 AndroidWorld-SeeAct-V 是基于图像观察的安卓智能体，可规划下一步动作，再根据截图定位坐标类动作；仓库提供 AndroidWorld 评测代码。

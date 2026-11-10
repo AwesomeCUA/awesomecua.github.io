@@ -1,3 +1,11 @@
+---
+title: "ScribeAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-colonylabs-scribeagent/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # ScribeAgent
 
 ScribeAgent trains web agents from recorded workflows represented with page HTML and prior actions. The repository provides preprocessing, fine-tuning, and evaluation code.

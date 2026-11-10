@@ -1,3 +1,11 @@
+---
+title: "websrc · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d768dd5245832bc4b824/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # websrc
 
 websrc 是面向网页截图问答的 WebSRC 整理版本，用于理解页面内容与结构；数据包含页面标识、问题、答案和编码图像。

@@ -1,3 +1,11 @@
+---
+title: "Psychologically-Inspired, Unsupervised… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2206-10352/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Psychologically-Inspired, Unsupervised Inference of Perceptual Groups of GUI Widgets from GUI Images
 
 Bibliographic record for Psychologically-Inspired, Unsupervised Inference of Perceptual Groups of GUI Widgets from GUI Images. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mulong Xie, Zhenchang Xing, Sidong Feng, Chunyang Chen, Liming Zhu, Xiwei Xu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2206-10352/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2206-10352/citation.csl.json
+
+```bibtex
+@misc{arxiv_2206_10352,
+  title = {{Psychologically-Inspired, Unsupervised Inference of Perceptual Groups of GUI Widgets from GUI Images}},
+  author = {{Mulong Xie} and {Zhenchang Xing} and {Sidong Feng} and {Chunyang Chen} and {Liming Zhu} and {Xiwei Xu}},
+  year = {2022},
+  eprint = {2206.10352v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2206.10352v2},
+  note = {First published: 2022-06-15; Recorded arXiv version: v2; Recorded version updated: 2023-05-24T01:18:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

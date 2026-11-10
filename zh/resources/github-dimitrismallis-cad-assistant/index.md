@@ -1,3 +1,11 @@
+---
+title: "CAD-Assistant · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dimitrismallis-cad-assistant/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # CAD-Assistant
 
 CAD-Assistant 通过生成在 FreeCAD 中执行的代码来处理 CAD 任务，并使用草图渲染和实体识别工具检查设计。

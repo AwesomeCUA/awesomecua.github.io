@@ -1,3 +1,11 @@
+---
+title: "3DCodeVerse: Exploring 3D Worlds as Code | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-22341/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # 3DCodeVerse: Exploring 3D Worlds as Code
 
 Bibliographic record for 3DCodeVerse: Exploring 3D Worlds as Code. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yipeng Gao, Ziyao Zeng, Jinfa Huang, Yijiang Li, Haolin Xiong, Wang Qin, Xinlei 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-22341/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-22341/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_22341,
+  title = {{3DCodeVerse: Exploring 3D Worlds as Code}},
+  author = {{Yipeng Gao} and {Ziyao Zeng} and {Jinfa Huang} and {Yijiang Li} and {Haolin Xiong} and {Wang Qin} and {Xinlei Yu} and {Youheng Yao} and {Jie Zhang} and {Kun-Yu Lin} and {Rong Liu} and {Yinyuan Zhao} and {Yajie Zhao} and {Meiqi Guo} and {Jiebo Luo} and {Lei Shu} and {Yunhao Ge} and {Xinyu Hu} and {Laurent Itti}},
+  year = {2026},
+  eprint = {2610.22341v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.22341v1},
+  note = {First published: 2026-10-15; Recorded arXiv version: v1; Recorded version updated: 2026-10-15T17:56:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

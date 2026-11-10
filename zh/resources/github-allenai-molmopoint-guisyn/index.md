@@ -1,3 +1,11 @@
+---
+title: "MolmoPoint-GUISyn · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-allenai-molmopoint-guisyn/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # MolmoPoint-GUISyn
 
 这是一条生成合成图形界面定位数据的流水线。它将生成的 HTML 渲染为截图，提取可见元素的边界框，并添加语义名称和交互意图。

@@ -1,3 +1,11 @@
+---
+title: "Agent-Trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-61c09ceb7c78f6b5e74f/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # Agent-Trajectories
 
 An archive dataset of evaluated web, Android, and iOS agent trajectories, including iOS emulator runs and WebArena runs used for agent refinement.

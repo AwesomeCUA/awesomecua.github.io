@@ -1,3 +1,11 @@
+---
+title: "Securing Computer-Use Agents Against Branch… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-03089/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Securing Computer-Use Agents Against Branch Steering Attacks
 
 Introduces STEER-Bench to study branch-steering attacks that manipulate untrusted web data toward hazardous paths already permitted by an agent’s plan. Its COBRA architecture combines trusted branching plans with advance constraints on the parameters and destinations each branch can use.
@@ -26,6 +34,18 @@ Giulio Zingrillo, Hanna Foerster, Ilia Shumailov, Yiren Zhao, Robert Mullins
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-03089/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-03089/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_03089,
+  title = {{Securing Computer-Use Agents Against Branch Steering Attacks}},
+  author = {{Giulio Zingrillo} and {Hanna Foerster} and {Ilia Shumailov} and {Yiren Zhao} and {Robert Mullins}},
+  year = {2026},
+  eprint = {2610.03089v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.03089v1},
+  note = {First published: 2026-10-02; Recorded arXiv version: v1; Recorded version updated: 2026-10-02T10:08:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

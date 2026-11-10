@@ -1,3 +1,11 @@
+---
+title: "GLM-V · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zai-org-glm-v/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # GLM-V
 
 Z.ai 的开源权重视觉语言模型仓库，包含 GLM-4.1V-Thinking、GLM-4.5V 和 GLM-4.6V，并提供移动端、PC 和网页 GUI 智能体提示样例及已发布的 VLM 奖励系统。

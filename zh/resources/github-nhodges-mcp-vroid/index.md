@@ -1,3 +1,11 @@
+---
+title: "mcp-vroid · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nhodges-mcp-vroid/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # mcp-vroid
 
 Model Context Protocol 服务器，通过 Linux Wayland GUI 自动化驱动 VRoid Studio 创建 3D 角色。

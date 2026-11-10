@@ -1,3 +1,11 @@
+---
+title: "VisionTasker · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-akimotoayako-visiontasker/
+updated: 2026-10-17
+type: agent
+lang: zh-CN
+---
+
 # VisionTasker
 
 Android 自动化实现，将基于截图的界面理解转为语言描述，供 LLM 逐步规划并执行操作。

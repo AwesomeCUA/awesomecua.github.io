@@ -1,3 +1,11 @@
+---
+title: "DistRL · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-distrl-lab-distrl-open/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # DistRL
 
 面向 Android 智能体的分布式在线强化学习框架，提供环境搭建和轨迹采集工具。

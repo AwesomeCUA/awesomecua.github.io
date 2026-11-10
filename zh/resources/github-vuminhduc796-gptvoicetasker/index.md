@@ -1,3 +1,11 @@
+---
+title: "GPTVoiceTasker · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-vuminhduc796-gptvoicetasker/
+updated: 2026-11-10
+type: agent
+lang: zh-CN
+---
+
 # GPTVoiceTasker
 
 GPTVoiceTasker 的 Android 应用：这一基于 GPT-4 的语音助手通过无障碍服务读取屏幕元素，将语音指令转换为点击、输入和滚动操作，并复用习得的应用页面转移关系。

@@ -1,3 +1,11 @@
+---
+title: "handraise-telegram | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sy-d-handraise-telegram/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # handraise-telegram
 
 A Telegram adapter for browser-agent handoffs that sends a page screenshot and approval buttons to a chat, then returns the person's decision.

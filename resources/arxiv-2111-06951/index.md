@@ -1,3 +1,11 @@
+---
+title: "Diffraction integral computation using sinc… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2111-06951/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Diffraction integral computation using sinc approximation
 
 Status: excluded from the active CUA catalog after scope review.

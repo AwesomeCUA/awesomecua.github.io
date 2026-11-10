@@ -1,3 +1,11 @@
+---
+title: "FingerTip-20K | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tsinghua-fib-lab-fingertip-20k/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # FingerTip-20K
 
 Over 20,000 human Android episodes across 500+ apps with user context and long-term usage patterns, plus tracks for proactive intent prediction and personalized execution.

@@ -1,3 +1,11 @@
+---
+title: "CodexQA · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-openqa-cn-codexqa/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # CodexQA
 
 一套包含 11 个本地优先 QA Agent Skills 的工具，供 Cursor、Claude Code 和 Codex 验证实时网页和桌面用户操作流程。

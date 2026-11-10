@@ -1,3 +1,11 @@
+---
+title: "TimeWarp · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sparklabutah-timewarp/
+updated: 2026-10-20
+type: benchmark
+lang: zh-CN
+---
+
 # TimeWarp
 
 在自托管 Wiki、News 和 Shop 网站上运行的网页智能体基准，每个网站有六种不同时代风格的 UI 版本，共注册 231 个 BrowserGym 任务，主要由确定性答案验证器评分。

@@ -1,3 +1,11 @@
+---
+title: "ScribeAgent: Towards Specialized Web Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2411-15004/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data
 
 Studies fine-tuning open language models on production web-workflow traces, including training choices for specialized web agents.
@@ -26,6 +34,18 @@ Junhong Shen, Atishay Jain, Zedian Xiao, Ishan Amlekar, Mouad Hadji, Aaron Podol
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2411-15004/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2411-15004/citation.csl.json
+
+```bibtex
+@misc{arxiv_2411_15004,
+  title = {{ScribeAgent: Towards Specialized Web Agents Using Production-Scale Workflow Data}},
+  author = {{Junhong Shen} and {Atishay Jain} and {Zedian Xiao} and {Ishan Amlekar} and {Mouad Hadji} and {Aaron Podolny} and {Ameet Talwalkar}},
+  year = {2024},
+  eprint = {2411.15004v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2411.15004v2},
+  note = {First published: 2024-11-22; Recorded arXiv version: v2; Recorded version updated: 2024-12-05T02:00:07Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "S1-Accurate-LoRA · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d34be9d27efef6c1b37a/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # S1-Accurate-LoRA
 
 这个用于桌面智能体决策模型的 LoRA 适配器，在较快模型无法确定下一步时，根据窗口截图从候选操作中选择动作和目标元素。

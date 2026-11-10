@@ -1,3 +1,11 @@
+---
+title: "WebHarbor: Docking Real Websites for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-03634/
+updated: 2026-11-10
+type: paper
+lang: zh-CN
+---
+
 # WebHarbor: Docking Real Websites for Evolving GUI Agent Environments
 
 提出 WebHarbor，包含 153 个可运行的网站环境和 3,518 项任务，用于评估与训练执行交互流程的 GUI 网页智能体。
@@ -27,6 +35,17 @@ The annotation and scope were reviewed against the complete retained arXiv abstr
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-03634/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-03634/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_03634,
+  title = {{WebHarbor: Docking Real Websites for Evolving GUI Agent Environments}},
+  year = {2026},
+  eprint = {2611.03634v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.03634v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T18:57:36Z; Authors: see the paper (https://arxiv.org/abs/2611.03634v1); this catalog does not list them.}
+}
+```
 
 ## arXiv 版本记录
 

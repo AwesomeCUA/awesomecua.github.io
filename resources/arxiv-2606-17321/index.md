@@ -1,3 +1,11 @@
+---
+title: "ProCUA-SFT Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-17321/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ProCUA-SFT Technical Report
 
 ProCUA-SFT generates tasks and synthetic trajectories on live desktops seeded with document content, checking task preconditions before rollout. The resulting step-prefix examples are formatted to match inference context and used for supervised GUI-agent fine-tuning.
@@ -26,6 +34,18 @@ Jaehun Jung, Ximing Lu, Brandon Cui, Muhammad Khalifa, Shaokun Zhang, Hao Zhang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-17321/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-17321/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_17321,
+  title = {{ProCUA-SFT Technical Report}},
+  author = {{Jaehun Jung} and {Ximing Lu} and {Brandon Cui} and {Muhammad Khalifa} and {Shaokun Zhang} and {Hao Zhang} and {Jin Xu} and {Amala Sanjay Deshmukh} and {Karan Sapra} and {Andrew Tao} and {Yejin Choi} and {Jan Kautz} and {Mingjie Liu} and {Yi Dong}},
+  year = {2026},
+  eprint = {2606.17321v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.17321v1},
+  note = {First published: 2026-06-15; Recorded arXiv version: v1; Recorded version updated: 2026-06-15T22:04:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

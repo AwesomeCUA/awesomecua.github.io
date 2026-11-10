@@ -1,3 +1,11 @@
+---
+title: "Navisual · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-navisualguide-navisual/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Navisual
 
 Navisual 是一个非侵入式桌面视觉指南，可观察屏幕并高亮显示用户下一步应点击的位置。

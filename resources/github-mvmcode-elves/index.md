@@ -1,3 +1,11 @@
+---
+title: "ELVES | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mvmcode-elves/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ELVES
 
 ELVES is a cross-platform desktop application for orchestrating multi-agent coding teams inside isolated Git worktrees with MCP integration.

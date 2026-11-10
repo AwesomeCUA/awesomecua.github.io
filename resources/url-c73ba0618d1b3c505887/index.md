@@ -1,3 +1,11 @@
+---
+title: "OS-Critic Bench | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c73ba0618d1b3c505887/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # OS-Critic Bench
 
 A cross-platform GUI-critic benchmark with mobile, desktop and web JSONL splits and screenshot assets, accompanied by public inference and accuracy-scoring scripts.

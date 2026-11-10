@@ -1,3 +1,11 @@
+---
+title: "migi · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mikuh-migi/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # migi
 
 migi 是面向 LLM 智能体、以 skill 为导向的桌面 GUI 视觉自动化 CLI，提供机器可读的 JSON 输出和坐标定位。

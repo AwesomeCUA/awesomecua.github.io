@@ -1,3 +1,11 @@
+---
+title: "GTA1 cleaned grounding dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d46306ac1d0a0cce573a/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GTA1 cleaned grounding dataset
 
 GTA1 仓库关联的清洗版 GUI 定位训练数据，主要来自 Aria-UI 和 OS-Atlas；目标框与 OmniParser 检测元素存在差异的样本已被剔除。

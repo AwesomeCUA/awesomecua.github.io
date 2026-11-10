@@ -1,3 +1,11 @@
+---
+title: "hermes-hyprland-plugin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xcaptain09-hermes-hyprland-plugin/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # hermes-hyprland-plugin
 
 C++ Hyprland Wayland 合成器插件与 Python D-Bus AT-SPI 坐标融合桥接工具，供无需抢占鼠标的 Linux GUI 智能体使用。

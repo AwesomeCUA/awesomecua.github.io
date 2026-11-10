@@ -1,3 +1,11 @@
+---
+title: "real-browser-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ofershap-real-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # real-browser-mcp
 
 MCP 服务器和 Chrome 扩展，使编程智能体能够控制已打开、带有现有 Cookie 和 SSO 会话的 Chrome 浏览器。

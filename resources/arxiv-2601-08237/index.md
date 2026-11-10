@@ -1,3 +1,11 @@
+---
+title: "The End of Reward Engineering: How LLMs Are… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-08237/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The End of Reward Engineering: How LLMs Are Redefining Multi-Agent Coordination
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "CAGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a06622da7688e3718a7b/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # CAGUI
 
 Chinese Android GUI benchmark released with AgentCPM-GUI, with a grounding track for widgets and OCR text and an agent track for multi-step tasks in Chinese apps.

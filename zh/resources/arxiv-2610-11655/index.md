@@ -1,3 +1,11 @@
+---
+title: "Harness Evolution Hits a Ceiling: When… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-11655/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Harness Evolution Hits a Ceiling: When Weight Training Should Begin
 
 研究如何通过对失败轨迹分类，决定改进 LLM 智能体的运行框架或训练模型权重，并用 WebArena-Lite 网页任务检验迁移效果。
@@ -27,6 +35,18 @@ Yuan Tian, Bing Hu, Hao Wang, Binghang Lu, Fang Wu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-11655/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-11655/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11655,
+  title = {{Harness Evolution Hits a Ceiling: When Weight Training Should Begin}},
+  author = {{Yuan Tian} and {Bing Hu} and {Hao Wang} and {Binghang Lu} and {Fang Wu}},
+  year = {2026},
+  eprint = {2610.11655v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11655v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T10:33:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

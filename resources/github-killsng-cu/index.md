@@ -1,3 +1,11 @@
+---
+title: "cu (Native GUI Automation CLI) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-killsng-cu/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # cu (Native GUI Automation CLI)
 
 Native GUI automation CLI written in Swift (macOS) and Rust (Windows) for ~50ms state reads and ~100ms clicks.

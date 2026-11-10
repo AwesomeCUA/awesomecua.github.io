@@ -1,3 +1,11 @@
+---
+title: "Pattern recognition with neuromorphic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2204-13260/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Pattern recognition with neuromorphic computing using magnetic-field induced dynamics of skyrmions
 
 Status: excluded from the active CUA catalog after scope review.

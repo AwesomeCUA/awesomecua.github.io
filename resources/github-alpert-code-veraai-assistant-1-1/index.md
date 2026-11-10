@@ -1,3 +1,11 @@
+---
+title: "Vera AI Assistant | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alpert-code-veraai-assistant-1-1/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Vera AI Assistant
 
 Turkish-speaking Windows desktop voice and GUI automation assistant powered by PySide6 and LLM tool calling.

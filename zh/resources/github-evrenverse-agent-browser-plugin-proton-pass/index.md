@@ -1,3 +1,11 @@
+---
+title: "agent-browser-plugin-proton-pass · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-evrenverse-agent-browser-plugin-proton-pass/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # agent-browser-plugin-proton-pass
 
 面向 `agent-browser` 的 Proton Pass 凭据提供插件，可解析并填写登录信息，且不向 LLM 暴露密码。

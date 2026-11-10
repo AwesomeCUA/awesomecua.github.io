@@ -1,3 +1,11 @@
+---
+title: "EvoCUA 8B 20260105 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2a2682f86dcb8ebc9a80/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # EvoCUA 8B 20260105
 
 EvoCUA computer-use agent checkpoint (20260105 release) with about 8.8B BF16 parameters in the Qwen3-VL architecture, tagged for OSWorld and for English and Chinese.

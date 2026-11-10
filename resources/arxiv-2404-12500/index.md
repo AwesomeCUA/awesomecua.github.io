@@ -1,3 +1,11 @@
+---
+title: "UIClip: A Data-driven Model for Assessing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-12500/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # UIClip: A Data-driven Model for Assessing User Interface Design
 
 UIClip assesses UI design quality and visual relevance from screenshots and descriptions, using crawled, augmented and human-rated interfaces for training.
@@ -26,6 +34,18 @@ Jason Wu, Yi-Hao Peng, Amanda Li, Amanda Swearngin, Jeffrey P. Bigham, Jeffrey N
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-12500/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-12500/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_12500,
+  title = {{UIClip: A Data-driven Model for Assessing User Interface Design}},
+  author = {{Jason Wu} and {Yi-Hao Peng} and {Amanda Li} and {Amanda Swearngin} and {Jeffrey P. Bigham} and {Jeffrey Nichols}},
+  year = {2024},
+  eprint = {2404.12500v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.12500v1},
+  note = {First published: 2024-04-18; Recorded arXiv version: v1; Recorded version updated: 2024-04-18T20:43:08Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

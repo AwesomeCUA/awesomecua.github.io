@@ -1,3 +1,11 @@
+---
+title: "CopilotKit OpenBot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-copilotkit-openbot/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CopilotKit OpenBot
 
 Self-hosted enterprise AI assistant and computer-use workspace by CopilotKit with containerized sandboxing and skill orchestration.

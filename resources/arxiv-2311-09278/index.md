@@ -1,3 +1,11 @@
+---
+title: "Symbol-LLM: Towards Foundational… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2311-09278/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

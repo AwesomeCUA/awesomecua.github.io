@@ -1,3 +1,11 @@
+---
+title: "Qwen3-8B-FormFactory-SFT-LoRA | AwesomeCUA"
+url: https://awesomecua.com/resources/url-994d4cf27b0931fb53e3/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen3-8B-FormFactory-SFT-LoRA
 
 A Qwen3-8B LoRA adapter fine-tuned on 992 demonstrations for filling web forms in FormFactory, released with instructions for loading it through PEFT.

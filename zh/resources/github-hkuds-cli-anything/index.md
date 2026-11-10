@@ -1,3 +1,11 @@
+---
+title: "CLI-Anything · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hkuds-cli-anything/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CLI-Anything
 
 CLI-Anything 自动将 GIMP、Blender 和 LibreOffice 等专业桌面 GUI 应用封装为结构化、适合智能体使用的 CLI。

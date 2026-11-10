@@ -1,3 +1,11 @@
+---
+title: "StrawManus | AwesomeCUA"
+url: https://awesomecua.com/resources/github-painbaba-strawmanus/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # StrawManus
 
 Browser-control agent combining Manus's flat 12-tool action architecture with local Chromium automation.

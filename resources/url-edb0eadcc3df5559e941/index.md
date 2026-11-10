@@ -1,3 +1,11 @@
+---
+title: "go-browse-wa-raw | AwesomeCUA"
+url: https://awesomecua.com/resources/url-edb0eadcc3df5559e941/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # go-browse-wa-raw
 
 go-browse-wa-raw is a browser-agent trajectory dataset with page observations, actions, goals, rewards, and images. Its train split contains 196462 examples.

@@ -1,3 +1,11 @@
+---
+title: "Collection of WebMCP tools | AwesomeCUA"
+url: https://awesomecua.com/resources/github-googlechromelabs-webmcp-tools/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Collection of WebMCP tools
 
 A collection of WebMCP utilities and demos for exposing website actions to AI agents, inspecting those tools and evaluating agent tool calls.

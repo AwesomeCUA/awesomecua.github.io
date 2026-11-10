@@ -1,3 +1,11 @@
+---
+title: "ScamWorld: An Interactive Environment for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-04879/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud
 
 Bibliographic record for ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yutao Wu, Xiao Liu, Ming Wen, Hanxun Huang, Jun Wang, Xingjun Ma
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-04879/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-04879/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_04879,
+  title = {{ScamWorld: An Interactive Environment for Evaluating Web Agents Against Online Fraud}},
+  author = {{Yutao Wu} and {Xiao Liu} and {Ming Wen} and {Hanxun Huang} and {Jun Wang} and {Xingjun Ma}},
+  year = {2026},
+  eprint = {2611.04879v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.04879v1},
+  note = {First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T13:31:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

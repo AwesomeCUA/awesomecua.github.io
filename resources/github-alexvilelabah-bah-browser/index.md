@@ -1,3 +1,11 @@
+---
+title: "Bah | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alexvilelabah-bah-browser/
+updated: 2026-10-18
+type: agent
+lang: en
+---
+
 # Bah
 
 Electron AI browser whose side-panel agent reads numbered page elements from the DOM or accessibility tree, page text and OCR, then clicks and types through Chromium input events, using cloud or local Ollama models.

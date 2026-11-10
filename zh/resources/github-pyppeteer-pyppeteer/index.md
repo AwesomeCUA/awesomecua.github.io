@@ -1,3 +1,11 @@
+---
+title: "pyppeteer · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pyppeteer-pyppeteer/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # pyppeteer
 
 Pyppeteer 是用于自动操作 Chrome 和 Chromium 页面的 Python 库，提供导航、截图、元素查询及页面 JavaScript 接口。

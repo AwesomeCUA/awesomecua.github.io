@@ -1,3 +1,11 @@
+---
+title: "StateAct: Enhancing LLM Base Agents via… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-02810/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # StateAct: Enhancing LLM Base Agents via Self-prompting and State-tracking
 
 Maintains explicit task goals and evolving state descriptions to improve base-agent decisions across interactive tasks, including web shopping.
@@ -26,6 +34,18 @@ Nikolai Rozanov, Marek Rei
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-02810/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-02810/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_02810,
+  title = {{StateAct: Enhancing LLM Base Agents via Self-prompting and State-tracking}},
+  author = {{Nikolai Rozanov} and {Marek Rei}},
+  year = {2024},
+  eprint = {2410.02810v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.02810v3},
+  note = {First published: 2024-09-21; Recorded arXiv version: v3; Recorded version updated: 2025-04-08T06:37:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

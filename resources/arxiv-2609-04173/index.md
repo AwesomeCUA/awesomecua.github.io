@@ -1,3 +1,11 @@
+---
+title: "Last Translation Benchmark | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-04173/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Last Translation Benchmark
 
 Status: excluded from the active CUA catalog after scope review.

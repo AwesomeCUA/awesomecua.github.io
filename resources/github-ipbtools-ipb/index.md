@@ -1,3 +1,11 @@
+---
+title: "ipb | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ipbtools-ipb/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # ipb
 
 CLI that drives iOS 27 devices over CoreDevice HID with taps, swipes, keys and a live screen stream, reads accessibility trees, presses elements, and exposes the commands as MCP tools.

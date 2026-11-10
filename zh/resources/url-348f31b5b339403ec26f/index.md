@@ -1,3 +1,11 @@
+---
+title: "WildGUI Screenshots (parts 16-19) · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-348f31b5b339403ec26f/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # WildGUI Screenshots (parts 16-19)
 
 配套 Hub 仓库存放 WildGUI 第 16 至 19 部分的截图 tar 分片；对应的轨迹标注及其他部分的图像位于 WildGUI 主仓库。

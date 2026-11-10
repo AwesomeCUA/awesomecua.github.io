@@ -1,3 +1,11 @@
+---
+title: "GUI-G2 7B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-90eea6f6d099a3297850/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # GUI-G2 7B
 
 A Qwen2.5-VL grounding checkpoint trained with Gaussian point and coverage rewards whose granularity adapts to interface-element scale.

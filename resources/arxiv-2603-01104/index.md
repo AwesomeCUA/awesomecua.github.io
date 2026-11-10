@@ -1,3 +1,11 @@
+---
+title: "Egocentric Co-Pilot: Web-Native Smart-Glasses… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-01104/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Egocentric Co-Pilot: Web-Native Smart-Glasses Agents for Assistive Egocentric AI
 
 Bibliographic record for Egocentric Co-Pilot: Web-Native Smart-Glasses Agents for Assistive Egocentric AI. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sicheng Yang, Yukai Huang, Weitong Cai, Shitong Sun, Fengyi Fang, You He, Yiqiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-01104/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-01104/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_01104,
+  title = {{Egocentric Co-Pilot: Web-Native Smart-Glasses Agents for Assistive Egocentric AI}},
+  author = {{Sicheng Yang} and {Yukai Huang} and {Weitong Cai} and {Shitong Sun} and {Fengyi Fang} and {You He} and {Yiqiao Xie} and {Jiankang Deng} and {Hang Zhang} and {Jifei Song} and {Zhensong Zhang}},
+  year = {2026},
+  eprint = {2603.01104v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.01104v1},
+  note = {First published: 2026-03-01; Recorded arXiv version: v1; Recorded version updated: 2026-03-01T13:43:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

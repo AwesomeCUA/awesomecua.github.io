@@ -1,3 +1,11 @@
+---
+title: "AutoGen · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-microsoft-autogen/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # AutoGen
 
 AutoGen 是 Microsoft 的多智能体对话框架，包含用于网页和桌面任务的 MultimodalWebSurfer 和 Magentic-One。

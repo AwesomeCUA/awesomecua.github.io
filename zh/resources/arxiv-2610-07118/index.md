@@ -1,3 +1,11 @@
+---
+title: "AMBER: Training Long-Horizon Web Agents… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-07118/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # AMBER: Training Long-Horizon Web Agents through Append-Only Memory
 
 提出 AMBER，一种只追加的记忆框架，使网页智能体通过基于结果奖励的强化学习来推理、行动和保留证据。研究保留记忆条目能否避免重写记忆时出现的事实与纠错反馈丢失。
@@ -27,6 +35,18 @@ Chinmay Savadikar, Zhaoyu Zhang, Mingyu Zhao, Shuang Xie, Han Li, Tianfu Wu, Lin
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-07118/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-07118/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_07118,
+  title = {{AMBER: Training Long-Horizon Web Agents through Append-Only Memory}},
+  author = {{Chinmay Savadikar} and {Zhaoyu Zhang} and {Mingyu Zhao} and {Shuang Xie} and {Han Li} and {Tianfu Wu} and {Lingyun Wang}},
+  year = {2026},
+  eprint = {2610.07118v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.07118v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:11:07Z.}
+}
+```
 
 ## arXiv 版本记录
 

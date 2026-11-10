@@ -1,3 +1,11 @@
+---
+title: "ApexCommander-RS | AwesomeCUA"
+url: https://awesomecua.com/resources/github-buckster123-apexcommander-rs/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ApexCommander-RS
 
 AT-SPI-first Linux computer-use CLI and Model Context Protocol server written in Rust.

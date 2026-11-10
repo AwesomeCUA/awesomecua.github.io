@@ -1,3 +1,11 @@
+---
+title: "Agent Data Injection Attacks are… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-05120/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Agent Data Injection Attacks are Realistic Threats to AI Agents
 
 研究考察智能体数据注入：不可信内容冒充可信元数据或工具上下文数据。除单独的编程智能体攻击外，研究还报告了 Web 智能体中的任意点击漏洞，指出指令注入之外的信任边界失效问题。
@@ -27,6 +35,18 @@ Woohyuk Choi, Juhee Kim, Taehyun Kang, Jihyeon Jeong, Luyi Xing, Byoungyoung Lee
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-05120/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-05120/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_05120,
+  title = {{Agent Data Injection Attacks are Realistic Threats to AI Agents}},
+  author = {{Woohyuk Choi} and {Juhee Kim} and {Taehyun Kang} and {Jihyeon Jeong} and {Luyi Xing} and {Byoungyoung Lee}},
+  year = {2026},
+  eprint = {2607.05120v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.05120v1},
+  note = {First published: 2026-07-06; Recorded arXiv version: v1; Recorded version updated: 2026-07-06T14:07:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

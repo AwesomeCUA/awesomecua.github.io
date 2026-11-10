@@ -1,3 +1,11 @@
+---
+title: "RoboCasa-Shift: Stage-Aware Robustness… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-27861/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Policies in Long-Horizon Household Manipulation
 
 Status: excluded from the active CUA catalog after scope review.

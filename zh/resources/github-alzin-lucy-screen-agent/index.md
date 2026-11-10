@@ -1,3 +1,11 @@
+---
+title: "Lucy Screen Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alzin-lucy-screen-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Lucy Screen Agent
 
 Lucy 是结合语音与屏幕的 Android 智能体，使用 Gemini 视觉感知实时应用屏幕，并执行点击、滑动和文本输入。

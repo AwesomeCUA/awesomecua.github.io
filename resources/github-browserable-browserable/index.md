@@ -1,3 +1,11 @@
+---
+title: "Browserable | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browserable-browserable/
+updated: 2026-10-19
+type: framework
+lang: en
+---
+
 # Browserable
 
 Self-hosted browser-agent platform with a JS SDK and REST API: a planner sets high-level steps, and a runner reads a screenshot and a numbered DOM chunk to pick Playwright actions in a local or hosted browser.

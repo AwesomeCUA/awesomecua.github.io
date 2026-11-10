@@ -1,3 +1,11 @@
+---
+title: "Obscura | AwesomeCUA"
+url: https://awesomecua.com/resources/github-h4ckf0r0day-obscura/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Obscura
 
 Obscura is a Rust headless browser for agent automation. It runs JavaScript, exposes the Chrome DevTools Protocol and supports screenshots and browser automation tools.

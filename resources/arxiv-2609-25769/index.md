@@ -1,3 +1,11 @@
+---
+title: "Towards Omni-dimensional GUI Agent Navigation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-25769/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction
 
 MaP unifies GUI-navigation objectives by masking and predicting components of multi-turn trajectories. Role-aware adapters address heterogeneous training data, and evaluations compare the approach with direct task-mixture training across navigation benchmarks.
@@ -26,6 +34,18 @@ Yan Zhang, Pei Fu, Daiqing Wu, Huawen Shen, Ruoceng Zhang, Shaojie Zhang, Jiahui
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-25769/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-25769/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_25769,
+  title = {{Towards Omni-dimensional GUI Agent Navigation with Masked Trajectory Prediction}},
+  author = {{Yan Zhang} and {Pei Fu} and {Daiqing Wu} and {Huawen Shen} and {Ruoceng Zhang} and {Shaojie Zhang} and {Jiahui Yang} and {Yu Zhou} and {Can Ma} and {Zhenbo Luo} and {Jian Luan}},
+  year = {2026},
+  eprint = {2609.25769v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.25769v1},
+  note = {First published: 2026-09-22; Recorded arXiv version: v1; Recorded version updated: 2026-09-22T07:02:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

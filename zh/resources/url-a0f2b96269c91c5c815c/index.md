@@ -1,3 +1,11 @@
+---
+title: "PrivScreen · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a0f2b96269c91c5c815c/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # PrivScreen
 
 PrivScreen 是用于研究移动智能体屏幕截图隐私保护的数据集；其仓库包含图像和问答文件。

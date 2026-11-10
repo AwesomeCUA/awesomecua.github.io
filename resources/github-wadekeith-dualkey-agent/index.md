@@ -1,3 +1,11 @@
+---
+title: "DualKey | AwesomeCUA"
+url: https://awesomecua.com/resources/github-wadekeith-dualkey-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DualKey
 
 DualKey enforces deterministic policy checks, human approvals, and cryptographically signed receipts for AI agent actions.

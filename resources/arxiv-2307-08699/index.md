@@ -1,3 +1,11 @@
+---
+title: "Pair then Relation: Pair-Net for Panoptic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-08699/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Pair then Relation: Pair-Net for Panoptic Scene Graph Generation
 
 Bibliographic record for Pair then Relation: Pair-Net for Panoptic Scene Graph Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jinghao Wang, Zhengyu Wen, Xiangtai Li, Zujin Guo, Jingkang Yang, Ziwei Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2307-08699/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2307-08699/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_08699,
+  title = {{Pair then Relation: Pair-Net for Panoptic Scene Graph Generation}},
+  author = {{Jinghao Wang} and {Zhengyu Wen} and {Xiangtai Li} and {Zujin Guo} and {Jingkang Yang} and {Ziwei Liu}},
+  year = {2023},
+  eprint = {2307.08699v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.08699v3},
+  note = {First published: 2023-07-17; Recorded arXiv version: v3; Recorded version updated: 2024-08-09T09:08:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

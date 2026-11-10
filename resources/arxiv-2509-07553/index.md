@@ -1,3 +1,11 @@
+---
+title: "VeriOS: Query-Driven Proactive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-07553/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents
 
 Introduces VeriOS-Agent, which learns when to execute GUI actions autonomously and when to query a user under untrustworthy conditions. Its staged training combines supervised learning and group-relative policy optimization.
@@ -26,6 +34,18 @@ Zheng Wu, Heyuan Huang, Xingyu Lou, Xiangmou Qu, Pengzhou Cheng, Zongru Wu, Weiw
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-07553/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-07553/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_07553,
+  title = {{VeriOS: Query-Driven Proactive Human-Agent-GUI Interaction for Trustworthy OS Agents}},
+  author = {{Zheng Wu} and {Heyuan Huang} and {Xingyu Lou} and {Xiangmou Qu} and {Pengzhou Cheng} and {Zongru Wu} and {Weiwen Liu} and {Weinan Zhang} and {Jun Wang} and {Zhaoxiang Wang} and {Zhuosheng Zhang}},
+  year = {2025},
+  eprint = {2509.07553v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.07553v3},
+  note = {First published: 2025-09-09; Recorded arXiv version: v3; Recorded version updated: 2026-04-03T02:36:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

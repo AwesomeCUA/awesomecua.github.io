@@ -1,3 +1,11 @@
+---
+title: "Browser-Use Vision | AwesomeCUA"
+url: https://awesomecua.com/resources/github-raidriar7170-browser-use-vision/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Browser-Use Vision
 
 Vision-grounding plugin for browser-use combining Set-of-Mark overlays, Florence-2 detection, and Vision-DOM alignment.

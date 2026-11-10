@@ -1,3 +1,11 @@
+---
+title: "Bellwether · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-al-mohad-bell-weather/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Bellwether
 
 Bellwether 衡量计算机使用智能体在旧式企业 UI 工作流上的多次试验 pass^k 一致性。

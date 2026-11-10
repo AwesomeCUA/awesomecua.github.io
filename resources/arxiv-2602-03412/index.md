@@ -1,3 +1,11 @@
+---
+title: "Verified Critical Step Optimization for LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-03412/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Verified Critical Step Optimization for LLM Agents
 
 Bibliographic record for Verified Critical Step Optimization for LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Mukai Li, Qingcheng Zeng, Tianqing Fang, Zhenwen Liang, Linfeng Song, Qi Liu, Ha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-03412/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-03412/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_03412,
+  title = {{Verified Critical Step Optimization for LLM Agents}},
+  author = {{Mukai Li} and {Qingcheng Zeng} and {Tianqing Fang} and {Zhenwen Liang} and {Linfeng Song} and {Qi Liu} and {Haitao Mi} and {Dong Yu}},
+  year = {2026},
+  eprint = {2602.03412v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.03412v2},
+  note = {First published: 2026-02-03; Recorded arXiv version: v2; Recorded version updated: 2026-04-29T09:45:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

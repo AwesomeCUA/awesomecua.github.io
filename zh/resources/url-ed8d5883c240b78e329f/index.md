@@ -1,3 +1,11 @@
+---
+title: "Holo2 30B-A3B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ed8d5883c240b78e329f/
+updated: 2026-10-18
+type: model
+lang: zh-CN
+---
+
 # Holo2 30B-A3B
 
 Holo2 混合专家检查点基于 Qwen3-VL-30B-A3B-Thinking，经过监督训练和在线强化学习，用于网页、桌面和移动屏幕的 UI 元素定位与多步导航。

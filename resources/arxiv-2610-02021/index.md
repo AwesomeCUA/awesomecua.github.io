@@ -1,3 +1,11 @@
+---
+title: "Task-Adaptive Grounded 3D-Programmers Using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-02021/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Task-Adaptive Grounded 3D-Programmers Using 2D VLMs
 
 Bibliographic record for Task-Adaptive Grounded 3D-Programmers Using 2D VLMs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Arman Raayatsanati, Sombit Dey, Anna-Maria Halacheva, Jan-Nico Zaech, Luc Van Go
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-02021/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-02021/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_02021,
+  title = {{Task-Adaptive Grounded 3D-Programmers Using 2D VLMs}},
+  author = {{Arman Raayatsanati} and {Sombit Dey} and {Anna-Maria Halacheva} and {Jan-Nico Zaech} and {Luc Van Gool} and {Danda Pani Paudel}},
+  year = {2026},
+  eprint = {2610.02021v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.02021v1},
+  note = {First published: 2026-10-01; Recorded arXiv version: v1; Recorded version updated: 2026-10-01T16:43:17Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

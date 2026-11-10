@@ -1,3 +1,11 @@
+---
+title: "Turan AI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aykutkrm67-turan-ai/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Turan AI
 
 Local multi-brain Windows AI desktop agent with visible computer control and verified action execution.

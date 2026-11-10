@@ -1,3 +1,11 @@
+---
+title: "Ausca MCP Services · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-auscahq-ausca/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Ausca MCP Services
 
 面向 AI 智能体的 Model Context Protocol 服务和 API，涵盖文档 OCR 和浏览器数据提取。

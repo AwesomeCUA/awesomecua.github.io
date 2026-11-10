@@ -1,3 +1,11 @@
+---
+title: "cookie-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leeguooooo-cookie-use/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # cookie-use
 
 cookie-use stores website sessions in an encrypted vault and lets agents select accounts and apply their sessions to browser contexts.

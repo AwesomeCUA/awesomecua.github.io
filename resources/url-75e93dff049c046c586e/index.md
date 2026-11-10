@@ -1,3 +1,11 @@
+---
+title: "AndroidGen-Llama-3-70B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-75e93dff049c046c586e/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # AndroidGen-Llama-3-70B
 
 AndroidGen-Llama-3-70B is a released model for agents that carry out tasks across Android applications such as messaging, email and settings without manually labeled interaction data.

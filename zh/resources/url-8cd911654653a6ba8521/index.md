@@ -1,3 +1,11 @@
+---
+title: "MultiUI training data · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-8cd911654653a6ba8521/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # MultiUI training data
 
 MultiUI 网页 UI 训练数据的受限 Hub 版本；项目 README 称约有 730 万条样本，打包为两个训练阶段 JSON 文件和 21 个分卷 TAR 归档。

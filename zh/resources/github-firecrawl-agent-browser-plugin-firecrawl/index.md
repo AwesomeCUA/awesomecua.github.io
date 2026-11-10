@@ -1,3 +1,11 @@
+---
+title: "Firecrawl Agent-Browser Plugin · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-firecrawl-agent-browser-plugin-firecrawl/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Firecrawl Agent-Browser Plugin
 
 面向 `agent-browser` 的官方 Firecrawl 插件，结合云端 CDP 浏览器会话与结构化网页抓取、搜索和爬取。

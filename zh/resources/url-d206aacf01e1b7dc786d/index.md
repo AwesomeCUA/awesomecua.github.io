@@ -1,3 +1,11 @@
+---
+title: "GroundUI-18K · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d206aacf01e1b7dc786d/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # GroundUI-18K
 
 AgentStudio 的完整 GUI 元素定位测试集，汇集 Mind2Web、OmniACT、MoTIF、ScreenSpot 和 AgentStudio 的网页、桌面及移动端截图，含 18,026 条指令与目标边界框样例。

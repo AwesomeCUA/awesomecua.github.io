@@ -1,3 +1,11 @@
+---
+title: "Computer Use with SLM (GRPO + OpenEnv) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shayanamir0-computer-use-with-slm/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Computer Use with SLM (GRPO + OpenEnv)
 
 使用 Group Relative Policy Optimization（GRPO）和 OpenEnv，微调小型语言模型以执行计算机使用导航和 GUI 交互。

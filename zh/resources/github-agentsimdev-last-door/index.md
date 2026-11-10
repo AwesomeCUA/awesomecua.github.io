@@ -1,3 +1,11 @@
+---
+title: "LAST DOOR · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentsimdev-last-door/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # LAST DOOR
 
 认证韧性评测基准和 WebMCP 权限编译器，用于测试浏览器智能体在登录及权限边界处的行为。

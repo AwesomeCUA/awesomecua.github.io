@@ -1,3 +1,11 @@
+---
+title: "GUI-G1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yuqi-zhou-gui-g1/
+updated: 2026-10-16
+type: model
+lang: zh-CN
+---
+
 # GUI-G1
 
 GUI 定位训练代码，修改推理模板、奖励函数和 GRPO 目标函数，并附有模型发布链接。

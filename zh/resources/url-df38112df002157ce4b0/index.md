@@ -1,3 +1,11 @@
+---
+title: "espetro/htlm-lfm2.5-350m · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-df38112df002157ce4b0/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # espetro/htlm-lfm2.5-350m
 
 一个经过微调的 LFM2.5-350M 模型，可根据指令和带索引的网页元素选择点击、输入或选取操作，并提供用于浏览器推理的 GGUF 文件。

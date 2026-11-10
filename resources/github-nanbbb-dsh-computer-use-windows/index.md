@@ -1,3 +1,11 @@
+---
+title: "nanbbb dsh-computer-use-windows | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nanbbb-dsh-computer-use-windows/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # nanbbb dsh-computer-use-windows
 
 Windows computer-use plugin for DeepSeek Harness combining window discovery, UI Automation inspection, and input synthesis.

@@ -1,3 +1,11 @@
+---
+title: "showdown-clicks | AwesomeCUA"
+url: https://awesomecua.com/resources/url-863cc1744cd5d40418be/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # showdown-clicks
 
 Offline click benchmark from General Agents: 557 human left clicks on macOS screenshots, each with an instruction and the bounding box of valid click locations, scored by whether a predicted point lands inside.

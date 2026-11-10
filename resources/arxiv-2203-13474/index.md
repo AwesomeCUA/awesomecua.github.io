@@ -1,3 +1,11 @@
+---
+title: "CodeGen: An Open Large Language Model for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2203-13474/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis
 
 Status: excluded from the active CUA catalog after scope review.

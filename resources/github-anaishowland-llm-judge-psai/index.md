@@ -1,3 +1,11 @@
+---
+title: "LLM as a Judge for Computer-Use Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anaishowland-llm-judge-psai/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # LLM as a Judge for Computer-Use Agents
 
 LLM-as-a-Judge evaluation harness for assessing computer-use agent trajectories across web browsing and desktop interaction tasks.

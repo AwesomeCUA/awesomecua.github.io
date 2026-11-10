@@ -1,3 +1,11 @@
+---
+title: "InterWebCoder: Learning Interactive Webpage… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-28610/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning
 
 InterWebCoder trains models to generate interactive webpage code using recorded interactions, executable tests and repair feedback, an adjacent web interface task.
@@ -26,6 +34,18 @@ Jingyu Xiao, Dasen Dai, Yuxuan Wan, Jen-tse Huang, Yintong Huo, Hongyu Zhang, Mi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-28610/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-28610/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_28610,
+  title = {{InterWebCoder: Learning Interactive Webpage Generation from Executable Tests via Reinforcement Learning}},
+  author = {{Jingyu Xiao} and {Dasen Dai} and {Yuxuan Wan} and {Jen-tse Huang} and {Yintong Huo} and {Hongyu Zhang} and {Michael R. Lyu}},
+  year = {2026},
+  eprint = {2610.28610v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.28610v1},
+  note = {First published: 2026-10-20; Recorded arXiv version: v1; Recorded version updated: 2026-10-20T17:53:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "AI-Player | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shasankp000-ai-player/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # AI-Player
 
 AI-Player is a Minecraft Fabric mod that embeds an LLM/VLM-driven autonomous second player capable of navigation, combat, and crafting.

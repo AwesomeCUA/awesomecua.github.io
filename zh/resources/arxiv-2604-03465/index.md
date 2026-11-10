@@ -1,3 +1,11 @@
+---
+title: "The Tool Illusion: Rethinking Tool Use… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-03465/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # The Tool Illusion: Rethinking Tool Use in Web Agents
 
 通过跨工具来源、基础模型、工具使用框架与评测基准的对照研究，考察网页智能体使用高层工具的效果。
@@ -27,6 +35,18 @@ Renze Lou, Baolin Peng, Wenlin Yao, Qianhui Wu, Hao Cheng, Suman Nath, Wenpeng Y
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-03465/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-03465/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_03465,
+  title = {{The Tool Illusion: Rethinking Tool Use in Web Agents}},
+  author = {{Renze Lou} and {Baolin Peng} and {Wenlin Yao} and {Qianhui Wu} and {Hao Cheng} and {Suman Nath} and {Wenpeng Yin} and {Jianfeng Gao}},
+  year = {2026},
+  eprint = {2604.03465v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.03465v2},
+  note = {First published: 2026-04-03; Recorded arXiv version: v2; Recorded version updated: 2026-07-16T12:25:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

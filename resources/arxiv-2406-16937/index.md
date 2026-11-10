@@ -1,3 +1,11 @@
+---
+title: "A Complete Survey on LLM-based AI Chatbots | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-16937/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # A Complete Survey on LLM-based AI Chatbots
 
 Status: excluded from the active CUA catalog after scope review.

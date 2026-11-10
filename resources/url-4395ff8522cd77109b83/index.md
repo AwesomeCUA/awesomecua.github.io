@@ -1,3 +1,11 @@
+---
+title: "LongHorizonUI: A Unified Framework for Robust… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4395ff8522cd77109b83/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent
 
 Training-free GUI agent that indexes screen elements via icon detection and OCR, checks each step with multi-level reflection and recovers by fallback clicks or rollback; introduces LongGUIBench, tasks over 15 steps.
@@ -26,6 +34,20 @@ Bin Kang, Shaoguo Wen, Yifei Bi, Shunlong Wu, Xinbin Yuan, Rui Shao, Junle Wang,
 
 - BibTeX: https://awesomecua.com/resources/url-4395ff8522cd77109b83/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-4395ff8522cd77109b83/citation.csl.json
+
+```bibtex
+@inproceedings{cua_9f1feffee469c064107c8c63,
+  title = {{LongHorizonUI: A Unified Framework for Robust long-horizon Task Automation of GUI Agent}},
+  author = {{Bin Kang} and {Shaoguo Wen} and {Yifei Bi} and {Shunlong Wu} and {Xinbin Yuan} and {Rui Shao} and {Junle Wang} and {Zhuotao Tian}},
+  year = {2026},
+  month = apr,
+  booktitle = {International Conference on Learning Representations 2026 (ICLR 2026)},
+  volume = {2026},
+  pages = {59-82},
+  url = {https://openreview.net/forum?id=BK7Mk5d4WE},
+  note = {Publication date: 2026-04-20.}
+}
+```
 
 ## Publication record
 

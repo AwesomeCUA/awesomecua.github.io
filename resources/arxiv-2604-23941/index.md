@@ -1,3 +1,11 @@
+---
+title: "GoClick: Lightweight Element Grounding Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-23941/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction
 
 Studies a compact encoder-decoder grounding model and progressive training-data refinement for resource-constrained GUI interaction.
@@ -26,6 +34,18 @@ Hongxin Li, Yuntao Chen, Zhaoxiang Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-23941/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-23941/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_23941,
+  title = {{GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction}},
+  author = {{Hongxin Li} and {Yuntao Chen} and {Zhaoxiang Zhang}},
+  year = {2026},
+  eprint = {2604.23941v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.23941v1},
+  note = {First published: 2026-04-27; Recorded arXiv version: v1; Recorded version updated: 2026-04-27T01:29:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

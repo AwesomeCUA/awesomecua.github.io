@@ -1,3 +1,11 @@
+---
+title: "Code2Games: Enabling Coding Agents for Gaming… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-05033/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Code2Games: Enabling Coding Agents for Gaming World Generation
 
 Bibliographic record for Code2Games: Enabling Coding Agents for Gaming World Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wei Wu, Ziyang Xu, Zeyu Zhang, Yang Zhao, Hao Tang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-05033/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-05033/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_05033,
+  title = {{Code2Games: Enabling Coding Agents for Gaming World Generation}},
+  author = {{Wei Wu} and {Ziyang Xu} and {Zeyu Zhang} and {Yang Zhao} and {Hao Tang}},
+  year = {2026},
+  eprint = {2610.05033v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.05033v1},
+  note = {First published: 2026-10-04; Recorded arXiv version: v1; Recorded version updated: 2026-10-04T07:54:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

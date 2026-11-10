@@ -1,3 +1,11 @@
+---
+title: "Anthropic | AwesomeCUA"
+url: https://awesomecua.com/resources/organization-anthropic/
+updated: 2026-11-09
+type: company
+lang: en
+---
+
 # Anthropic
 
 Publisher or product brand associated with Anthropic computer-use or browser automation offerings.

@@ -1,3 +1,11 @@
+---
+title: "Neurosim | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anaishowland-neurosim/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Neurosim
 
 Neurosim is a Python framework for building, simulating, and evaluating multi-step AI and computer-use agent systems.

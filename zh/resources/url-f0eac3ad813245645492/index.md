@@ -1,3 +1,11 @@
+---
+title: "FiftyOne GUI Grounding Training Set · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f0eac3ad813245645492/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # FiftyOne GUI Grounding Training Set
 
 739 张 GUI 截图，多数为 macOS 浏览器画面；采用基于 COCO4GUI 的 FiftyOne 格式标注交互点、操作类型和逐操作任务描述，用于元素定位与点击预测。

@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager/OpenWebVoyager-IL · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-725f9a8225f0f9c40d93/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # OpenWebVoyager/OpenWebVoyager-IL
 
 一个基于 Idefics2 的多模态网页智能体模型检查点，使用网页智能体框架采集的轨迹进行模仿学习训练。

@@ -1,3 +1,11 @@
+---
+title: "AutoCua | AwesomeCUA"
+url: https://awesomecua.com/resources/github-computeruseagent-autocua/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # AutoCua
 
 AutoCua is a multi-agent computer-use orchestration platform for automating end-to-end workflows across macOS, Windows, Linux, Android, and web.

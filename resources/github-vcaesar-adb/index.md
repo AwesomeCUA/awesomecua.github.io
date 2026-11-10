@@ -1,3 +1,11 @@
+---
+title: "adb | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vcaesar-adb/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # adb
 
 A Go device-control API provides taps, swipes, typing and screenshots on Android through adb and on iOS through WebDriverAgent.

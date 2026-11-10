@@ -1,3 +1,11 @@
+---
+title: "AgentBoard: An Analytical Evaluation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2401-13178/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents
 
 提出多轮智能体评估框架 AgentBoard，提供中间进展指标和分析工具；其任务集包含 WebShop 和 WebArena 交互，并逐步衡量任务进展。
@@ -27,6 +35,18 @@ Chang Ma, Junlei Zhang, Zhihao Zhu, Cheng Yang, Yujiu Yang, Yaohui Jin, Zhenzhon
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2401-13178/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2401-13178/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_13178,
+  title = {{AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents}},
+  author = {{Chang Ma} and {Junlei Zhang} and {Zhihao Zhu} and {Cheng Yang} and {Yujiu Yang} and {Yaohui Jin} and {Zhenzhong Lan} and {Lingpeng Kong} and {Junxian He}},
+  year = {2024},
+  eprint = {2401.13178v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.13178v2},
+  note = {First published: 2024-01-24; Recorded arXiv version: v2; Recorded version updated: 2024-12-23T20:12:48Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Taprun (tap) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-leonting1010-tap/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Taprun (tap)
 
 Captures a logged-in browser task demonstration once and compiles it into a deterministic zero-token replay skill.

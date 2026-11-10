@@ -1,3 +1,11 @@
+---
+title: "FocusUI: Efficient UI Grounding via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-03928/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection
 
 FocusUI 选取与指令相关的截图图块，同时保留其位置结构以供 GUI 定位。其 PosPad 方案用位置标记替换连续丢弃的 token，并在缩减的 token 预算下进行评估。
@@ -27,6 +35,18 @@ Mingyu Ouyang, Kevin Qinghong Lin, Mike Zheng Shou, Hwee Tou Ng
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-03928/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-03928/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_03928,
+  title = {{FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection}},
+  author = {{Mingyu Ouyang} and {Kevin Qinghong Lin} and {Mike Zheng Shou} and {Hwee Tou Ng}},
+  year = {2026},
+  eprint = {2601.03928v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.03928v1},
+  note = {First published: 2026-01-07; Recorded arXiv version: v1; Recorded version updated: 2026-01-07T13:48:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

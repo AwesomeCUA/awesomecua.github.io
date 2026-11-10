@@ -1,3 +1,11 @@
+---
+title: "GUI-Drag · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-aa28e1329a52e341d285/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Drag
 
 用于学习图形界面中文本拖拽交互的数据。

@@ -1,3 +1,11 @@
+---
+title: "Crimson-Heart | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yeyvhaiou-crimson-heart/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Crimson-Heart
 
 Persistent multimodal desktop agent with explicit runtime state management, priority-aware scheduling, and interruptible execution.

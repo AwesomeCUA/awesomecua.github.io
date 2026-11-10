@@ -1,3 +1,11 @@
+---
+title: "OpenPhone_dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e7ea65893ab264517d83/
+updated: 2026-11-10
+type: dataset
+lang: en
+---
+
 # OpenPhone_dataset
 
 Training data for the OpenPhone mobile agent: the AndroidLab training archive plus a Hugging Face vision-language set with LLM-generated reasoning and reflection chains, formatted for GRPO training.

@@ -1,3 +1,11 @@
+---
+title: "Bi-Mem: Bidirectional Construction of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-06490/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Bi-Mem: Bidirectional Construction of Hierarchical Memory for Personalized LLMs via Inductive-Reflective Agents
 
 Status: excluded from the active CUA catalog after scope review.

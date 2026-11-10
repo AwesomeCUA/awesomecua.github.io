@@ -1,3 +1,11 @@
+---
+title: "GUI-Odyssey — original OpenGVLab release · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5f7e55313246edf727bf/
+updated: 2026-10-18
+type: dataset
+lang: zh-CN
+---
+
 # GUI-Odyssey — original OpenGVLab release
 
 GUI Odyssey 原始 Hub 上传版：六台模拟设备上的 7,735 段跨应用 Android 导航轨迹，含逐步截图、操作和四个数据划分文件；数据卡说明其已由新版取代。

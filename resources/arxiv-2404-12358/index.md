@@ -1,3 +1,11 @@
+---
+title: "From $r$ to $Q^*$: Your Language Model is… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-12358/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # From $r$ to $Q^*$: Your Language Model is Secretly a Q-Function
 
 Bibliographic record for From $r$ to $Q^*$: Your Language Model is Secretly a Q-Function. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Rafael Rafailov, Joey Hejna, Ryan Park, Chelsea Finn
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-12358/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-12358/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_12358,
+  title = {{From \$r\$ to \$Q\textasciicircum{}*\$: Your Language Model is Secretly a Q-Function}},
+  author = {{Rafael Rafailov} and {Joey Hejna} and {Ryan Park} and {Chelsea Finn}},
+  year = {2024},
+  eprint = {2404.12358v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.12358v2},
+  note = {First published: 2024-04-18; Recorded arXiv version: v2; Recorded version updated: 2024-08-12T21:13:35Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Xiaomi-GUI-0 Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-31410/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Xiaomi-GUI-0 Technical Report
 
 Describes a mobile GUI agent trained through real-device interaction, corrected failure trajectories, supervised learning, and reinforcement learning.
@@ -26,6 +34,18 @@ Wanxia Cao, Chengzhen Duan, Pei Fu, Pengzhi Gao, Niu Lian, Fazhan Liu, Hui Liu, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-31410/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-31410/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_31410,
+  title = {{Xiaomi-GUI-0 Technical Report}},
+  author = {{Wanxia Cao} and {Chengzhen Duan} and {Pei Fu} and {Pengzhi Gao} and {Niu Lian} and {Fazhan Liu} and {Hui Liu} and {Heng Qu} and {Qinzhuo Wu} and {Zhehao Yu} and {Tongbo Chen} and {Shiqi Cui} and {Anan Du} and {Shukai Jia} and {Yuanfa Li} and {Wei Liu} and {Yike Liu} and {Wenchao Lu} and {Zhenbo Luo} and {Haoyuan Sun} and {Jiatong Sun} and {Cheng Tan} and {Yajie Wang} and {Changqiao Wu} and {Tao Xiong} and {Jiahui Yang} and {Yuxuan Yuan} and {Ruoceng Zhang} and {Shaojie Zhang} and {Jian Zhu} and {Jian Luan} and {Cong Zou}},
+  year = {2026},
+  eprint = {2606.31410v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.31410v2},
+  note = {First published: 2026-06-30; Recorded arXiv version: v2; Recorded version updated: 2026-07-01T03:59:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

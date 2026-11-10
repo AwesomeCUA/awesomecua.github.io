@@ -1,3 +1,11 @@
+---
+title: "Benchmarking Living-Screen-Native GUI Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-04701/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms
 
 LivingScreen evaluates agents in a browser-based short-video environment where observing content consumes time and affects subsequent actions. Its task suite scores accuracy together with information efficiency to diagnose over- and under-observation on continuously changing screens.
@@ -26,6 +34,18 @@ Jiashu Yao, Heyan Huang, Daiqing Wu, Wangke Chen, Huaxi Ai, Haoyu Wen, Zeming Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-04701/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-04701/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_04701,
+  title = {{Benchmarking Living-Screen-Native GUI Agents on Short-Video Platforms}},
+  author = {{Jiashu Yao} and {Heyan Huang} and {Daiqing Wu} and {Wangke Chen} and {Huaxi Ai} and {Haoyu Wen} and {Zeming Liu} and {Yuhang Guo}},
+  year = {2026},
+  eprint = {2606.04701v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.04701v1},
+  note = {First published: 2026-06-03; Recorded arXiv version: v1; Recorded version updated: 2026-06-03T10:25:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "OpenControl · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-joshuaalawrence-opencontrol/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # OpenControl
 
 约 2MB 的单二进制 Rust Model Context Protocol 服务器，提供 54 个原生 Windows 桌面控制、UI Automation 和截图工具。

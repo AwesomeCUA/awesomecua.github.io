@@ -1,3 +1,11 @@
+---
+title: "dsh-click · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-perrylink-dsh-click/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-click
 
 面向 DeepSeek Harness 的跨平台原生桌面控制插件，支持截图、UI 元素搜索以及鼠标和键盘动作。

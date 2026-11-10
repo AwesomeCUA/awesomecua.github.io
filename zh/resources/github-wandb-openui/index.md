@@ -1,3 +1,11 @@
+---
+title: "OpenUI · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wandb-openui/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # OpenUI
 
 OpenUI 让用户和智能体根据自然语言及截图生成、预览并迭代编辑实时 HTML/Tailwind/React UI 组件。

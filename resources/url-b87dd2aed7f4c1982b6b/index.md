@@ -1,3 +1,11 @@
+---
+title: "OS-Atlas-Pro-4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-b87dd2aed7f4c1982b6b/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # OS-Atlas-Pro-4B
 
 A GUI action checkpoint fine-tuned from OS-Atlas-Base-4B that uses a task instruction, screenshot, and action definitions to generate reasoning and a next action.

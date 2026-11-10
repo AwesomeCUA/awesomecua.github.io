@@ -1,3 +1,11 @@
+---
+title: "DOM-Q-NET: Grounded RL on Structured Language | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1902-07257/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # DOM-Q-NET: Grounded RL on Structured Language
 
 Introduces DOM-Q-NET, an RL architecture for web navigation that represents HTML as a tree and uses separate Q-function networks for clicking elements and typing text.
@@ -26,6 +34,18 @@ Sheng Jia, Jamie Kiros, Jimmy Ba
 
 - BibTeX: https://awesomecua.com/resources/arxiv-1902-07257/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-1902-07257/citation.csl.json
+
+```bibtex
+@misc{arxiv_1902_07257,
+  title = {{DOM-Q-NET: Grounded RL on Structured Language}},
+  author = {{Sheng Jia} and {Jamie Kiros} and {Jimmy Ba}},
+  year = {2019},
+  eprint = {1902.07257v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/1902.07257v1},
+  note = {First published: 2019-02-19; Recorded arXiv version: v1; Recorded version updated: 2019-02-19T19:54:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

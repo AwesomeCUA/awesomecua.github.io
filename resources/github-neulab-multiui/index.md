@@ -1,3 +1,11 @@
+---
+title: "MultiUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-neulab-multiui/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # MultiUI
 
 7.3 million training samples built from webpage UIs and structured with enhanced accessibility trees, for text-rich visual understanding, released with UIX-Qwen2 models.

@@ -1,3 +1,11 @@
+---
+title: "Musketeer: Joint Training for Multi-task… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-07019/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Musketeer: Joint Training for Multi-task Vision Language Model with Task Explanation Prompts
 
 Bibliographic record for Musketeer: Joint Training for Multi-task Vision Language Model with Task Explanation Prompts. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhaoyang Zhang, Yantao Shen, Kunyu Shi, Zhaowei Cai, Jun Fang, Siqi Deng, Hao Ya
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-07019/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-07019/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_07019,
+  title = {{Musketeer: Joint Training for Multi-task Vision Language Model with Task Explanation Prompts}},
+  author = {{Zhaoyang Zhang} and {Yantao Shen} and {Kunyu Shi} and {Zhaowei Cai} and {Jun Fang} and {Siqi Deng} and {Hao Yang} and {Davide Modolo} and {Zhuowen Tu} and {Stefano Soatto}},
+  year = {2023},
+  eprint = {2305.07019v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.07019v2},
+  note = {First published: 2023-05-11; Recorded arXiv version: v2; Recorded version updated: 2024-03-14T20:30:52Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

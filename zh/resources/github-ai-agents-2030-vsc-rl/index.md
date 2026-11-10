@@ -1,3 +1,11 @@
+---
+title: "VSC-RL code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ai-agents-2030-vsc-rl/
+updated: 2026-10-19
+type: framework
+lang: zh-CN
+---
+
 # VSC-RL code
 
 面向 Android in the Wild 任务的 VSC-RL 训练代码：Gemini 生成的子目标引导 Auto-UI 策略在模拟器中结合学习得到的评判器与 Gemini 终态评估器进行在线训练，基于 DigiRL 构建。

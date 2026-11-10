@@ -1,3 +1,11 @@
+---
+title: "AppAgentX | AwesomeCUA"
+url: https://awesomecua.com/resources/github-westlake-agi-lab-appagentx/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # AppAgentX
 
 Mobile agent research using accumulated interaction experience.

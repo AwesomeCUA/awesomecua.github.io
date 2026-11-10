@@ -1,3 +1,11 @@
+---
+title: "MiniGPT-v2: large language model as a unified… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-09478/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning
 
 Bibliographic record for MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Jun Chen, Deyao Zhu, Xiaoqian Shen, Xiang Li, Zechun Liu, Pengchuan Zhang, Raghu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-09478/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-09478/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_09478,
+  title = {{MiniGPT-v2: large language model as a unified interface for vision-language multi-task learning}},
+  author = {{Jun Chen} and {Deyao Zhu} and {Xiaoqian Shen} and {Xiang Li} and {Zechun Liu} and {Pengchuan Zhang} and {Raghuraman Krishnamoorthi} and {Vikas Chandra} and {Yunyang Xiong} and {Mohamed Elhoseiny}},
+  year = {2023},
+  eprint = {2310.09478v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.09478v3},
+  note = {First published: 2023-10-14; Recorded arXiv version: v3; Recorded version updated: 2023-11-07T18:25:48Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

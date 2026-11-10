@@ -1,3 +1,11 @@
+---
+title: "GTA1 cleaned grounding dataset | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d46306ac1d0a0cce573a/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # GTA1 cleaned grounding dataset
 
 Cleaned GUI grounding training data linked by the GTA1 repository, drawn mainly from Aria-UI and OS-Atlas, with samples dropped when the target box and an OmniParser-detected element differ.

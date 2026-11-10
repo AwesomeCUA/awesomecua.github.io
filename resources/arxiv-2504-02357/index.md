@@ -1,3 +1,11 @@
+---
+title: "ReuseDroid: A VLM-empowered Android UI Test… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-02357/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # ReuseDroid: A VLM-empowered Android UI Test Migrator Boosted by Active Feedback
 
 ReuseDroid migrates Android GUI tests between functionally similar apps using VLM agents that separate shared test intent from app-specific interaction flows. It introduces LinPro, a dataset of 578 migration tasks across 39 apps, to evaluate test transfer.
@@ -26,6 +34,18 @@ Xiaolei Li, Jialun Cao, Yepang Liu, Shing-Chi Cheung, Hailong Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-02357/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-02357/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_02357,
+  title = {{ReuseDroid: A VLM-empowered Android UI Test Migrator Boosted by Active Feedback}},
+  author = {{Xiaolei Li} and {Jialun Cao} and {Yepang Liu} and {Shing-Chi Cheung} and {Hailong Wang}},
+  year = {2025},
+  eprint = {2504.02357v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.02357v1},
+  note = {First published: 2025-04-03; Recorded arXiv version: v1; Recorded version updated: 2025-04-03T07:45:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

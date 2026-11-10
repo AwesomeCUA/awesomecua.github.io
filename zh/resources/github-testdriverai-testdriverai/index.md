@@ -1,3 +1,11 @@
+---
+title: "TestDriver SDK · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-testdriverai-testdriverai/
+updated: 2026-11-06
+type: framework
+lang: zh-CN
+---
+
 # TestDriver SDK
 
 Vitest 插件，可创建临时设备，并使用基于视觉的 LLM 构建网页应用、桌面应用和浏览器扩展的端到端测试。

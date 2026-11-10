@@ -1,3 +1,11 @@
+---
+title: "LCU · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amontlabs-lcu/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # LCU
 
 LCU 将已安装的桌面计算机操作运行时接入智能体运行框架，用于观察窗口和执行输入操作，并可选择控制获准的 Chrome 标签页。

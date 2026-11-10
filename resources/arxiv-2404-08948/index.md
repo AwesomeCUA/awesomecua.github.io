@@ -1,3 +1,11 @@
+---
+title: "Large Language Models for Mobile GUI Text… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-08948/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Large Language Models for Mobile GUI Text Input Generation: An Empirical Study
 
 Studies language-model generation of mobile text inputs, comparing UI representations, execution feedback, and human assistance for app testing.
@@ -26,6 +34,18 @@ Chenhui Cui, Tao Li, Junjie Wang, Chunyang Chen, Dave Towey, Rubing Huang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-08948/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-08948/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_08948,
+  title = {{Large Language Models for Mobile GUI Text Input Generation: An Empirical Study}},
+  author = {{Chenhui Cui} and {Tao Li} and {Junjie Wang} and {Chunyang Chen} and {Dave Towey} and {Rubing Huang}},
+  year = {2024},
+  eprint = {2404.08948v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.08948v4},
+  note = {First published: 2024-04-13; Recorded arXiv version: v4; Recorded version updated: 2026-06-25T14:05:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

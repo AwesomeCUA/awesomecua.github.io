@@ -1,3 +1,11 @@
+---
+title: "Blueprint for quantum computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2303-03688/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Blueprint for quantum computing using electrons on helium
 
 Status: excluded from the active CUA catalog after scope review.

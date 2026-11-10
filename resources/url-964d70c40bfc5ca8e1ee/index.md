@@ -1,3 +1,11 @@
+---
+title: "AgentNet | AwesomeCUA"
+url: https://awesomecua.com/resources/url-964d70c40bfc5ca8e1ee/
+updated: 2026-10-16
+type: dataset
+lang: en
+---
+
 # AgentNet
 
 22.6K human-annotated desktop computer-use tasks on Windows, macOS and Ubuntu, released with OpenCUA for training and evaluating vision-language-action models.

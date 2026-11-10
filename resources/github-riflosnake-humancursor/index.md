@@ -1,3 +1,11 @@
+---
+title: "HumanCursor | AwesomeCUA"
+url: https://awesomecua.com/resources/github-riflosnake-humancursor/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # HumanCursor
 
 A Python mouse-automation package with web and system cursor controls for movement, clicks, drags, and scrolling. Its script tool records cursor actions for replay.

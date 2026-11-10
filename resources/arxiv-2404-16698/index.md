@@ -1,3 +1,11 @@
+---
+title: "Cooperate or Collapse: Emergence of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-16698/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents
 
 Bibliographic record for Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Giorgio Piatti, Zhijing Jin, Max Kleiman-Weiner, Bernhard Schölkopf, Mrinmaya S
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-16698/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-16698/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_16698,
+  title = {{Cooperate or Collapse: Emergence of Sustainable Cooperation in a Society of LLM Agents}},
+  author = {{Giorgio Piatti} and {Zhijing Jin} and {Max Kleiman-Weiner} and {Bernhard Schölkopf} and {Mrinmaya Sachan} and {Rada Mihalcea}},
+  year = {2024},
+  eprint = {2404.16698v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.16698v4},
+  note = {First published: 2024-04-25; Recorded arXiv version: v4; Recorded version updated: 2024-12-08T11:21:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

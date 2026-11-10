@@ -1,11 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 28 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/28/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 28
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/28/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [Taylor-Bayouth Browser Agent](https://awesomecua.com/resources/github-taylor-bayouth-browser-agent/)
-- [TeleGen](https://awesomecua.com/resources/github-commoluo-telegen/)
 - [Tencent AI LAB - Self-Improving Agent](https://awesomecua.com/resources/github-tencent-selfevolvingagent/)
 - [Tencent BrowserSkill](https://awesomecua.com/resources/github-tencent-browserskill/)
 - [TENKA](https://awesomecua.com/resources/github-om-khode-tenka/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [Webagent (webagent.cloud)](https://awesomecua.com/resources/github-webagent-cloud-webagent/)
 - [WebAgent-R1](https://awesomecua.com/resources/github-weizhepei-webagent-r1/)
 - [webagent.cloud](https://awesomecua.com/resources/url-3315b5f3f10e62504135/)
+- [WebAgents Protocol](https://awesomecua.com/resources/github-betterwright-webagents/)
+- [WebAggregator](https://awesomecua.com/resources/github-tencent-webaggregator/)

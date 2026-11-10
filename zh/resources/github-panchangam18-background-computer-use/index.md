@@ -1,3 +1,11 @@
+---
+title: "background-computer-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-panchangam18-background-computer-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # background-computer-use
 
 用于在后台操作 macOS 应用的 MCP 服务器和技能库，无需占用窗口焦点或光标控制权。

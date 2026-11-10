@@ -1,3 +1,11 @@
+---
+title: "grokbot-cdp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-daizedong-grokbot-cdp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # grokbot-cdp
 
 Python client that drives the cloud browser and virtual machine behind xAI's Grok computer-use agent over the Chrome DevTools Protocol.

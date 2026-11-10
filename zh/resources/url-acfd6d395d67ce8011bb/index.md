@@ -1,3 +1,11 @@
+---
+title: "Holo4 27B GGUF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-acfd6d395d67ce8011bb/
+updated: 2026-10-19
+type: model
+lang: zh-CN
+---
+
 # Holo4 27B GGUF
 
 Holo4-27B 计算机使用模型的 Q4_K_M GGUF 版本，配有独立的 F16 视觉投影器；外部执行框架发送截图和工具结果，并执行其请求的动作和工具调用。

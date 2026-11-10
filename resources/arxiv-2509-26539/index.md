@@ -1,3 +1,11 @@
+---
+title: "Ferret-UI Lite: Lessons from Building Small… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-26539/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents
 
 Ferret-UI Lite develops a 3B GUI agent using mixed real and synthetic data, reasoning with visual tools at inference, and reinforcement learning. It evaluates grounding and navigation across mobile, web, and desktop settings, including AndroidWorld and OSWorld.
@@ -26,6 +34,18 @@ Zhen Yang, Zi-Yi Dou, Di Feng, Forrest Huang, Anh Nguyen, Keen You, Omar Attia, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-26539/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-26539/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_26539,
+  title = {{Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents}},
+  author = {{Zhen Yang} and {Zi-Yi Dou} and {Di Feng} and {Forrest Huang} and {Anh Nguyen} and {Keen You} and {Omar Attia} and {Yuhao Yang} and {Michael Feng} and {Haotian Zhang} and {Ram Ramrakhya} and {Chao Jia} and {Jeffrey Nichols} and {Alexander Toshev} and {Yinfei Yang} and {Zhe Gan}},
+  year = {2025},
+  eprint = {2509.26539v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.26539v1},
+  note = {First published: 2025-09-30; Recorded arXiv version: v1; Recorded version updated: 2025-09-30T17:13:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "The Obvious Invisible Threat: LLM-Powered GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-11281/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections
 
 Characterizes six forms of GUI-content injection and studies their effects on GUI agents and human users using adversarial webpages. The analysis examines privacy failures and the limits of human oversight.
@@ -26,6 +34,18 @@ Chaoran Chen, Zhiping Zhang, Bingcan Guo, Shang Ma, Ibrahim Khalilov, Simret A G
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-11281/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-11281/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_11281,
+  title = {{The Obvious Invisible Threat: LLM-Powered GUI Agents' Vulnerability to Fine-Print Injections}},
+  author = {{Chaoran Chen} and {Zhiping Zhang} and {Bingcan Guo} and {Shang Ma} and {Ibrahim Khalilov} and {Simret A Gebreegziabher} and {Yanfang Ye} and {Ziang Xiao} and {Yaxing Yao} and {Tianshi Li} and {Toby Jia-Jun Li}},
+  year = {2025},
+  eprint = {2504.11281v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.11281v1},
+  note = {First published: 2025-04-15; Recorded arXiv version: v1; Recorded version updated: 2025-04-15T15:21:09Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

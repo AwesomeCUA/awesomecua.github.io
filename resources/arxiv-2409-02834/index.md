@@ -1,3 +1,11 @@
+---
+title: "CMM-Math: A Chinese Multimodal Math Dataset… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-02834/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models
 
 Bibliographic record for CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wentao Liu, Qianjun Pan, Yi Zhang, Zhuo Liu, Ji Wu, Jie Zhou, Aimin Zhou, Qin Ch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-02834/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-02834/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_02834,
+  title = {{CMM-Math: A Chinese Multimodal Math Dataset To Evaluate and Enhance the Mathematics Reasoning of Large Multimodal Models}},
+  author = {{Wentao Liu} and {Qianjun Pan} and {Yi Zhang} and {Zhuo Liu} and {Ji Wu} and {Jie Zhou} and {Aimin Zhou} and {Qin Chen} and {Bo Jiang} and {Liang He}},
+  year = {2024},
+  eprint = {2409.02834v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.02834v3},
+  note = {First published: 2024-09-04; Recorded arXiv version: v3; Recorded version updated: 2024-11-01T02:21:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

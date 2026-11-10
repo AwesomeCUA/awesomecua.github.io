@@ -1,3 +1,11 @@
+---
+title: "Browser Operator · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-browseroperator-browser-operator-core/
+updated: 2026-10-19
+type: agent
+lang: zh-CN
+---
+
 # Browser Operator
 
 基于 Chromium 的 AI 浏览器，在 DevTools 面板中通过辅助功能树运行多智能体框架，包含网页任务、操作、表单填写、研究与验证智能体，支持 OpenRouter、OpenAI、Groq 或 LiteLLM 模型。

@@ -1,3 +1,11 @@
+---
+title: "BrowseConf: Confidence-Guided Test-Time… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-23458/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents
 
 Bibliographic record for BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Litu Ou, Kuan Li, Huifeng Yin, Liwen Zhang, Zhongwang Zhang, Xixi Wu, Rui Ye, Zi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-23458/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-23458/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_23458,
+  title = {{BrowseConf: Confidence-Guided Test-Time Scaling for Web Agents}},
+  author = {{Litu Ou} and {Kuan Li} and {Huifeng Yin} and {Liwen Zhang} and {Zhongwang Zhang} and {Xixi Wu} and {Rui Ye} and {Zile Qiao} and {Pengjun Xie} and {Jingren Zhou} and {Yong Jiang}},
+  year = {2025},
+  eprint = {2510.23458v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.23458v2},
+  note = {First published: 2025-10-27; Recorded arXiv version: v2; Recorded version updated: 2025-10-28T16:23:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

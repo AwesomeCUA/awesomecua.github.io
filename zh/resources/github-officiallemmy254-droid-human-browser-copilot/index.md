@@ -1,3 +1,11 @@
+---
+title: "Human Browser Copilot · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-officiallemmy254-droid-human-browser-copilot/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Human Browser Copilot
 
 具备自然鼠标运动、视觉感知和自然语言网页任务执行能力的 Chrome 智能体助手。

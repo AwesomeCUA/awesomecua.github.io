@@ -1,3 +1,11 @@
+---
+title: "What Matters in Learning from Offline Human… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2108-03298/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # What Matters in Learning from Offline Human Demonstrations for Robot Manipulation
 
 Status: excluded from the active CUA catalog after scope review.

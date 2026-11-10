@@ -1,3 +1,11 @@
+---
+title: "RoboCLIP: One Demonstration is Enough to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-07899/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # RoboCLIP: One Demonstration is Enough to Learn Robot Policies
 
 Status: excluded from the active CUA catalog after scope review.

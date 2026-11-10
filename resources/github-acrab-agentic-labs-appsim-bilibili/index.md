@@ -1,3 +1,11 @@
+---
+title: "AppSim-BiliBili | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-bilibili/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # AppSim-BiliBili
 
 A simulated Bilibili Android app for testing AI interaction. It provides navigable screens and preset static content without requiring a network connection.

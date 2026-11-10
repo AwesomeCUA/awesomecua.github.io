@@ -1,3 +1,11 @@
+---
+title: "SCoR (Sparse Context Reset) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-huia711-scor/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # SCoR (Sparse Context Reset)
 
 Sparse Context Reset（SCoR）框架，用于防止长时程 GUI 智能体出现上下文溢出和偏移。

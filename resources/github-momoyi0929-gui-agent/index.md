@@ -1,3 +1,11 @@
+---
+title: "Bounded Multimodal Desktop GUI Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-momoyi0929-gui-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Bounded Multimodal Desktop GUI Agent
 
 Bounded multimodal desktop GUI agent built with LangChain and LangGraph featuring OCR grounding, action safety checks, and Mind2Web/ScreenAgent evals.

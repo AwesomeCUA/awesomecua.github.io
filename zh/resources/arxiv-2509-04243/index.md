@@ -1,3 +1,11 @@
+---
+title: "Learning Active Perception via… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-04243/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding
 
 LASER 结合蒙特卡洛质量估计与区域重叠评估，为多步 GUI 感知构建偏好数据；其自演化训练促使模型选择相关区域，并在预测屏幕坐标前调整推理量。
@@ -27,6 +35,18 @@ Wanfu Wang, Qipeng Huang, Guangquan Xue, Xiaobo Liang, Juntao Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-04243/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-04243/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_04243,
+  title = {{Learning Active Perception via Self-Evolving Preference Optimization for GUI Grounding}},
+  author = {{Wanfu Wang} and {Qipeng Huang} and {Guangquan Xue} and {Xiaobo Liang} and {Juntao Li}},
+  year = {2025},
+  eprint = {2509.04243v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.04243v1},
+  note = {First published: 2025-09-04; Recorded arXiv version: v1; Recorded version updated: 2025-09-04T14:17:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

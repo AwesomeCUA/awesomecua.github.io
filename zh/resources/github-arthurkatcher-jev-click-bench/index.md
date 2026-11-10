@@ -1,3 +1,11 @@
+---
+title: "jev-click-bench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-arthurkatcher-jev-click-bench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # jev-click-bench
 
 jev-click-bench 使用官方评分方法和逐次点击日志，在 ScreenSpot-v2 和 ScreenSpot-Pro 上评测 Jev 1.14 的边界框定位。

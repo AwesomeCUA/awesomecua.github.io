@@ -1,3 +1,11 @@
+---
+title: "Windows Computer-Use Skill · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-wimi321-windows-computer-use-skill/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Windows Computer-Use Skill
 
 一套 Windows 计算机操作技能和 MCP 服务器，为智能体提供截图、桌面输入、启动应用、查询窗口和剪贴板工具。

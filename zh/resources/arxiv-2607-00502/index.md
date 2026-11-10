@@ -1,3 +1,11 @@
+---
+title: "A Task-State Representation for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2607-00502/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # A Task-State Representation for Long-Horizon Mobile GUI Agents
 
 提出免训练的移动 GUI 智能体外部框架 TSR，将指令、子目标进度和动作结果与屏幕观察分开跟踪，以支持长流程任务。
@@ -27,6 +35,18 @@ Yujie Zheng, Zikang Liu, Xin Zhao, Ji-Rong Wen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2607-00502/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2607-00502/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_00502,
+  title = {{A Task-State Representation for Long-Horizon Mobile GUI Agents}},
+  author = {{Yujie Zheng} and {Zikang Liu} and {Xin Zhao} and {Ji-Rong Wen}},
+  year = {2026},
+  eprint = {2607.00502v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.00502v1},
+  note = {First published: 2026-07-01; Recorded arXiv version: v1; Recorded version updated: 2026-07-01T06:37:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

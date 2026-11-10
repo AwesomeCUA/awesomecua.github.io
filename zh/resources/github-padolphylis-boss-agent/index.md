@@ -1,3 +1,11 @@
+---
+title: "Boss Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-padolphylis-boss-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Boss Agent
 
 本地求职浏览器智能体，可解析自然语言条件、操作 Boss Zhipin 上的 Chrome，并管理申请状态。

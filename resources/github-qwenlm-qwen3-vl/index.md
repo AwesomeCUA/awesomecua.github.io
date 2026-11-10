@@ -1,3 +1,11 @@
+---
+title: "Qwen3-VL / Qwen2.5-VL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-qwenlm-qwen3-vl/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # Qwen3-VL / Qwen2.5-VL
 
 Official repository for the Qwen-VL vision-language model series supporting native visual GUI grounding, computer use, and mobile navigation.

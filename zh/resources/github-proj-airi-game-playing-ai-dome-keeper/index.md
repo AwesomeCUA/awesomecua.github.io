@@ -1,3 +1,11 @@
+---
+title: "Game AI - Dome Keeper · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-proj-airi-game-playing-ai-dome-keeper/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # Game AI - Dome Keeper
 
 这是用于游玩《Dome Keeper》的智能体，结合计算机视觉和语言模型。其现用模组以 TypeScript 编写，并转换为 GDScript。

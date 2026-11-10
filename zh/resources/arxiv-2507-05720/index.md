@@ -1,3 +1,11 @@
+---
+title: "MobileGUI-RL: Advancing Mobile GUI Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2507-05720/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment
 
 MobileGUI-RL 通过智能体探索和任务筛选构建在线训练课程，并以感知轨迹的优势估计及任务完成度、执行效率奖励调整 GRPO，在 3 个在线移动端智能体基准上评估。
@@ -27,6 +35,18 @@ Yucheng Shi, Wenhao Yu, Zaitang Li, Yonglin Wang, Hongming Zhang, Ninghao Liu, H
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2507-05720/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2507-05720/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_05720,
+  title = {{MobileGUI-RL: Advancing Mobile GUI Agent through Reinforcement Learning in Online Environment}},
+  author = {{Yucheng Shi} and {Wenhao Yu} and {Zaitang Li} and {Yonglin Wang} and {Hongming Zhang} and {Ninghao Liu} and {Haitao Mi} and {Dong Yu}},
+  year = {2025},
+  eprint = {2507.05720v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.05720v1},
+  note = {First published: 2025-07-08; Recorded arXiv version: v1; Recorded version updated: 2025-07-08T07:07:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

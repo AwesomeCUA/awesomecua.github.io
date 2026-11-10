@@ -1,3 +1,11 @@
+---
+title: "Time-shift selection for reservoir computing… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2211-17095/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Time-shift selection for reservoir computing using a rank-revealing QR algorithm
 
 Status: excluded from the active CUA catalog after scope review.

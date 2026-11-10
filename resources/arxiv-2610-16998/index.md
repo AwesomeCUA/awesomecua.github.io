@@ -1,3 +1,11 @@
+---
+title: "Glasseek: A Transparent Recipe for Training… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-16998/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents
 
 Introduces Glasseek, a framework for deep-search agents that explore the open web, with trajectory construction, training across context compression, and a test-set leakage audit.
@@ -26,6 +34,18 @@ Cong Pang, Jiaqi Su, Chengrui Wu, Kuihao Yan, Tianrui Zhang, Zixuan Qiu, Chao Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-16998/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-16998/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16998,
+  title = {{Glasseek: A Transparent Recipe for Training and Trustworthy Evaluation of DeepSearch Agents}},
+  author = {{Cong Pang} and {Jiaqi Su} and {Chengrui Wu} and {Kuihao Yan} and {Tianrui Zhang} and {Zixuan Qiu} and {Chao Lin} and {Zixiu Lin} and {Zixuan Chen} and {Zelin Xiao} and {Tiankuo Yao} and {Jiawei Hong} and {Zixuan Chen} and {Dan Xu} and {Lewei Lu} and {Wenjie Wang} and {Xin Lou}},
+  year = {2026},
+  eprint = {2610.16998v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16998v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T15:48:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

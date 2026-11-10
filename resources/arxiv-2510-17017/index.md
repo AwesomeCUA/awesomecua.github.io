@@ -1,3 +1,11 @@
+---
+title: "SafeSearch: Do Not Trade Safety for Utility… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-17017/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # SafeSearch: Do Not Trade Safety for Utility in LLM Search Agents
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "LexBench-WebArena-Replay | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a96c70bcf5a235f980b6/
+updated: 2026-11-09
+type: dataset
+lang: en
+---
+
 # LexBench-WebArena-Replay
 
 LexBench-WebArena-Replay pairs WebArena task definitions with fixed browser actions so Browser Eval can replay them and score completion across a published 812-task set.

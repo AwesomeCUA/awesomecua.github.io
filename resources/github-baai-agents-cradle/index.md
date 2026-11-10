@@ -1,3 +1,11 @@
+---
+title: "Cradle | AwesomeCUA"
+url: https://awesomecua.com/resources/github-baai-agents-cradle/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # Cradle
 
 Framework in which foundation models control games and software from screenshots alone, acting through keyboard and mouse, shown on RDR2, Stardew Valley, Cities: Skylines and Dealer's Life 2.

@@ -1,3 +1,11 @@
+---
+title: "CalebNewtonUSC Nova (Mac Operator) · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-calebnewtonusc-nova/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # CalebNewtonUSC Nova (Mac Operator)
 
 自主式 macOS 桌面操作智能体，可检查屏幕状态并操控原生 Mac 应用。

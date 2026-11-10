@@ -1,3 +1,11 @@
+---
+title: "Interactive Evolution: A Neural-Symbolic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-11736/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models
 
 Bibliographic record for Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Fangzhi Xu, Qiushi Sun, Kanzhi Cheng, Jun Liu, Yu Qiao, Zhiyong Wu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-11736/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-11736/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_11736,
+  title = {{Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models}},
+  author = {{Fangzhi Xu} and {Qiushi Sun} and {Kanzhi Cheng} and {Jun Liu} and {Yu Qiao} and {Zhiyong Wu}},
+  year = {2024},
+  eprint = {2406.11736v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.11736v1},
+  note = {First published: 2024-06-17; Recorded arXiv version: v1; Recorded version updated: 2024-06-17T16:52:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

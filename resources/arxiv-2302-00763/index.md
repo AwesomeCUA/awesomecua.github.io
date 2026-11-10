@@ -1,3 +1,11 @@
+---
+title: "Collaborating with language models for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2302-00763/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Collaborating with language models for embodied reasoning
 
 Bibliographic record for Collaborating with language models for embodied reasoning. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ishita Dasgupta, Christine Kaeser-Chen, Kenneth Marino, Arun Ahuja, Sheila Babay
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2302-00763/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2302-00763/citation.csl.json
+
+```bibtex
+@misc{arxiv_2302_00763,
+  title = {{Collaborating with language models for embodied reasoning}},
+  author = {{Ishita Dasgupta} and {Christine Kaeser-Chen} and {Kenneth Marino} and {Arun Ahuja} and {Sheila Babayan} and {Felix Hill} and {Rob Fergus}},
+  year = {2023},
+  eprint = {2302.00763v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2302.00763v1},
+  note = {First published: 2023-02-01; Recorded arXiv version: v1; Recorded version updated: 2023-02-01T21:26:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

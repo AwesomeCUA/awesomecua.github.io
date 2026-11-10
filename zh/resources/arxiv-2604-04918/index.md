@@ -1,3 +1,11 @@
+---
+title: "Comparing Human Oversight Strategies for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-04918/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Comparing Human Oversight Strategies for Computer-Use Agents
 
 比较网页智能体实时会话中的 4 种人工监督策略，考察智能体执行问题操作的风险及人工干预机会，并分析控制权交接和预先审批计划时的时机与注意力问题。
@@ -27,6 +35,18 @@ Chaoran Chen, Zhiping Zhang, Zeya Chen, Eryue Xu, Yinuo Yang, Ibrahim Khalilov, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-04918/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-04918/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_04918,
+  title = {{Comparing Human Oversight Strategies for Computer-Use Agents}},
+  author = {{Chaoran Chen} and {Zhiping Zhang} and {Zeya Chen} and {Eryue Xu} and {Yinuo Yang} and {Ibrahim Khalilov} and {Simret A Gebreegziabher} and {Yanfang Ye} and {Ziang Xiao} and {Yaxing Yao} and {Tianshi Li} and {Toby Jia-Jun Li}},
+  year = {2026},
+  eprint = {2604.04918v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.04918v2},
+  note = {First published: 2026-04-06; Recorded arXiv version: v2; Recorded version updated: 2026-09-12T06:05:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

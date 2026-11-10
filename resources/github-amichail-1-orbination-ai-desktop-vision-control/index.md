@@ -1,3 +1,11 @@
+---
+title: "Orbination AI Desktop Vision & Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-amichail-1-orbination-ai-desktop-vision-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Orbination AI Desktop Vision & Control
 
 Native Windows MCP server combining UI Automation, dark-theme-aware OCR, visual grounding, and mouse/keyboard control.

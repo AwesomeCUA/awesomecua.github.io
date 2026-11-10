@@ -1,3 +1,11 @@
+---
+title: "OmniShowcase: Omnidirectional… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-35684/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images
 
 Bibliographic record for OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Junyeong Ahn, Geonwoo Kim, Kinam Kim, Gihwi Kim, Hoonjin Jung, Hyojin Jang, Jaeg
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-35684/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-35684/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_35684,
+  title = {{OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images}},
+  author = {{Junyeong Ahn} and {Geonwoo Kim} and {Kinam Kim} and {Gihwi Kim} and {Hoonjin Jung} and {Hyojin Jang} and {Jaegul Choo}},
+  year = {2026},
+  eprint = {2610.35684v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.35684v1},
+  note = {First published: 2026-10-26; Recorded arXiv version: v1; Recorded version updated: 2026-10-26T16:19:59Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

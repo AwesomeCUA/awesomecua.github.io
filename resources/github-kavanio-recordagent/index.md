@@ -1,3 +1,11 @@
+---
+title: "RecordAgent (ButvanAgent) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kavanio-recordagent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # RecordAgent (ButvanAgent)
 
 Local-first Tauri and AgentScope desktop agent workbench with permission approvals, tool orchestration, and workflow recording.

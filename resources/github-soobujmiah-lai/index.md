@@ -1,3 +1,11 @@
+---
+title: "SoobujMiah LAI (Android Local AI Runtime) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-soobujmiah-lai/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # SoobujMiah LAI (Android Local AI Runtime)
 
 On-device local AI and consent-driven Android UI automation runtime with Bangla-first accessibility support.

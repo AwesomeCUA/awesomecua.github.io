@@ -1,3 +1,11 @@
+---
+title: "SPA-Bench: A Comprehensive Benchmark for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-15164/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation
 
 Introduces a smartphone-agent benchmark with English and Chinese tasks, real-time Android interaction, and completion and resource-use metrics.
@@ -26,6 +34,18 @@ Jingxuan Chen, Derek Yuen, Bin Xie, Yuhao Yang, Gongwei Chen, Zhihao Wu, Li Yixi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-15164/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-15164/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_15164,
+  title = {{SPA-Bench: A Comprehensive Benchmark for SmartPhone Agent Evaluation}},
+  author = {{Jingxuan Chen} and {Derek Yuen} and {Bin Xie} and {Yuhao Yang} and {Gongwei Chen} and {Zhihao Wu} and {Li Yixing} and {Xurui Zhou} and {Weiwen Liu} and {Shuai Wang} and {Kaiwen Zhou} and {Rui Shao} and {Liqiang Nie} and {Yasheng Wang} and {Jianye Hao} and {Jun Wang} and {Kun Shao}},
+  year = {2024},
+  eprint = {2410.15164v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.15164v3},
+  note = {First published: 2024-10-19; Recorded arXiv version: v3; Recorded version updated: 2025-03-31T20:39:17Z.}
+}
+```
 
 ## Publication record
 

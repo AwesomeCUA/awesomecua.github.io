@@ -1,3 +1,11 @@
+---
+title: "Maa Support Extension | AwesomeCUA"
+url: https://awesomecua.com/resources/github-neko-para-maa-support-extension/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # Maa Support Extension
 
 A VS Code extension for MaaFramework projects that queries, completes and checks Pipeline tasks and image paths, runs interface.json tasks, takes screenshots and opens Pipelines in MaaPipelineEditor.

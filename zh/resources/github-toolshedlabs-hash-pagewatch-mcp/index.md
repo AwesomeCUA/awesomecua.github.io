@@ -1,3 +1,11 @@
+---
+title: "pagewatch-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-toolshedlabs-hash-pagewatch-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # pagewatch-mcp
 
 精简的 3 工具 Model Context Protocol 服务器，可将网页读取为 Markdown、捕获截图并导出 PDF。

@@ -1,3 +1,11 @@
+---
+title: "FastCUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-guojiz-fastcua/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # FastCUA
 
 Local, accessibility-first Windows control plane for AI agents exposing structured UI trees and multi-action execution.

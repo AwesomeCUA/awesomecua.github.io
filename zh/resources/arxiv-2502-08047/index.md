@@ -1,3 +1,11 @@
+---
+title: "WorldGUI: An Interactive Benchmark for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2502-08047/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point
 
 提出初始状态各异的桌面和网页任务，测试智能体在常规初始配置之外的规划恢复与适应能力。
@@ -27,6 +35,18 @@ Henry Hengyuan Zhao, Kaiming Yang, Wendi Yu, Difei Gao, Mike Zheng Shou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2502-08047/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2502-08047/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_08047,
+  title = {{WorldGUI: An Interactive Benchmark for Desktop GUI Automation from Any Starting Point}},
+  author = {{Henry Hengyuan Zhao} and {Kaiming Yang} and {Wendi Yu} and {Difei Gao} and {Mike Zheng Shou}},
+  year = {2025},
+  eprint = {2502.08047v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.08047v5},
+  note = {First published: 2025-02-12; Recorded arXiv version: v5; Recorded version updated: 2026-05-23T20:19:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

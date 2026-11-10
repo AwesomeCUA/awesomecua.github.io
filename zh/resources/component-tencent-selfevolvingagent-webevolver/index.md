@@ -1,3 +1,11 @@
+---
+title: "WebEvolver code component · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/component-tencent-selfevolvingagent-webevolver/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # WebEvolver code component
 
 用于收集网页智能体轨迹、准备监督数据，以及基于世界模型合成轨迹的组件。

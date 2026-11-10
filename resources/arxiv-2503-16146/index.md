@@ -1,3 +1,11 @@
+---
+title: "Distributed Split Computing Using Diffusive… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-16146/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Distributed Split Computing Using Diffusive Metrics for UAV Swarms
 
 Status: excluded from the active CUA catalog after scope review.

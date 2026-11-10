@@ -1,3 +1,11 @@
+---
+title: "MAWR (Machine-Aware Web Runtime) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-iasolutionorg-mawr/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # MAWR (Machine-Aware Web Runtime)
 
 Open-source, Chromium-free lightweight web runtime engineered specifically for machines and AI web agents.

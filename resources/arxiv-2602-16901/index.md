@@ -1,3 +1,11 @@
+---
+title: "AgentLAB: Benchmarking LLM Agents against… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-16901/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentLAB: Benchmarking LLM Agents against Long-Horizon Attacks
 
 Status: excluded from the active CUA catalog after scope review.

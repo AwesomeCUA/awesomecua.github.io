@@ -1,3 +1,11 @@
+---
+title: "MyMusic | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-neteasecloudmusic/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # MyMusic
 
 A simplified Android music app with fixed local data and action records for checking whether mobile GUI agents complete tasks.

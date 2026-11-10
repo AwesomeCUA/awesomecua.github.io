@@ -1,3 +1,11 @@
+---
+title: "Beyond Task Completion: Training Capable… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-22178/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Beyond Task Completion: Training Capable and Safe Computer-Use Agents
 
 SCOPE 利用常规任务演示、面对危险时的安全续接行为和明确拒绝来训练计算机使用智能体。其 SCOPE-Gen 流程将可验证任务与环境风险变体配对，以支持能力与安全性的联合训练。
@@ -27,6 +35,18 @@ Zeyu Kang, Zhenyun Yin, Yang Zhang, Shan He, Shanzhe Lei, Yanjiu Zhong, Xinquan 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-22178/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-22178/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_22178,
+  title = {{Beyond Task Completion: Training Capable and Safe Computer-Use Agents}},
+  author = {{Zeyu Kang} and {Zhenyun Yin} and {Yang Zhang} and {Shan He} and {Shanzhe Lei} and {Yanjiu Zhong} and {Xinquan Chen} and {Xuhong Wang}},
+  year = {2026},
+  eprint = {2609.22178v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.22178v2},
+  note = {First published: 2026-08-27; Recorded arXiv version: v2; Recorded version updated: 2026-09-22T06:39:18Z.}
+}
+```
 
 ## arXiv 版本记录
 

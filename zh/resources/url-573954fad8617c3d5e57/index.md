@@ -1,3 +1,11 @@
+---
+title: "KNOWS Benchmark · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-573954fad8617c3d5e57/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # KNOWS Benchmark
 
 KNOWS 提供 110 项网页智能体任务的提示词和评分细则，用于在 Google Workspace 中创建文档、电子表格和幻灯片。

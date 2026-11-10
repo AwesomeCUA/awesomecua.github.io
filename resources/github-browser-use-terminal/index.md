@@ -1,3 +1,11 @@
+---
+title: "Browser Use Terminal | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-use-terminal/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Use Terminal
 
 Browser Use Terminal is a Rust terminal user interface (TUI) for interactively controlling and monitoring browser-use agents.

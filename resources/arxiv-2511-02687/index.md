@@ -1,3 +1,11 @@
+---
+title: "The Collaboration Gap: Exploration and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-02687/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # The Collaboration Gap: Exploration and Benchmarking of Open-World Agentic Cooperation
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "A Real-World WebAgent with Planning… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2307-12856/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis
 
 结合任务分解、HTML 摘要和生成的 Python 程序，在网站上执行指令。
@@ -27,6 +35,18 @@ Izzeddin Gur, Hiroki Furuta, Austin Huang, Mustafa Safdari, Yutaka Matsuo, Dougl
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2307-12856/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2307-12856/citation.csl.json
+
+```bibtex
+@misc{arxiv_2307_12856,
+  title = {{A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis}},
+  author = {{Izzeddin Gur} and {Hiroki Furuta} and {Austin Huang} and {Mustafa Safdari} and {Yutaka Matsuo} and {Douglas Eck} and {Aleksandra Faust}},
+  year = {2023},
+  eprint = {2307.12856v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2307.12856v4},
+  note = {First published: 2023-07-24; Recorded arXiv version: v4; Recorded version updated: 2024-02-25T16:17:43Z.}
+}
+```
 
 ## arXiv 版本记录
 

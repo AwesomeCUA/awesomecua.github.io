@@ -1,3 +1,11 @@
+---
+title: "Sparse implicitization by interpolation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1411-2846/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Sparse implicitization by interpolation: Geometric computations using matrix representations
 
 Status: excluded from the active CUA catalog after scope review.

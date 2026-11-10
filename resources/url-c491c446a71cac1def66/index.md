@@ -1,3 +1,11 @@
+---
+title: "Holo1 3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-c491c446a71cac1def66/
+updated: 2026-10-19
+type: model
+lang: en
+---
+
 # Holo1 3B
 
 The 3B Holo1 action VLM, fine-tuned from Qwen2.5-VL-3B-Instruct to act as policy, UI localizer or answer validator inside the Surfer-H browser agent.

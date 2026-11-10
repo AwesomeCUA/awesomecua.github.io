@@ -1,3 +1,11 @@
+---
+title: "vco (Visual Computer Operate) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lo2589-vco/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # vco (Visual Computer Operate)
 
 由 Shell 驱动的可视化计算机使用工具包，使 LLM 能够查看和点击网页及桌面屏幕。

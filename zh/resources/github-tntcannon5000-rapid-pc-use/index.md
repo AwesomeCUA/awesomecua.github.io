@@ -1,3 +1,11 @@
+---
+title: "Rapid PC Use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tntcannon5000-rapid-pc-use/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Rapid PC Use
 
 面向 Codex 和 ChatGPT 桌面版的高速原生 Windows 桌面控制桥接工具。

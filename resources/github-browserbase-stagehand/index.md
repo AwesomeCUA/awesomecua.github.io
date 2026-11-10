@@ -1,3 +1,11 @@
+---
+title: "Stagehand (github.com/browserbase/stagehand) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browserbase-stagehand/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # Stagehand
 
 Browser automation framework combining code and natural-language actions.

@@ -1,3 +1,11 @@
+---
+title: "DeepSeekEyes · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dttxorg-deepseekeyes/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # DeepSeekEyes
 
 面向 DeepSeek Harness 的可审计视觉与跨平台计算机使用运行时，提供加密证据凭据。

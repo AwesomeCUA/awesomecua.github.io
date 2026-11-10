@@ -1,3 +1,11 @@
+---
+title: "Awesome GUI Agent Security · 学习资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yuxuan2003-awesome-gui-agent-security/
+updated: 2026-11-04
+type: learning
+lang: zh-CN
+---
+
 # Awesome GUI Agent Security
 
 按攻击与防御两个维度整理的双语精选阅读清单，收录 GUI、计算机使用和浏览器智能体安全论文。

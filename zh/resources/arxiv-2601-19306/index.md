@@ -1,3 +1,11 @@
+---
+title: "Curiosity Driven Knowledge Retrieval for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2601-19306/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # Curiosity Driven Knowledge Retrieval for Mobile Agents
 
 该方法在执行存在不确定性时，从应用文档、代码和历史轨迹中检索知识，并将结果整理为结构化 AppCards，供 Android 智能体规划使用。
@@ -27,6 +35,18 @@ Sijia Li, Xiaoyu Tan, Shahir Ali, Niels Schmidt, Gengchen Ma, Xihe Qiu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2601-19306/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2601-19306/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_19306,
+  title = {{Curiosity Driven Knowledge Retrieval for Mobile Agents}},
+  author = {{Sijia Li} and {Xiaoyu Tan} and {Shahir Ali} and {Niels Schmidt} and {Gengchen Ma} and {Xihe Qiu}},
+  year = {2026},
+  eprint = {2601.19306v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.19306v1},
+  note = {First published: 2026-01-27; Recorded arXiv version: v1; Recorded version updated: 2026-01-27T07:46:05Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "WinDeskGround (benchmark) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zzzhr-1-windeskground/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # WinDeskGround
 
 WinDeskGround benchmarks desktop GUI grounding in multi-window Windows environments with controlled occlusion, scaling, and interference levels.

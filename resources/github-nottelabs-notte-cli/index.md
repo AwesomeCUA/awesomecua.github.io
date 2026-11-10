@@ -1,3 +1,11 @@
+---
+title: "Notte CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nottelabs-notte-cli/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Notte CLI
 
 A command-line tool for controlling remote browser sessions, handling files and running repeatable web automation workflows.

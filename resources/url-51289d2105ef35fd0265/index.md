@@ -1,3 +1,11 @@
+---
+title: "Beam | AwesomeCUA"
+url: https://awesomecua.com/resources/url-51289d2105ef35fd0265/
+updated: 2026-10-20
+type: product
+lang: en
+---
+
 # Beam
 
 Serverless cloud for AI workloads whose persistent microVMs for agents can include a Linux desktop with a browser that the SDKs, CLI and an MCP server operate through screenshots, clicks, key presses and typing.

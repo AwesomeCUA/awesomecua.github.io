@@ -1,3 +1,11 @@
+---
+title: "Animation2Code: Evaluating Temporal Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-28593/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Animation2Code: Evaluating Temporal Visual Reasoning in Video-to-Code Generation
 
 Bibliographic record for Animation2Code: Evaluating Temporal Visual Reasoning in Video-to-Code Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Anya Ji, Abhijith Varma Mudunuri, David M. Chan, Alane Suhr
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-28593/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-28593/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_28593,
+  title = {{Animation2Code: Evaluating Temporal Visual Reasoning in Video-to-Code Generation}},
+  author = {{Anya Ji} and {Abhijith Varma Mudunuri} and {David M. Chan} and {Alane Suhr}},
+  year = {2026},
+  eprint = {2606.28593v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.28593v1},
+  note = {First published: 2026-06-26; Recorded arXiv version: v1; Recorded version updated: 2026-06-26T20:38:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

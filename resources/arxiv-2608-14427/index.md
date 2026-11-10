@@ -1,3 +1,11 @@
+---
+title: "Large-scale workflow placement in serverless… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-14427/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Large-scale workflow placement in serverless computing using integer nonlinear programming
 
 Status: excluded from the active CUA catalog after scope review.

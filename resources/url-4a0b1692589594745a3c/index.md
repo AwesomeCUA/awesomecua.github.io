@@ -1,3 +1,11 @@
+---
+title: "OpenCUA 72B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-4a0b1692589594745a3c/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # OpenCUA 72B
 
 A Qwen2.5-VL-based computer-use checkpoint that combines screenshot history and reflective reasoning to predict executable desktop actions.

@@ -1,3 +1,11 @@
+---
+title: "Hronaut for Codex · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hronaut-hronaut-codex-plugin/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # Hronaut for Codex
 
 一个通过 MCP 服务器和随附技能，将编程智能体连接到 Hronaut 桌面浏览器的 Codex 插件。

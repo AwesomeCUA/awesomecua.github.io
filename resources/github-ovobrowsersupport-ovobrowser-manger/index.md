@@ -1,3 +1,11 @@
+---
+title: "ovoBrowser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ovobrowsersupport-ovobrowser-manger/
+updated: 2026-11-09
+type: product
+lang: en
+---
+
 # ovoBrowser
 
 ovoBrowser is a desktop client for managing isolated browser profiles and proxies. Its local API exposes opened profiles to browser automation tools.

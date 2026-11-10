@@ -1,3 +1,11 @@
+---
+title: "action-choice-bench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gbesse-action-choice-bench/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # action-choice-bench
 
 action-choice-bench evaluates discrete UI action selection and calibrated abstention on frozen interface states.

@@ -1,3 +1,11 @@
+---
+title: "Kernel Eval Protocol | AwesomeCUA"
+url: https://awesomecua.com/resources/github-kernel-kernel-eval-protocol-quickstart/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Kernel Eval Protocol
 
 Evaluates and fine-tunes vision-language browser agents using Eval Protocol, Kernel cloud browsers, and verifiable task graders.

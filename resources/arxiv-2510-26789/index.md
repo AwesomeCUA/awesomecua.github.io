@@ -1,3 +1,11 @@
+---
+title: "Entanglement-assisted circuit knitting… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-26789/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Entanglement-assisted circuit knitting: Distributed quantum computing using limited entanglement resources
 
 Status: excluded from the active CUA catalog after scope review.

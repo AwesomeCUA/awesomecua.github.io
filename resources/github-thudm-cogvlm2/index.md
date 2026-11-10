@@ -1,3 +1,11 @@
+---
+title: "CogVLM2 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-thudm-cogvlm2/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # CogVLM2
 
 CogVLM2 releases high-resolution image and video vision-language models supporting visual grounding, document reading, and GUI understanding.

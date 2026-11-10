@@ -1,3 +1,11 @@
+---
+title: "CUArena · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ogutdgn-cuarena/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CUArena
 
 CUArena 将桌面和网页应用封装为可重置、可观察且可通过程序评分的强化学习环境。

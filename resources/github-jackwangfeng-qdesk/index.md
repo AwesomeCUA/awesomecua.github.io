@@ -1,3 +1,11 @@
+---
+title: "qdesk | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jackwangfeng-qdesk/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # qdesk
 
 qdesk is an open-source AI agent desktop sandbox providing an isolated Linux and Chromium environment controllable over HTTP.

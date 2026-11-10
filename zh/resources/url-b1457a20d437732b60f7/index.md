@@ -1,3 +1,11 @@
+---
+title: "Holo4-27B-NVFP4 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b1457a20d437732b60f7/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Holo4-27B-NVFP4
 
 Holo4 的量化视觉语言模型检查点用于网页、桌面和移动界面操作；配套运行框架可执行模型请求的界面操作与工具调用。

@@ -1,3 +1,11 @@
+---
+title: "Mind2Web 2 · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-osu-nlp-group-mind2web-2/
+updated: 2026-10-18
+type: benchmark
+lang: zh-CN
+---
+
 # Mind2Web 2
 
 长程智能体网页搜索基准，使用 Agent-as-a-Judge 框架评估随时间变化且有引文支持的答案，并提供开发集和测试集的评估脚本。

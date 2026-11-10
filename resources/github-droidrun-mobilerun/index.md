@@ -1,3 +1,11 @@
+---
+title: "Mobilerun (formerly Droidrun) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-droidrun-mobilerun/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # Mobilerun (formerly Droidrun)
 
 A framework that combines screenshots and accessibility state with agent tools for mobile-device tasks through command-line and Python interfaces.

@@ -1,3 +1,11 @@
+---
+title: "VillagerAgent & VillagerBench | AwesomeCUA"
+url: https://awesomecua.com/resources/github-cnsdqd-dyb-villageragent/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # VillagerAgent & VillagerBench
 
 VillagerAgent provides a directed-acyclic-graph multi-agent coordinator and the VillagerBench evaluation suite in Minecraft.

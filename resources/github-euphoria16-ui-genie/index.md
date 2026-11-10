@@ -1,3 +1,11 @@
+---
+title: "UI-Genie | AwesomeCUA"
+url: https://awesomecua.com/resources/github-euphoria16-ui-genie/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # UI-Genie
 
 Training and evaluation code for a mobile-agent framework that iteratively generates trajectories using agent and reward-model feedback.

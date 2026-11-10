@@ -1,3 +1,11 @@
+---
+title: "Gemini Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/url-879d4e3e75e83582bde6/
+updated: 2026-10-20
+type: model
+lang: en
+---
+
 # Gemini Computer Use
 
 Gemini capability for generating interface actions from screenshots.

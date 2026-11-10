@@ -1,3 +1,11 @@
+---
+title: "Agentic Coding Needs Proactivity, Not Just… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-06717/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agentic Coding Needs Proactivity, Not Just Autonomy
 
 Status: excluded from the active CUA catalog after scope review.

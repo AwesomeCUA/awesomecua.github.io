@@ -1,3 +1,11 @@
+---
+title: "PhyAgentOS: A Self-Evolving Operating System… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-16636/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # PhyAgentOS: A Self-Evolving Operating System for Embodied Agents with Decoupled Cognitive Planning and Physical Execution
 
 Status: excluded from the active CUA catalog after scope review.

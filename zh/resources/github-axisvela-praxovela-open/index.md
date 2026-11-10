@@ -1,3 +1,11 @@
+---
+title: "PRAXOVELA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-axisvela-praxovela-open/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # PRAXOVELA
 
 可治理、以本地优先的桌面智能体运行时，支持策略执行和可审计的执行轨迹。

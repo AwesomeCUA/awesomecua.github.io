@@ -1,3 +1,11 @@
+---
+title: "only-cli (oc) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-only-cli-oc/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # only-cli (oc)
 
 Compiles websites into compact, token-efficient CLI commands tailored for AI agents.

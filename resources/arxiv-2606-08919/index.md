@@ -1,3 +1,11 @@
+---
+title: "Oversight Has a Capacity: Calibrating Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-08919/
+updated: 2026-11-05
+type: paper
+lang: en
+---
+
 # Oversight Has a Capacity: Calibrating Agent Guards to a Subjective, Fatiguing Human
 
 Bibliographic record for Oversight Has a Capacity: Calibrating Agent Guards to a Subjective, Fatiguing Human. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Emre Turan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-08919/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-08919/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_08919,
+  title = {{Oversight Has a Capacity: Calibrating Agent Guards to a Subjective, Fatiguing Human}},
+  author = {{Emre Turan}},
+  year = {2026},
+  eprint = {2606.08919v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.08919v1},
+  note = {First published: 2026-06-08; Recorded arXiv version: v1; Recorded version updated: 2026-06-08T01:52:22Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

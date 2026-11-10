@@ -1,3 +1,11 @@
+---
+title: "Notte · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nottelabs-notte/
+updated: 2026-10-20
+type: framework
+lang: zh-CN
+---
+
 # Notte
 
 用于托管 Chrome 会话的网页智能体框架和云端 SDK，提供 CLI、面向编程智能体的 MCP 服务器、无服务器浏览器函数，以及根据英文任务构建自动化流程的 API。

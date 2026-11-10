@@ -1,3 +1,11 @@
+---
+title: "Xihe Agent (羲和) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jiugao-yi-xihe-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Xihe Agent (羲和)
 
 单进程工具调用智能体运行时，可跨 CLI、企业聊天网关、桌面 GUI 和真实浏览器运行。

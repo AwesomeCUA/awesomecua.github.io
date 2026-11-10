@@ -1,3 +1,11 @@
+---
+title: "Can Coding Agents Solve Repository-Level… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-09268/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Can Coding Agents Solve Repository-Level Issues with Rendered Code? An Exploratory Study of Visual Representations
 
 Status: excluded from the active CUA catalog after scope review.

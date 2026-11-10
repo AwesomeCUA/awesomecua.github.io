@@ -1,3 +1,11 @@
+---
+title: "Oracle E-Business Suite Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-oracle-ebs-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Oracle E-Business Suite Browser Automation
 
 A browser automation scaffold for Oracle E-Business Suite workflows. It describes Puppeteer and cloud browser options for login, requisitions, approvals and requests.

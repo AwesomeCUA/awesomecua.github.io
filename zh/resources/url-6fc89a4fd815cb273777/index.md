@@ -1,3 +1,11 @@
+---
+title: "InternVL3-78B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6fc89a4fd815cb273777/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3-78B
 
 InternVL3-78B 是已发布的多模态模型权重；其模型系列说明介绍了 GUI 操作训练数据和 GUI 定位评测，也涵盖更广泛的视觉语言任务。

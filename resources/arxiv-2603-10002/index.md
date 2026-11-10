@@ -1,3 +1,11 @@
+---
+title: "SpreadsheetArena: Decomposing Preference in… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2603-10002/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks
 
 Bibliographic record for SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Srivatsa Kundurthy, Clara Na, Michael Handley, Zach Kirshner, Chen Bo Calvin Zha
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2603-10002/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2603-10002/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_10002,
+  title = {{SpreadsheetArena: Decomposing Preference in LLM Generation of Spreadsheet Workbooks}},
+  author = {{Srivatsa Kundurthy} and {Clara Na} and {Michael Handley} and {Zach Kirshner} and {Chen Bo Calvin Zhang} and {Manasi Sharma} and {Emma Strubell} and {John Ling}},
+  year = {2026},
+  eprint = {2603.10002v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.10002v2},
+  note = {First published: 2026-02-16; Recorded arXiv version: v2; Recorded version updated: 2026-07-02T20:32:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

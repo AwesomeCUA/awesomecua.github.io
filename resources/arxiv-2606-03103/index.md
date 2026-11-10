@@ -1,3 +1,11 @@
+---
+title: "DeskCraft: Benchmarking Desktop Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-03103/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration
 
 DeskCraft evaluates professional desktop workflows and human-agent collaboration through mid-execution clarification, interruption and post-completion feedback. Its tasks cover creative applications and expose difficulties in long-horizon execution and proactive clarification.
@@ -26,6 +34,18 @@ Wenkai Wang, Tao Xiong, Jingchen Ni, Yunpeng Bao, Xiyun Li, Tianqi Liu, Hongcan 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-03103/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-03103/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_03103,
+  title = {{DeskCraft: Benchmarking Desktop Agents on Professional Workflows and Human-in-the-Loop Collaboration}},
+  author = {{Wenkai Wang} and {Tao Xiong} and {Jingchen Ni} and {Yunpeng Bao} and {Xiyun Li} and {Tianqi Liu} and {Hongcan Guo} and {Zilong Huang} and {Shengyu Zhang}},
+  year = {2026},
+  eprint = {2606.03103v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.03103v1},
+  note = {First published: 2026-06-02; Recorded arXiv version: v1; Recorded version updated: 2026-06-02T03:42:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

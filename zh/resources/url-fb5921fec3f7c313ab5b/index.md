@@ -1,3 +1,11 @@
+---
+title: "Kimi-VL-A3B-Thinking-2506 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fb5921fec3f7c313ab5b/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Kimi-VL-A3B-Thinking-2506
 
 具备高分辨率图像输入能力并发布权重的多模态推理模型。作者报告了它在 ScreenSpot-Pro、ScreenSpot-V2 和 OSWorld-G 上的 GUI 定位评估。

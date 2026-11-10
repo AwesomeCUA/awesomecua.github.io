@@ -1,3 +1,11 @@
+---
+title: "Crimson-Heart · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yeyvhaiou-crimson-heart/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Crimson-Heart
 
 持续运行的多模态桌面智能体，具备显式运行时状态管理、感知优先级的调度和可中断执行能力。

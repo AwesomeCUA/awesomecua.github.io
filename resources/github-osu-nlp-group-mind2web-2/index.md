@@ -1,3 +1,11 @@
+---
+title: "Mind2Web 2 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-osu-nlp-group-mind2web-2/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # Mind2Web 2
 
 Long-horizon agentic web search benchmark whose Agent-as-a-Judge framework scores time-varying, citation-backed answers, with evaluation scripts for its dev and test sets.

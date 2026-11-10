@@ -1,3 +1,11 @@
+---
+title: "WebLINX 1.1 (WebLINX-BrowserGym) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-77afb3a9b045a157167c/
+updated: 2026-10-18
+type: benchmark
+lang: en
+---
+
 # WebLINX 1.1 (WebLINX-BrowserGym)
 
 WebLINX 1.1, a reprocessed release of WebLINX's conversational web-navigation demonstrations packaged as single-step BrowserGym tasks that score one predicted browser action against the recorded turn.

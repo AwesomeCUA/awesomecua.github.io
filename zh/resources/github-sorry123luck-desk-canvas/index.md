@@ -1,3 +1,11 @@
+---
+title: "DeskCanvas · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sorry123luck-desk-canvas/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # DeskCanvas
 
 DeskCanvas 将实时 Windows 应用窗口转换为结构化语义状态，并为 AI 智能体提供受保护的动作执行能力。

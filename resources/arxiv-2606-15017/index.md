@@ -1,3 +1,11 @@
+---
+title: "Are Online Skill and Memory Modules Always… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-15017/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents
 
 Compares online skill and memory augmentations with a vanilla web agent given the same total inference-token budget. Across WebArena and WorkArena settings, it studies when module overhead removes aggregate gains and how rerun variability changes conclusions.
@@ -26,6 +34,18 @@ Sina Hajimiri, Masih Aminbeidokhti, Jose Dolz, Ismail Ben Ayed, Issam H. Laradji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-15017/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-15017/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_15017,
+  title = {{Are Online Skill and Memory Modules Always Worth Their Tokens? A Budget-Constrained Study of Web Agents}},
+  author = {{Sina Hajimiri} and {Masih Aminbeidokhti} and {Jose Dolz} and {Ismail Ben Ayed} and {Issam H. Laradji} and {Spandana Gella} and {Nicolas Gontier}},
+  year = {2026},
+  eprint = {2606.15017v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.15017v2},
+  note = {First published: 2026-06-12; Recorded arXiv version: v2; Recorded version updated: 2026-08-30T17:49:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

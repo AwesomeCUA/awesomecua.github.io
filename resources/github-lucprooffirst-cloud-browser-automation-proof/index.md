@@ -1,3 +1,11 @@
+---
+title: "Cloud Browser Automation Proof | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lucprooffirst-cloud-browser-automation-proof/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Cloud Browser Automation Proof
 
 Verified Playwright and Puppeteer recipes for connecting AI agents to remote CDP cloud browser sessions.

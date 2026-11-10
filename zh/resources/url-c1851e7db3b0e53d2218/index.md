@@ -1,3 +1,11 @@
+---
+title: "moonshotai/Kimi-VL-A3B-Thinking · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c1851e7db3b0e53d2218/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # moonshotai/Kimi-VL-A3B-Thinking
 
 Kimi-VL-A3B-Thinking 是已发布的侧重推理的视觉语言模型权重。其模型卡还报告了 Kimi-VL 系列在桌面智能体任务和屏幕定位上的评测。

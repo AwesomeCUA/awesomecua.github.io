@@ -1,3 +1,11 @@
+---
+title: "Reservoir Computing using Cellular Automata | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1410-0162/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Reservoir Computing using Cellular Automata
 
 Status: excluded from the active CUA catalog after scope review.

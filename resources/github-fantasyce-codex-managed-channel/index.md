@@ -1,3 +1,11 @@
+---
+title: "Codex Managed Channel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-fantasyce-codex-managed-channel/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Codex Managed Channel
 
 Lifecycle-controlled SSH channel manager for driving Codex Desktop sessions on a remote Mac.

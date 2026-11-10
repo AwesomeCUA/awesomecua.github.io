@@ -1,3 +1,11 @@
+---
+title: "Agent Access | AwesomeCUA"
+url: https://awesomecua.com/resources/github-r266-tech-agent-access/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Agent Access
 
 Universal access layer that routes websites, apps, and repeated workflows into agent-native CLIs with CDP and GUI fallback.

@@ -1,3 +1,11 @@
+---
+title: "Video-Based Reward Modeling for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2603-10178/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Video-Based Reward Modeling for Computer-Use Agents
 
 基于执行视频、指令和奖励三元组构建 ExeVR-53k，其中包括带步骤标注的负向指令。奖励模型通过时空 token 剪枝，依据指令和执行关键帧判断任务是否完成。
@@ -27,6 +35,18 @@ Linxin Song, Jieyu Zhang, Huanxin Sheng, Taiwei Shi, Gupta Rahul, Yang Liu, Ranj
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2603-10178/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2603-10178/citation.csl.json
+
+```bibtex
+@misc{arxiv_2603_10178,
+  title = {{Video-Based Reward Modeling for Computer-Use Agents}},
+  author = {{Linxin Song} and {Jieyu Zhang} and {Huanxin Sheng} and {Taiwei Shi} and {Gupta Rahul} and {Yang Liu} and {Ranjay Krishna} and {Jian Kang} and {Jieyu Zhao}},
+  year = {2026},
+  eprint = {2603.10178v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2603.10178v1},
+  note = {First published: 2026-03-10; Recorded arXiv version: v1; Recorded version updated: 2026-03-10T19:17:22Z.}
+}
+```
 
 ## arXiv 版本记录
 

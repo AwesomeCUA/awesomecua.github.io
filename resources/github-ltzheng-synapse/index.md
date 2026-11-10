@@ -1,3 +1,11 @@
+---
+title: "Synapse | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ltzheng-synapse/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # Synapse
 
 A computer-control research implementation that retrieves example trajectories from memory, abstracts task-relevant state and prompts an agent to navigate browser tasks.

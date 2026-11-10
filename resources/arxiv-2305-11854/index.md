@@ -1,3 +1,11 @@
+---
+title: "Multimodal Web Navigation with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-11854/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Multimodal Web Navigation with Instruction-Finetuned Foundation Models
 
 Trains WebGUM offline from demonstrations by jointly tuning an instruction-following language model and a vision encoder over webpage screenshots and HTML. The agent predicts browser actions and is evaluated on MiniWoB, WebShop, and Mind2Web.
@@ -26,6 +34,18 @@ Hiroki Furuta, Kuang-Huei Lee, Ofir Nachum, Yutaka Matsuo, Aleksandra Faust, Shi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2305-11854/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2305-11854/citation.csl.json
+
+```bibtex
+@misc{arxiv_2305_11854,
+  title = {{Multimodal Web Navigation with Instruction-Finetuned Foundation Models}},
+  author = {{Hiroki Furuta} and {Kuang-Huei Lee} and {Ofir Nachum} and {Yutaka Matsuo} and {Aleksandra Faust} and {Shixiang Shane Gu} and {Izzeddin Gur}},
+  year = {2023},
+  eprint = {2305.11854v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2305.11854v4},
+  note = {First published: 2023-05-19; Recorded arXiv version: v4; Recorded version updated: 2024-02-25T16:21:00Z.}
+}
+```
 
 ## Publication record
 

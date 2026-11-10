@@ -1,3 +1,11 @@
+---
+title: "Case Flow · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dongxinsuperman-case-flow-ai/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # Case Flow
 
 Case Flow 是可视化测试工作台，可将测试用例分发给手机和网页执行器，再汇集运行状态、报告和证据供审核。

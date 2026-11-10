@@ -1,3 +1,11 @@
+---
+title: "Browser Forest MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jinmojing-browser-forest-mcp-server/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Browser Forest MCP Server
 
 用于操作经过反检测内核补丁修改的 Chromium 云浏览器配置文件的 Model Context Protocol 服务器。

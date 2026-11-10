@@ -1,3 +1,11 @@
+---
+title: "Inducing Programmatic Skills for Agentic Tasks | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-06821/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Inducing Programmatic Skills for Agentic Tasks
 
 Introduces agent skill induction (ASI), which creates, checks, and reuses program-based skills for web tasks by combining primitive actions into higher-level routines.
@@ -26,6 +34,18 @@ Zora Zhiruo Wang, Apurva Gandhi, Graham Neubig, Daniel Fried
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-06821/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-06821/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_06821,
+  title = {{Inducing Programmatic Skills for Agentic Tasks}},
+  author = {{Zora Zhiruo Wang} and {Apurva Gandhi} and {Graham Neubig} and {Daniel Fried}},
+  year = {2025},
+  eprint = {2504.06821v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.06821v2},
+  note = {First published: 2025-04-09; Recorded arXiv version: v2; Recorded version updated: 2025-08-29T15:46:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

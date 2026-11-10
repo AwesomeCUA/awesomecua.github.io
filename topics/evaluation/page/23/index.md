@@ -1,10 +1,17 @@
+---
+title: "Evaluation — computer-use research, page 23 | AwesomeCUA"
+url: https://awesomecua.com/topics/evaluation/page/23/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Evaluation — computer-use research, page 23
 
 HTML page: https://awesomecua.com/topics/evaluation/page/23/
 
 Full list: https://awesomecua.com/topics/evaluation/index.md
 
-- [Blender MCP](https://awesomecua.com/resources/github-bpy-dev-blender-mcp/)
 - [Bounded Multimodal Desktop GUI Agent](https://awesomecua.com/resources/github-momoyi0929-gui-agent/)
 - [Brotector](https://awesomecua.com/resources/github-kaliiiiiiiiii-brotector/)
 - [Browser Use macOS Harness](https://awesomecua.com/resources/github-browser-use-macos-harness/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/evaluation/index.md
 - [GoldenCut](https://awesomecua.com/resources/github-silbercue-goldencut/)
 - [GPT-Control](https://awesomecua.com/resources/github-wolfiesch-gpt-control/)
 - [grass-gui](https://awesomecua.com/resources/github-shiinahiiragi-grass-gui/)
+- [grok-chrome-mcp](https://awesomecua.com/resources/github-dietghardev-grok-chrome-mcp/)

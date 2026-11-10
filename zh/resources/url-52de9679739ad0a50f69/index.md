@@ -1,3 +1,11 @@
+---
+title: "Northstar-CUA-Fast · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-52de9679739ad0a50f69/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Northstar-CUA-Fast
 
 一款以 GUI 强化学习训练的 4B 参数计算机操作模型，将文字和屏幕截图转换为点击、输入及滚动等操作。

@@ -1,3 +1,11 @@
+---
+title: "Claude-Surf | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vibesurf-ai-claude-surf/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Claude-Surf
 
 A Claude Code plugin that connects to VibeSurf to control browser pages, run web automation workflows and access browser-use agents.

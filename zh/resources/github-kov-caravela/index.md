@@ -1,3 +1,11 @@
+---
+title: "caravela · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-kov-caravela/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # caravela
 
 可编程的浏览器使用 CLI 和库，通过 CDP 驱动 Chromium，可选择在受管理的 Weston Wayland 合成器中运行。

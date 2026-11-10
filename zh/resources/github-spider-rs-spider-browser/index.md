@@ -1,3 +1,11 @@
+---
+title: "spider-browser · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-spider-rs-spider-browser/
+updated: 2026-11-09
+type: framework
+lang: zh-CN
+---
+
 # spider-browser
 
 这是一个云端浏览器 SDK，提供页面控制、自然语言操作、元素观察和自主智能体运行，并支持多种编程语言。

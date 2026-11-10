@@ -1,3 +1,11 @@
+---
+title: "browserctl · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nguyenvanhuy0612-browserctl/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # browserctl
 
 Chrome 扩展、本地桥接工具和 MCP 服务器，使 AI 智能体能够在后台操控真实的 Chrome 配置文件。

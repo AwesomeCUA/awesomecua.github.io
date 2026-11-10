@@ -1,3 +1,11 @@
+---
+title: "Botright | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vinyzu-botright/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Botright
 
 Botright is a Playwright-based stealth browser automation framework with fingerprint spoofing and CAPTCHA-solving utilities.

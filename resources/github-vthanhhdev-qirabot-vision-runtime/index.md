@@ -1,3 +1,11 @@
+---
+title: "NeuroSight (QiraBot Vision Runtime) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vthanhhdev-qirabot-vision-runtime/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # NeuroSight (QiraBot Vision Runtime)
 
 Selector-free AI vision automation runtime for desktop applications, mobile screens, and games.

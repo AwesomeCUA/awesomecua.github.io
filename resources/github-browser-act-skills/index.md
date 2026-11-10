@@ -1,3 +1,11 @@
+---
+title: "BrowserAct Skills | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-act-skills/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # BrowserAct Skills
 
 BrowserAct Skills provides reusable browser-automation and web-extraction skill definitions for AI agents.

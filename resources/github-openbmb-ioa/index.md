@@ -1,3 +1,11 @@
+---
+title: "Internet of Agents (IoA) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openbmb-ioa/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Internet of Agents (IoA)
 
 Internet of Agents (IoA) is a distributed framework for orchestrating heterogeneous multi-agent collaboration across devices and tools.

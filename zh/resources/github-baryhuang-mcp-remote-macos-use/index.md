@@ -1,3 +1,11 @@
+---
+title: "mcp-remote-macos-use · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-baryhuang-mcp-remote-macos-use/
+updated: 2026-10-20
+type: tool
+lang: zh-CN
+---
+
 # mcp-remote-macos-use
 
 MCP 服务器让 Claude Desktop 等 LLM 客户端经 Mac 内置 Screen Sharing 控制远程 Mac，通过 VNC 返回截图并发送按比例缩放的鼠标、键盘、滚动和拖动操作。

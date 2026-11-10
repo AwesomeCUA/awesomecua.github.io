@@ -1,3 +1,11 @@
+---
+title: "Chromeflow · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-neodrew-chromeflow/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chromeflow
 
 让编程智能体（Claude Code、Codex CLI）操控用户实际使用且已登录的 Chrome 浏览器，进行点击、填写表单和页面检查。

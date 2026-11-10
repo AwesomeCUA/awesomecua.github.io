@@ -1,3 +1,11 @@
+---
+title: "OpenGUI (Windows Native Service) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-lessenings-prog-opengui/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OpenGUI (Windows Native Service)
 
 基于 Windows 原生 .NET 9 的桌面自动化服务，向 LLM 智能体提供亚毫秒级命名管道 IPC 和 UI Automation 感知能力。

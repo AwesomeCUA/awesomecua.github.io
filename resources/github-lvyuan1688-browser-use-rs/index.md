@@ -1,3 +1,11 @@
+---
+title: "lvyuan1688 browser-use-rs | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lvyuan1688-browser-use-rs/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # lvyuan1688 browser-use-rs
 
 Rust port of the Browser Use architecture enabling LLMs to control web browsers with native speed.

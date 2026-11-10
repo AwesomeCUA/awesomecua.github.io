@@ -1,3 +1,11 @@
+---
+title: "Seq2act code (google-research) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/component-google-research-seq2act/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # Seq2act code (google-research)
 
 提供 TensorFlow 代码，将自然语言指令映射为 Android UI 操作序列，包含短语元组提取、元素定位模型，以及适用于 AndroidHowTo、RicoSCA 和 PixelHelp 的处理流程。

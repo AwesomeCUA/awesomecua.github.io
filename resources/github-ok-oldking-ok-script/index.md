@@ -1,3 +1,11 @@
+---
+title: "ok-script | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ok-oldking-ok-script/
+updated: 2026-11-10
+type: framework
+lang: en
+---
+
 # ok-script
 
 A Python framework for screen automation of Windows apps, games and Android devices with template matching, OCR and input, plus an MCP server through which coding agents screenshot targets, run, reload and package tasks.

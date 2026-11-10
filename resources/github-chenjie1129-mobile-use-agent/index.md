@@ -1,3 +1,11 @@
+---
+title: "Mobile Use Agent (Cloud Phone Skill) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chenjie1129-mobile-use-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Mobile Use Agent (Cloud Phone Skill)
 
 Python SDK, CLI, and agent skill for driving cloud Android phones via Volcengine Mobile Use Agent OpenAPI with GPS and app state injection.

@@ -1,3 +1,11 @@
+---
+title: "GLM-4.5V | AwesomeCUA"
+url: https://awesomecua.com/resources/url-97cfbcd45f879ff71499/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # GLM-4.5V
 
 A released vision-language model that documents screen reading, icon recognition, visual-element grounding and desktop operation assistance among its supported tasks.

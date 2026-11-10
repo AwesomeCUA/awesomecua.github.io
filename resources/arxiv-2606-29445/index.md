@@ -1,3 +1,11 @@
+---
+title: "Bridging VideoQA and Video-Guided Agentic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-29445/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction
 
 Introduces VG-GUIBench to evaluate GUI agents following video tutorials, and TASKER to select task-relevant keyframes for video-guided tasks and VideoQA.
@@ -26,6 +34,18 @@ Sunqi Fan, Qingle Liu, Runqi Yin, Meng-Hao Guo, Shuojin Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-29445/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-29445/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_29445,
+  title = {{Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction}},
+  author = {{Sunqi Fan} and {Qingle Liu} and {Runqi Yin} and {Meng-Hao Guo} and {Shuojin Yang}},
+  year = {2026},
+  eprint = {2606.29445v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.29445v1},
+  note = {First published: 2026-06-28; Recorded arXiv version: v1; Recorded version updated: 2026-06-28T15:11:19Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

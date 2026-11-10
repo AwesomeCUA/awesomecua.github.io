@@ -1,3 +1,11 @@
+---
+title: "MemAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dialogbased-interaction-goal-alignment/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # MemAgent
 
 MemAgent studies conversational goal alignment for web agents using task information and fine-tuned language models. Its repository provides data and training and execution scripts.

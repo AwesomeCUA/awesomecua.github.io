@@ -1,3 +1,11 @@
+---
+title: "MemGUI-Bench agent trajectories | AwesomeCUA"
+url: https://awesomecua.com/resources/url-2b7363c3a20d8022b319/
+updated: 2026-10-19
+type: dataset
+lang: en
+---
+
 # MemGUI-Bench agent trajectories
 
 Recorded MemGUI-Bench runs of mobile GUI agents and models, packaged as per-agent ZIP archives with step screenshots, action logs and evaluator outputs, plus compressed trajectory previews for the leaderboard viewer.

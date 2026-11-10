@@ -1,3 +1,11 @@
+---
+title: "easyAppStore | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xxjrq-easy-app-store/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # easyAppStore
 
 easyAppStore is an agent skill for preparing an iOS release and completing App Store Connect submission steps through a signed-in Chromium browser.

@@ -1,3 +1,11 @@
+---
+title: "tti_webarena · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a1621345ec327462b86e/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # tti_webarena
 
 来自 Test-Time Interaction（TTI）工作的 TTI-WebArena 检查点，是在 WebArena 任务上通过在线过滤行为克隆训练的多模态网页智能体，可在 TTI 评测配置中直接指定。

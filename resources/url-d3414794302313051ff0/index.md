@@ -1,3 +1,11 @@
+---
+title: "Manus (product) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d3414794302313051ff0/
+updated: 2026-10-16
+type: product
+lang: en
+---
+
 # Manus
 
 General agent platform with browser-based task execution.

@@ -1,3 +1,11 @@
+---
+title: "Modelling and computation using NCoRM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1608-00874/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Modelling and computation using NCoRM mixtures for density regression
 
 Status: excluded from the active CUA catalog after scope review.

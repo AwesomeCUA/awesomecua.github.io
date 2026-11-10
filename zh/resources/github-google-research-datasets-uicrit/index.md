@@ -1,3 +1,11 @@
+---
+title: "UICrit · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-google-research-datasets-uicrit/
+updated: 2026-10-17
+type: dataset
+lang: zh-CN
+---
+
 # UICrit
 
 包含区域坐标和 RICO 屏幕引用的移动端界面评语及质量评分，并提供一个由 3 名标注者参与、规模大于原论文数据集的版本。

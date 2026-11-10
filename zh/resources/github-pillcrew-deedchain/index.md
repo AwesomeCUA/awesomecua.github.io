@@ -1,3 +1,11 @@
+---
+title: "deedchain · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-pillcrew-deedchain/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # deedchain
 
 deedchain 以录制的真实网页执行轨迹为依据，评测浏览器智能体的报告保真度和幻觉率。

@@ -1,3 +1,11 @@
+---
+title: "cua-s1-forms · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-721c94bd6f2f3edc35ba/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # cua-s1-forms
 
 一个含 706,048 个参数的 GUI 表单动作评分模型，可并行评估各字段的候选操作。发布内容包括 safetensors 权重和配置文件。

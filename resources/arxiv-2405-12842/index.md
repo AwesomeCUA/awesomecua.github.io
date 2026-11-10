@@ -1,3 +1,11 @@
+---
+title: "SmartFlow: Robotic Process Automation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-12842/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # SmartFlow: Robotic Process Automation using LLMs
 
 Presents SmartFlow, which converts visible GUI elements into text for language-model action planning and executes the plan through a scripting engine. A collection of enterprise applications evaluates adaptation to different layouts and tasks.
@@ -26,6 +34,18 @@ Arushi Jain, Shubham Paliwal, Monika Sharma, Lovekesh Vig, Gautam Shroff
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-12842/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-12842/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_12842,
+  title = {{SmartFlow: Robotic Process Automation using LLMs}},
+  author = {{Arushi Jain} and {Shubham Paliwal} and {Monika Sharma} and {Lovekesh Vig} and {Gautam Shroff}},
+  year = {2024},
+  eprint = {2405.12842v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.12842v1},
+  note = {First published: 2024-05-21; Recorded arXiv version: v1; Recorded version updated: 2024-05-21T14:49:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

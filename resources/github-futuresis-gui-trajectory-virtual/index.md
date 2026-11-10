@@ -1,3 +1,11 @@
+---
+title: "GUI-Trajectory-Virtual | AwesomeCUA"
+url: https://awesomecua.com/resources/github-futuresis-gui-trajectory-virtual/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # GUI-Trajectory-Virtual
 
 Synthesizes Android agent trajectories without a device: an image model behind a chat-completions API draws each next screen from the previous screenshot and the action chosen by a Mobile-Agent-v3-style agent.

@@ -1,3 +1,11 @@
+---
+title: "Cua | AwesomeCUA"
+url: https://awesomecua.com/resources/github-trycua-cua/
+updated: 2026-10-20
+type: framework
+lang: en
+---
+
 # Cua
 
 Monorepo behind Cua Spaces, which gives agents full macOS or Linux desktops, plus Cua Driver for operating native apps, Lume for Apple Silicon VMs, Cua Bench and the CUA-S1 decision models.

@@ -1,3 +1,11 @@
+---
+title: "Kura · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-4f4e7c972e678f1d8c48/
+updated: 2026-10-20
+type: product
+lang: zh-CN
+---
+
 # Kura
 
 企业浏览器智能体构建工具，Recursion 智能体在实时网页上执行自然语言步骤，并将操作、导航、提取和检查保存为带缓存选择器的工作流模块，可部署为 API。

@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-30B-A3B-HF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-2ebcbc24ecbdc2db22fb/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-30B-A3B-HF
 
 InternVL3.5 的 Transformers 格式检查点，总参数 30.8B、激活参数 3B；其论文报告了该模型在 ScreenSpot、OSWorld-G、WindowsAgentArena 和 WebArena-Lite-v2 上的 GUI 定位与在线智能体结果。

@@ -1,3 +1,11 @@
+---
+title: "计算机使用智能体工具（第 7 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/tool/page/7/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体工具：第 7 页
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/page/7/ · [English](https://awesomecua.com/categories/tool/page/7/index.md)
@@ -99,8 +107,8 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/7/ · [English](htt
 - [DSH Qwen Web Bridge Plugin](https://awesomecua.com/zh/resources/github-andy294753951-dsh-plugin-qwen-web-bridge/)：DeepSeek Harness 插件，通过本地浏览器自动化操作已认证的 Qwen 网页会话。
 - [dsh-antibrow](https://awesomecua.com/zh/resources/github-antibrow-dsh-antibrow/)：DeepSeek Harness 插件，集成 AntiBrow 反检测浏览器，用于隐蔽的网页自动化。
 - [dsh-browser-firefox](https://awesomecua.com/zh/resources/github-tuojc-dsh-browser-firefox/)：面向 DeepSeek Harness 的 Firefox 浏览器控制插件和扩展，使智能体能够读取和操作实时 Firefox 标签页。
-- [dsh-browser-full-access](https://awesomecua.com/zh/resources/github-lianping-cyber-dsh-browser-full-access/)：用于 DeepSeek Harness 网页自动化的 `dsh-browser` 分支，支持后台标签页的完整访问。
 - [dsh-browser-ops](https://awesomecua.com/zh/resources/github-lirui1024k-dsh-browser-ops/)：DeepSeek Harness 插件，将智能体驱动的真实浏览器控制与工作流程录制结合。
 - [dsh-browser-plus](https://awesomecua.com/zh/resources/github-particlelight-dsh-browser-plus/)：面向 DeepSeek Harness 的可视化、由智能体驱动的 Electron WebContents 浏览器插件。
 - [dsh-browser-secure](https://awesomecua.com/zh/resources/github-frankxie-java-dsh-browser-secure/)：面向 DeepSeek Harness 的 `dsh-browser` 安全加固分支，增加审计日志和域名出站访问允许列表。
 - [dsh-browser-vision](https://awesomecua.com/zh/resources/github-tristan-mcinnis-dsh-browser-vision/)：面向 DeepSeek Harness 的视觉浏览器自动化插件，结合 Browser-Use 动作与页面截图检查。
+- [dsh-browseruse](https://awesomecua.com/zh/resources/github-yzd6552-commits-dsh-browseruse/)：面向 DeepSeek Harness 的 Browser-Use 风格插件，通过 Playwright 和 CDP 驱动专用 Chrome 配置文件。

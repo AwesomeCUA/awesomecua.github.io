@@ -1,3 +1,11 @@
+---
+title: "Beyond Browsing: API-Based Web Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-16464/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Beyond Browsing: API-Based Web Agents
 
 Compares browsing-only, API-only, and hybrid web agents on WebArena, examining how access to application APIs changes task execution alongside browser interaction.
@@ -26,6 +34,18 @@ Yueqi Song, Frank Xu, Shuyan Zhou, Graham Neubig
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2410-16464/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2410-16464/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_16464,
+  title = {{Beyond Browsing: API-Based Web Agents}},
+  author = {{Yueqi Song} and {Frank Xu} and {Shuyan Zhou} and {Graham Neubig}},
+  year = {2024},
+  eprint = {2410.16464v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.16464v3},
+  note = {First published: 2024-10-21; Recorded arXiv version: v3; Recorded version updated: 2025-06-16T22:23:37Z.}
+}
+```
 
 ## Publication record
 

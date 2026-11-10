@@ -1,3 +1,11 @@
+---
+title: "Terminal Agents Suffice for Enterprise… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-00073/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Terminal Agents Suffice for Enterprise Automation
 
 Studies enterprise automation by terminal agents that call platform APIs, comparing their task results and cost with other agent approaches, including web agents using graphical interfaces.
@@ -26,6 +34,18 @@ Patrice Bechard, Orlando Marquez Ayala, Emily Chen, Jordan Skelton, Sagar Davasa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-00073/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-00073/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_00073,
+  title = {{Terminal Agents Suffice for Enterprise Automation}},
+  author = {{Patrice Bechard} and {Orlando Marquez Ayala} and {Emily Chen} and {Jordan Skelton} and {Sagar Davasam} and {Srinivas Sunkara} and {Vikas Yadav} and {Sai Rajeswar}},
+  year = {2026},
+  eprint = {2604.00073v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.00073v4},
+  note = {First published: 2026-03-31; Recorded arXiv version: v4; Recorded version updated: 2026-10-14T14:23:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

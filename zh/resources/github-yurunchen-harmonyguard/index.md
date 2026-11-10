@@ -1,3 +1,11 @@
+---
+title: "HarmonyGuard · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yurunchen-harmonyguard/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # HarmonyGuard
 
 HarmonyGuard 对自主网页与计算机使用智能体实施自适应安全策略，并优化效用与安全性双重目标。

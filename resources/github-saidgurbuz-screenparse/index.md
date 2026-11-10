@@ -1,3 +1,11 @@
+---
+title: "ScreenParse Webshot toolkit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-saidgurbuz-screenparse/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # ScreenParse Webshot toolkit
 
 Official ScreenParse code: the Webshot toolkit that renders websites with Playwright, records visible DOM elements as boxed, nested annotations, relabels them with Qwen3-VL, exports YOLO data and evaluates parsers.

@@ -1,3 +1,11 @@
+---
+title: "DJCLIPZ Agent Controller · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-form-u-la-djclipz-agent-controller/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DJCLIPZ Agent Controller
 
 入门套件和控制器，供 AI 智能体通过编程方式驱动 DJCLIPZ 浏览器媒体应用。

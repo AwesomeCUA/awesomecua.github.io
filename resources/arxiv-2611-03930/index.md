@@ -1,3 +1,11 @@
+---
+title: "What Is This Memory Useful For? Measuring… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-03930/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # What Is This Memory Useful For? Measuring Task-Conditioned Utility in Long-Term Agent Memory
 
 Introduces task-conditioned measurements and a dataset for assessing whether stored agent memories help later tasks, using factual-recall tasks built from web-agent memories.
@@ -26,6 +34,18 @@ Chih-Hsuan Yang, Anjir Ahmed Chowdhury, Feng Yan, Rajeev Thakur
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-03930/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-03930/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_03930,
+  title = {{What Is This Memory Useful For? Measuring Task-Conditioned Utility in Long-Term Agent Memory}},
+  author = {{Chih-Hsuan Yang} and {Anjir Ahmed Chowdhury} and {Feng Yan} and {Rajeev Thakur}},
+  year = {2026},
+  eprint = {2611.03930v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.03930v1},
+  note = {First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T20:32:20Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

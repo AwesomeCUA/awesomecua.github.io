@@ -1,3 +1,11 @@
+---
+title: "nanoMuse: An Open-Source Personal Agent for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-08699/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # nanoMuse: An Open-Source Personal Agent for Every Device You Own
 
 Presents nanoMuse, an open-source personal agent designed to act on phone and computer screens, with a shared conversation, action-checking Sentinel, and readable file memory.
@@ -26,6 +34,18 @@ Guangyi Liu, Yong Liu, Jiangning Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-08699/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-08699/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_08699,
+  title = {{nanoMuse: An Open-Source Personal Agent for Every Device You Own}},
+  author = {{Guangyi Liu} and {Yong Liu} and {Jiangning Zhang}},
+  year = {2026},
+  eprint = {2610.08699v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.08699v1},
+  note = {First published: 2026-10-06; Recorded arXiv version: v1; Recorded version updated: 2026-10-06T17:13:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Plasmate Cookie Export | AwesomeCUA"
+url: https://awesomecua.com/resources/github-plasmate-labs-plasmate-extension/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Plasmate Cookie Export
 
 A Chrome extension transfers cookies from a user's signed-in browser session to Plasmate's local bridge, giving browser agents access to authenticated sites.

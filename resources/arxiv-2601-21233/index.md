@@ -1,3 +1,11 @@
+---
+title: "Just Ask: Curious Code Agents Reveal System… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-21233/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Just Ask: Curious Code Agents Reveal System Prompts in Frontier LLMs
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Scavenge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aarohim24-scavenge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Scavenge
 
 Deterministic web-field inspector that extracts and verifies single webpage values with cryptographic evidence for coding agents.

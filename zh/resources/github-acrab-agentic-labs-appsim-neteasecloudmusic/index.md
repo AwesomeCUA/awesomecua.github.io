@@ -1,3 +1,11 @@
+---
+title: "MyMusic · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-acrab-agentic-labs-appsim-neteasecloudmusic/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # MyMusic
 
 一款使用固定本地数据的简化版 Android 音乐应用，记录操作以检验移动端 GUI 智能体是否完成任务。

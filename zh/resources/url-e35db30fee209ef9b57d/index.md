@@ -1,3 +1,11 @@
+---
+title: "lumos_web_agent_plan_iterative · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e35db30fee209ef9b57d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # lumos_web_agent_plan_iterative
 
 一款针对网页智能体任务微调的 Lumos 规划模块模型检查点，以模型权重形式发布，并另有单独列出的训练数据集。

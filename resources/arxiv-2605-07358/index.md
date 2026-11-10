@@ -1,3 +1,11 @@
+---
+title: "A Comprehensive Survey on Agent Skills… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-07358/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications
 
 Bibliographic record for A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yingli Zhou, Wang Shu, Yaodong Su, Wenchuan Du, Yixiang Fang, Xuemin Lin
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-07358/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-07358/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_07358,
+  title = {{A Comprehensive Survey on Agent Skills: Taxonomy, Techniques, and Applications}},
+  author = {{Yingli Zhou} and {Wang Shu} and {Yaodong Su} and {Wenchuan Du} and {Yixiang Fang} and {Xuemin Lin}},
+  year = {2026},
+  eprint = {2605.07358v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.07358v3},
+  note = {First published: 2026-05-08; Recorded arXiv version: v3; Recorded version updated: 2026-05-26T05:21:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

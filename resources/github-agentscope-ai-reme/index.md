@@ -1,3 +1,11 @@
+---
+title: "ReMe | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentscope-ai-reme/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # ReMe
 
 ReMe is a local-first personal knowledge and procedural memory management framework for autonomous LLM agents.

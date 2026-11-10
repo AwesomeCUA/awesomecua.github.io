@@ -1,3 +1,11 @@
+---
+title: "Browser Use Cloud · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ef244017b1460269fc68/
+updated: 2026-10-18
+type: product
+lang: zh-CN
+---
+
 # Browser Use Cloud
 
 Browser Use 提供的托管式浏览器智能体平台。

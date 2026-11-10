@@ -1,3 +1,11 @@
+---
+title: "ComponentBench: Diagnosing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-18307/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents
 
 ComponentBench 利用已核验的任务和匹配的人类参考轨迹，评估与标准网页 UI 组件的短程交互；其诊断流程比较观察和动作的表示方式，并分析结构性难度、失败模式与交互效率。
@@ -27,6 +35,18 @@ Tianchen Guan, Xinlei Lin, Royce Cheng-Yue, Xiangjun Wang, Shuyan Zhou
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-18307/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-18307/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_18307,
+  title = {{ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents}},
+  author = {{Tianchen Guan} and {Xinlei Lin} and {Royce Cheng-Yue} and {Xiangjun Wang} and {Shuyan Zhou}},
+  year = {2026},
+  eprint = {2608.18307v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.18307v1},
+  note = {First published: 2026-08-18; Recorded arXiv version: v1; Recorded version updated: 2026-08-18T20:38:26Z.}
+}
+```
 
 ## arXiv 版本记录
 

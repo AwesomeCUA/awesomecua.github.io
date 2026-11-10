@@ -1,3 +1,11 @@
+---
+title: "showdown · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-generalagents-showdown/
+updated: 2026-11-10
+type: benchmark
+lang: zh-CN
+---
+
 # showdown
 
 showdown-clicks 基准的评测代码：eval.py 判断模型在 macOS 截图上预测的点击是否落在标注的边界框内，并集成了 Claude、Qwen、UI-TARS 等模型。

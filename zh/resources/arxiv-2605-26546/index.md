@@ -1,3 +1,11 @@
+---
+title: "MobileExplorer: Accelerating On-Device… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-26546/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration
 
 MobileExplorer 在端侧模型推理时探查相关 UI 元素，并将探索轨迹作为精简上下文提供给模型；当简单回退失败时，两级回滚机制可恢复工作状态。
@@ -27,6 +35,18 @@ Runxi Huang, Liyu Zhang, Shengzhong Liu, Xiaomin Ouyang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-26546/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-26546/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_26546,
+  title = {{MobileExplorer: Accelerating On-Device Inference for Mobile GUI Agents via Online Exploration}},
+  author = {{Runxi Huang} and {Liyu Zhang} and {Shengzhong Liu} and {Xiaomin Ouyang}},
+  year = {2026},
+  eprint = {2605.26546v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.26546v1},
+  note = {First published: 2026-05-26; Recorded arXiv version: v1; Recorded version updated: 2026-05-26T04:53:53Z.}
+}
+```
 
 ## arXiv 版本记录
 

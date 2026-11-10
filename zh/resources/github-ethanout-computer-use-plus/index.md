@@ -1,3 +1,11 @@
+---
+title: "computer-use-plus · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ethanout-computer-use-plus/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # computer-use-plus
 
 低 token 消耗、低延迟的 Windows 计算机使用 MCP 服务器，具备学习得到的动作快捷方式和 UIA/CDP/OCR 混合路由。

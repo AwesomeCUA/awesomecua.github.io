@@ -1,3 +1,11 @@
+---
+title: "GameReplica: A Benchmark for Black-Box Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-22308/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # GameReplica: A Benchmark for Black-Box Visual Game Replication by Vision-Language Agents
 
 Bibliographic record for GameReplica: A Benchmark for Black-Box Visual Game Replication by Vision-Language Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Boyu Qiao, Zixin Tang, Xiaoshuai Hao, Wenbo Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-22308/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-22308/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_22308,
+  title = {{GameReplica: A Benchmark for Black-Box Visual Game Replication by Vision-Language Agents}},
+  author = {{Boyu Qiao} and {Zixin Tang} and {Xiaoshuai Hao} and {Wenbo Li}},
+  year = {2026},
+  eprint = {2609.22308v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.22308v1},
+  note = {First published: 2026-09-15; Recorded arXiv version: v1; Recorded version updated: 2026-09-15T03:07:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

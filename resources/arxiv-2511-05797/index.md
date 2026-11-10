@@ -1,3 +1,11 @@
+---
+title: "When AI Meets the Web: Prompt Injection Risks… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-05797/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # When AI Meets the Web: Prompt Injection Risks in Third-Party AI Chatbot Plugins
 
 Bibliographic record for When AI Meets the Web: Prompt Injection Risks in Third-Party AI Chatbot Plugins. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yigitcan Kaya, Anton Landerer, Stijn Pletinckx, Michelle Zimmermann, Christopher
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-05797/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-05797/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_05797,
+  title = {{When AI Meets the Web: Prompt Injection Risks in Third-Party AI Chatbot Plugins}},
+  author = {{Yigitcan Kaya} and {Anton Landerer} and {Stijn Pletinckx} and {Michelle Zimmermann} and {Christopher Kruegel} and {Giovanni Vigna}},
+  year = {2025},
+  eprint = {2511.05797v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.05797v1},
+  note = {First published: 2025-11-08; Recorded arXiv version: v1; Recorded version updated: 2025-11-08T02:02:24Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

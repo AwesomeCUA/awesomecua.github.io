@@ -1,3 +1,11 @@
+---
+title: "agentwatch · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yubinkim444-agentwatch/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # agentwatch
 
 面向浏览器 AI 智能体的半透明标签页内 DevTools HUD 覆盖层，实时显示智能体的思考内容、目标和动作。

@@ -1,3 +1,11 @@
+---
+title: "ConvXAI: Delivering Heterogeneous AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2305-09770/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ConvXAI: Delivering Heterogeneous AI Explanations via Conversations to Support Human-AI Scientific Writing
 
 Status: excluded from the active CUA catalog after scope review.

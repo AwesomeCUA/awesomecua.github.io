@@ -1,3 +1,11 @@
+---
+title: "OS-Map | AwesomeCUA"
+url: https://awesomecua.com/resources/github-os-copilot-os-map/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # OS-Map
 
 An OSWorld-derived desktop benchmark with an Ubuntu virtual-machine environment and expanded task configurations for measuring breadth and depth of computer interaction.

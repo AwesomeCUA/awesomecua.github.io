@@ -1,3 +1,11 @@
+---
+title: "Amap-Sim | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-amap/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # Amap-Sim
 
 An offline Android map-app simulation for AI automation tests, with map browsing, place search, routing, and navigation backed by locally prepared data.

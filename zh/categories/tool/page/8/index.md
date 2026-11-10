@@ -1,10 +1,17 @@
+---
+title: "计算机使用智能体工具（第 8 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/categories/tool/page/8/
+updated: 2026-11-10
+type: category
+lang: zh-CN
+---
+
 # 计算机使用智能体工具：第 8 页
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/page/8/ · [English](https://awesomecua.com/categories/tool/page/8/index.md)
 
 完整类别注释：https://awesomecua.com/zh/categories/tool/index.md
 
-- [dsh-browseruse](https://awesomecua.com/zh/resources/github-yzd6552-commits-dsh-browseruse/)：面向 DeepSeek Harness 的 Browser-Use 风格插件，通过 Playwright 和 CDP 驱动专用 Chrome 配置文件。
 - [dsh-chrome](https://awesomecua.com/zh/resources/github-stuarthu-dsh-chrome/)：Chrome 侧边栏配套工具，嵌入 DeepSeek Harness UI，并将当前浏览器标签页连接到智能体。
 - [dsh-click](https://awesomecua.com/zh/resources/github-perrylink-dsh-click/)：面向 DeepSeek Harness 的跨平台原生桌面控制插件，支持截图、UI 元素搜索以及鼠标和键盘动作。
 - [dsh-cloak-browser](https://awesomecua.com/zh/resources/github-maxiaovivi-dsh-cloak-browser/)：面向 DeepSeek Harness 的原生 CloakBrowser 插件，提供隔离的反检测浏览器会话和 DOM 快照。
@@ -104,3 +111,4 @@ HTML 页面：https://awesomecua.com/zh/categories/tool/page/8/ · [English](htt
 - [Hermes Browser Extension](https://awesomecua.com/zh/resources/github-catcaptions-hermes-extension/)：面向 Hermes Agent 的浏览器侧边栏扩展，使智能体能够观察并操作当前活动的 Chrome 标签页。
 - [Hermes Connector](https://awesomecua.com/zh/resources/github-corsenai-hermes-connector/)：Hermes Connector 是 Chrome 扩展，将 Hermes Agent 与用户当前的浏览器标签页、DOM 上下文和已认证会话连接起来。
 - [Hermes Desktop Control](https://awesomecua.com/zh/resources/github-jiangxiao642-spec-hermes-desktop-control/)：Hermes Desktop Control 是独立于运行时的 Windows GUI 自动化引擎，结合 UI Automation 树、Set-of-Mark 叠加层和输入分发。
+- [Hermes login-bridge Plugin](https://awesomecua.com/zh/resources/github-kfastov-hermes-plugin-login-bridge/)：Hermes Agent 插件，可暂时将智能体的浏览器会话交给人类操作员完成登录。

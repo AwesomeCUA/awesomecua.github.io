@@ -1,3 +1,11 @@
+---
+title: "Surf MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shanevcantwell-surf-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Surf MCP
 
 Surf MCP 是视觉浏览器自动化 MCP 服务器，让 AI 智能体通过描述视觉元素来点击、输入和浏览网页。

@@ -1,3 +1,11 @@
+---
+title: "Android-Skill-Agent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xiru0834-eng-android-skill-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Android-Skill-Agent
 
 Android-Skill-Agent 从演示中提取参数化操作技能，并通过无障碍树进行验证，以供 Android 应用使用。

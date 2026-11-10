@@ -1,3 +1,11 @@
+---
+title: "Clique Já · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-paivaxqz-cliqueja/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Clique Já
 
 快速 Chrome 自动化工具包，结合 Manifest V3 扩展与本地协调中心。

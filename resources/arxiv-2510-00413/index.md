@@ -1,3 +1,11 @@
+---
+title: "PAL-UI: Planning with Active Look-back for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-00413/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents
 
 PAL-UI combines observation/action summaries with selective retrieval of historical screenshots during planning. It trains mobile navigation models from step-level supervision and evaluates transfer to web navigation without additional training.
@@ -26,6 +34,18 @@ Zikang Liu, Junyi Li, Wayne Xin Zhao, Dawei Gao, Yaliang Li, Ji-rong Wen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-00413/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-00413/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_00413,
+  title = {{PAL-UI: Planning with Active Look-back for Vision-Based GUI Agents}},
+  author = {{Zikang Liu} and {Junyi Li} and {Wayne Xin Zhao} and {Dawei Gao} and {Yaliang Li} and {Ji-rong Wen}},
+  year = {2025},
+  eprint = {2510.00413v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.00413v2},
+  note = {First published: 2025-10-01; Recorded arXiv version: v2; Recorded version updated: 2025-10-04T15:23:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

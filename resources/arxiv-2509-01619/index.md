@@ -1,3 +1,11 @@
+---
+title: "Throttling Web Agents Using Reasoning Gates | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-01619/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Throttling Web Agents Using Reasoning Gates
 
 Introduces reasoning gates that require agents to solve generated, verifiable puzzles before receiving access to resources. The throttling approach is deployed on a custom website and MCP servers and evaluated with web agents.
@@ -26,6 +34,18 @@ Abhinav Kumar, Jaechul Roh, Ali Naseh, Amir Houmansadr, Eugene Bagdasarian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-01619/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-01619/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_01619,
+  title = {{Throttling Web Agents Using Reasoning Gates}},
+  author = {{Abhinav Kumar} and {Jaechul Roh} and {Ali Naseh} and {Amir Houmansadr} and {Eugene Bagdasarian}},
+  year = {2025},
+  eprint = {2509.01619v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.01619v1},
+  note = {First published: 2025-09-01; Recorded arXiv version: v1; Recorded version updated: 2025-09-01T16:56:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

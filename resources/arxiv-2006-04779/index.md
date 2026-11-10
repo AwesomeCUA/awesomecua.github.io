@@ -1,3 +1,11 @@
+---
+title: "Conservative Q-Learning for Offline… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2006-04779/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Conservative Q-Learning for Offline Reinforcement Learning
 
 Status: excluded from the active CUA catalog after scope review.

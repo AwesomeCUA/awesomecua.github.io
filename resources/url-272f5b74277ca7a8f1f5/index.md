@@ -1,3 +1,11 @@
+---
+title: "Qwen2-VL-72B-Instruct-GPTQ-Int4 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-272f5b74277ca7a8f1f5/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2-VL-72B-Instruct-GPTQ-Int4
 
 A quantized Qwen2-VL vision-language checkpoint for image and video understanding. Its card also describes visual, instruction-guided mobile operation.

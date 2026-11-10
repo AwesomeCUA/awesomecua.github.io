@@ -1,3 +1,11 @@
+---
+title: "Agent Eyes | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jumpsy-agent-eyes/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Agent Eyes
 
 Visual inspection toolkit for AI agents that captures rendered screenshots and extracts live CSS design tokens from the DOM.

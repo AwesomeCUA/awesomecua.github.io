@@ -1,3 +1,11 @@
+---
+title: "WebSentinel: Detecting and Localizing… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-03792/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents
 
 WebSentinel 识别可疑网页片段，并结合周围页面上下文逐一检查，以检测和定位提示注入；评估使用受污染和干净的网页数据集。
@@ -27,6 +35,18 @@ Xilong Wang, Yinuo Liu, Zhun Wang, Dawn Song, Neil Gong
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-03792/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-03792/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_03792,
+  title = {{WebSentinel: Detecting and Localizing Prompt Injection Attacks for Web Agents}},
+  author = {{Xilong Wang} and {Yinuo Liu} and {Zhun Wang} and {Dawn Song} and {Neil Gong}},
+  year = {2026},
+  eprint = {2602.03792v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.03792v1},
+  note = {First published: 2026-02-03; Recorded arXiv version: v1; Recorded version updated: 2026-02-03T17:55:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

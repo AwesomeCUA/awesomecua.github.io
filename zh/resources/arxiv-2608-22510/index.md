@@ -1,3 +1,11 @@
+---
+title: "ClawProBench: Trace-Aware Evaluation of… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-22510/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts
 
 提出 ClawProBench，基于执行轨迹、安全检查和过程质量，评估 OpenClaw 智能体在工作区及原生运行环境中的任务表现。
@@ -27,6 +35,18 @@ YuanHang Xiao
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-22510/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-22510/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_22510,
+  title = {{ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts}},
+  author = {{YuanHang Xiao}},
+  year = {2026},
+  eprint = {2608.22510v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.22510v1},
+  note = {First published: 2026-08-23; Recorded arXiv version: v1; Recorded version updated: 2026-08-23T17:09:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

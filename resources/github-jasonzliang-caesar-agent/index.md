@@ -1,3 +1,11 @@
+---
+title: "Caesar Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jasonzliang-caesar-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Caesar Agent
 
 Caesar is an open-source deep-research web agent that plans multi-step queries, crawls webpages, and synthesizes cited reports.

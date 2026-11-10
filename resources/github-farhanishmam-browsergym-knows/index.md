@@ -1,3 +1,11 @@
+---
+title: "BrowserGym-Knows | AwesomeCUA"
+url: https://awesomecua.com/resources/github-farhanishmam-browsergym-knows/
+updated: 2026-11-09
+type: benchmark
+lang: en
+---
+
 # BrowserGym-Knows
 
 A BrowserGym fork for evaluating agents on Google Workspace tasks performed in Chromium, with task results graded through Workspace APIs.

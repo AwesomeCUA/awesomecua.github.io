@@ -1,3 +1,11 @@
+---
+title: "Curiosity Driven Knowledge Retrieval for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-19306/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Curiosity Driven Knowledge Retrieval for Mobile Agents
 
 Uses execution uncertainty to trigger retrieval from application documentation, code, and past trajectories, organizing the results into structured AppCards for Android agent planning.
@@ -26,6 +34,18 @@ Sijia Li, Xiaoyu Tan, Shahir Ali, Niels Schmidt, Gengchen Ma, Xihe Qiu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-19306/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-19306/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_19306,
+  title = {{Curiosity Driven Knowledge Retrieval for Mobile Agents}},
+  author = {{Sijia Li} and {Xiaoyu Tan} and {Shahir Ali} and {Niels Schmidt} and {Gengchen Ma} and {Xihe Qiu}},
+  year = {2026},
+  eprint = {2601.19306v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.19306v1},
+  note = {First published: 2026-01-27; Recorded arXiv version: v1; Recorded version updated: 2026-01-27T07:46:05Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Financial CUA Benchmark | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vitoworleone-financial-cua-benchmark/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Financial CUA Benchmark
 
 Financial CUA Benchmark provides deterministic verifiers and bond-underwriting tasks for evaluating financial computer-use agents.

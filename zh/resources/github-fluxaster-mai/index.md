@@ -1,3 +1,11 @@
+---
+title: "MAI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fluxaster-mai/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MAI
 
 MAI 在规划器、执行器、验证器循环中结合 MaaFramework 与多模态 LLM，实现游戏和应用的 GUI 自动化。

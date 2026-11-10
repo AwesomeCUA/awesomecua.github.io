@@ -1,3 +1,11 @@
+---
+title: "CoAT research implementation · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-imnearth-coat/
+updated: 2026-10-17
+type: framework
+lang: zh-CN
+---
+
 # CoAT research implementation
 
 CoAT 的研究脚本生成屏幕描述、操作推理和预期结果，再利用所得的 Chain-of-Action-Thought 上下文预测 Android GUI 操作。

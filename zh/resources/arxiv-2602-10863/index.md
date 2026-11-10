@@ -1,3 +1,11 @@
+---
+title: "ICA: Information-Aware Credit Assignment… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-10863/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents
 
 Information-Aware Credit Assignment 利用网页渲染快照比较不同轨迹获取的证据，为网页智能体收集的中间信息评分。
@@ -27,6 +35,18 @@ Cong Pang, Xuyu Feng, Yujie Yi, Jiaqi Su, Zixuan Chen, Jiawei Hong, Tiankuo Yao,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-10863/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-10863/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_10863,
+  title = {{ICA: Information-Aware Credit Assignment for Visually Grounded Long-Horizon Information-Seeking Agents}},
+  author = {{Cong Pang} and {Xuyu Feng} and {Yujie Yi} and {Jiaqi Su} and {Zixuan Chen} and {Jiawei Hong} and {Tiankuo Yao} and {Nang Yuan} and {Jiapeng Luo} and {Lewei Lu} and {Xin Lou}},
+  year = {2026},
+  eprint = {2602.10863v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.10863v2},
+  note = {First published: 2026-02-11; Recorded arXiv version: v2; Recorded version updated: 2026-08-25T06:38:30Z.}
+}
+```
 
 ## arXiv 版本记录
 

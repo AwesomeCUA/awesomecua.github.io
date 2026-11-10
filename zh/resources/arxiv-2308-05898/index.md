@@ -1,3 +1,11 @@
+---
+title: "Unveiling the Tricks: Automated… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2308-05898/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications
 
 提出 UIGuard，检查移动 UI 的视觉信息和文本以检测暗黑模式，并构建标注了正常与恶意界面的数据集。
@@ -27,6 +35,18 @@ Jieshan Chen, Jiamou Sun, Sidong Feng, Zhenchang Xing, Qinghua Lu, Xiwei Xu, Chu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2308-05898/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2308-05898/citation.csl.json
+
+```bibtex
+@misc{arxiv_2308_05898,
+  title = {{Unveiling the Tricks: Automated Detection of Dark Patterns in Mobile Applications}},
+  author = {{Jieshan Chen} and {Jiamou Sun} and {Sidong Feng} and {Zhenchang Xing} and {Qinghua Lu} and {Xiwei Xu} and {Chunyang Chen}},
+  year = {2023},
+  eprint = {2308.05898v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.05898v2},
+  note = {First published: 2023-08-11; Recorded arXiv version: v2; Recorded version updated: 2024-11-28T00:01:03Z.}
+}
+```
 
 ## arXiv 版本记录
 

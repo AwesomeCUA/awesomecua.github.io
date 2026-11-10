@@ -1,3 +1,11 @@
+---
+title: "REA: A Routed Embodied Agent Runtime for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-42053/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control
 
 Bibliographic record for REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Pengfei Zhou, Yixing Ma, Zhengfeiyang Zhang, Haoyuan Chen, Zhenglin Wan, Hexin W
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-42053/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-42053/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_42053,
+  title = {{REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control}},
+  author = {{Pengfei Zhou} and {Yixing Ma} and {Zhengfeiyang Zhang} and {Haoyuan Chen} and {Zhenglin Wan} and {Hexin Wang} and {Wangbo Zhao} and {Yang You}},
+  year = {2026},
+  eprint = {2610.42053v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.42053v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T17:18:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

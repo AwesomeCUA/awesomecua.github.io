@@ -1,3 +1,11 @@
+---
+title: "dcc123456 Browser Copilot | AwesomeCUA"
+url: https://awesomecua.com/resources/github-dcc123456-browser-copilot/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # dcc123456 Browser Copilot
 
 AI side-panel assistant for Chrome that reads the active webpage and executes user-approved browser actions.

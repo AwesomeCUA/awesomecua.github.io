@@ -1,3 +1,11 @@
+---
+title: "claude-chrome-speed · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cr1707-claude-chrome-speed/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # claude-chrome-speed
 
 Claude Code 插件，通过批量读取 DOM 和消除冗余的截图等待，加快 Claude 在 Chrome 中执行浏览器任务的速度。

@@ -1,3 +1,11 @@
+---
+title: "Seven-Layer Web Agent & Benchmark · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-xyyojl-web-agent/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Seven-Layer Web Agent & Benchmark
 
 七层 LLM 浏览器智能体架构，配有包含 45 项任务的分层评测基准和可复现的执行产物。

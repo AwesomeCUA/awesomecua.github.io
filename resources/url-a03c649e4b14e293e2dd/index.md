@@ -1,3 +1,11 @@
+---
+title: "Holo3 | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a03c649e4b14e293e2dd/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Holo3
 
 Holo3 is a computer-use model family trained on synthetic navigation and enterprise workflows. Its publisher reports desktop benchmark results and offers inference access and an open checkpoint.

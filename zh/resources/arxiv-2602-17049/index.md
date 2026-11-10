@@ -1,3 +1,11 @@
+---
+title: "IntentCUA: Learning Intent-level… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-17049/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents
 
 IntentCUA 让规划与评判智能体共享意图对齐的记忆，并检索可复用技能，以完成跨桌面应用的长期自动化任务。
@@ -27,6 +35,18 @@ Seoyoung Lee, Seobin Yoon, Seongbeen Lee, Yoojung Chun, Dayoung Park, Doyeon Kim
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-17049/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-17049/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_17049,
+  title = {{IntentCUA: Learning Intent-level Representations for Skill Abstraction and Multi-Agent Planning in Computer-Use Agents}},
+  author = {{Seoyoung Lee} and {Seobin Yoon} and {Seongbeen Lee} and {Yoojung Chun} and {Dayoung Park} and {Doyeon Kim} and {Joo Yong Sim}},
+  year = {2026},
+  eprint = {2602.17049v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.17049v2},
+  note = {First published: 2026-02-19; Recorded arXiv version: v2; Recorded version updated: 2026-02-27T03:23:32Z.}
+}
+```
 
 ## arXiv 版本记录
 

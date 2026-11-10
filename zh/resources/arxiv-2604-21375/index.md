@@ -1,3 +1,11 @@
+---
+title: "VLAA-GUI: Knowing When to Stop, Recover… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-21375/
+updated: 2026-11-04
+type: paper
+lang: zh-CN
+---
+
 # VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation
 
 VLAA-GUI 结合强制进行的基于视觉证据的完成检查、多层级循环恢复和按需工作流搜索，并可选用编码与定位智能体辅助执行；在 Linux 和 Windows 的 GUI 任务上进行组件消融实验。
@@ -27,6 +35,18 @@ Qijun Han, Haoqin Tu, Zijun Wang, Haoyue Dai, Yiyang Zhou, Nancy Lau, Alvaro A. 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-21375/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-21375/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_21375,
+  title = {{VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation}},
+  author = {{Qijun Han} and {Haoqin Tu} and {Zijun Wang} and {Haoyue Dai} and {Yiyang Zhou} and {Nancy Lau} and {Alvaro A. Cardenas} and {Yuhui Xu} and {Ran Xu} and {Caiming Xiong} and {Zeyu Zheng} and {Huaxiu Yao} and {Yuyin Zhou} and {Cihang Xie}},
+  year = {2026},
+  eprint = {2604.21375v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.21375v3},
+  note = {First published: 2026-04-23; Recorded arXiv version: v3; Recorded version updated: 2026-09-24T23:58:02Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "aic-pod | AwesomeCUA"
+url: https://awesomecua.com/resources/github-veypi-aic-pod/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # aic-pod
 
 Turns a physical or virtual machine into an LLM-callable execution node with sandboxed shell, file, browser, and desktop control.

@@ -1,3 +1,11 @@
+---
+title: "Gobii Platform | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gobii-ai-gobii-platform/
+updated: 2026-11-06
+type: infrastructure
+lang: en
+---
+
 # Gobii Platform
 
 Self-hostable platform for always-on agents based on browser-use, adding headed browsers, persistent profiles, proxy-aware routing, schedules and event triggers.

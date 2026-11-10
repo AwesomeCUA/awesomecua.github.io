@@ -1,3 +1,11 @@
+---
+title: "PC-Agent-E training and deployment · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gair-nlp-pc-agent-e/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # PC-Agent-E training and deployment
 
 提供工具，用于整理和扩充人类计算机使用轨迹、准备监督训练数据，以及部署原生 PC-Agent-E 框架。

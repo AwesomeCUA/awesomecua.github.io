@@ -1,3 +1,11 @@
+---
+title: "LongMemEval-V2: Evaluating Long-Term… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-12493/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues
 
 LongMemEval-V2 要求记忆系统从漫长的网页智能体历史中找回环境知识以回答问题；其 AgentRunbook 变体对比索引化知识池与编码智能体从已存轨迹文件中检索。
@@ -27,6 +35,18 @@ Di Wu, Zixiang Ji, Asmi Kawatkar, Bryan Kwan, Jia-Chen Gu, Nanyun Peng, Kai-Wei 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-12493/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-12493/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_12493,
+  title = {{LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues}},
+  author = {{Di Wu} and {Zixiang Ji} and {Asmi Kawatkar} and {Bryan Kwan} and {Jia-Chen Gu} and {Nanyun Peng} and {Kai-Wei Chang}},
+  year = {2026},
+  eprint = {2605.12493v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.12493v1},
+  note = {First published: 2026-05-12; Recorded arXiv version: v1; Recorded version updated: 2026-05-12T17:59:34Z.}
+}
+```
 
 ## arXiv 版本记录
 

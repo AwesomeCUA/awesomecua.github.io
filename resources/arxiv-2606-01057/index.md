@@ -1,3 +1,11 @@
+---
+title: "3DCodeBench: Benchmarking Agentic Procedural… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-01057/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # 3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code
 
 Bibliographic record for 3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Yipeng Gao, Lei Shu, Genzhi Ye, Xi Xiong, Ameesh Makadia, Meiqi Guo, Laurent Itt
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-01057/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-01057/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_01057,
+  title = {{3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code}},
+  author = {{Yipeng Gao} and {Lei Shu} and {Genzhi Ye} and {Xi Xiong} and {Ameesh Makadia} and {Meiqi Guo} and {Laurent Itti} and {Jindong Chen}},
+  year = {2026},
+  eprint = {2606.01057v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.01057v1},
+  note = {First published: 2026-05-31; Recorded arXiv version: v1; Recorded version updated: 2026-05-31T06:59:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

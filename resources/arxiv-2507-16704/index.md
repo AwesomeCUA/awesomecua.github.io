@@ -1,3 +1,11 @@
+---
+title: "Screen2AX: Vision-Based Approach for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-16704/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation
 
 Introduces Screen2AX, which creates hierarchical accessibility metadata from macOS screenshots, plus datasets and Screen2AX-Task for desktop-agent evaluation.
@@ -26,6 +34,18 @@ Viktor Muryn, Marta Sumyk, Mariya Hirna, Sofiya Garkot, Maksym Shamrai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-16704/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-16704/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_16704,
+  title = {{Screen2AX: Vision-Based Approach for Automatic macOS Accessibility Generation}},
+  author = {{Viktor Muryn} and {Marta Sumyk} and {Mariya Hirna} and {Sofiya Garkot} and {Maksym Shamrai}},
+  year = {2025},
+  eprint = {2507.16704v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.16704v1},
+  note = {First published: 2025-07-22; Recorded arXiv version: v1; Recorded version updated: 2025-07-22T15:38:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

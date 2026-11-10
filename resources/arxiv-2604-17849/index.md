@@ -1,3 +1,11 @@
+---
+title: "On the Reliability of Computer Use Agents | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-17849/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # On the Reliability of Computer Use Agents
 
 This study examines repeated OSWorld executions to separate execution stochasticity, task-specification ambiguity and behavioral variation. Paired task-level tests show why one successful run is insufficient evidence of reliable computer use.
@@ -26,6 +34,18 @@ Gonzalo Gonzalez-Pumariega, Saaket Agashe, Jiachen Yang, Ang Li, Xin Eric Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-17849/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-17849/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_17849,
+  title = {{On the Reliability of Computer Use Agents}},
+  author = {{Gonzalo Gonzalez-Pumariega} and {Saaket Agashe} and {Jiachen Yang} and {Ang Li} and {Xin Eric Wang}},
+  year = {2026},
+  eprint = {2604.17849v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.17849v1},
+  note = {First published: 2026-04-20; Recorded arXiv version: v1; Recorded version updated: 2026-04-20T05:59:04Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

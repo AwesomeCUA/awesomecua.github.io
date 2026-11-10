@@ -1,3 +1,11 @@
+---
+title: "WebTrap Park: An Automated Platform for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-08406/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WebTrap Park: An Automated Platform for Systematic Security Evaluation of Web Agents
 
 Introduces WebTrap Park, a platform that turns web-agent security risks into executable tasks and assesses concrete interactions with live pages. It compares agent frameworks without requiring modifications to their implementations.
@@ -26,6 +34,18 @@ Xinyi Wu, Jiagui Chen, Geng Hong, Jiayi Dong, Xudong Pan, Jiarun Dai, Min Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-08406/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-08406/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_08406,
+  title = {{WebTrap Park: An Automated Platform for Systematic Security Evaluation of Web Agents}},
+  author = {{Xinyi Wu} and {Jiagui Chen} and {Geng Hong} and {Jiayi Dong} and {Xudong Pan} and {Jiarun Dai} and {Min Yang}},
+  year = {2026},
+  eprint = {2601.08406v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.08406v1},
+  note = {First published: 2026-01-13; Recorded arXiv version: v1; Recorded version updated: 2026-01-13T10:21:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

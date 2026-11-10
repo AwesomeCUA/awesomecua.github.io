@@ -1,3 +1,11 @@
+---
+title: "GELab Zero 4B Preview | AwesomeCUA"
+url: https://awesomecua.com/resources/url-d7ad447ecd712c6d51b8/
+updated: 2026-10-16
+type: model
+lang: en
+---
+
 # GELab Zero 4B Preview
 
 Preview GELab-Zero phone-use agent checkpoint fine-tuned from Qwen3-VL-4B-Instruct, with about 4.4B BF16 parameters, tagged for Android in English and Chinese, under Apache-2.0.

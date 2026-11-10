@@ -1,3 +1,11 @@
+---
+title: "Agentless | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openautocoder-agentless/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Agentless
 
 Agentless resolves software engineering issues through a three-phase localization, repair, and patch validation pipeline.

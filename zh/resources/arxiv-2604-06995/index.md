@@ -1,3 +1,11 @@
+---
+title: "What's Missing in Screen-to-Action?… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2604-06995/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning
 
 UILoop 在屏幕观察与操作之间加入显式的 UI 元素定位、功能和用法推理；UI Comprehension-Bench 用 3 项指标评估这些元素级能力。
@@ -27,6 +35,18 @@ Songze Li, Xiaoke Guo, Tianqi Liu, Biao Yi, Zhaoyan Gong, Zhiqiang Liu, Huajun C
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2604-06995/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2604-06995/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_06995,
+  title = {{What's Missing in Screen-to-Action? Towards a UI-in-the-Loop Paradigm for Multimodal GUI Reasoning}},
+  author = {{Songze Li} and {Xiaoke Guo} and {Tianqi Liu} and {Biao Yi} and {Zhaoyan Gong} and {Zhiqiang Liu} and {Huajun Chen} and {Wen Zhang}},
+  year = {2026},
+  eprint = {2604.06995v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.06995v3},
+  note = {First published: 2026-04-08; Recorded arXiv version: v3; Recorded version updated: 2026-10-02T06:30:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

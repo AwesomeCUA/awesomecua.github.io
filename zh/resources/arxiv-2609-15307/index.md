@@ -1,3 +1,11 @@
+---
+title: "Learning from Reliable Negatives… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2609-15307/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Learning from Reliable Negatives: Confidence-Anchored Test-Time Adaptation for GUI Grounding
 
 Confidence-Anchored Learning 利用坐标 token 的置信度筛选 GUI 定位所用的伪监督信号。其仅使用负样本的变体无需标签即可在测试时更新，减少对可能错误的正样本的依赖。
@@ -27,6 +35,18 @@ Yizhou Liu, Fei Tang, Yuchen Yan, Zhengxi Lu, Songqin Nong, Tao Jiang, Wenhao Xu
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2609-15307/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2609-15307/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_15307,
+  title = {{Learning from Reliable Negatives: Confidence-Anchored Test-Time Adaptation for GUI Grounding}},
+  author = {{Yizhou Liu} and {Fei Tang} and {Yuchen Yan} and {Zhengxi Lu} and {Songqin Nong} and {Tao Jiang} and {Wenhao Xu} and {Wenqi Zhang} and {Weiming Lu} and {Jun Xiao} and {Yongliang Shen}},
+  year = {2026},
+  eprint = {2609.15307v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.15307v1},
+  note = {First published: 2026-09-14; Recorded arXiv version: v1; Recorded version updated: 2026-09-14T09:56:10Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "dsh-antibrow · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-antibrow-dsh-antibrow/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # dsh-antibrow
 
 DeepSeek Harness 插件，集成 AntiBrow 反检测浏览器，用于隐蔽的网页自动化。

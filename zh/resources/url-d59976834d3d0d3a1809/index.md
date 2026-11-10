@@ -1,3 +1,11 @@
+---
+title: "sharryXR/asil-qwen35-2b-sft · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-d59976834d3d0d3a1809/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # sharryXR/asil-qwen35-2b-sft
 
 这是为结构化应用状态与语义动作研究发布的 ASIL Qwen3.5-2B SFT 检查点，包含可加载的模型和分词器文件。

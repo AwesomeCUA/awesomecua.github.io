@@ -1,3 +1,11 @@
+---
+title: "LAI (Linux Native OS Agent) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cufelix-lai/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # LAI (Linux Native OS Agent)
 
 面向 Linux 桌面的原生操作系统智能体运行时，提供系统范围的屏幕观察、无障碍信息检查和输入控制。

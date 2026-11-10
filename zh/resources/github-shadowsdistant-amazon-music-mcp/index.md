@@ -1,3 +1,11 @@
+---
+title: "Amazon Music MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-shadowsdistant-amazon-music-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Amazon Music MCP Server
 
 Model Context Protocol 服务器，可从 Claude Desktop 搜索和控制 Amazon Music 播放。

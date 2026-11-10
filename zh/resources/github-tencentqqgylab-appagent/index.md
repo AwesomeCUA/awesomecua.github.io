@@ -1,3 +1,11 @@
+---
+title: "AppAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tencentqqgylab-appagent/
+updated: 2026-10-17
+type: agent
+lang: zh-CN
+---
+
 # AppAgent
 
 无需后端访问即可通过点击和滑动操作 Android 应用的多模态智能体，可通过自主探索或观看人类演示构建可复用的知识库。

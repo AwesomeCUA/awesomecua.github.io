@@ -1,3 +1,11 @@
+---
+title: "Why Are GUI Agents Correct but Late? Decode… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-28399/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Why Are GUI Agents Correct but Late? Decode on the Decision-Time Critical Path, Tested with Pre-Compiled Policy Trees
 
 Introduces Adaptive Anticipatory Policy Trees, which precompute guarded actions and deadlines during idle periods so transient GUI events can be handled without new text generation. Paired experiments examine when this prepared execution helps and when reactive control remains preferable.
@@ -26,6 +34,18 @@ Zihan Dong, Rui Qian, Qishi Zhan, Dongshen Peng, Kaixin Li, Yu Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-28399/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-28399/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_28399,
+  title = {{Why Are GUI Agents Correct but Late? Decode on the Decision-Time Critical Path, Tested with Pre-Compiled Policy Trees}},
+  author = {{Zihan Dong} and {Rui Qian} and {Qishi Zhan} and {Dongshen Peng} and {Kaixin Li} and {Yu Li}},
+  year = {2026},
+  eprint = {2607.28399v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.28399v1},
+  note = {First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T15:50:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

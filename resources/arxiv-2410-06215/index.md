@@ -1,3 +1,11 @@
+---
+title: "DataEnvGym: Data Generation Agents in Teacher… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2410-06215/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DataEnvGym: Data Generation Agents in Teacher Environments with Student Feedback
 
 Status: excluded from the active CUA catalog after scope review.

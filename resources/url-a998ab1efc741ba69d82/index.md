@@ -1,3 +1,11 @@
+---
+title: "RealWeb: A Benchmark for Universal… | AwesomeCUA"
+url: https://awesomecua.com/resources/url-a998ab1efc741ba69d82/
+updated: 2026-10-19
+type: paper
+lang: en
+---
+
 # RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation
 
 Introduces RealWeb, a Chinese benchmark of 11,739 instructions on 40 real websites with annotated screenshots and slot trees, plus a baseline that detects page regions, parses instructions and acts on the pages.
@@ -26,6 +34,21 @@ Bolin Zhang, Shiyun Xiong, Dianbo Sui, YunZhe Xu, Zhiying Tu, Dianhui Chu
 
 - BibTeX: https://awesomecua.com/resources/url-a998ab1efc741ba69d82/citation.bib
 - CSL JSON: https://awesomecua.com/resources/url-a998ab1efc741ba69d82/citation.csl.json
+
+```bibtex
+@inproceedings{cua_00c7ae5d8bcf2c59c36b3329,
+  title = {{RealWeb: A Benchmark for Universal Instruction Following in Realistic Web Services Navigation}},
+  author = {{Bolin Zhang} and {Shiyun Xiong} and {Dianbo Sui} and {YunZhe Xu} and {Zhiying Tu} and {Dianhui Chu}},
+  year = {2024},
+  month = jul,
+  booktitle = {2024 IEEE International Conference on Web Services (ICWS)},
+  publisher = {IEEE},
+  pages = {342-351},
+  doi = {10.1109/icws62655.2024.00056},
+  url = {https://ieeexplore.ieee.org/abstract/document/10707522},
+  note = {Publication date: 2024-07.}
+}
+```
 
 ## Publication record
 

@@ -1,3 +1,11 @@
+---
+title: "An Introduction to Quantum Computing using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1210-6512/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # An Introduction to Quantum Computing using Cavity QED concepts
 
 Status: excluded from the active CUA catalog after scope review.

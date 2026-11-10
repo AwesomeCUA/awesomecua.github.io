@@ -1,3 +1,11 @@
+---
+title: "ViBench 2.0: A Benchmark for Long-Horizon… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2611-05620/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # ViBench 2.0: A Benchmark for Long-Horizon Software Building
 
 Bibliographic record for ViBench 2.0: A Benchmark for Long-Horizon Software Building. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Daniel Furman, Preeya Kirani, Ibrahim Sheikh, Zhen Li, Peter Zhong, Michele Cata
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2611-05620/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2611-05620/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_05620,
+  title = {{ViBench 2.0: A Benchmark for Long-Horizon Software Building}},
+  author = {{Daniel Furman} and {Preeya Kirani} and {Ibrahim Sheikh} and {Zhen Li} and {Peter Zhong} and {Michele Catasta}},
+  year = {2026},
+  eprint = {2611.05620v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.05620v1},
+  note = {First published: 2026-11-03; Recorded arXiv version: v1; Recorded version updated: 2026-11-03T21:04:39Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Complexity and Scale in AI-Assisted Workflow… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-18425/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Complexity and Scale in AI-Assisted Workflow Management: A Federated Learning Case Study
 
 Bibliographic record for Complexity and Scale in AI-Assisted Workflow Management: A Federated Learning Case Study. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Komal Thareja, Hamza Safri, Rajiv Mayani, Anirban Mandal, Ewa Deelman
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-18425/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-18425/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_18425,
+  title = {{Complexity and Scale in AI-Assisted Workflow Management: A Federated Learning Case Study}},
+  author = {{Komal Thareja} and {Hamza Safri} and {Rajiv Mayani} and {Anirban Mandal} and {Ewa Deelman}},
+  year = {2026},
+  eprint = {2606.18425v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.18425v2},
+  note = {First published: 2026-06-16; Recorded arXiv version: v2; Recorded version updated: 2026-09-08T15:30:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

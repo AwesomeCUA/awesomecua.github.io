@@ -1,3 +1,11 @@
+---
+title: "DH.Window.UITool · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cyberkdh-dh-window-uitool/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # DH.Window.UITool
 
 Windows UI Automation 检查与脚本工具，用于分析 UI 元素树和构建可重复的桌面工作流程。

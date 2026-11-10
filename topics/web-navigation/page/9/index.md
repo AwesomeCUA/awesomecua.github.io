@@ -1,10 +1,17 @@
+---
+title: "Web navigation — computer-use research, page 9 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/9/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 9
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/9/
 
 Full list: https://awesomecua.com/topics/web-navigation/index.md
 
-- [WebVoyager](https://awesomecua.com/resources/github-minorjerry-webvoyager/)
 - [WebWalker](https://awesomecua.com/resources/github-alibaba-nlp-webwalker/)
 - [WindTunnel](https://awesomecua.com/resources/github-nekuda-ai-windtunnel/)
 - [Wornpage WebMCP Conformance](https://awesomecua.com/resources/github-wornpage-webmcp-conformance/)
@@ -64,3 +71,4 @@ Full list: https://awesomecua.com/topics/web-navigation/index.md
 - [webgames](https://awesomecua.com/resources/url-654e0cbc1a22b59eca47/)
 - [WebGuard](https://awesomecua.com/resources/url-df10c80a8da55773154d/)
 - [WebLINX dataset](https://awesomecua.com/resources/url-1517e989c470563bd08d/)
+- [weboperator-experiments](https://awesomecua.com/resources/url-a12c18540006368e69ab/)

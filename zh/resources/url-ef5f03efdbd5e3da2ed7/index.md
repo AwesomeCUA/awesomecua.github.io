@@ -1,3 +1,11 @@
+---
+title: "axiom.ai · 产品 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ef5f03efdbd5e3da2ed7/
+updated: 2026-11-09
+type: product
+lang: zh-CN
+---
+
 # axiom.ai
 
 Axiom 提供 Chrome 扩展、API 和 MCP 服务器来自动操作浏览器。AI 客户端可创建工作流程，并在云端浏览器或本地桌面运行。

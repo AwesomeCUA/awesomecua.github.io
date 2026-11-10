@@ -1,3 +1,11 @@
+---
+title: "cua-lite · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-justanotheruser82174-cua-lite/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # cua-lite
 
 cua-lite 是跨平台桌面应用和测试框架，用于运行、评测和微调计算机使用智能体。

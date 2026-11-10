@@ -1,3 +1,11 @@
+---
+title: "GUI-G1 3B v1 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-9dc9d8d3b9a4b32d6f4b/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # GUI-G1 3B v1
 
 为 R1 式视觉定位实验发布的 Qwen2.5-VL-3B 检查点，根据截图和指令预测界面目标位置。

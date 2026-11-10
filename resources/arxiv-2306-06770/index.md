@@ -1,3 +1,11 @@
+---
+title: "Improving Knowledge Extraction from LLMs for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-06770/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Improving Knowledge Extraction from LLMs for Task Learning through Agent Analysis
 
 Bibliographic record for Improving Knowledge Extraction from LLMs for Task Learning through Agent Analysis. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ James R. Kirk, Robert E. Wray, Peter Lindes, John E. Laird
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2306-06770/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2306-06770/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_06770,
+  title = {{Improving Knowledge Extraction from LLMs for Task Learning through Agent Analysis}},
+  author = {{James R. Kirk} and {Robert E. Wray} and {Peter Lindes} and {John E. Laird}},
+  year = {2023},
+  eprint = {2306.06770v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.06770v4},
+  note = {First published: 2023-06-11; Recorded arXiv version: v4; Recorded version updated: 2024-02-20T14:34:14Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

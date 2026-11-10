@@ -1,3 +1,11 @@
+---
+title: "Tactile · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yliust-tactile/
+updated: 2026-11-06
+type: tool
+lang: zh-CN
+---
+
 # Tactile
 
 技能、协议和工具层，使智能体优先通过无障碍语义操作软件，先读取角色、名称和状态，再使用截图。

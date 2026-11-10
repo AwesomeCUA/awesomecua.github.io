@@ -1,3 +1,11 @@
+---
+title: "OpenECAD: An Efficient Visual Language Model… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-09913/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # OpenECAD: An Efficient Visual Language Model for Editable 3D-CAD Design
 
 Status: excluded from the active CUA catalog after scope review.

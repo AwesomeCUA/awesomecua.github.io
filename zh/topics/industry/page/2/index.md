@@ -1,3 +1,11 @@
+---
+title: "产业：Computer-Use 研究与资源（第 2 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/industry/page/2/
+updated: 2026-11-09
+type: topic
+lang: zh-CN
+---
+
 # 产业：Computer-Use 研究与资源（第 2 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/industry/page/2/

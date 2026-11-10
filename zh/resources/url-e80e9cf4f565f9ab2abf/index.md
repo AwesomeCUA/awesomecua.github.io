@@ -1,3 +1,11 @@
+---
+title: "AutomotiveUI-Bench-4K · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-e80e9cf4f565f9ab2abf/
+updated: 2026-10-19
+type: benchmark
+lang: zh-CN
+---
+
 # AutomotiveUI-Bench-4K
 
 车载信息娱乐屏幕的离线测试集，含来自 15 个品牌的 998 张照片和截图，以及 4,208 条英文标注，用于定位 UI 元素并判断预期结果通过或失败。

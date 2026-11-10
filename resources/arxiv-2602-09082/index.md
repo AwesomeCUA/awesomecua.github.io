@@ -1,3 +1,11 @@
+---
+title: "UI-Venus-1.5 Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-09082/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # UI-Venus-1.5 Technical Report
 
 Describes a GUI-agent family combining broad intermediate training, full-trajectory online reinforcement learning, and merging of specialized models.
@@ -26,6 +34,18 @@ Venus Team, Changlong Gao, Zhangxuan Gu, Yulin Liu, Xinyu Qiu, Shuheng Shen, Yue
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-09082/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-09082/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_09082,
+  title = {{UI-Venus-1.5 Technical Report}},
+  author = {{Venus Team} and {Changlong Gao} and {Zhangxuan Gu} and {Yulin Liu} and {Xinyu Qiu} and {Shuheng Shen} and {Yue Wen} and {Tianyu Xia} and {Zhenyu Xu} and {Zhengwen Zeng} and {Beitong Zhou} and {Xingran Zhou} and {Weizhi Chen} and {Sunhao Dai} and {Jingya Dou} and {Yichen Gong} and {Yuan Guo} and {Zhenlin Guo} and {Feng Li} and {Qian Li} and {Jinzhen Lin} and {Yuqi Zhou} and {Linchao Zhu} and {Liang Chen} and {Zhenyu Guo} and {Changhua Meng} and {Weiqiang Wang}},
+  year = {2026},
+  eprint = {2602.09082v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.09082v2},
+  note = {First published: 2026-02-09; Recorded arXiv version: v2; Recorded version updated: 2026-02-24T15:17:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

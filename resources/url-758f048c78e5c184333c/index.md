@@ -1,3 +1,11 @@
+---
+title: "Orienter | AwesomeCUA"
+url: https://awesomecua.com/resources/url-758f048c78e5c184333c/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Orienter
 
 Orienter locates interactable elements in extended reality interface screenshots using application context and a detector. The release includes code and a checkpoint.

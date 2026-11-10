@@ -1,3 +1,11 @@
+---
+title: "Task-Adaptive Rubrics for GUI Reward… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-24174/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Task-Adaptive Rubrics for GUI Reward Modeling
 
 AdaptRubric 为 GUI 任务类别检索可复用的评判标准，再针对具体指令中的数值和约束生成检查项，并在离线奖励评估和在线智能体优化中评估这些自适应标准。
@@ -27,6 +35,18 @@ Tao Xiong, Xavier Hu, Wenkai Wang, Qinzhuo Wu, Changqiao Wu, Pengzhi Gao, Wei Li
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-24174/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-24174/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_24174,
+  title = {{Task-Adaptive Rubrics for GUI Reward Modeling}},
+  author = {{Tao Xiong} and {Xavier Hu} and {Wenkai Wang} and {Qinzhuo Wu} and {Changqiao Wu} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Shengyu Zhang}},
+  year = {2026},
+  eprint = {2608.24174v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.24174v1},
+  note = {First published: 2026-08-25; Recorded arXiv version: v1; Recorded version updated: 2026-08-25T07:40:12Z.}
+}
+```
 
 ## arXiv 版本记录
 

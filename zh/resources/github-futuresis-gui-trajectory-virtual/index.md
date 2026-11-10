@@ -1,3 +1,11 @@
+---
+title: "GUI-Trajectory-Virtual · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-futuresis-gui-trajectory-virtual/
+updated: 2026-10-18
+type: framework
+lang: zh-CN
+---
+
 # GUI-Trajectory-Virtual
 
 无需设备即可合成 Android 智能体轨迹：聊天补全 API 后的图像模型根据上一张截图和 Mobile-Agent-v3 风格智能体选择的操作绘制下一屏。

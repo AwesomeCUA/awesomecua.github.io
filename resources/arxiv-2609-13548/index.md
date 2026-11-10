@@ -1,3 +1,11 @@
+---
+title: "AutoTailor: Automatic, User-Aligned… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-13548/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # AutoTailor: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents
 
 AutoTailor compiles web trajectories into reusable browser-automation APIs, then filters and dynamically revises the capability inventory. WebArena experiments distinguish API-only operation from an agent that can fall back to ordinary reasoning and browser actions.
@@ -26,6 +34,18 @@ Xinyun Cao, Adriana Szekeres, Fazle Elahi Faisal
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-13548/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-13548/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_13548,
+  title = {{AutoTailor: Automatic, User-Aligned Capability Selection and Adaptation for Web Agents}},
+  author = {{Xinyun Cao} and {Adriana Szekeres} and {Fazle Elahi Faisal}},
+  year = {2026},
+  eprint = {2609.13548v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.13548v1},
+  note = {First published: 2026-09-11; Recorded arXiv version: v1; Recorded version updated: 2026-09-11T21:24:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

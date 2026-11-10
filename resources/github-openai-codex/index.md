@@ -1,3 +1,11 @@
+---
+title: "OpenAI Codex CLI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-openai-codex/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # OpenAI Codex CLI
 
 OpenAI Codex CLI is a local terminal and desktop coding agent that executes commands and edits files inside OS-enforced sandboxes.

@@ -1,3 +1,11 @@
+---
+title: "Astra AI Browser · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-bennix-astraaibrowser/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Astra AI Browser
 
 原生 Apple Silicon macOS AI 浏览器，结合 WebKit 浏览功能和集成的自主式网页智能体。

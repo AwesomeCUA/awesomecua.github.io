@@ -1,3 +1,11 @@
+---
+title: "Grounded Reinforcement Learning for Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-23678/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # Grounded Reinforcement Learning for Visual Reasoning
 
 Introduces ViGoRL, a visual reasoning model trained to reference image coordinates and zoom during reasoning; its evaluations include GUI element localization.
@@ -26,6 +34,18 @@ Gabriel Sarch, Snigdha Saha, Naitik Khandelwal, Ayush Jain, Michael J. Tarr, Avi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2505-23678/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2505-23678/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_23678,
+  title = {{Grounded Reinforcement Learning for Visual Reasoning}},
+  author = {{Gabriel Sarch} and {Snigdha Saha} and {Naitik Khandelwal} and {Ayush Jain} and {Michael J. Tarr} and {Aviral Kumar} and {Katerina Fragkiadaki}},
+  year = {2025},
+  eprint = {2505.23678v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.23678v3},
+  note = {First published: 2025-05-29; Recorded arXiv version: v3; Recorded version updated: 2026-05-15T17:27:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

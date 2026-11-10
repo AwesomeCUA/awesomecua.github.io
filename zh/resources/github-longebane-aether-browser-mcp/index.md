@@ -1,3 +1,11 @@
+---
+title: "Aether Browser MCP · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-longebane-aether-browser-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Aether Browser MCP
 
 Model Context Protocol 服务器，用于驱动无头和有界面浏览器的自动化工作流程。

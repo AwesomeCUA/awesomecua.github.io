@@ -1,3 +1,11 @@
+---
+title: "MEGA-GUI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-samsungsds-research-papers-mega-gui/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # MEGA-GUI
 
 MEGA-GUI 实现多阶段 GUI 定位流程，结合候选区域提议、迭代放大和元素定位。

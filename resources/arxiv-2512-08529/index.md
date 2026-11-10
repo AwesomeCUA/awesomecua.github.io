@@ -1,3 +1,11 @@
+---
+title: "MVP: Multiple View Prediction Improves GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2512-08529/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # MVP: Multiple View Prediction Improves GUI Grounding
 
 MVP addresses unstable GUI coordinates by predicting across several attention-guided cropped views. It clusters the resulting coordinates and selects the densest cluster centroid, evaluating this training-free inference method across grounding models.
@@ -26,6 +34,18 @@ Yunzhu Zhang, Zeyu Pan, Zhengwen Zeng, Shuheng Shen, Changhua Meng, Linchao Zhu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2512-08529/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2512-08529/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_08529,
+  title = {{MVP: Multiple View Prediction Improves GUI Grounding}},
+  author = {{Yunzhu Zhang} and {Zeyu Pan} and {Zhengwen Zeng} and {Shuheng Shen} and {Changhua Meng} and {Linchao Zhu}},
+  year = {2025},
+  eprint = {2512.08529v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.08529v1},
+  note = {First published: 2025-12-09; Recorded arXiv version: v1; Recorded version updated: 2025-12-09T12:19:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

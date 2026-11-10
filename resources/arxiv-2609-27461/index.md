@@ -1,3 +1,11 @@
+---
+title: "Invisible in Space, Visible in Time: Motion… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-27461/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Invisible in Space, Visible in Time: Motion Vision CAPTCHA against GUI Agents
 
 MVCAP-Bench tests live browser CAPTCHAs whose foreground meaning emerges through motion against dynamic backgrounds. A foreground-only control separates temporal camouflage difficulty from answer format and browser interaction.
@@ -26,6 +34,18 @@ Zeyu Zhang, Dingyi Rong, Zijian Chen, Zicheng Zhang, Xiongkuo Min, Guangtao Zhai
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-27461/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-27461/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_27461,
+  title = {{Invisible in Space, Visible in Time: Motion Vision CAPTCHA against GUI Agents}},
+  author = {{Zeyu Zhang} and {Dingyi Rong} and {Zijian Chen} and {Zicheng Zhang} and {Xiongkuo Min} and {Guangtao Zhai}},
+  year = {2026},
+  eprint = {2609.27461v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.27461v1},
+  note = {First published: 2026-09-23; Recorded arXiv version: v1; Recorded version updated: 2026-09-23T07:27:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

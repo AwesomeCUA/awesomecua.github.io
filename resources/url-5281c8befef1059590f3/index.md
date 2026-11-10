@@ -1,3 +1,11 @@
+---
+title: "aitw-webshop-digiq-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/url-5281c8befef1059590f3/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # aitw-webshop-digiq-agent
 
 Digi-Q device-control agent checkpoint trained on the AitW Web Shopping task set, an AutoUI-based actor learned offline with a VLM Q-value function; the repository reports a 70.8 test-set score.

@@ -1,3 +1,11 @@
+---
+title: "NaviFlow | AwesomeCUA"
+url: https://awesomecua.com/resources/github-marc-ing-navi-flow/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # NaviFlow
 
 Supervised open-source AI browser agent for Chrome that plans, navigates, clicks, types, and verifies web workflows.

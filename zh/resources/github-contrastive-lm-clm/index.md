@@ -1,3 +1,11 @@
+---
+title: "Contrastive Language Models · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-contrastive-lm-clm/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # Contrastive Language Models
 
 CLM-8B 使用独立嵌入向量和服务 API，根据当前状态对候选动作排序。作者报告的评估包含计算机操作任务。

@@ -1,3 +1,11 @@
+---
+title: "Homomorphically Encrypted Computation using… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2203-02547/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Homomorphically Encrypted Computation using Stochastic Encodings
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "MAI-UI Technical Report: Real-World… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2512-22047/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # MAI-UI Technical Report: Real-World Centric Foundation GUI Agents
 
 MAI-UI 是一组通过生成数据和在线强化学习训练的策略，结合 GUI 导航、原生用户交互和 MCP 工具调用。报告还研究设备与云端的任务路由、并行环境和交互预算的扩展，并评估定位与 Android 导航。
@@ -27,6 +35,18 @@ Hanzhang Zhou, Xu Zhang, Panrong Tong, Jianan Zhang, Liangyu Chen, Quyu Kong, Ch
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2512-22047/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2512-22047/citation.csl.json
+
+```bibtex
+@misc{arxiv_2512_22047,
+  title = {{MAI-UI Technical Report: Real-World Centric Foundation GUI Agents}},
+  author = {{Hanzhang Zhou} and {Xu Zhang} and {Panrong Tong} and {Jianan Zhang} and {Liangyu Chen} and {Quyu Kong} and {Chenglin Cai} and {Chen Liu} and {Yue Wang} and {Jingren Zhou} and {Steven Hoi}},
+  year = {2025},
+  eprint = {2512.22047v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2512.22047v1},
+  note = {First published: 2025-12-26; Recorded arXiv version: v1; Recorded version updated: 2025-12-26T14:51:52Z.}
+}
+```
 
 ## arXiv 版本记录
 

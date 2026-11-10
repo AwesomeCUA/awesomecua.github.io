@@ -1,3 +1,11 @@
+---
+title: "Milli-Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-abdullah-al-raju-milli-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Milli-Agent
 
 Milli-Agent 是一套实时计算机使用智能体架构，专为高频内存中屏幕捕获和低延迟动作执行设计。

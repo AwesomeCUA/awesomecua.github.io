@@ -1,3 +1,11 @@
+---
+title: "MobileGym: A Verifiable and Highly Parallel… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-26114/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research
 
 Introduces MobileGym, a browser-hosted simulation of mobile app interactions whose configurable JSON state supports deterministic judging and parallel rollouts. MobileGym-Bench adds parameterized tasks, with experiments examining online training and transfer to real devices.
@@ -26,6 +34,18 @@ Dingbang Wu, Rui Hao, Haiyang Wang, Shuzhe Wu, Han Xiao, Zhenghong Li, Bojiang Z
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2605-26114/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2605-26114/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_26114,
+  title = {{MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research}},
+  author = {{Dingbang Wu} and {Rui Hao} and {Haiyang Wang} and {Shuzhe Wu} and {Han Xiao} and {Zhenghong Li} and {Bojiang Zhou} and {Zheng Ju} and {Zichen Liu} and {Lue Fan} and {Zhaoxiang Zhang}},
+  year = {2026},
+  eprint = {2605.26114v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.26114v3},
+  note = {First published: 2026-05-25; Recorded arXiv version: v3; Recorded version updated: 2026-09-23T17:59:57Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

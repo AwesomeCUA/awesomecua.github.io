@@ -1,3 +1,11 @@
+---
+title: "AdaShield: Safeguarding Multimodal Large… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-09513/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting
 
 Bibliographic record for AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Yu Wang, Xiaogeng Liu, Yu Li, Muhao Chen, Chaowei Xiao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-09513/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-09513/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_09513,
+  title = {{AdaShield: Safeguarding Multimodal Large Language Models from Structure-based Attack via Adaptive Shield Prompting}},
+  author = {{Yu Wang} and {Xiaogeng Liu} and {Yu Li} and {Muhao Chen} and {Chaowei Xiao}},
+  year = {2024},
+  eprint = {2403.09513v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.09513v1},
+  note = {First published: 2024-03-14; Recorded arXiv version: v1; Recorded version updated: 2024-03-14T15:57:13Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

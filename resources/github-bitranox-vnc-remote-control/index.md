@@ -1,3 +1,11 @@
+---
+title: "vnc-remote-control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bitranox-vnc-remote-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # vnc-remote-control
 
 Layout-aware VNC/RFB remote-control CLI providing typing, clicking, screenshot capture, and OCR against any VNC server.

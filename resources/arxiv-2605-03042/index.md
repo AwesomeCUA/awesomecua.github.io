@@ -1,3 +1,11 @@
+---
+title: "ARIS: Autonomous Research via Adversarial… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-03042/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration
 
 Status: excluded from the active CUA catalog after scope review.

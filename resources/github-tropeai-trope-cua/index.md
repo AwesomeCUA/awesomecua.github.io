@@ -1,3 +1,11 @@
+---
+title: "Trope CUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-tropeai-trope-cua/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Trope CUA
 
 Trope CUA enables background desktop inspection and GUI operation on Windows and macOS without interrupting foreground user work.

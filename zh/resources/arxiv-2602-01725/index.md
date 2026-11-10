@@ -1,3 +1,11 @@
+---
+title: "SafePred: A Predictive Guardrail for… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-01725/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # SafePred: A Predictive Guardrail for Computer-Using Agents via World Models
 
 SafePred 利用世界模型预测风险，以指导操作过滤和任务重新规划；其桌面与网页安全评估分别考察策略遵循、任务成功，以及遵循指定策略时的任务成功。
@@ -27,6 +35,18 @@ Yurun Chen, Zeyi Liao, Ping Yin, Taotao Xie, Keting Yin, Shengyu Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-01725/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-01725/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_01725,
+  title = {{SafePred: A Predictive Guardrail for Computer-Using Agents via World Models}},
+  author = {{Yurun Chen} and {Zeyi Liao} and {Ping Yin} and {Taotao Xie} and {Keting Yin} and {Shengyu Zhang}},
+  year = {2026},
+  eprint = {2602.01725v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.01725v1},
+  note = {First published: 2026-02-02; Recorded arXiv version: v1; Recorded version updated: 2026-02-02T07:04:06Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "Dinoer · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ronandavalan-dinoer/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Dinoer
 
 面向 LLM 智能体、本地优先的网页研究与浏览器自动化框架，结合 SearXNG 发现功能和无头浏览器控制。

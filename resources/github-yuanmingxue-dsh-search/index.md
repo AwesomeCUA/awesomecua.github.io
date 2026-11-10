@@ -1,3 +1,11 @@
+---
+title: "dsh-local-browser-search (dsh-search) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yuanmingxue-dsh-search/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # dsh-local-browser-search (dsh-search)
 
 Local-browser web search and page-fetching plugin for DeepSeek Harness.

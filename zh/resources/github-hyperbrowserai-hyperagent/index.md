@@ -1,3 +1,11 @@
+---
+title: "HyperAgent · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-hyperbrowserai-hyperagent/
+updated: 2026-10-16
+type: framework
+lang: zh-CN
+---
+
 # HyperAgent
 
 HyperAgent 为 Playwright 增加自然语言命令，支持基于无障碍树的单步操作、可使用截图的多步任务、MCP 客户端，以及无需调用 LLM 即可重放的操作缓存。

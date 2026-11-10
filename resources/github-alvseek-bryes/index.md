@@ -1,3 +1,11 @@
+---
+title: "BRYES (Brain-Eyes) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alvseek-bryes/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # BRYES (Brain-Eyes)
 
 BRYES decouples a high-level reasoning planner ('Brain') from swappable visual perception and grounding backends ('Eyes') for computer use.

@@ -1,3 +1,11 @@
+---
+title: "Chrome MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-hangwin-mcp-chrome/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Chrome MCP Server
 
 A Chrome extension and MCP bridge that let AI clients operate an existing browser session. Its tools cover screenshots, page interaction, and browser data.

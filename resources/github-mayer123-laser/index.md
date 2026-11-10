@@ -1,3 +1,11 @@
+---
+title: "LASER | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mayer123-laser/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # LASER
 
 LASER models interactive web navigation as state-space exploration with explicit state transitions and backtracking on WebShop.

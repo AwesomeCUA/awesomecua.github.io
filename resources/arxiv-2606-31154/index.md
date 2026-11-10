@@ -1,3 +1,11 @@
+---
+title: "PPT-Eval: A Benchmark for Computer-Use Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-31154/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks
 
 Introduces PPT-Eval, a benchmark of PowerPoint creation and editing tasks for computer-use agents, with rubrics that score partial progress and presentation quality.
@@ -26,6 +34,18 @@ Apurva Gandhi, Vishwas Suryanarayanan, Raja Hasnain Anwar, Firoz Shaik, Shubhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-31154/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-31154/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_31154,
+  title = {{PPT-Eval: A Benchmark for Computer-Use Agents on PowerPoint Tasks}},
+  author = {{Apurva Gandhi} and {Vishwas Suryanarayanan} and {Raja Hasnain Anwar} and {Firoz Shaik} and {Shubhang Desai} and {Thong Q. Nguyen} and {Muhammad Taqi Raza} and {Vishal Chowdhary} and {Graham Neubig}},
+  year = {2026},
+  eprint = {2606.31154v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.31154v1},
+  note = {First published: 2026-06-30; Recorded arXiv version: v1; Recorded version updated: 2026-06-30T05:26:51Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

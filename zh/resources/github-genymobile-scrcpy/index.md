@@ -1,3 +1,11 @@
+---
+title: "scrcpy · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-genymobile-scrcpy/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # scrcpy
 
 scrcpy 将安卓设备画面投射到电脑，并支持在 Linux、Windows 和 macOS 上通过 USB 或 TCP/IP 使用键盘和鼠标控制设备。

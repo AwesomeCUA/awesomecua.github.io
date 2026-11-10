@@ -1,3 +1,11 @@
+---
+title: "Kimi-VL Technical Report | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-07491/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Kimi-VL Technical Report
 
 Presents Kimi-VL, a general vision-language model evaluated on multi-turn agent tasks including OSWorld and on ScreenSpot-Pro alongside other vision-language tasks.
@@ -26,6 +34,18 @@ Kimi Team, Angang Du, Bohong Yin, Bowei Xing, Bowen Qu, Bowen Wang, Cheng Chen, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-07491/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-07491/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_07491,
+  title = {{Kimi-VL Technical Report}},
+  author = {{Kimi Team} and {Angang Du} and {Bohong Yin} and {Bowei Xing} and {Bowen Qu} and {Bowen Wang} and {Cheng Chen} and {Chenlin Zhang} and {Chenzhuang Du} and {Chu Wei} and {Congcong Wang} and {Dehao Zhang} and {Dikang Du} and {Dongliang Wang} and {Enming Yuan} and {Enzhe Lu} and {Fang Li} and {Flood Sung} and {Guangda Wei} and {Guokun Lai} and {Han Zhu} and {Hao Ding} and {Hao Hu} and {Hao Yang} and {Hao Zhang} and {Haoning Wu} and {Haotian Yao} and {Haoyu Lu} and {Heng Wang} and {Hongcheng Gao} and {Huabin Zheng} and {Jiaming Li} and {Jianlin Su} and {Jianzhou Wang} and {Jiaqi Deng} and {Jiezhong Qiu} and {Jin Xie} and {Jinhong Wang} and {Jingyuan Liu} and {Junjie Yan} and {Kun Ouyang} and {Liang Chen} and {Lin Sui} and {Longhui Yu} and {Mengfan Dong} and {Mengnan Dong} and {Nuo Xu} and {Pengyu Cheng} and {Qizheng Gu} and {Runjie Zhou} and {Shaowei Liu} and {Sihan Cao} and {Tao Yu} and {Tianhui Song} and {Tongtong Bai} and {Wei Song} and {Weiran He} and {Weixiao Huang} and {Weixin Xu} and {Xiaokun Yuan} and {Xingcheng Yao} and {Xingzhe Wu} and {Xinhao Li} and {Xinxing Zu} and {Xinyu Zhou} and {Xinyuan Wang} and {Y. Charles} and {Yan Zhong} and {Yang Li} and {Yangyang Hu} and {Yanru Chen} and {Yejie Wang} and {Yibo Liu} and {Yibo Miao} and {Yidao Qin} and {Yimin Chen} and {Yiping Bao} and {Yiqin Wang} and {Yongsheng Kang} and {Yuanxin Liu} and {Yuhao Dong} and {Yulun Du} and {Yuxin Wu} and {Yuzhi Wang} and {Yuzi Yan} and {Zaida Zhou} and {Zhaowei Li} and {Zhejun Jiang} and {Zheng Zhang} and {Zhilin Yang} and {Zhiqi Huang} and {Zihao Huang} and {Zijia Zhao} and {Ziwei Chen} and {Zongyu Lin}},
+  year = {2025},
+  eprint = {2504.07491v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.07491v3},
+  note = {First published: 2025-04-10; Recorded arXiv version: v3; Recorded version updated: 2025-06-23T13:45:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

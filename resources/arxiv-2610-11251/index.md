@@ -1,3 +1,11 @@
+---
+title: "V-CoLA: Vision Token Compression with Linear… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-11251/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # V-CoLA: Vision Token Compression with Linear Attention
 
 Bibliographic record for V-CoLA: Vision Token Compression with Linear Attention. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hao Jiang, Yiru Mao, Tianpeng Bu, Hao Zhou, Hongtao Duan, Wang Jing, Bowen Xu, X
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-11251/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-11251/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_11251,
+  title = {{V-CoLA: Vision Token Compression with Linear Attention}},
+  author = {{Hao Jiang} and {Yiru Mao} and {Tianpeng Bu} and {Hao Zhou} and {Hongtao Duan} and {Wang Jing} and {Bowen Xu} and {Xin Chen} and {Lulu Hu} and {Bin Yang} and {Yongliang Tao} and {Minying Zhang}},
+  year = {2026},
+  eprint = {2610.11251v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.11251v1},
+  note = {First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T04:55:50Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

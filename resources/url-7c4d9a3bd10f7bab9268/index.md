@@ -1,3 +1,11 @@
+---
+title: "HARPA AI | AwesomeCUA"
+url: https://awesomecua.com/resources/url-7c4d9a3bd10f7bab9268/
+updated: 2026-10-19
+type: product
+lang: en
+---
+
 # HARPA AI
 
 Chrome extension that brings chat models to any web page for summaries and writing, with an automation engine whose user-built commands navigate, click, paste, extract and monitor pages around AI steps.

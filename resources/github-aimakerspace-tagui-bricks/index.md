@@ -1,3 +1,11 @@
+---
+title: "TagUI Bricks | AwesomeCUA"
+url: https://awesomecua.com/resources/github-aimakerspace-tagui-bricks/
+updated: 2026-11-10
+type: learning
+lang: en
+---
+
 # TagUI Bricks
 
 A set of sample TagUI workflows for websites and desktop apps, such as emailing forex rates through Gmail, OCR on tax notices and filling Word letters, each offered as a downloadable template.

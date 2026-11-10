@@ -1,3 +1,11 @@
+---
+title: "Hachifish | AwesomeCUA"
+url: https://awesomecua.com/resources/github-momo-null-hachifish/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Hachifish
 
 Hachifish is an on-device Android GUI agent that executes natural-language tasks via the native AccessibilityService with pre-completion checks.

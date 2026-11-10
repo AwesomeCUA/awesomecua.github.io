@@ -1,3 +1,11 @@
+---
+title: "AI, Take the Wheel: What Drives Delegation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-28255/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AI, Take the Wheel: What Drives Delegation and Trust in Human-Computer Cooperative Question Answering?
 
 Status: excluded from the active CUA catalog after scope review.

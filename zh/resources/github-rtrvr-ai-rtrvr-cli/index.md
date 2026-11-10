@@ -1,3 +1,11 @@
+---
+title: "rtrvr CLI & SDK · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rtrvr-ai-rtrvr-cli/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # rtrvr CLI & SDK
 
 面向 AI 智能体的 CLI 和 SDK，用于自动执行网页工作流、抓取网页，以及驱动云端或本地浏览器。

@@ -1,3 +1,11 @@
+---
+title: "GUI-Eyes: Tool-Augmented Perception for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-09770/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents
 
 GUI-Eyes trains GUI grounders to decide when and how to use visual tools such as crops and zooms. Its coarse-to-fine policy uses dense spatial rewards based on location proximity and region overlap, with evaluation on ScreenSpot-Pro.
@@ -26,6 +34,18 @@ Chen Chen, Jiawei Shao, Dakuan Lu, Haoyi Hu, Xiangcheng Liu, Hantao Yao, Wu Liu
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-09770/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-09770/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_09770,
+  title = {{GUI-Eyes: Tool-Augmented Perception for Visual Grounding in GUI Agents}},
+  author = {{Chen Chen} and {Jiawei Shao} and {Dakuan Lu} and {Haoyi Hu} and {Xiangcheng Liu} and {Hantao Yao} and {Wu Liu}},
+  year = {2026},
+  eprint = {2601.09770v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.09770v1},
+  note = {First published: 2026-01-14; Recorded arXiv version: v1; Recorded version updated: 2026-01-14T14:27:28Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

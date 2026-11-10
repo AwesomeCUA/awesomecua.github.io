@@ -1,3 +1,11 @@
+---
+title: "computer-use-mcp-gateway · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-git-ksk-computer-use-mcp-gateway/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # computer-use-mcp-gateway
 
 远程 Model Context Protocol 网关，用于将智能体工具调用路由至 Cua Driver 等计算机使用后端。

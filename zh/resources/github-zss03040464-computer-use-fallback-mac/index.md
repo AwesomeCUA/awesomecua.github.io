@@ -1,3 +1,11 @@
+---
+title: "computer-use-fallback-mac · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zss03040464-computer-use-fallback-mac/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # computer-use-fallback-mac
 
 限定于窗口的 macOS Computer Use MCP 服务器，提供无需前台焦点的后台窗口捕获和辅助功能控制。

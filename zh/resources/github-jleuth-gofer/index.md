@@ -1,3 +1,11 @@
+---
+title: "Gofer · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jleuth-gofer/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Gofer
 
 Gofer 是持续运行的桌面智能体，可监测屏幕变化、执行 shell 和 GUI 动作，并通过 Telegram 或本地 REPL 通信。

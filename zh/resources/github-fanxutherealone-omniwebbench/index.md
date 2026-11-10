@@ -1,3 +1,11 @@
+---
+title: "OmniWebBench · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fanxutherealone-omniwebbench/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # OmniWebBench
 
 OmniWebBench 从端到端网页导航、动作执行、故障恢复和证据核验等方面评测智能体浏览器。

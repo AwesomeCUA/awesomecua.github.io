@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-GPT-OSS-20B-A4B-Preview-HF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-c09ce6d4ca2ddaf02fae/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-GPT-OSS-20B-A4B-Preview-HF
 
 基于 GPT-OSS 语言模型的 HF 格式 InternVL3.5 预览检查点（总计 21.2B，A4B），该多模态模型的说明卡将 GUI 交互列为训练所得能力之一，并报告了 GUI 结果。

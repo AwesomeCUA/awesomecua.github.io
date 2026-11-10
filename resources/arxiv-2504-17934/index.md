@@ -1,3 +1,11 @@
+---
+title: "Toward a Human-Centered Evaluation Framework… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-17934/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents
 
 Presents a position paper on privacy and security evaluation for GUI agents, identifying risk categories and challenges in involving human evaluators. It proposes risk-aware assessment and in-context consent as design directions.
@@ -26,6 +34,18 @@ Chaoran Chen, Zhiping Zhang, Ibrahim Khalilov, Bingcan Guo, Simret A Gebreegziab
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-17934/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-17934/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_17934,
+  title = {{Toward a Human-Centered Evaluation Framework for Trustworthy LLM-Powered GUI Agents}},
+  author = {{Chaoran Chen} and {Zhiping Zhang} and {Ibrahim Khalilov} and {Bingcan Guo} and {Simret A Gebreegziabher} and {Yanfang Ye} and {Ziang Xiao} and {Yaxing Yao} and {Tianshi Li} and {Toby Jia-Jun Li}},
+  year = {2025},
+  eprint = {2504.17934v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.17934v2},
+  note = {First published: 2025-04-24; Recorded arXiv version: v2; Recorded version updated: 2025-06-05T12:40:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

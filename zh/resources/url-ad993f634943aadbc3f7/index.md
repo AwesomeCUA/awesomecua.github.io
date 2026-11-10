@@ -1,3 +1,11 @@
+---
+title: "UI-Mate-27B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-ad993f634943aadbc3f7/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # UI-Mate-27B
 
 UI-Mate 发布中的 27B GUI 智能体模型，基于 Qwen3.6-27B 经监督微调和在线强化学习训练，将指令和屏幕截图转化为键盘和鼠标操作。

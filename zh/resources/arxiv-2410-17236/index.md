@@ -1,3 +1,11 @@
+---
+title: "Large Language Models Empowered… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2410-17236/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # Large Language Models Empowered Personalized Web Agents
 
 PersonalWAB 评估个性化网页任务；PUMA 检索相关历史网页行为，以调整智能体对指令的理解和动作执行。
@@ -27,6 +35,18 @@ Hongru Cai, Yongqi Li, Wenjie Wang, Fengbin Zhu, Xiaoyu Shen, Wenjie Li, Tat-Sen
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2410-17236/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2410-17236/citation.csl.json
+
+```bibtex
+@misc{arxiv_2410_17236,
+  title = {{Large Language Models Empowered Personalized Web Agents}},
+  author = {{Hongru Cai} and {Yongqi Li} and {Wenjie Wang} and {Fengbin Zhu} and {Xiaoyu Shen} and {Wenjie Li} and {Tat-Seng Chua}},
+  year = {2024},
+  eprint = {2410.17236v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2410.17236v2},
+  note = {First published: 2024-10-22; Recorded arXiv version: v2; Recorded version updated: 2025-03-24T17:51:54Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "InnerOS WebMCP · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rafa-innerchispa-inneros-webmcp/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # InnerOS WebMCP
 
 供 InnerOS 本地 AI 运行时使用、具有能力边界的 WebMCP 浏览器控制接口。

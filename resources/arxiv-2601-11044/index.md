@@ -1,3 +1,11 @@
+---
+title: "AgencyBench: Benchmarking the Frontiers of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-11044/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts
 
 Bibliographic record for AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Keyu Li, Junhao Shi, Yang Xiao, Mohan Jiang, Jie Sun, Yunze Wu, Dayuan Fu, Shiji
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-11044/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-11044/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_11044,
+  title = {{AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts}},
+  author = {{Keyu Li} and {Junhao Shi} and {Yang Xiao} and {Mohan Jiang} and {Jie Sun} and {Yunze Wu} and {Dayuan Fu} and {Shijie Xia} and {Xiaojie Cai} and {Tianze Xu} and {Weiye Si} and {Wenjie Li} and {Dequan Wang} and {Pengfei Liu}},
+  year = {2026},
+  eprint = {2601.11044v4},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.11044v4},
+  note = {First published: 2026-01-16; Recorded arXiv version: v4; Recorded version updated: 2026-04-23T05:01:02Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

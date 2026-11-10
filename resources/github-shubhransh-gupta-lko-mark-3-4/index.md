@@ -1,3 +1,11 @@
+---
+title: "LKO Mark 3.4 | AwesomeCUA"
+url: https://awesomecua.com/resources/github-shubhransh-gupta-lko-mark-3-4/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # LKO Mark 3.4
 
 Autonomous macOS desktop assistant with voice interaction, screen vision, and native AppleScript/system control.

@@ -1,3 +1,11 @@
+---
+title: "Browser Run · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-a57a63693c89915903f1/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # Browser Run
 
 Browser Run 托管无界面 Chrome 会话，支持浏览器自动化与智能体网页操作，并提供 Playwright、Puppeteer、CDP 和 MCP 接入方式。

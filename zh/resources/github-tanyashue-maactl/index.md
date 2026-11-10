@@ -1,3 +1,11 @@
+---
+title: "MaaCtl · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tanyashue-maactl/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # MaaCtl
 
 MaaFramework 的命令行客户端，加载 ProjectInterface v2 项目，查看其控制器、资源和任务，并在 ADB 设备或桌面窗口上运行任务或流水线节点。

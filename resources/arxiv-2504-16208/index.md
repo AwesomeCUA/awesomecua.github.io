@@ -1,3 +1,11 @@
+---
+title: "High-throughput screening of 2D materials… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-16208/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # High-throughput screening of 2D materials identifies p-type monolayer WS$_2$ as potential ultra-high mobility semiconductor
 
 Status: excluded from the active CUA catalog after scope review.

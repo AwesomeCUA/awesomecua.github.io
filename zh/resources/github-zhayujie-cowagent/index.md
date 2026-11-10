@@ -1,3 +1,11 @@
+---
+title: "CowAgent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-zhayujie-cowagent/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # CowAgent
 
 CowAgent 是开源智能体，可规划任务并操作电脑、浏览器和外部服务。它将浏览器工具与记忆、技能和服务集成结合起来。

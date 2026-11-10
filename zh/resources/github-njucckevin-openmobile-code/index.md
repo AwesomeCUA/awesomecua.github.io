@@ -1,3 +1,11 @@
+---
+title: "OpenMobile code · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-njucckevin-openmobile-code/
+updated: 2026-10-19
+type: framework
+lang: zh-CN
+---
+
 # OpenMobile code
 
 面向 AndroidWorld 的 OpenMobile 流程：随机游走探索、基于记忆合成任务指令、学习者与专家策略切换采样、转换为 LLaMA-Factory SFT 数据及 AndroidWorld 评估。

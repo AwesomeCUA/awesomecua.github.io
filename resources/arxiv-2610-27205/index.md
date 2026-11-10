@@ -1,3 +1,11 @@
+---
+title: "LoWAgent: A Low-Resource Multilingual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-27205/
+updated: 2026-10-21
+type: paper
+lang: en
+---
+
 # LoWAgent: A Low-Resource Multilingual Benchmark for Web Agents
 
 Bibliographic record for LoWAgent: A Low-Resource Multilingual Benchmark for Web Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Ocean Monjur, Daud Ahmad Nisar, Shahriar Kabir Nahin, Tadesse Destaw Belay, Sush
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-27205/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-27205/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_27205,
+  title = {{LoWAgent: A Low-Resource Multilingual Benchmark for Web Agents}},
+  author = {{Ocean Monjur} and {Daud Ahmad Nisar} and {Shahriar Kabir Nahin} and {Tadesse Destaw Belay} and {Sushruti Mishra} and {Israel Abebe Azime} and {Anshuman Chhabra}},
+  year = {2026},
+  eprint = {2610.27205v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.27205v1},
+  note = {First published: 2026-10-19; Recorded arXiv version: v1; Recorded version updated: 2026-10-19T19:40:15Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

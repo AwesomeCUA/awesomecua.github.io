@@ -1,11 +1,17 @@
+---
+title: "Workflows — computer-use research, page 9 | AwesomeCUA"
+url: https://awesomecua.com/topics/workflow/page/9/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Workflows — computer-use research, page 9
 
 HTML page: https://awesomecua.com/topics/workflow/page/9/
 
 Full list: https://awesomecua.com/topics/workflow/index.md
 
-- [Replay (Teach-by-Demonstration)](https://awesomecua.com/resources/github-misb74-replay/)
-- [Replay AI](https://awesomecua.com/resources/github-bryansbtian-replay-ai/)
 - [Resume Autofill Agent](https://awesomecua.com/resources/github-ccc-zach-resume-autofill-agent/)
 - [RishabhP1508 Understudy](https://awesomecua.com/resources/github-rishabhp1508-understudy/)
 - [rotary (rx4)](https://awesomecua.com/resources/github-tschk-rotary/)
@@ -64,3 +70,5 @@ Full list: https://awesomecua.com/topics/workflow/index.md
 - [Web Agent Protocol (WAP)](https://awesomecua.com/resources/github-ota-tech-ai-web-agent-protocol/)
 - [Webagent (webagent.cloud)](https://awesomecua.com/resources/github-webagent-cloud-webagent/)
 - [WebBrain](https://awesomecua.com/resources/github-webbrain-one-webbrain/)
+- [webclaw3](https://awesomecua.com/resources/github-fatmind-webclaw3/)
+- [Webhands](https://awesomecua.com/resources/github-agentpostmortem-webhands/)

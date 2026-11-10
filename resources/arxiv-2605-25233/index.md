@@ -1,3 +1,11 @@
+---
+title: "Meta-Agent: From Task Descriptions to… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2605-25233/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Meta-Agent: From Task Descriptions to Verified Multi-Agent Systems
 
 Status: excluded from the active CUA catalog after scope review.

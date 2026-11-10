@@ -1,3 +1,11 @@
+---
+title: "smart-computer-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-lindoelio-smart-computer-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # smart-computer-use
 
 Agent skill for Claude Code, Codex, Cursor, and OpenCode that drives desktop GUIs via a Rust CLI and local vision grounding.

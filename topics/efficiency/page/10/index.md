@@ -1,10 +1,17 @@
+---
+title: "Efficiency — computer-use research, page 10 | AwesomeCUA"
+url: https://awesomecua.com/topics/efficiency/page/10/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Efficiency — computer-use research, page 10
 
 HTML page: https://awesomecua.com/topics/efficiency/page/10/
 
 Full list: https://awesomecua.com/topics/efficiency/index.md
 
-- [VG-GUI-TASKER](https://awesomecua.com/resources/github-vg-gui-tasker-vg-gui-tasker/)
 - [VisionAX](https://awesomecua.com/resources/github-rao-studios-visionax/)
 - [Visual Context Router](https://awesomecua.com/resources/github-fangsylar-pixel-visual-context-router/)
 - [VoltageInputMcp](https://awesomecua.com/resources/github-casualkre-voltage-input-mcp/)

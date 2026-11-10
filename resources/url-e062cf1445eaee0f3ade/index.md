@@ -1,3 +1,11 @@
+---
+title: "Jedi | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e062cf1445eaee0f3ade/
+updated: 2026-10-17
+type: dataset
+lang: en
+---
+
 # Jedi
 
 Synthetic GUI grounding data associated with UI decomposition research and the OSWorld-G benchmark.

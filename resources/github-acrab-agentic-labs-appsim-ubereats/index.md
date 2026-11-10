@@ -1,3 +1,11 @@
+---
+title: "AppSim-UberEats | AwesomeCUA"
+url: https://awesomecua.com/resources/github-acrab-agentic-labs-appsim-ubereats/
+updated: 2026-11-09
+type: infrastructure
+lang: en
+---
+
 # AppSim-UberEats
 
 AppSim-UberEats is an Android app replica with interactive shopping screens, seeded data and scripts for checking task events and answers during mobile-agent evaluation.

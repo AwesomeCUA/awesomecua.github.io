@@ -1,3 +1,11 @@
+---
+title: "VLAA-GUI · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ucsc-vlaa-vlaa-gui/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # VLAA-GUI
 
 VLAA-GUI 提供模块化 GUI 自动化框架，教会智能体何时停止、如何从错误中恢复以及搜索替代方案。

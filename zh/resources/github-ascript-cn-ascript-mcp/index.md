@@ -1,3 +1,11 @@
+---
+title: "ascript-mcp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ascript-cn-ascript-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # ascript-mcp
 
 Model Context Protocol 服务器，可通过 Claude、Cursor 和 MCP 客户端自动操作 Android、iOS 和 Windows 设备。

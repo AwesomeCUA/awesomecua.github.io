@@ -1,3 +1,11 @@
+---
+title: "OS-Symphony · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-os-copilot-os-symphony/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # OS-Symphony
 
 OS-Symphony 是一个综合性的计算机使用智能体框架，结合了 Reflection-Memory Agent、多用途工具集和多模态搜索器。

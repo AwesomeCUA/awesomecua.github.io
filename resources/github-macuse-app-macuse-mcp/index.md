@@ -1,3 +1,11 @@
+---
+title: "Macuse MCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-macuse-app-macuse-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Macuse MCP
 
 Macuse MCP is a native macOS Model Context Protocol server granting AI agents direct control over Calendar, Mail, Notes, Messages, and GUI apps.

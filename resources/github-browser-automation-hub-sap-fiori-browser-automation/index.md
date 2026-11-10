@@ -1,3 +1,11 @@
+---
+title: "SAP Fiori Browser Automation | AwesomeCUA"
+url: https://awesomecua.com/resources/github-browser-automation-hub-sap-fiori-browser-automation/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # SAP Fiori Browser Automation
 
 A SAP Fiori browser automation scaffold with documented actions for purchase orders, approvals, financial-data export, and invoice handling.

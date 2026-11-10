@@ -1,3 +1,11 @@
+---
+title: "Browser Terminal Use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-chaokunyang-browser-terminal-use/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Browser Terminal Use
 
 Pairs a Chrome extension, local daemon, and CLI to let agents execute commands inside browser-hosted cloud terminals with exit-code capture.

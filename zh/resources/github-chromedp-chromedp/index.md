@@ -1,3 +1,11 @@
+---
+title: "chromedp · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-chromedp-chromedp/
+updated: 2026-11-06
+type: tool
+lang: zh-CN
+---
+
 # chromedp
 
 通过 Chrome DevTools Protocol 驱动浏览器的 Go 包，提供页面导航、元素交互和页面内容读取动作。

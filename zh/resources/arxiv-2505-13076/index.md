@@ -1,3 +1,11 @@
+---
+title: "The Hidden Dangers of Browsing AI Agents · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2505-13076/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # The Hidden Dangers of Browsing AI Agents
 
 提出端到端威胁模型，并对自主浏览器智能体各架构层进行实证安全评估。
@@ -27,6 +35,18 @@ Mykyta Mudryi, Markiyan Chaklosh, Grzegorz Wójcik
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2505-13076/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2505-13076/citation.csl.json
+
+```bibtex
+@misc{arxiv_2505_13076,
+  title = {{The Hidden Dangers of Browsing AI Agents}},
+  author = {{Mykyta Mudryi} and {Markiyan Chaklosh} and {Grzegorz Wójcik}},
+  year = {2025},
+  eprint = {2505.13076v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2505.13076v1},
+  note = {First published: 2025-05-19; Recorded arXiv version: v1; Recorded version updated: 2025-05-19T13:10:29Z.}
+}
+```
 
 ## arXiv 版本记录
 

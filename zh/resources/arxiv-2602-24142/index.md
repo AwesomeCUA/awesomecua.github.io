@@ -1,3 +1,11 @@
+---
+title: "CoME: Empowering Channel-of-Mobile-Expert… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2602-24142/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning
 
 提出移动智能体 Channel-of-Mobile-Experts (CoME)，为屏幕摘要、子任务规划、动作决策和动作函数设置专家，并结合分阶段训练与 InfoGain-Driven DPO (Info-DPO)。
@@ -27,6 +35,18 @@ Yuxuan Liu, Weikai Xu, Kun Huang, Changyu Chen, Jiankun Zhao, Pengzhi Gao, Wei L
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2602-24142/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2602-24142/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_24142,
+  title = {{CoME: Empowering Channel-of-Mobile-Experts with Informative Hybrid-Capabilities Reasoning}},
+  author = {{Yuxuan Liu} and {Weikai Xu} and {Kun Huang} and {Changyu Chen} and {Jiankun Zhao} and {Pengzhi Gao} and {Wei Liu} and {Jian Luan} and {Shuo Shang} and {Bo Du} and {Ji-Rong Wen} and {Rui Yan}},
+  year = {2026},
+  eprint = {2602.24142v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.24142v2},
+  note = {First published: 2026-02-27; Recorded arXiv version: v2; Recorded version updated: 2026-03-06T18:07:28Z.}
+}
+```
 
 ## arXiv 版本记录
 

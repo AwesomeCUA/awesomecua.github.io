@@ -1,3 +1,11 @@
+---
+title: "WebUIProof · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yunyuntsai-webuiproof-benchmark/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # WebUIProof
 
 一个包含 149 项网页界面生成任务及结构化测试用例的基准，并使用视觉语言智能体在浏览器中测试生成的界面。

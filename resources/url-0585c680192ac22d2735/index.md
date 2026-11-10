@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-4B-HF | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0585c680192ac22d2735/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # InternVL3_5-4B-HF
 
 An HF-format checkpoint in the InternVL3.5 multimodal model family, whose card names GUI interaction among its capabilities. The release includes model weights.

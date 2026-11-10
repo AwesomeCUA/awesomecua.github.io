@@ -1,3 +1,11 @@
+---
+title: "OmniParser v2 model bundle | AwesomeCUA"
+url: https://awesomecua.com/resources/url-e21ca7c859544dbf5fb6/
+updated: 2026-10-20
+type: model
+lang: en
+---
+
 # OmniParser v2 model bundle
 
 A screen-parsing weight bundle containing icon-region detectors and an icon captioner for converting screenshots into agent-readable interface elements.

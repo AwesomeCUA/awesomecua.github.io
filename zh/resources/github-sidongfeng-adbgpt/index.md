@@ -1,3 +1,11 @@
+---
+title: "AdbGPT · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-sidongfeng-adbgpt/
+updated: 2026-11-09
+type: agent
+lang: zh-CN
+---
+
 # AdbGPT
 
 Android 缺陷重现智能体，从文字缺陷报告提取操作信息，并结合当前应用界面引导重现步骤。

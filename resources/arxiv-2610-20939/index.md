@@ -1,3 +1,11 @@
+---
+title: "MAI-Gym: An Open All-in-One Platform for GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-20939/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments
 
 Unifies GUI evaluation, trajectory collection, environment synthesis, and online reinforcement learning across mobile, computer, and web tasks.
@@ -26,6 +34,18 @@ Panrong Tong, Quyu Kong, Pengxiang Li, Tianyu Xia, Hanzhang Zhou, Lei Wang, Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-20939/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-20939/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_20939,
+  title = {{MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments}},
+  author = {{Panrong Tong} and {Quyu Kong} and {Pengxiang Li} and {Tianyu Xia} and {Hanzhang Zhou} and {Lei Wang} and {Chenglin Cai} and {Long Li} and {Long Chen} and {Jianan Zhang} and {Zhengwen Zeng} and {Xu Zhang} and {Gongjie Zhang} and {Yue Wang} and {Steven Hoi}},
+  year = {2026},
+  eprint = {2610.20939v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.20939v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T21:06:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

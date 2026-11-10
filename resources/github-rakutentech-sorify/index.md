@@ -1,3 +1,11 @@
+---
+title: "Sorify | AwesomeCUA"
+url: https://awesomecua.com/resources/github-rakutentech-sorify/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Sorify
 
 Rakuten's AI-first browser testing and Playwright automation platform for end-to-end agentic QA.

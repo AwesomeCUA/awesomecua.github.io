@@ -1,14 +1,17 @@
+---
+title: "Automation — computer-use research, page 20 | AwesomeCUA"
+url: https://awesomecua.com/topics/automation/page/20/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Automation — computer-use research, page 20
 
 HTML page: https://awesomecua.com/topics/automation/page/20/
 
 Full list: https://awesomecua.com/topics/automation/index.md
 
-- [OpenAdapt Agent](https://awesomecua.com/resources/github-openadaptai-openadapt-agent/)
-- [OpenAdapt Desktop](https://awesomecua.com/resources/github-openadaptai-openadapt-desktop/)
-- [openadapt-flow](https://awesomecua.com/resources/github-openadaptai-openadapt-flow/)
-- [OpenAgent](https://awesomecua.com/resources/github-the-open-agent-openagent/)
-- [OpenAgentFleet](https://awesomecua.com/resources/github-robbyczgw-cla-openagentfleet/)
 - [OpenAgents Web Agent](https://awesomecua.com/resources/component-xlang-ai-openagents-web-agent/)
 - [OpenAI Codex CLI](https://awesomecua.com/resources/github-openai-codex/)
 - [OpenAmer Agent](https://awesomecua.com/resources/github-openamer-openamer/)
@@ -64,3 +67,8 @@ Full list: https://awesomecua.com/topics/automation/index.md
 - [Panerelay](https://awesomecua.com/resources/github-f-loat-panerelay/)
 - [PANOPTES Screen MCP Server](https://awesomecua.com/resources/github-yxpil-panoptes/)
 - [Parallels CLI Skill for Codex](https://awesomecua.com/resources/github-wieslawsoltes-parallelsskill/)
+- [Paseo Chrome Bridge](https://awesomecua.com/resources/github-papag00se-paseo-chrome-bridge/)
+- [PatchBridge Agent](https://awesomecua.com/resources/github-hanhan666666-patchbridge-agent/)
+- [Patchright](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright/)
+- [Patchright .NET](https://awesomecua.com/resources/github-deventerprisesoftware-patchright-dotnet/)
+- [Patchright NodeJS](https://awesomecua.com/resources/github-kaliiiiiiiiii-vinyzu-patchright-nodejs/)

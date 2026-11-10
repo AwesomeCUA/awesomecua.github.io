@@ -1,3 +1,11 @@
+---
+title: "Jev-Mobile: Jev as an Executor for Mobile GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-30186/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Jev-Mobile: Jev as an Executor for Mobile GUI Agents
 
 Separates occasional visual-language planning from frequent lightweight action selection over an accessibility-tree-based action space.
@@ -26,6 +34,18 @@ Linghua Zhang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-30186/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-30186/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_30186,
+  title = {{Jev-Mobile: Jev as an Executor for Mobile GUI Agents}},
+  author = {{Linghua Zhang}},
+  year = {2026},
+  eprint = {2609.30186v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.30186v1},
+  note = {First published: 2026-09-24; Recorded arXiv version: v1; Recorded version updated: 2026-09-24T17:30:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

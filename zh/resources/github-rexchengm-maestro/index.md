@@ -1,3 +1,11 @@
+---
+title: "Maestro (AI-Drivable RPA) · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-rexchengm-maestro/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Maestro (AI-Drivable RPA)
 
 录制一次桌面或浏览器任务，再由 AI 将其优化、参数化，并作为确定性的 RPA 工作流重放。

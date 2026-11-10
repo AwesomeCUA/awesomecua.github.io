@@ -1,3 +1,11 @@
+---
+title: "Multi-Agent Computer Use | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-01533/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Multi-Agent Computer Use
 
 MACU represents computer-use objectives as a dependency graph whose manager dispatches parallel subagents and revises tasks as new information arrives. Desktop and web experiments examine coordination, information handoff and task-completion time.
@@ -26,6 +34,18 @@ Jing Yu Koh, Ruslan Salakhutdinov, Daniel Fried
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2606-01533/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2606-01533/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_01533,
+  title = {{Multi-Agent Computer Use}},
+  author = {{Jing Yu Koh} and {Ruslan Salakhutdinov} and {Daniel Fried}},
+  year = {2026},
+  eprint = {2606.01533v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.01533v1},
+  note = {First published: 2026-06-01; Recorded arXiv version: v1; Recorded version updated: 2026-06-01T01:29:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

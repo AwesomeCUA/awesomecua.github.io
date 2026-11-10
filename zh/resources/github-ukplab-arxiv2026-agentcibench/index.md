@@ -1,3 +1,11 @@
+---
+title: "AgentCIBench (github.com/ukplab/arxiv20… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ukplab-arxiv2026-agentcibench/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # AgentCIBench
 
 AgentCIBench 评估计算机操作智能体是否会在个人应用之间泄露信息。它提供可评分的场景、基准测试程序，以及用于可视化运行的网页环境。

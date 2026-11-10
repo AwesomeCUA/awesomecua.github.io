@@ -1,3 +1,11 @@
+---
+title: "界面设计：Computer-Use 研究与资源 | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/ui-design/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 界面设计
 
 Reviewed topic membership; resources can appear in multiple topics.

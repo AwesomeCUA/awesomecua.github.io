@@ -1,3 +1,11 @@
+---
+title: "webreel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-vercel-labs-webreel/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # webreel
 
 webreel drives a Chrome browser through JSON-defined actions and records the resulting interaction as video with cursor and keystroke overlays.

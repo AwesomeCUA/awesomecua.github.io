@@ -1,3 +1,11 @@
+---
+title: "Mosaik | AwesomeCUA"
+url: https://awesomecua.com/resources/github-luantak-mosaik/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Mosaik
 
 Composable agentic browser automation framework built from small, reusable perception and action primitives.

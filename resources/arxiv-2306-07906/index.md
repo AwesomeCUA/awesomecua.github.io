@@ -1,3 +1,11 @@
+---
+title: "WebGLM: Towards An Efficient Web-Enhanced… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2306-07906/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences
 
 Bibliographic record for WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Xiao Liu, Hanyu Lai, Hao Yu, Yifan Xu, Aohan Zeng, Zhengxiao Du, Peng Zhang, Yux
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2306-07906/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2306-07906/citation.csl.json
+
+```bibtex
+@misc{arxiv_2306_07906,
+  title = {{WebGLM: Towards An Efficient Web-Enhanced Question Answering System with Human Preferences}},
+  author = {{Xiao Liu} and {Hanyu Lai} and {Hao Yu} and {Yifan Xu} and {Aohan Zeng} and {Zhengxiao Du} and {Peng Zhang} and {Yuxiao Dong} and {Jie Tang}},
+  year = {2023},
+  eprint = {2306.07906v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2306.07906v1},
+  note = {First published: 2023-06-13; Recorded arXiv version: v1; Recorded version updated: 2023-06-13T16:57:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

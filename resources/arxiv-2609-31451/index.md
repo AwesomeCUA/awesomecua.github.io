@@ -1,3 +1,11 @@
+---
+title: "TemplateCraft: Agentic Visual Template… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-31451/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # TemplateCraft: Agentic Visual Template Generation
 
 Bibliographic record for TemplateCraft: Agentic Visual Template Generation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Hongjie Yu, Zhiyuan Fan, Yuzhe Zhang, Jiangcun Du, Zhicheng Gao, Yuhong Zhang, X
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-31451/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-31451/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_31451,
+  title = {{TemplateCraft: Agentic Visual Template Generation}},
+  author = {{Hongjie Yu} and {Zhiyuan Fan} and {Yuzhe Zhang} and {Jiangcun Du} and {Zhicheng Gao} and {Yuhong Zhang} and {Xiaokai Zhan} and {Zongshi Xie}},
+  year = {2026},
+  eprint = {2609.31451v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.31451v1},
+  note = {First published: 2026-09-25; Recorded arXiv version: v1; Recorded version updated: 2026-09-25T16:08:00Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

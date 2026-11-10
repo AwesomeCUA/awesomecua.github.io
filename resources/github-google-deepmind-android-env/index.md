@@ -1,3 +1,11 @@
+---
+title: "AndroidEnv | AwesomeCUA"
+url: https://awesomecua.com/resources/github-google-deepmind-android-env/
+updated: 2026-10-20
+type: infrastructure
+lang: en
+---
+
 # AndroidEnv
 
 Android device-control platform with screenshots, accessibility telemetry, input actions, and an optional reinforcement-learning task interface.

@@ -1,3 +1,11 @@
+---
+title: "Susu Phone Agent · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-2005selene2005-a11y-susu-phone-agent/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Susu Phone Agent
 
 通过 MCP 和 Shizuku 为 Claude Code 提供 Android 设备桥接，实现无需 root 权限的手机 UI 自动化。

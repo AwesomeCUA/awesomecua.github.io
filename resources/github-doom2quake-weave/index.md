@@ -1,3 +1,11 @@
+---
+title: "Weave WebMCP | AwesomeCUA"
+url: https://awesomecua.com/resources/github-doom2quake-weave/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # Weave WebMCP
 
 Browser-native WebMCP idea-to-plan canvas where human users and web agents co-edit structured task plans.

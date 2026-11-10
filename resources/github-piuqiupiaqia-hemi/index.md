@@ -1,3 +1,11 @@
+---
+title: "Hemi | AwesomeCUA"
+url: https://awesomecua.com/resources/github-piuqiupiaqia-hemi/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Hemi
 
 Desktop AI assistant for macOS and Windows featuring voice interaction, screen awareness, and local tool execution.

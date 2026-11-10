@@ -1,3 +1,11 @@
+---
+title: "COLA demo · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-alokia-cola-demo/
+updated: 2026-10-16
+type: agent
+lang: zh-CN
+---
+
 # COLA demo
 
 协作式 Windows GUI 自动化研究演示，包含动态任务调度和恢复机制。

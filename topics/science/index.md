@@ -1,3 +1,11 @@
+---
+title: "Scientific workflows — computer-use research | AwesomeCUA"
+url: https://awesomecua.com/topics/science/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Scientific workflows
 
 Reviewed topic membership; resources can appear in multiple topics.

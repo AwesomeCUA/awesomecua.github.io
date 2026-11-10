@@ -1,3 +1,11 @@
+---
+title: "Benchmarking LLM Judges for Mobile Agent… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2608-11434/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Benchmarking LLM Judges for Mobile Agent Evaluation
 
 MobileJudgeBench 以移动端智能体轨迹上的人工标注为参照比较任务完成情况评审模型，研究截图采样基线、因模型而异的错误特征，以及评审质量与智能体排名和强化学习奖励的关系。
@@ -27,6 +35,18 @@ Ziqiang Wang, Li Gu, Zhixiang Chi, Zhi Liu, Seyed Mehdi Ayyoubzadeh, Yuanhao Yu,
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2608-11434/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2608-11434/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_11434,
+  title = {{Benchmarking LLM Judges for Mobile Agent Evaluation}},
+  author = {{Ziqiang Wang} and {Li Gu} and {Zhixiang Chi} and {Zhi Liu} and {Seyed Mehdi Ayyoubzadeh} and {Yuanhao Yu} and {Yang Wang}},
+  year = {2026},
+  eprint = {2608.11434v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.11434v1},
+  note = {First published: 2026-08-11; Recorded arXiv version: v1; Recorded version updated: 2026-08-11T21:00:46Z.}
+}
+```
 
 ## arXiv 版本记录
 

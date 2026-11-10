@@ -1,3 +1,11 @@
+---
+title: "Adaptation of Computer Use Agents to New… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-23012/
+updated: 2026-10-20
+type: paper
+lang: en
+---
+
 # Adaptation of Computer Use Agents to New Software with User Manuals
 
 MAGE retrieves software-manual sections into fixed execution plans and generates setup/main task-plan pairs whose GUI rollouts support application-specific policy adaptation with round-based GRPO.
@@ -26,6 +34,18 @@ Chulhoon Yoon, Kyungri Park, Jinyeong Yun, Daeyun Jeong, Sukmin Yun, Woohwan Jun
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-23012/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-23012/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_23012,
+  title = {{Adaptation of Computer Use Agents to New Software with User Manuals}},
+  author = {{Chulhoon Yoon} and {Kyungri Park} and {Jinyeong Yun} and {Daeyun Jeong} and {Sukmin Yun} and {Woohwan Jung}},
+  year = {2026},
+  eprint = {2610.23012v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.23012v1},
+  note = {First published: 2026-10-16; Recorded arXiv version: v1; Recorded version updated: 2026-10-16T06:44:56Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

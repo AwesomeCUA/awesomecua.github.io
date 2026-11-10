@@ -1,3 +1,11 @@
+---
+title: "Tango | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yume-chan-ya-webadb/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Tango
 
 A TypeScript Android Debug Bridge client that runs in Chromium-based browsers, Node.js, and Electron to provide access to Android devices.

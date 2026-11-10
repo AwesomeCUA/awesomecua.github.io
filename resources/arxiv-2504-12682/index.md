@@ -1,3 +1,11 @@
+---
+title: "WebLists: Extracting Structured Information… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2504-12682/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # WebLists: Extracting Structured Information From Complex Interactive Websites Using Executable LLM Agents
 
 Introduces WebLists, a benchmark for structured extraction from interactive websites, and BardeenAgent, which turns web-agent runs into replayable CSS-selector programs.
@@ -26,6 +34,18 @@ Arth Bohra, Manvel Saroyan, Danil Melkozerov, Vahe Karufanyan, Gabriel Maher, Pa
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2504-12682/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2504-12682/citation.csl.json
+
+```bibtex
+@misc{arxiv_2504_12682,
+  title = {{WebLists: Extracting Structured Information From Complex Interactive Websites Using Executable LLM Agents}},
+  author = {{Arth Bohra} and {Manvel Saroyan} and {Danil Melkozerov} and {Vahe Karufanyan} and {Gabriel Maher} and {Pascal Weinberger} and {Artem Harutyunyan} and {Giovanni Campagna}},
+  year = {2025},
+  eprint = {2504.12682v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2504.12682v1},
+  note = {First published: 2025-04-17; Recorded arXiv version: v1; Recorded version updated: 2025-04-17T06:16:40Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

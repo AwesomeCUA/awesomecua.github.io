@@ -1,3 +1,11 @@
+---
+title: "device-use | AwesomeCUA"
+url: https://awesomecua.com/resources/github-labclaw-device-use/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # device-use
 
 device-use enables AI agents to operate scientific laboratory instruments through their native desktop GUI software without hardware APIs.

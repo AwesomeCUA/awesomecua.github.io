@@ -1,3 +1,11 @@
+---
+title: "April Agent Action Filter · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-newssourcecrawler-april-agent-action-filter/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # April Agent Action Filter
 
 April Agent Action Filter 是一个 Rust 策略库，在工具执行前检查并管控计算机使用智能体拟执行的动作。

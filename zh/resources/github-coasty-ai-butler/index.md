@@ -1,3 +1,11 @@
+---
+title: "Butler · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-coasty-ai-butler/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Butler
 
 Butler 是语音优先的 macOS 桌面助手，结合 MCP 工具执行与原生 Swift 桌面控制回退机制。

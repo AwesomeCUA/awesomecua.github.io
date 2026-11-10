@@ -1,3 +1,11 @@
+---
+title: "LocateAnything-3B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-59b8a8cfdd3db7b21058/
+updated: 2026-11-10
+type: model
+lang: en
+---
+
 # LocateAnything-3B
 
 LocateAnything-3B is a 3B vision-language grounding model that predicts full bounding boxes in parallel, covering GUI element grounding alongside object detection, documents and OCR.

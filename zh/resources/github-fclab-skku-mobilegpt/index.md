@@ -1,3 +1,11 @@
+---
+title: "MobileGPT · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fclab-skku-mobilegpt/
+updated: 2026-10-17
+type: agent
+lang: zh-CN
+---
+
 # MobileGPT
 
 由 Android 客户端和 Python 服务器组成的智能体，通过探索、选择、推导和记忆检索学习可复用的应用子任务。

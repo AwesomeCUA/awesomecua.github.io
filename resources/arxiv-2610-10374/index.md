@@ -1,3 +1,11 @@
+---
+title: "TaoD2C-Bench: Benchmarking MLLMs for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-10374/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # TaoD2C-Bench: Benchmarking MLLMs for Industrial UI Code Generation Beyond Visual Fidelity
 
 Bibliographic record for TaoD2C-Bench: Benchmarking MLLMs for Industrial UI Code Generation Beyond Visual Fidelity. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Chengwei Shi, Yunnong Chen, Tingting Zhou, Qiang Lu, Shiyu Yue, Xinyuan Hu, Jian
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-10374/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-10374/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_10374,
+  title = {{TaoD2C-Bench: Benchmarking MLLMs for Industrial UI Code Generation Beyond Visual Fidelity}},
+  author = {{Chengwei Shi} and {Yunnong Chen} and {Tingting Zhou} and {Qiang Lu} and {Shiyu Yue} and {Xinyuan Hu} and {Jianfang Ru} and {Liuqing Chen}},
+  year = {2026},
+  eprint = {2610.10374v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.10374v1},
+  note = {First published: 2026-10-07; Recorded arXiv version: v1; Recorded version updated: 2026-10-07T16:38:10Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

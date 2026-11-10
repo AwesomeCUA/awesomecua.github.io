@@ -1,3 +1,11 @@
+---
+title: "OSWorld-G | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlang-ai-osworld-g/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # OSWorld-G
 
 Computer-use grounding benchmark with original and refined instructions, released with the Jedi synthetic data pipeline, a 4-million-example Jedi dataset and Jedi-3B and Jedi-7B models.

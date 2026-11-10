@@ -1,3 +1,11 @@
+---
+title: "PixelCheck | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xcodethink-pixelcheck/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # PixelCheck
 
 Drop-in MCP server providing five visual browser primitives for frontend coding agents to inspect, screenshot, and verify live web UIs.

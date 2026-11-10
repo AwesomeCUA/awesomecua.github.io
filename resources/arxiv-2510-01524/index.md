@@ -1,3 +1,11 @@
+---
+title: "WALT: Web Agents that Learn Tools | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-01524/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # WALT: Web Agents that Learn Tools
 
 WALT explores website functionality and converts demonstrated interactions into validated, reusable tools combining DOM actions, URL navigation, and agentic fallbacks. It evaluates this expanded browser action space on WebArena and VisualWebArena.
@@ -26,6 +34,18 @@ Viraj Prabhu, Yutong Dai, Matthew Fernandez, Jing Gu, Krithika Ramakrishnan, Yan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-01524/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-01524/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_01524,
+  title = {{WALT: Web Agents that Learn Tools}},
+  author = {{Viraj Prabhu} and {Yutong Dai} and {Matthew Fernandez} and {Jing Gu} and {Krithika Ramakrishnan} and {Yanqi Luo} and {Silvio Savarese} and {Caiming Xiong} and {Junnan Li} and {Zeyuan Chen} and {Ran Xu}},
+  year = {2025},
+  eprint = {2510.01524v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.01524v1},
+  note = {First published: 2025-10-01; Recorded arXiv version: v1; Recorded version updated: 2025-10-01T23:41:47Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

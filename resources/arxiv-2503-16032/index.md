@@ -1,3 +1,11 @@
+---
+title: "Agentic Keyframe Search for Video Question… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-16032/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Agentic Keyframe Search for Video Question Answering
 
 Bibliographic record for Agentic Keyframe Search for Video Question Answering. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Sunqi Fan, Meng-Hao Guo, Shuojin Yang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2503-16032/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2503-16032/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_16032,
+  title = {{Agentic Keyframe Search for Video Question Answering}},
+  author = {{Sunqi Fan} and {Meng-Hao Guo} and {Shuojin Yang}},
+  year = {2025},
+  eprint = {2503.16032v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.16032v1},
+  note = {First published: 2025-03-20; Recorded arXiv version: v1; Recorded version updated: 2025-03-20T10:58:12Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

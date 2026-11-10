@@ -1,3 +1,11 @@
+---
+title: "Browsentic · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-imshaikot-browsentic/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Browsentic
 
 智能体驱动的浏览器框架，在 Chrome、Edge 和 Arc 中提供 AI 侧边栏和交互式控制浮球。

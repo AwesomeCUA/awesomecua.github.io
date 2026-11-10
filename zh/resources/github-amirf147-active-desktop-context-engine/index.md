@@ -1,3 +1,11 @@
+---
+title: "Active Desktop Context Engine · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-amirf147-active-desktop-context-engine/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Active Desktop Context Engine
 
 无需云服务的 Windows OS 感知层和 Model Context Protocol 服务器，向 AI 智能体实时传输桌面 UI 上下文。

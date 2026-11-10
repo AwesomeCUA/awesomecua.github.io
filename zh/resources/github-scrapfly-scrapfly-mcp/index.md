@@ -1,3 +1,11 @@
+---
+title: "Scrapfly MCP Server · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-scrapfly-scrapfly-mcp/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Scrapfly MCP Server
 
 Scrapfly 官方 Model Context Protocol 服务器，为 AI 智能体提供云端反机器人浏览器渲染和结构化网页提取。

@@ -1,3 +1,11 @@
+---
+title: "PPTC-R benchmark: Towards Evaluating the… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2403-03788/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion
 
 Benchmarks robustness of API-based PowerPoint completion under sentence-level, semantic, and multilingual instruction perturbations and changes to the available API set.
@@ -26,6 +34,18 @@ Zekai Zhang, Yiduo Guo, Yaobo Liang, Dongyan Zhao, Nan Duan
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2403-03788/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2403-03788/citation.csl.json
+
+```bibtex
+@misc{arxiv_2403_03788,
+  title = {{PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion}},
+  author = {{Zekai Zhang} and {Yiduo Guo} and {Yaobo Liang} and {Dongyan Zhao} and {Nan Duan}},
+  year = {2024},
+  eprint = {2403.03788v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2403.03788v1},
+  note = {First published: 2024-03-06; Recorded arXiv version: v1; Recorded version updated: 2024-03-06T15:33:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

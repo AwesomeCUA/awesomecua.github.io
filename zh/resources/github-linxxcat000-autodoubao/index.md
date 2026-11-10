@@ -1,3 +1,11 @@
+---
+title: "AutoDoubao · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-linxxcat000-autodoubao/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AutoDoubao
 
 本地 Windows MCP 桥接程序，为 Codex 和 Hermes Agent 自动执行已登录 Doubao 网页会话中的图像生成和素材下载。

@@ -1,3 +1,11 @@
+---
+title: "ReactSentinel | AwesomeCUA"
+url: https://awesomecua.com/resources/github-edgarbnt-reactsentinel/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # ReactSentinel
 
 Model Context Protocol server that lets AI agents inspect live React component state, replay interactions, and validate UI fixes in the browser.

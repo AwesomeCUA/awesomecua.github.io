@@ -1,3 +1,11 @@
+---
+title: "OpenWebVoyager-opt-2 · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-f4f6f5bfe051e6ba3d94/
+updated: 2026-11-10
+type: model
+lang: zh-CN
+---
+
 # OpenWebVoyager-opt-2
 
 OpenWebVoyager 第二轮优化迭代的检查点：基于 idefics2-8b 的多模态网页智能体，先经模仿学习训练，再利用 GPT-4o 反馈筛选出的真实网站成功轨迹进行优化。

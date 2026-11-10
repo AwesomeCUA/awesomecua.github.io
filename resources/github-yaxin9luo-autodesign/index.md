@@ -1,3 +1,11 @@
+---
+title: "AutoDesign | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yaxin9luo-autodesign/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # AutoDesign
 
 An agentic design system that turns a paper into editable posters, slides, webpages, and videos. Its workflow uses a browser audit to check rendered screen and print output.

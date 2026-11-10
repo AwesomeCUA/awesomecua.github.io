@@ -1,3 +1,11 @@
+---
+title: "ExpActivator · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-fyzhang1-expactivator/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # ExpActivator
 
 ExpActivator 为个性化 GUI 智能体选择性检索并验证适用的历史交互经验。

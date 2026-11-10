@@ -1,3 +1,11 @@
+---
+title: "Web navigation — computer-use research, page 3 | AwesomeCUA"
+url: https://awesomecua.com/topics/web-navigation/page/3/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Web navigation — computer-use research, page 3
 
 HTML page: https://awesomecua.com/topics/web-navigation/page/3/

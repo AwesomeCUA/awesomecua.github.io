@@ -1,3 +1,11 @@
+---
+title: "PyMCPAutoGUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-ahaufox-pymcpautogui/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # PyMCPAutoGUI
 
 PyMCPAutoGUI is a cross-platform MCP server combining PyAutoGUI mouse/keyboard control, window management, and EasyOCR screen text localization.

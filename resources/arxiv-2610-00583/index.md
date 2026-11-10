@@ -1,3 +1,11 @@
+---
+title: "Worse Together: How Performance Breaks Down… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-00583/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams
 
 Bibliographic record for Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Sahan Paliskara, Nattaput Namchittai, Andrew Lampinen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-00583/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-00583/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_00583,
+  title = {{Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams}},
+  author = {{Sahan Paliskara} and {Nattaput Namchittai} and {Andrew Lampinen}},
+  year = {2026},
+  eprint = {2610.00583v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.00583v1},
+  note = {First published: 2026-09-30; Recorded arXiv version: v1; Recorded version updated: 2026-09-30T18:49:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

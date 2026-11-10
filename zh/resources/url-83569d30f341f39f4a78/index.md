@@ -1,3 +1,11 @@
+---
+title: "Test-Agent: A Multimodal App Automation… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-83569d30f341f39f4a78/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model
 
 Test-Agent 结合大语言模型、界面截图和结构信息，根据自然语言指令生成并执行跨平台移动应用测试动作。
@@ -27,6 +35,21 @@ Youwei Li, Yangyang Li, Yangzhao Yang
 
 - BibTeX：https://awesomecua.com/resources/url-83569d30f341f39f4a78/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-83569d30f341f39f4a78/citation.csl.json
+
+```bibtex
+@inproceedings{cua_73a2aa3aa7c55f0e27802000,
+  title = {{Test-Agent: A Multimodal App Automation Testing Framework Based on the Large Language Model}},
+  author = {{Youwei Li} and {Yangyang Li} and {Yangzhao Yang}},
+  year = {2024},
+  month = oct,
+  booktitle = {2024 IEEE 4th International Conference on Digital Twins and Parallel Intelligence (DTPI)},
+  publisher = {IEEE},
+  pages = {609-614},
+  doi = {10.1109/dtpi61353.2024.10778901},
+  url = {https://ieeexplore.ieee.org/abstract/document/10778901},
+  note = {Publication date: 2024-10-18.}
+}
+```
 
 ## 发表记录
 

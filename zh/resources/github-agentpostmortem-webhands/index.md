@@ -1,3 +1,11 @@
+---
+title: "Webhands · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-agentpostmortem-webhands/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Webhands
 
 Webhands 是一款浏览器计算机使用智能体，通过 Cloudflare Browser Rendering 自动操作缺少 API 的卖家和物流网页控制台。

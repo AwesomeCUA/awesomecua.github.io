@@ -1,3 +1,11 @@
+---
+title: "chrome-agent (github.com/captivus/chrome-… · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-captivus-chrome-agent/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # chrome-agent
 
 一个向智能体开放 Chrome DevTools Protocol 命令的 CLI，支持浏览器导航、截图和事件监测，并允许共享浏览器访问。

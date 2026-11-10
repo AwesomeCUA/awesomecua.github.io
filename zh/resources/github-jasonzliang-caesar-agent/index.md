@@ -1,3 +1,11 @@
+---
+title: "Caesar Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jasonzliang-caesar-agent/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Caesar Agent
 
 Caesar 是开源的深度研究网页智能体，可规划多步骤查询、抓取网页并综合生成带引用的报告。

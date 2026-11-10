@@ -1,3 +1,11 @@
+---
+title: "BryantVanOrden OpenAgentFleet | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bryantvanorden-openagentfleet/
+updated: 2026-11-04
+type: infrastructure
+lang: en
+---
+
 # BryantVanOrden OpenAgentFleet
 
 Self-hosted fleet orchestrator provisioning sandboxed Linux desktop containers for autonomous computer-use agents.

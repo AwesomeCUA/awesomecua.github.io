@@ -1,3 +1,11 @@
+---
+title: "EZBlender: Efficient 3D Editing with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-07143/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # EZBlender: Efficient 3D Editing with Plan-and-ReAct Agent
 
 Bibliographic record for EZBlender: Efficient 3D Editing with Plan-and-ReAct Agent. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hao Wang, Wenhui Zhu, Shao Tang, Zhipeng Wang, Xuanzhao Dong, Xin Li, Xiwen Chen
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-07143/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-07143/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_07143,
+  title = {{EZBlender: Efficient 3D Editing with Plan-and-ReAct Agent}},
+  author = {{Hao Wang} and {Wenhui Zhu} and {Shao Tang} and {Zhipeng Wang} and {Xuanzhao Dong} and {Xin Li} and {Xiwen Chen} and {Ashish Bastola} and {Xinhao Huang} and {Yalin Wang} and {Abolfazl Razi}},
+  year = {2026},
+  eprint = {2601.07143v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.07143v1},
+  note = {First published: 2026-01-12; Recorded arXiv version: v1; Recorded version updated: 2026-01-12T02:19:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

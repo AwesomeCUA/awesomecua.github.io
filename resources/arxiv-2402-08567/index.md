@@ -1,3 +1,11 @@
+---
+title: "Agent Smith: A Single Image Can Jailbreak One… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2402-08567/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast
 
 Status: excluded from the active CUA catalog after scope review.

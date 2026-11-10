@@ -1,3 +1,11 @@
+---
+title: "MacWork · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-gklab-macwork/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # MacWork
 
 MacWork 是开源 macOS 计算机使用智能体和 MCP 服务器，通过原生 Accessibility API 驱动桌面应用。

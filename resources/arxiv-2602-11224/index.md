@@ -1,3 +1,11 @@
+---
+title: "Agent-Diff: Benchmarking LLM Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-11224/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation
 
 Bibliographic record for Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Hubert M. Pysklo, Artem Zhuravel, Patrick D. Watson
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-11224/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-11224/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_11224,
+  title = {{Agent-Diff: Benchmarking LLM Agents on Enterprise API Tasks via Code Execution with State-Diff-Based Evaluation}},
+  author = {{Hubert M. Pysklo} and {Artem Zhuravel} and {Patrick D. Watson}},
+  year = {2026},
+  eprint = {2602.11224v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.11224v3},
+  note = {First published: 2026-02-11; Recorded arXiv version: v3; Recorded version updated: 2026-04-28T16:08:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

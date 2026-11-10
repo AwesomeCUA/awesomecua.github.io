@@ -1,3 +1,11 @@
+---
+title: "AgentDojo: A Dynamic Environment to Evaluate… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2406-13352/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents
 
 Introduces AgentDojo, an extensible environment of tool-calling tasks over untrusted data that measures prompt-injection attacks, defenses and utility, with 97 tasks and 629 security test cases.
@@ -26,6 +34,18 @@ Edoardo Debenedetti, Jie Zhang, Mislav Balunović, Luca Beurer-Kellner, Marc Fis
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2406-13352/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2406-13352/citation.csl.json
+
+```bibtex
+@misc{arxiv_2406_13352,
+  title = {{AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents}},
+  author = {{Edoardo Debenedetti} and {Jie Zhang} and {Mislav Balunović} and {Luca Beurer-Kellner} and {Marc Fischer} and {Florian Tramèr}},
+  year = {2024},
+  eprint = {2406.13352v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2406.13352v3},
+  note = {First published: 2024-06-19; Recorded arXiv version: v3; Recorded version updated: 2024-11-24T22:04:23Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

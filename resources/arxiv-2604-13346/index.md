@@ -1,3 +1,11 @@
+---
+title: "AgentSPEX: An Agent SPecification and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-13346/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AgentSPEX: An Agent SPecification and EXecution Language
 
 Status: excluded from the active CUA catalog after scope review.

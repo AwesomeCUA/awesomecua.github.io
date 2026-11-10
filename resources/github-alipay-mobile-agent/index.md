@@ -1,3 +1,11 @@
+---
+title: "MobileAgent (Alipay) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-alipay-mobile-agent/
+updated: 2026-10-16
+type: agent
+lang: en
+---
+
 # MobileAgent (Alipay)
 
 Mobile-control research implementation combining operating-procedure context with human interaction for personalized task execution.

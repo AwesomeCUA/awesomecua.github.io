@@ -1,3 +1,11 @@
+---
+title: "CANVAS: A Benchmark for Vision-Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2511-20737/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # CANVAS: A Benchmark for Vision-Language Models on Tool-Based User Interface Design
 
 Bibliographic record for CANVAS: A Benchmark for Vision-Language Models on Tool-Based User Interface Design. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Daeheon Jeong, Seoyeon Byun, Kihoon Son, Dae Hyun Kim, Juho Kim
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2511-20737/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2511-20737/citation.csl.json
+
+```bibtex
+@misc{arxiv_2511_20737,
+  title = {{CANVAS: A Benchmark for Vision-Language Models on Tool-Based User Interface Design}},
+  author = {{Daeheon Jeong} and {Seoyeon Byun} and {Kihoon Son} and {Dae Hyun Kim} and {Juho Kim}},
+  year = {2025},
+  eprint = {2511.20737v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2511.20737v2},
+  note = {First published: 2025-11-25; Recorded arXiv version: v2; Recorded version updated: 2025-11-27T06:30:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

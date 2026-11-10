@@ -1,3 +1,11 @@
+---
+title: "Agent Browser Shield | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pixiebrix-agent-browser-shield/
+updated: 2026-10-16
+type: tool
+lang: en
+---
+
 # Agent Browser Shield
 
 Browser extension for filtering potentially unsafe agent input.

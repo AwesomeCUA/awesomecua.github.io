@@ -1,3 +1,11 @@
+---
+title: "LMMs-Eval: Reality Check on the Evaluation of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-12772/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models
 
 Bibliographic record for LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Kaichen Zhang, Bo Li, Peiyuan Zhang, Fanyi Pu, Joshua Adrian Cahyono, Kairui Hu,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-12772/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-12772/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_12772,
+  title = {{LMMs-Eval: Reality Check on the Evaluation of Large Multimodal Models}},
+  author = {{Kaichen Zhang} and {Bo Li} and {Peiyuan Zhang} and {Fanyi Pu} and {Joshua Adrian Cahyono} and {Kairui Hu} and {Shuai Liu} and {Yuanhan Zhang} and {Jingkang Yang} and {Chunyuan Li} and {Ziwei Liu}},
+  year = {2024},
+  eprint = {2407.12772v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.12772v2},
+  note = {First published: 2024-07-17; Recorded arXiv version: v2; Recorded version updated: 2025-05-05T04:48:45Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

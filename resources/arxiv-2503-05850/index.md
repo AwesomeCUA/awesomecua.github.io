@@ -1,3 +1,11 @@
+---
+title: "Encrypted Vector Similarity Computations… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2503-05850/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Encrypted Vector Similarity Computations Using Partially Homomorphic Encryption: Applications and Performance Analysis
 
 Status: excluded from the active CUA catalog after scope review.

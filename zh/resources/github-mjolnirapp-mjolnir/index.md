@@ -1,3 +1,11 @@
+---
+title: "Mjolnir · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mjolnirapp-mjolnir/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Mjolnir
 
 一个 macOS 应用，加载 Lua 环境，用户配置和 LuaRocks 模块可借此绑定全局快捷键、显示提示，并检查或移动正在运行的应用和窗口。

@@ -1,3 +1,11 @@
+---
+title: "NextGen macOS Computer-Use Agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-nextgen-agentics-computer-use-agent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # NextGen macOS Computer-Use Agent
 
 macOS desktop automation agent using a 5-layer perception cascade from native Accessibility trees to OCR and VLM grounding.

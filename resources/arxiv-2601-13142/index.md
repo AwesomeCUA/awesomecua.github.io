@@ -1,3 +1,11 @@
+---
+title: "TVWorld: Foundations for Remote-Control TV… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2601-13142/
+updated: 2026-11-06
+type: paper
+lang: en
+---
+
 # TVWorld: Foundations for Remote-Control TV Agents
 
 Bibliographic record for TVWorld: Foundations for Remote-Control TV Agents. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhantao Ma, Quanfeng Lu, Shuai Zhong, Dahai Yu, Ping Luo, Michael K. Ng
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2601-13142/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2601-13142/citation.csl.json
+
+```bibtex
+@misc{arxiv_2601_13142,
+  title = {{TVWorld: Foundations for Remote-Control TV Agents}},
+  author = {{Zhantao Ma} and {Quanfeng Lu} and {Shuai Zhong} and {Dahai Yu} and {Ping Luo} and {Michael K. Ng}},
+  year = {2026},
+  eprint = {2601.13142v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2601.13142v1},
+  note = {First published: 2026-01-19; Recorded arXiv version: v1; Recorded version updated: 2026-01-19T15:24:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

@@ -1,3 +1,11 @@
+---
+title: "Astra AI Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-bennix-astraaibrowser/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Astra AI Browser
 
 Native Apple Silicon macOS AI browser combining WebKit browsing with an integrated autonomous web agent.

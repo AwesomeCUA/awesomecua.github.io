@@ -1,3 +1,11 @@
+---
+title: "Firecrawl MCP Server | AwesomeCUA"
+url: https://awesomecua.com/resources/github-firecrawl-firecrawl-mcp-server/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # Firecrawl MCP Server
 
 An MCP server for Firecrawl that gives agents web search and extraction tools plus browser interaction for clicking, typing, filling forms, and navigation.

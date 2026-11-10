@@ -1,3 +1,11 @@
+---
+title: "SE-GUI-3k · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-380318a8de65fe45956c/
+updated: 2026-11-10
+type: dataset
+lang: zh-CN
+---
+
 # SE-GUI-3k
 
 SE-GUI 的种子训练数据。SE-GUI 是通过自进化强化微调训练的 GUI 定位模型；每行数据将一段工具调用对话、一张截图与目标边界框配对。

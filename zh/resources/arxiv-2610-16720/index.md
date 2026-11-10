@@ -1,3 +1,11 @@
+---
+title: "Learn from Move: the Next Step for GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2610-16720/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Learn from Move: the Next Step for GUI Agents
 
 提出 LatentGUIWorld，用于测试通过交互学习界面语义和动态变化，并研究带有中间视觉反馈的更细粒度移动动作及探索示范。
@@ -27,6 +35,18 @@ Jiahao Lu, Yize Shen, Chuanyuan Tan, Mianqiu Huang, Shicheng Fang, Xinchi Chen, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2610-16720/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2610-16720/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_16720,
+  title = {{Learn from Move: the Next Step for GUI Agents}},
+  author = {{Jiahao Lu} and {Yize Shen} and {Chuanyuan Tan} and {Mianqiu Huang} and {Shicheng Fang} and {Xinchi Chen} and {Yining Zheng} and {Yuxin Wang} and {Xipeng Qiu}},
+  year = {2026},
+  eprint = {2610.16720v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.16720v1},
+  note = {First published: 2026-10-12; Recorded arXiv version: v1; Recorded version updated: 2026-10-12T12:52:21Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "PPTC | AwesomeCUA"
+url: https://awesomecua.com/resources/github-gydpku-pptc/
+updated: 2026-10-16
+type: benchmark
+lang: en
+---
+
 # PPTC
 
 PowerPoint creation and editing benchmark with API-based execution and checks of the resulting presentation files.

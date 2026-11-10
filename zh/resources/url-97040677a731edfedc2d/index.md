@@ -1,3 +1,11 @@
+---
+title: "VeriOS-Agent-32B · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-97040677a731edfedc2d/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # VeriOS-Agent-32B
 
 VeriOS-Agent-32B 是以 Qwen2.5-VL-32B 为初始模型的提问式操作系统智能体检查点，发布了用于 VeriOS 论文所述交互方法的模型权重。

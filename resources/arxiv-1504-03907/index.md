@@ -1,3 +1,11 @@
+---
+title: "Ultra-low-energy non-volatile straintronic… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1504-03907/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Ultra-low-energy non-volatile straintronic computing using single multiferroic composites
 
 Status: excluded from the active CUA catalog after scope review.

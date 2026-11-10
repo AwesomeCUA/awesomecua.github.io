@@ -1,3 +1,11 @@
+---
+title: "DeskForge-Gemma4-E4B | AwesomeCUA"
+url: https://awesomecua.com/resources/url-3359275b15ff3be825fc/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # DeskForge-Gemma4-E4B
 
 DeskForge-Gemma4-E4B is a desktop GUI action model fine-tuned on 200K grounding examples. It maps a screenshot and instruction to a pyautogui action with normalized coordinates.

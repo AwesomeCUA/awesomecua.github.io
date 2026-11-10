@@ -1,3 +1,11 @@
+---
+title: "MapAgent: Trajectory-Constructed… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2507-21953/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation
 
 Builds reusable page memories from past mobile trajectories and retrieves them to support task planning and execution.
@@ -26,6 +34,18 @@ Yi Kong, Dianxi Shi, Guoli Yang, Zhang ke-di, Chenlin Huang, Xiaopeng Li, Songch
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2507-21953/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2507-21953/citation.csl.json
+
+```bibtex
+@misc{arxiv_2507_21953,
+  title = {{MapAgent: Trajectory-Constructed Memory-Augmented Planning for Mobile Task Automation}},
+  author = {{Yi Kong} and {Dianxi Shi} and {Guoli Yang} and {Zhang ke-di} and {Chenlin Huang} and {Xiaopeng Li} and {Songchang Jin}},
+  year = {2025},
+  eprint = {2507.21953v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2507.21953v1},
+  note = {First published: 2025-07-29; Recorded arXiv version: v1; Recorded version updated: 2025-07-29T16:05:32Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

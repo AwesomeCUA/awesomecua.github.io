@@ -1,3 +1,11 @@
+---
+title: "ProAgent: From Robotic Process… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2311-10751/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # ProAgent: From Robotic Process Automation to Agentic Process Automation
 
 提出 ProAgent，由 LLM 智能体依据用户指令构建自动化工作流，并在执行时协调专门的智能体。
@@ -27,6 +35,18 @@ Yining Ye, Xin Cong, Shizuo Tian, Jiannan Cao, Hao Wang, Yujia Qin, Yaxi Lu, Hey
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2311-10751/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2311-10751/citation.csl.json
+
+```bibtex
+@misc{arxiv_2311_10751,
+  title = {{ProAgent: From Robotic Process Automation to Agentic Process Automation}},
+  author = {{Yining Ye} and {Xin Cong} and {Shizuo Tian} and {Jiannan Cao} and {Hao Wang} and {Yujia Qin} and {Yaxi Lu} and {Heyang Yu} and {Huadong Wang} and {Yankai Lin} and {Zhiyuan Liu} and {Maosong Sun}},
+  year = {2023},
+  eprint = {2311.10751v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2311.10751v2},
+  note = {First published: 2023-11-02; Recorded arXiv version: v2; Recorded version updated: 2023-11-23T12:14:08Z.}
+}
+```
 
 ## arXiv 版本记录
 

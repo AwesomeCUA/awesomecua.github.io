@@ -1,3 +1,11 @@
+---
+title: "faster-browser-agent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mikastiebitz-faster-browser-agent/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # faster-browser-agent
 
 Fast MCP browser server for AI agents that navigates complex web apps by reading accessibility trees and application source.

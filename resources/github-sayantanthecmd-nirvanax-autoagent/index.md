@@ -1,3 +1,11 @@
+---
+title: "NirvanaX AutoAgent | AwesomeCUA"
+url: https://awesomecua.com/resources/github-sayantanthecmd-nirvanax-autoagent/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # NirvanaX AutoAgent
 
 Multimodal personal AI assistant for Windows that combines voice input, screen vision, and desktop control.

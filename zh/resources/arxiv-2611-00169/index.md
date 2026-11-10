@@ -1,3 +1,11 @@
+---
+title: "PatchScout: Thematic Web Data Collection… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2611-00169/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # PatchScout: Thematic Web Data Collection via Information Foraging
 
 提出 PatchScout，通过决定何时转向新的信息区域，让多个智能体在实时网页上收集同一主题的文档。
@@ -27,6 +35,18 @@ Michael West, Eduard Dragut
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2611-00169/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2611-00169/citation.csl.json
+
+```bibtex
+@misc{arxiv_2611_00169,
+  title = {{PatchScout: Thematic Web Data Collection via Information Foraging}},
+  author = {{Michael West} and {Eduard Dragut}},
+  year = {2026},
+  eprint = {2611.00169v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2611.00169v1},
+  note = {First published: 2026-10-30; Recorded arXiv version: v1; Recorded version updated: 2026-10-30T12:50:40Z.}
+}
+```
 
 ## arXiv 版本记录
 

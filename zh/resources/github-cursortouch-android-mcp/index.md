@@ -1,3 +1,11 @@
+---
+title: "android-mcp-beta · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-cursortouch-android-mcp/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # android-mcp-beta
 
 一个通过 ADB 为智能体提供 Android 屏幕快照和设备控制的 MCP 服务器，支持点击、滑动、输入文字和按键。

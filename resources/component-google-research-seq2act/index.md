@@ -1,3 +1,11 @@
+---
+title: "Seq2act code (google-research) | AwesomeCUA"
+url: https://awesomecua.com/resources/component-google-research-seq2act/
+updated: 2026-10-18
+type: framework
+lang: en
+---
+
 # Seq2act code (google-research)
 
 TensorFlow code for mapping natural-language instructions to Android UI action sequences, with phrase-tuple extraction and grounding models and pipelines for AndroidHowTo, RicoSCA and PixelHelp.

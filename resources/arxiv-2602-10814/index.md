@@ -1,3 +1,11 @@
+---
+title: "See, Plan, Snap: Evaluating Multimodal GUI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-10814/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch
 
 ScratchWorld evaluates program construction through the Scratch interface using fine-grained drag-and-drop actions and a complementary semantic-API mode. Runtime tests assess the resulting programs, allowing analysis of the gap between program reasoning and GUI manipulation.
@@ -26,6 +34,18 @@ Xingyi Zhang, Yulei Ye, Kaifeng Huang, Wenhao Li, Xiangfeng Wang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2602-10814/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2602-10814/citation.csl.json
+
+```bibtex
+@misc{arxiv_2602_10814,
+  title = {{See, Plan, Snap: Evaluating Multimodal GUI Agents in Scratch}},
+  author = {{Xingyi Zhang} and {Yulei Ye} and {Kaifeng Huang} and {Wenhao Li} and {Xiangfeng Wang}},
+  year = {2026},
+  eprint = {2602.10814v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2602.10814v1},
+  note = {First published: 2026-02-11; Recorded arXiv version: v1; Recorded version updated: 2026-02-11T12:54:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

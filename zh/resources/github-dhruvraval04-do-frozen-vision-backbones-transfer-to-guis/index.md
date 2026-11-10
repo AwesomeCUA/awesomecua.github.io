@@ -1,3 +1,11 @@
+---
+title: "Frozen Vision Backbones for GUI… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dhruvraval04-do-frozen-vision-backbones-transfer-to-guis/
+updated: 2026-11-04
+type: benchmark
+lang: zh-CN
+---
+
 # Frozen Vision Backbones for GUI Grounding
 
 评测冻结视觉骨干网络的密集特征与全局特征在像素坐标 GUI 定位中的表现。

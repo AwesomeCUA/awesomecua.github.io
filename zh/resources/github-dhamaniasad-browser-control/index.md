@@ -1,3 +1,11 @@
+---
+title: "Browser Control Agent · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-dhamaniasad-browser-control/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Browser Control Agent
 
 Browser Control Agent 是 Chrome 扩展，可针对实时网页的 DOM 元素执行自然语言浏览器自动化命令。

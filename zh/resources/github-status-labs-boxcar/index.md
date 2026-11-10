@@ -1,3 +1,11 @@
+---
+title: "Boxcar · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-status-labs-boxcar/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Boxcar
 
 Boxcar 为 LLM 计算机使用智能体提供可随用随弃的 Windows 11 和 Ubuntu 桌面虚拟机沙箱。

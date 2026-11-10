@@ -1,3 +1,11 @@
+---
+title: "Surfkit | AwesomeCUA"
+url: https://awesomecua.com/resources/github-agentsea-surfkit/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # Surfkit
 
 Python toolkit and CLI for building, publishing and running multimodal agents that operate devices such as Ubuntu desktops, locally or on Kubernetes, with task trackers and an agent hub.

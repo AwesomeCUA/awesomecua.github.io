@@ -1,3 +1,11 @@
+---
+title: "TreeCUA | AwesomeCUA"
+url: https://awesomecua.com/resources/github-uitron-hub-treecua/
+updated: 2026-10-16
+type: framework
+lang: en
+---
+
 # TreeCUA
 
 Framework for generating GUI trajectories through tree-structured exploration and verification.

@@ -1,3 +1,11 @@
+---
+title: "Sandboxes — computer-use research, page 2 | AwesomeCUA"
+url: https://awesomecua.com/topics/sandbox/page/2/
+updated: 2026-11-10
+type: topic
+lang: en
+---
+
 # Sandboxes — computer-use research, page 2
 
 HTML page: https://awesomecua.com/topics/sandbox/page/2/

@@ -1,3 +1,11 @@
+---
+title: "SCUBA: Salesforce Computer Use Benchmark | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2509-26506/
+updated: 2026-11-04
+type: paper
+lang: en
+---
+
 # SCUBA: Salesforce Computer Use Benchmark
 
 SCUBA evaluates enterprise UI navigation and CRM workflows with 300 task instances derived from Salesforce user interviews. Salesforce sandbox execution and milestone-based assessment support comparisons between zero-shot agents and agents given demonstrations.
@@ -26,6 +34,18 @@ Yutong Dai, Krithika Ramakrishnan, Jing Gu, Matthew Fernandez, Yanqi Luo, Viraj 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2509-26506/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2509-26506/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_26506,
+  title = {{SCUBA: Salesforce Computer Use Benchmark}},
+  author = {{Yutong Dai} and {Krithika Ramakrishnan} and {Jing Gu} and {Matthew Fernandez} and {Yanqi Luo} and {Viraj Prabhu} and {Zhenyu Hu} and {Silvio Savarese} and {Caiming Xiong} and {Zeyuan Chen} and {Ran Xu}},
+  year = {2025},
+  eprint = {2509.26506v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.26506v1},
+  note = {First published: 2025-09-30; Recorded arXiv version: v1; Recorded version updated: 2025-09-30T16:48:49Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

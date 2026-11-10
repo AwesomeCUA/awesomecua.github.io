@@ -1,3 +1,11 @@
+---
+title: "formbrake | AwesomeCUA"
+url: https://awesomecua.com/resources/github-mikebfox-formbrake/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # formbrake
 
 Python library and CLI providing deterministic approval gates for browser-agent form submissions and high-consequence clicks.

@@ -1,3 +1,11 @@
+---
+title: "SoftwareGym · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-mrkiing-jin-softwaregym/
+updated: 2026-11-09
+type: infrastructure
+lang: zh-CN
+---
+
 # SoftwareGym
 
 SoftwareGym 合成可运行的图形界面应用，作为计算机操作智能体的环境。它在 Ubuntu 虚拟机中通过基于截图的操作测试生成的应用，并利用反馈修复应用。

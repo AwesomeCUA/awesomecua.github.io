@@ -1,3 +1,11 @@
+---
+title: "AndroidWorld: A Dynamic Benchmarking… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2405-14573/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents
 
 Introduces parameterized Android tasks with initialization, success checks, and cleanup for reproducible interactive evaluation.
@@ -26,6 +34,18 @@ Christopher Rawles, Sarah Clinckemaillie, Yifan Chang, Jonathan Waltz, Gabrielle
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2405-14573/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2405-14573/citation.csl.json
+
+```bibtex
+@misc{arxiv_2405_14573,
+  title = {{AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents}},
+  author = {{Christopher Rawles} and {Sarah Clinckemaillie} and {Yifan Chang} and {Jonathan Waltz} and {Gabrielle Lau} and {Marybeth Fair} and {Alice Li} and {William Bishop} and {Wei Li} and {Folawiyo Campbell-Ajala} and {Daniel Toyama} and {Robert Berry} and {Divya Tyamagundlu} and {Timothy Lillicrap} and {Oriana Riva}},
+  year = {2024},
+  eprint = {2405.14573v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2405.14573v5},
+  note = {First published: 2024-05-23; Recorded arXiv version: v5; Recorded version updated: 2025-04-06T20:37:50Z.}
+}
+```
 
 ## Publication record
 

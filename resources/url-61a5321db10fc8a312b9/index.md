@@ -1,3 +1,11 @@
+---
+title: "GUI-R1 checkpoint bundle | AwesomeCUA"
+url: https://awesomecua.com/resources/url-61a5321db10fc8a312b9/
+updated: 2026-10-17
+type: model
+lang: en
+---
+
 # GUI-R1 checkpoint bundle
 
 A single Hub release containing GUI-R1 3B and 7B action-model checkpoints trained with reinforcement learning across interface platforms.

@@ -1,3 +1,11 @@
+---
+title: "Plasmate Skill for OpenClaw · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-plasmate-labs-skill-openclaw/
+updated: 2026-11-10
+type: tool
+lang: zh-CN
+---
+
 # Plasmate Skill for OpenClaw
 
 OpenClaw 技能，内含 Agent Web Protocol 客户端，驱动本地 Plasmate 服务器打开网页、按元素引用点击和输入，并提取结构化数据。

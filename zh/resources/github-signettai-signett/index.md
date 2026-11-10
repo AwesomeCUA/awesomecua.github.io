@@ -1,3 +1,11 @@
+---
+title: "Signett · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-signettai-signett/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # Signett
 
 将现有网站转化为浏览器智能体可发现、可衡量的 WebMCP 能力接口。

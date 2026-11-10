@@ -1,3 +1,11 @@
+---
+title: "PosterMELD: Multi-Agent Paper-to-Poster… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-02218/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs
 
 Bibliographic record for PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Haojie Hu, Chenhao Dang, Yaojia Liu, Hengrui Kang, Conghui He, Weijia Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-02218/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-02218/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_02218,
+  title = {{PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs}},
+  author = {{Haojie Hu} and {Chenhao Dang} and {Yaojia Liu} and {Hengrui Kang} and {Conghui He} and {Weijia Li}},
+  year = {2026},
+  eprint = {2608.02218v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.02218v1},
+  note = {First published: 2026-08-03; Recorded arXiv version: v1; Recorded version updated: 2026-08-03T13:39:25Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

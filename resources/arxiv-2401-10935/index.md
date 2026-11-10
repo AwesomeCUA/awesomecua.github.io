@@ -1,3 +1,11 @@
+---
+title: "SeeClick: Harnessing GUI Grounding for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2401-10935/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents
 
 Trains a screenshot-driven GUI agent with grounding pretraining and introduces ScreenSpot for evaluating interface target localization.
@@ -26,6 +34,18 @@ Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2401-10935/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2401-10935/citation.csl.json
+
+```bibtex
+@misc{arxiv_2401_10935,
+  title = {{SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents}},
+  author = {{Kanzhi Cheng} and {Qiushi Sun} and {Yougang Chu} and {Fangzhi Xu} and {Yantao Li} and {Jianbing Zhang} and {Zhiyong Wu}},
+  year = {2024},
+  eprint = {2401.10935v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.10935v2},
+  note = {First published: 2024-01-17; Recorded arXiv version: v2; Recorded version updated: 2024-02-23T04:36:51Z.}
+}
+```
 
 ## Publication record
 

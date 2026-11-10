@@ -1,3 +1,11 @@
+---
+title: "Compressed quantum computation using the IBM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-1701-02970/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Compressed quantum computation using the IBM Quantum Experience
 
 Status: excluded from the active CUA catalog after scope review.

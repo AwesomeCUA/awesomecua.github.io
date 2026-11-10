@@ -1,10 +1,17 @@
+---
+title: "效率：Computer-Use 研究与资源（第 8 页） | AwesomeCUA"
+url: https://awesomecua.com/zh/topics/efficiency/page/8/
+updated: 2026-11-10
+type: topic
+lang: zh-CN
+---
+
 # 效率：Computer-Use 研究与资源（第 8 页）
 
 HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/8/
 
 完整列表：https://awesomecua.com/zh/topics/efficiency/index.md
 
-- [Jev Ultrafast](https://awesomecua.com/zh/resources/github-browser-use-jev-ultrafast/)
 - [jev-browser](https://awesomecua.com/zh/resources/github-doruktarhan-jev-browser/)
 - [jev-browser](https://awesomecua.com/zh/resources/github-mahmoudadelbghany-jev-browser/)
 - [jev-for-chrome](https://awesomecua.com/zh/resources/github-luciferlu755-jev-for-chrome/)
@@ -64,3 +71,4 @@ HTML 页面：https://awesomecua.com/zh/topics/efficiency/page/8/
 - [Paragent](https://awesomecua.com/zh/resources/github-myselfsiddharth-paragent/)
 - [parallel-browser-mcp](https://awesomecua.com/zh/resources/github-etairl-parallel-browser-mcp/)
 - [pc-screen-control](https://awesomecua.com/zh/resources/github-desteny-dev-pc-screen-control/)
+- [pebkac](https://awesomecua.com/zh/resources/github-michaelsoftmd-pebkac-chrome/)

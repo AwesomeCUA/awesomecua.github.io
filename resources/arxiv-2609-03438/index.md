@@ -1,3 +1,11 @@
+---
+title: "Do GUI Agents Know When Not to Act? Enabling… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-03438/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents
 
 CONFLICTGUI evaluates termination under instruction conflicts and mismatches between instructions and interface context. CONFLICTGUARD couples feasibility checks with conditional action modulation to reduce unnecessary execution while tracking normal-task behavior.
@@ -26,6 +34,18 @@ Zhaoyuan Huang, Tianjie Ju, Pengzhou Cheng, Zheng Wu, Yansi Li, Chuanbiao Song, 
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-03438/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-03438/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_03438,
+  title = {{Do GUI Agents Know When Not to Act? Enabling Conflict-Aware Termination for Multimodal GUI Agents}},
+  author = {{Zhaoyuan Huang} and {Tianjie Ju} and {Pengzhou Cheng} and {Zheng Wu} and {Yansi Li} and {Chuanbiao Song} and {Jun Lan} and {Huijia Zhu} and {Weiqiang Wang} and {Zhuosheng Zhang}},
+  year = {2026},
+  eprint = {2609.03438v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.03438v1},
+  note = {First published: 2026-09-03; Recorded arXiv version: v1; Recorded version updated: 2026-09-03T06:48:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

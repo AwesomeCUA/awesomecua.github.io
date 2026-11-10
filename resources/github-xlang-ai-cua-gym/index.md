@@ -1,3 +1,11 @@
+---
+title: "CUA-Gym (framework) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xlang-ai-cua-gym/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # CUA-Gym
 
 CUA-Gym is a scalable pipeline for synthesizing interactive mock web environments and verifiable RLVR training tasks for computer-use agents.

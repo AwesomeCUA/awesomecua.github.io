@@ -1,3 +1,11 @@
+---
+title: "STEVE-R1-7B-SFT · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-666844c28be1138b0e37/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # STEVE-R1-7B-SFT
 
 STEVE-R1-7B-SFT 是使用逐步验证数据训练的计算机使用模型检查点，面向桌面任务，并在 Windows 和 Ubuntu 环境中评估。

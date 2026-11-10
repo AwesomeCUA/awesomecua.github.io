@@ -1,3 +1,11 @@
+---
+title: "Jet Browser | AwesomeCUA"
+url: https://awesomecua.com/resources/github-masakaai-jet-browser/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # Jet Browser
 
 Jet Browser packages WPE WebKit and a Rust WebDriver bridge into an isolated, low-footprint container runtime for AI web agents.

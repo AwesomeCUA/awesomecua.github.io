@@ -1,3 +1,11 @@
+---
+title: "Rethinking Inference-Time Scaling in Local… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2607-28573/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs
 
 Examines inference-time scaling for local computer-use models by varying context, step budgets, decomposition, and parallel execution. OSWorld experiments track both task performance and changing failure modes, exposing cases where extra computation extends errors or adds coordination overhead.
@@ -26,6 +34,18 @@ Woongkyu Lee, Jungwook Choi
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2607-28573/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2607-28573/citation.csl.json
+
+```bibtex
+@misc{arxiv_2607_28573,
+  title = {{Rethinking Inference-Time Scaling in Local Computer-Use Agents: Failure Modes and Compute Tradeoffs}},
+  author = {{Woongkyu Lee} and {Jungwook Choi}},
+  year = {2026},
+  eprint = {2607.28573v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2607.28573v1},
+  note = {First published: 2026-07-30; Recorded arXiv version: v1; Recorded version updated: 2026-07-30T17:36:36Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

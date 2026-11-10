@@ -1,3 +1,11 @@
+---
+title: "AgentScrub · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-codewithsupra-agentscrub/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # AgentScrub
 
 用于 Browser Use 智能体运行过程的可视化会话回放调试器，让开发者逐步查看时间线和 DOM 状态。

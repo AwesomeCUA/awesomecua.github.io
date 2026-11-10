@@ -1,3 +1,11 @@
+---
+title: "Realistic simulation of quantum computation… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2005-06337/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Realistic simulation of quantum computation using unitary and measurement channels
 
 Status: excluded from the active CUA catalog after scope review.

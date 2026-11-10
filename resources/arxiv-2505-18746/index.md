@@ -1,3 +1,11 @@
+---
+title: "$C^3$-Bench: The Things Real Disturbing LLM… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2505-18746/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # $C^3$-Bench: The Things Real Disturbing LLM based Agent in Multi-Tasking
 
 Status: excluded from the active CUA catalog after scope review.

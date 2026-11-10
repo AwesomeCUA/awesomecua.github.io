@@ -1,3 +1,11 @@
+---
+title: "BrowseGPT · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-danielpquinn-browsegpt/
+updated: 2026-10-19
+type: agent
+lang: zh-CN
+---
+
 # BrowseGPT
 
 Chrome 扩展配合本地 Node.js 服务器，将可见页面的链接、按钮和输入框列为编号大纲，并向 OpenAI gpt-3.5-turbo 询问下一步 CLICK、ENTER_TEXT 或 NAVIGATE 操作以完成目标。

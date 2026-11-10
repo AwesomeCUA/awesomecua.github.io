@@ -1,3 +1,11 @@
+---
+title: "uictl-win-mcp | AwesomeCUA"
+url: https://awesomecua.com/resources/github-byronjones-elsevier-uictl-win-mcp/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # uictl-win-mcp
 
 Windows .NET/C# GUI-automation CLI and Model Context Protocol server for coding agents.

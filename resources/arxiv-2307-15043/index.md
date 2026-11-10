@@ -1,3 +1,11 @@
+---
+title: "Universal and Transferable Adversarial… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2307-15043/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Universal and Transferable Adversarial Attacks on Aligned Language Models
 
 Status: excluded from the active CUA catalog after scope review.

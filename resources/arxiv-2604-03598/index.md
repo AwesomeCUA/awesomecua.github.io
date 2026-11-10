@@ -1,3 +1,11 @@
+---
+title: "AttackEval: A Systematic Empirical Study of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-03598/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AttackEval: A Systematic Empirical Study of Prompt Injection Attack Effectiveness Against Large Language Models
 
 Status: excluded from the active CUA catalog after scope review.

@@ -1,3 +1,11 @@
+---
+title: "Multimodal Lecture Presentations Dataset… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2208-08080/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Multimodal Lecture Presentations Dataset: Understanding Multimodality in Educational Slides
 
 Status: excluded from the active CUA catalog after scope review.

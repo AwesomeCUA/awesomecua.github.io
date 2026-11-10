@@ -1,3 +1,11 @@
+---
+title: "TestDriver SDK | AwesomeCUA"
+url: https://awesomecua.com/resources/github-testdriverai-testdriverai/
+updated: 2026-11-06
+type: framework
+lang: en
+---
+
 # TestDriver SDK
 
 Vitest plugin that spawns ephemeral devices and uses vision-based LLMs to build end-to-end tests of web apps, desktop apps and browser extensions.

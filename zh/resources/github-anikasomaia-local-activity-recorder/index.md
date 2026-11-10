@@ -1,3 +1,11 @@
+---
+title: "Activity Recorder · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-anikasomaia-local-activity-recorder/
+updated: 2026-10-20
+type: tool
+lang: zh-CN
+---
+
 # Activity Recorder
 
 Windows 托盘工具，将主显示器截图、键盘按键代码和鼠标事件记录为本地 JPEG 和 JSON 文件，用于收集训练数据。

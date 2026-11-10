@@ -1,3 +1,11 @@
+---
+title: "Mind2Web-Live (dataset) | AwesomeCUA"
+url: https://awesomecua.com/resources/url-03ffa3f28413bc2edb1b/
+updated: 2026-10-18
+type: dataset
+lang: en
+---
+
 # Mind2Web-Live
 
 Task files for the WebCanvas live-web benchmark: 438 training and 104 test tasks derived from Mind2Web, each with key-node checks on URLs or page elements that score intermediate progress.

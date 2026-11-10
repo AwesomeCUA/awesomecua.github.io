@@ -1,3 +1,11 @@
+---
+title: "Expanding Performance Boundaries of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2412-05271/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling
 
 Bibliographic record for Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Zhe Chen, Weiyun Wang, Yue Cao, Yangzhou Liu, Zhangwei Gao, Erfei Cui, Jinguo Zh
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2412-05271/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2412-05271/citation.csl.json
+
+```bibtex
+@misc{arxiv_2412_05271,
+  title = {{Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling}},
+  author = {{Zhe Chen} and {Weiyun Wang} and {Yue Cao} and {Yangzhou Liu} and {Zhangwei Gao} and {Erfei Cui} and {Jinguo Zhu} and {Shenglong Ye} and {Hao Tian} and {Zhaoyang Liu} and {Lixin Gu} and {Xuehui Wang} and {Qingyun Li} and {Yiming Ren} and {Zixuan Chen} and {Jiapeng Luo} and {Jiahao Wang} and {Tan Jiang} and {Bo Wang} and {Conghui He} and {Botian Shi} and {Xingcheng Zhang} and {Han Lv} and {Yi Wang} and {Wenqi Shao} and {Pei Chu} and {Zhongying Tu} and {Tong He} and {Zhiyong Wu} and {Huipeng Deng} and {Jiaye Ge} and {Kai Chen} and {Kaipeng Zhang} and {Limin Wang} and {Min Dou} and {Lewei Lu} and {Xizhou Zhu} and {Tong Lu} and {Dahua Lin} and {Yu Qiao} and {Jifeng Dai} and {Wenhai Wang}},
+  year = {2024},
+  eprint = {2412.05271v5},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2412.05271v5},
+  note = {First published: 2024-12-06; Recorded arXiv version: v5; Recorded version updated: 2025-09-26T12:52:41Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

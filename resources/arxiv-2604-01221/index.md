@@ -1,3 +1,11 @@
+---
+title: "HippoCamp: Benchmarking Contextual Agents on… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2604-01221/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # HippoCamp: Benchmarking Contextual Agents on Personal Computers
 
 Bibliographic record for HippoCamp: Benchmarking Contextual Agents on Personal Computers. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Zhe Yang, Shulin Tian, Kairui Hu, Shuai Liu, Hoang-Nhat Nguyen, Yichi Zhang, Zuj
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2604-01221/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2604-01221/citation.csl.json
+
+```bibtex
+@misc{arxiv_2604_01221,
+  title = {{HippoCamp: Benchmarking Contextual Agents on Personal Computers}},
+  author = {{Zhe Yang} and {Shulin Tian} and {Kairui Hu} and {Shuai Liu} and {Hoang-Nhat Nguyen} and {Yichi Zhang} and {Zujin Guo} and {Mengying Yu} and {Zinan Zhang} and {Jingkang Yang} and {Chen Change Loy} and {Ziwei Liu}},
+  year = {2026},
+  eprint = {2604.01221v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2604.01221v1},
+  note = {First published: 2026-04-01; Recorded arXiv version: v1; Recorded version updated: 2026-04-01T17:58:33Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

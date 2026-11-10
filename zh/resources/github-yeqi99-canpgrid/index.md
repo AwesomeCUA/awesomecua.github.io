@@ -1,3 +1,11 @@
+---
+title: "CanpGrid · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-yeqi99-canpgrid/
+updated: 2026-11-04
+type: framework
+lang: zh-CN
+---
+
 # CanpGrid
 
 CanpGrid 提供自适应递归图像网格覆盖层，供多模态智能体逐步进行从粗到细的视觉定位。

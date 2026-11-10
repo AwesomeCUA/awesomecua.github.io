@@ -1,3 +1,11 @@
+---
+title: "easy-webbridge | AwesomeCUA"
+url: https://awesomecua.com/resources/github-xxjrq-easy-webbridge/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # easy-webbridge
 
 Browser bridge allowing Claude Code, Codex, OpenCode, and WorkBuddy agents to operate an authenticated Chrome session.

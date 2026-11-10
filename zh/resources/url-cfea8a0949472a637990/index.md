@@ -1,3 +1,11 @@
+---
+title: "SeeClick checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-cfea8a0949472a637990/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # SeeClick checkpoint
 
 已发布的 SeeClick 视觉定位模型检查点，将界面截图和指代指令映射到点或边界框。

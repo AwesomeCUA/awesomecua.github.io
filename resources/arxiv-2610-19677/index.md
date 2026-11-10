@@ -1,3 +1,11 @@
+---
+title: "ACRO: Actor-Critic Rollout Orchestration | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-19677/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # ACRO: Actor-Critic Rollout Orchestration
 
 Bibliographic record for ACRO: Actor-Critic Rollout Orchestration. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Junhoo Lee, Seungyeon Kim, Baekseung Kim, Minkyu Kim, Suhyun Jeon, Jimyeong Kim,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-19677/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-19677/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_19677,
+  title = {{ACRO: Actor-Critic Rollout Orchestration}},
+  author = {{Junhoo Lee} and {Seungyeon Kim} and {Baekseung Kim} and {Minkyu Kim} and {Suhyun Jeon} and {Jimyeong Kim} and {Nojun Kwak}},
+  year = {2026},
+  eprint = {2610.19677v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.19677v1},
+  note = {First published: 2026-10-14; Recorded arXiv version: v1; Recorded version updated: 2026-10-14T06:55:16Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

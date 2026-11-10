@@ -1,3 +1,11 @@
+---
+title: "GameASG-Bench: Benchmarking Autonomous… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2609-21293/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development
 
 Bibliographic record for GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -32,6 +40,18 @@ Xiuhui Zhang, Yi Chen, Shusheng Xu, Fan Li, Huan Wang, Tongkai Yang, Binhang Yua
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2609-21293/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2609-21293/citation.csl.json
+
+```bibtex
+@misc{arxiv_2609_21293,
+  title = {{GameASG-Bench: Benchmarking Autonomous Software Generation for Game Development}},
+  author = {{Xiuhui Zhang} and {Yi Chen} and {Shusheng Xu} and {Fan Li} and {Huan Wang} and {Tongkai Yang} and {Binhang Yuan}},
+  year = {2026},
+  eprint = {2609.21293v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2609.21293v1},
+  note = {First published: 2026-09-18; Recorded arXiv version: v1; Recorded version updated: 2026-09-18T04:06:55Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

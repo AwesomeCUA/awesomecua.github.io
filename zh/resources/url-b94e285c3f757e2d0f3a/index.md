@@ -1,3 +1,11 @@
+---
+title: "UI-AGILE checkpoint · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-b94e285c3f757e2d0f3a/
+updated: 2026-10-17
+type: model
+lang: zh-CN
+---
+
 # UI-AGILE checkpoint
 
 已发布的 UI-AGILE 模型，用于 GUI 定位，推理时采用奖励塑形、基于裁剪的重采样和分解式选择。

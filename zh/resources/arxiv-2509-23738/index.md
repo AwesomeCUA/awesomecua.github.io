@@ -1,3 +1,11 @@
+---
+title: "GUI-Shepherd: Reliable Process Reward… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2509-23738/
+updated: 2026-11-06
+type: paper
+lang: zh-CN
+---
+
 # GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks
 
 GUI-Shepherd 从带标注的 GUI 交互中学习过程奖励，为智能体训练和步骤核查提供反馈，并在 AndroidWorld 与 AndroidControl 上评估。
@@ -27,6 +35,18 @@ Cong Chen, Kaixiang Ji, Hao Zhong, Muzhi Zhu, Anzhou Li, Guo Gan, Ziyuan Huang, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2509-23738/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2509-23738/citation.csl.json
+
+```bibtex
+@misc{arxiv_2509_23738,
+  title = {{GUI-Shepherd: Reliable Process Reward and Verification for Long-Sequence GUI Tasks}},
+  author = {{Cong Chen} and {Kaixiang Ji} and {Hao Zhong} and {Muzhi Zhu} and {Anzhou Li} and {Guo Gan} and {Ziyuan Huang} and {Cheng Zou} and {Jiajia Liu} and {Jingdong Chen} and {Hao Chen} and {Chunhua Shen}},
+  year = {2025},
+  eprint = {2509.23738v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2509.23738v1},
+  note = {First published: 2025-09-28; Recorded arXiv version: v1; Recorded version updated: 2025-09-28T08:35:16Z.}
+}
+```
 
 ## arXiv 版本记录
 

@@ -1,3 +1,11 @@
+---
+title: "MaaLogAnalyzer | AwesomeCUA"
+url: https://awesomecua.com/resources/github-maaxyz-maaloganalyzer/
+updated: 2026-11-10
+type: tool
+lang: en
+---
+
 # MaaLogAnalyzer
 
 A visual analyzer for MaaFramework application logs that shows task execution with recognition and action details, keyword and regex search, an ELK node flowchart with replay, and run statistics.

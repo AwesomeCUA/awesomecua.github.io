@@ -1,3 +1,11 @@
+---
+title: "LlamaTouch | AwesomeCUA"
+url: https://awesomecua.com/resources/github-llamatouch-llamatouch/
+updated: 2026-10-17
+type: benchmark
+lang: en
+---
+
 # LlamaTouch
 
 Mobile UI task evaluation using application state information.

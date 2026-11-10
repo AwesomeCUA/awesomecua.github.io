@@ -1,3 +1,11 @@
+---
+title: "The Impact of Element Ordering on LM Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2409-12089/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # The Impact of Element Ordering on LM Agent Performance
 
 Studies how the ordering of UI elements in an agent observation affects web and desktop performance. A pixel-based element detector and dimensionality-reduction ordering are evaluated on OmniACT when document hierarchy is unavailable.
@@ -26,6 +34,18 @@ Wayne Chi, Ameet Talwalkar, Chris Donahue
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2409-12089/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2409-12089/citation.csl.json
+
+```bibtex
+@misc{arxiv_2409_12089,
+  title = {{The Impact of Element Ordering on LM Agent Performance}},
+  author = {{Wayne Chi} and {Ameet Talwalkar} and {Chris Donahue}},
+  year = {2024},
+  eprint = {2409.12089v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.12089v3},
+  note = {First published: 2024-09-18; Recorded arXiv version: v3; Recorded version updated: 2024-10-06T21:25:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

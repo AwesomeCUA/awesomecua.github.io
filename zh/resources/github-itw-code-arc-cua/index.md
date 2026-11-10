@@ -1,3 +1,11 @@
+---
+title: "ARC CUA · 框架 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-itw-code-arc-cua/
+updated: 2026-11-10
+type: framework
+lang: zh-CN
+---
+
 # ARC CUA
 
 浏览器执行框架，为智能体提供按 token 预算裁剪、带索引动作的可访问性树，并检查每个动作是否引起状态变化；另含文档到表单的处理流程和 MCP 服务器。

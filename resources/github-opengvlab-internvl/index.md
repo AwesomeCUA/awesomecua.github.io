@@ -1,3 +1,11 @@
+---
+title: "InternVL | AwesomeCUA"
+url: https://awesomecua.com/resources/github-opengvlab-internvl/
+updated: 2026-11-04
+type: model
+lang: en
+---
+
 # InternVL
 
 Official repository for the InternVL open-source multimodal foundation model family supporting high-resolution GUI grounding and visual reasoning.

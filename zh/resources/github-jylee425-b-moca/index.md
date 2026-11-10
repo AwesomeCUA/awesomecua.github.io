@@ -1,3 +1,11 @@
+---
+title: "B-MoCA · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-jylee425-b-moca/
+updated: 2026-10-17
+type: benchmark
+lang: zh-CN
+---
+
 # B-MoCA
 
 B-MoCA 是涵盖不同界面配置的移动设备控制基准。

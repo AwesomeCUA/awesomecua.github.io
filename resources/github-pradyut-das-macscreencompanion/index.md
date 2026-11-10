@@ -1,3 +1,11 @@
+---
+title: "Cursor Companion (MacScreenCompanion) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-pradyut-das-macscreencompanion/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Cursor Companion (MacScreenCompanion)
 
 Native screen-aware macOS AI assistant invoked via hotkey to inspect and act on whatever is currently on screen.

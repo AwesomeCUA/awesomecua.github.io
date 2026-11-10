@@ -1,3 +1,11 @@
+---
+title: "web-agent-eval (REAL Benchmark Runner) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-saarthak-yadav-web-agent-eval/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # web-agent-eval (REAL Benchmark Runner)
 
 Evaluates web agents on 102 replica websites from the REAL benchmark under explicit step, token, and budget constraints.

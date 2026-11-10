@@ -1,3 +1,11 @@
+---
+title: "Rico Dataset · 数据集 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-0c845d69c9498dd4e20c/
+updated: 2026-11-09
+type: dataset
+lang: zh-CN
+---
+
 # Rico Dataset
 
 Rico Dataset 是 Interaction Mining 展示的移动应用交互与设计数据集，包含来自 5k 款应用的 70k 张屏幕和 10k 条用户操作流程。

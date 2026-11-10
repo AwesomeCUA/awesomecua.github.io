@@ -1,3 +1,11 @@
+---
+title: "Co-NavGPT: Multi-Robot Cooperative Visual… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2310-07937/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation Using Vision Language Models
 
 Bibliographic record for Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation Using Vision Language Models. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Bangguo Yu, Qihao Yuan, Kailai Li, Hamidreza Kasaei, Ming Cao
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2310-07937/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2310-07937/citation.csl.json
+
+```bibtex
+@misc{arxiv_2310_07937,
+  title = {{Co-NavGPT: Multi-Robot Cooperative Visual Semantic Navigation Using Vision Language Models}},
+  author = {{Bangguo Yu} and {Qihao Yuan} and {Kailai Li} and {Hamidreza Kasaei} and {Ming Cao}},
+  year = {2023},
+  eprint = {2310.07937v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2310.07937v3},
+  note = {First published: 2023-10-11; Recorded arXiv version: v3; Recorded version updated: 2025-05-06T14:06:58Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

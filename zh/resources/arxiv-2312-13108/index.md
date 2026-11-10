@@ -1,3 +1,11 @@
+---
+title: "ASSISTGUI: Task-Oriented Desktop… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2312-13108/
+updated: 2026-10-16
+type: paper
+lang: zh-CN
+---
+
 # ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation
 
 提出 Windows 应用任务和演员—评论家智能体框架，用鼠标和键盘自动执行桌面工作流程。
@@ -27,6 +35,18 @@ Difei Gao, Lei Ji, Zechen Bai, Mingyu Ouyang, Peiran Li, Dongxing Mao, Qinchen W
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2312-13108/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2312-13108/citation.csl.json
+
+```bibtex
+@misc{arxiv_2312_13108,
+  title = {{ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation}},
+  author = {{Difei Gao} and {Lei Ji} and {Zechen Bai} and {Mingyu Ouyang} and {Peiran Li} and {Dongxing Mao} and {Qinchen Wu} and {Weichen Zhang} and {Peiyi Wang} and {Xiangwu Guo} and {Hengxu Wang} and {Luowei Zhou} and {Mike Zheng Shou}},
+  year = {2023},
+  eprint = {2312.13108v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2312.13108v2},
+  note = {First published: 2023-12-20; Recorded arXiv version: v2; Recorded version updated: 2024-01-01T14:26:39Z.}
+}
+```
 
 ## arXiv 版本记录
 

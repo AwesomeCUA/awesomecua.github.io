@@ -1,3 +1,11 @@
+---
+title: "Chrome MCP Docker · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-null-runner-chrome-mcp-docker/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # Chrome MCP Docker
 
 容器化的 Chrome DevTools MCP 服务器，为 AI 网页智能体提供持久化浏览器配置文件和容器 Host 标头路由。

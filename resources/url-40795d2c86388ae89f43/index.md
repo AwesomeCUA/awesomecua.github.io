@@ -1,3 +1,11 @@
+---
+title: "WebTactix | AwesomeCUA"
+url: https://awesomecua.com/resources/url-40795d2c86388ae89f43/
+updated: 2026-11-09
+type: agent
+lang: en
+---
+
 # WebTactix
 
 A web agent that simplifies accessibility trees, explores candidate actions in parallel and stores visited pages in a semantic tree to guide later decisions and recovery.

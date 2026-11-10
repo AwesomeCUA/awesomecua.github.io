@@ -1,3 +1,11 @@
+---
+title: "Tailorec Browser Orchestrator · 基础设施 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-tailorec-tailorec-browser-orch/
+updated: 2026-11-04
+type: infrastructure
+lang: zh-CN
+---
+
 # Tailorec Browser Orchestrator
 
 按运行实例隔离的浏览器编排服务，将网页转换为带稳定元素引用的语义快照。

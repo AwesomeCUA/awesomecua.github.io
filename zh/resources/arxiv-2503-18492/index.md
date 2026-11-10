@@ -1,3 +1,11 @@
+---
+title: "VeriSafe Agent: Safeguarding Mobile GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2503-18492/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification
 
 将用户指令转化为形式化规范，并在运行时通过逻辑检查拟执行的移动端 GUI 操作。
@@ -27,6 +35,18 @@ Jungjae Lee, Dongjae Lee, Chihun Choi, Youngmin Im, Jaeyoung Wi, Kihong Heo, San
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2503-18492/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2503-18492/citation.csl.json
+
+```bibtex
+@misc{arxiv_2503_18492,
+  title = {{VeriSafe Agent: Safeguarding Mobile GUI Agent via Logic-based Action Verification}},
+  author = {{Jungjae Lee} and {Dongjae Lee} and {Chihun Choi} and {Youngmin Im} and {Jaeyoung Wi} and {Kihong Heo} and {Sangeun Oh} and {Sunjae Lee} and {Insik Shin}},
+  year = {2025},
+  eprint = {2503.18492v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2503.18492v2},
+  note = {First published: 2025-03-24; Recorded arXiv version: v2; Recorded version updated: 2025-09-11T04:15:45Z.}
+}
+```
 
 ## arXiv 版本记录
 

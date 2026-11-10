@@ -1,3 +1,11 @@
+---
+title: "Agent-CE | AwesomeCUA"
+url: https://awesomecua.com/resources/github-anaishowland-agent-ce/
+updated: 2026-11-04
+type: benchmark
+lang: en
+---
+
 # Agent-CE
 
 Agent-CE is a containerized continuous evaluation platform for benchmarking web browsing agents across reproducible task suites.

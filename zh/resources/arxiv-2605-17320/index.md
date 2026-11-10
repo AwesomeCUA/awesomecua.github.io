@@ -1,3 +1,11 @@
+---
+title: "TClone: Low-Latency Forking of Live GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2605-17320/
+updated: 2026-10-18
+type: paper
+lang: zh-CN
+---
+
 # TClone: Low-Latency Forking of Live GUI Environments for Computer-Use Agents
 
 TClone 通过快照、隔离分支、回滚及选择性提交或合并，为运行中的 GUI 工作区建立版本；借助写时复制共享、文件系统版本管理和异步检查点区分快速创建分支与持久检查点，并测量智能体循环的端到端延迟。
@@ -27,6 +35,18 @@ Yutong Huang, Vikranth Srivatsa, Alex Asch, Hansin Tushar Patwa, Yiying Zhang
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2605-17320/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2605-17320/citation.csl.json
+
+```bibtex
+@misc{arxiv_2605_17320,
+  title = {{TClone: Low-Latency Forking of Live GUI Environments for Computer-Use Agents}},
+  author = {{Yutong Huang} and {Vikranth Srivatsa} and {Alex Asch} and {Hansin Tushar Patwa} and {Yiying Zhang}},
+  year = {2026},
+  eprint = {2605.17320v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2605.17320v1},
+  note = {First published: 2026-05-17; Recorded arXiv version: v1; Recorded version updated: 2026-05-17T08:24:01Z.}
+}
+```
 
 ## arXiv 版本记录
 

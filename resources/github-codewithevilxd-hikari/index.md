@@ -1,3 +1,11 @@
+---
+title: "Hikari (光) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-codewithevilxd-hikari/
+updated: 2026-11-04
+type: agent
+lang: en
+---
+
 # Hikari (光)
 
 Autonomous AI desktop agent for Windows capable of GUI control, system management, and multi-step task execution.

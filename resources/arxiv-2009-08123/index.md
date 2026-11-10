@@ -1,3 +1,11 @@
+---
+title: "DLBCL-Morph: Morphological features computed… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2009-08123/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # DLBCL-Morph: Morphological features computed using deep learning for an annotated digital DLBCL image set
 
 Status: excluded from the active CUA catalog after scope review.

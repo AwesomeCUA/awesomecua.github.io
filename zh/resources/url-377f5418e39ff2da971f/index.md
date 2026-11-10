@@ -1,3 +1,11 @@
+---
+title: "AssistEditor: Multi-Agent Collaboration… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-377f5418e39ff2da971f/
+updated: 2026-11-09
+type: paper
+lang: zh-CN
+---
+
 # AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation
 
 AssistEditor 协调 GUI 智能体，将视频需求和上传素材转化为分镜脚本及专业桌面软件中的剪辑操作。
@@ -27,6 +35,21 @@ Difei Gao, Siyuan Hu, Zechen Bai, Qinghong Lin, Mike Zheng Shou
 
 - BibTeX：https://awesomecua.com/resources/url-377f5418e39ff2da971f/citation.bib
 - CSL JSON：https://awesomecua.com/resources/url-377f5418e39ff2da971f/citation.csl.json
+
+```bibtex
+@inproceedings{cua_16ba9a7e63121626c10836c7,
+  title = {{AssistEditor: Multi-Agent Collaboration for GUI Workflow Automation in Video Creation}},
+  author = {{Difei Gao} and {Siyuan Hu} and {Zechen Bai} and {Qinghong Lin} and {Mike Zheng Shou}},
+  year = {2024},
+  month = oct,
+  booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+  publisher = {ACM},
+  pages = {11255-11257},
+  doi = {10.1145/3664647.3684998},
+  url = {https://dl.acm.org/doi/abs/10.1145/3664647.3684998},
+  note = {Publication date: 2024-10-28.}
+}
+```
 
 ## 发表记录
 

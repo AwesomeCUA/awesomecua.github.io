@@ -1,3 +1,11 @@
+---
+title: "viger1 dsh-pilot · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-viger1-dsh-pilot/
+updated: 2026-11-04
+type: tool
+lang: zh-CN
+---
+
 # viger1 dsh-pilot
 
 面向 DeepSeek Harness 的浏览器自动化插件，在 CDP 边界实施权限管理。

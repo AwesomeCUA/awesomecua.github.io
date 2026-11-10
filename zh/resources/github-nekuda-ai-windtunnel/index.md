@@ -1,3 +1,11 @@
+---
+title: "WindTunnel · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-nekuda-ai-windtunnel/
+updated: 2026-11-09
+type: benchmark
+lang: zh-CN
+---
+
 # WindTunnel
 
 WindTunnel 通过相同的网页任务比较浏览器智能体的交互接口，并依据应用状态检查衡量任务完成情况、执行时间、令牌用量和成本。

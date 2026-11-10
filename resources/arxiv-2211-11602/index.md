@@ -1,3 +1,11 @@
+---
+title: "Improving Multimodal Interactive Agents with… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2211-11602/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Improving Multimodal Interactive Agents with Reinforcement Learning from Human Feedback
 
 Bibliographic record for Improving Multimodal Interactive Agents with Reinforcement Learning from Human Feedback. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Josh Abramson, Arun Ahuja, Federico Carnevale, Petko Georgiev, Alex Goldin, Alde
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2211-11602/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2211-11602/citation.csl.json
+
+```bibtex
+@misc{arxiv_2211_11602,
+  title = {{Improving Multimodal Interactive Agents with Reinforcement Learning from Human Feedback}},
+  author = {{Josh Abramson} and {Arun Ahuja} and {Federico Carnevale} and {Petko Georgiev} and {Alex Goldin} and {Alden Hung} and {Jessica Landon} and {Jirka Lhotka} and {Timothy Lillicrap} and {Alistair Muldal} and {George Powell} and {Adam Santoro} and {Guy Scully} and {Sanjana Srivastava} and {Tamara von Glehn} and {Greg Wayne} and {Nathaniel Wong} and {Chen Yan} and {Rui Zhu}},
+  year = {2022},
+  eprint = {2211.11602v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2211.11602v1},
+  note = {First published: 2022-11-21; Recorded arXiv version: v1; Recorded version updated: 2022-11-21T16:00:31Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

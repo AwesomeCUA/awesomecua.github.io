@@ -1,3 +1,11 @@
+---
+title: "Measuring the Security of Mobile LLM Agents… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2510-27140/
+updated: 2026-10-18
+type: paper
+lang: en
+---
+
 # Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels
 
 Measures how untrusted third-party notifications, messages, and app content can hijack mobile LLM agents into executing unauthorized cross-app actions.
@@ -26,6 +34,18 @@ Chenghao Du, Quanfeng Huang, Tingxuan Tang, Zihao Wang, Adwait Nadkarni, Yue Xia
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2510-27140/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2510-27140/citation.csl.json
+
+```bibtex
+@misc{arxiv_2510_27140,
+  title = {{Measuring the Security of Mobile LLM Agents under Adversarial Prompts from Untrusted Third-Party Channels}},
+  author = {{Chenghao Du} and {Quanfeng Huang} and {Tingxuan Tang} and {Zihao Wang} and {Adwait Nadkarni} and {Yue Xiao}},
+  year = {2025},
+  eprint = {2510.27140v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2510.27140v3},
+  note = {First published: 2025-10-31; Recorded arXiv version: v3; Recorded version updated: 2026-07-07T02:18:26Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

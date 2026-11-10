@@ -1,3 +1,11 @@
+---
+title: "nanoAWM (Agent World Model Lab) | AwesomeCUA"
+url: https://awesomecua.com/resources/github-jlov7-nanoawm/
+updated: 2026-11-04
+type: framework
+lang: en
+---
+
 # nanoAWM (Agent World Model Lab)
 
 nanoAWM is an inspectable Agent World Model laboratory for simulating action consequences in long-horizon tool and computer-use agents.

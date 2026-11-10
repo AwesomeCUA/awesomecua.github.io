@@ -1,3 +1,11 @@
+---
+title: "Mirage-1: Augmenting and Updating GUI… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-10387/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills
 
 Mirage-1 将交互轨迹整理为执行技能、核心技能和元技能，用于指导在线 GUI 任务中的蒙特卡洛树搜索；还引入长时程评估基准 AndroidLH，并在 Android 和网页导航基准上测试。
@@ -27,6 +35,18 @@ Yuquan Xie, Zaijing Li, Rui Shao, Gongwei Chen, Kaiwen Zhou, Yinchuan Li, Dongme
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-10387/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-10387/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_10387,
+  title = {{Mirage-1: Augmenting and Updating GUI Agent with Hierarchical Multimodal Skills}},
+  author = {{Yuquan Xie} and {Zaijing Li} and {Rui Shao} and {Gongwei Chen} and {Kaiwen Zhou} and {Yinchuan Li} and {Dongmei Jiang} and {Liqiang Nie}},
+  year = {2025},
+  eprint = {2506.10387v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.10387v1},
+  note = {First published: 2025-06-12; Recorded arXiv version: v1; Recorded version updated: 2025-06-12T06:21:19Z.}
+}
+```
 
 ## arXiv 版本记录
 

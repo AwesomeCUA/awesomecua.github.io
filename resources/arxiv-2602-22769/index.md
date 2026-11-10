@@ -1,3 +1,11 @@
+---
+title: "AMA-Bench: Evaluating Long-Horizon Memory for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2602-22769/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications
 
 Status: excluded from the active CUA catalog after scope review.

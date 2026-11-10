@@ -1,3 +1,11 @@
+---
+title: "Qwen2.5-VL-3B-Instruct-AWQ | AwesomeCUA"
+url: https://awesomecua.com/resources/url-0ab0de943c5396cdf366/
+updated: 2026-11-09
+type: model
+lang: en
+---
+
 # Qwen2.5-VL-3B-Instruct-AWQ
 
 Qwen2.5-VL-3B-Instruct-AWQ is an AWQ checkpoint of a vision-language model whose card describes tool-directed computer and phone use and visual localization.

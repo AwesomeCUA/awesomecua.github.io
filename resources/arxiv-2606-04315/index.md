@@ -1,3 +1,11 @@
+---
+title: "Exploring Cross-Scenario Generality of… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2606-04315/
+updated: 2026-11-10
+type: page
+lang: en
+---
+
 # Exploring Cross-Scenario Generality of Agentic Memory Systems: Diagnostics and a Strong Baseline
 
 Status: excluded from the active CUA catalog after scope review.

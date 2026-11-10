@@ -1,3 +1,11 @@
+---
+title: "DeepSeek Harness Mac Control | AwesomeCUA"
+url: https://awesomecua.com/resources/github-18126295767-cell-dsh-mac-control/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # DeepSeek Harness Mac Control
 
 macOS control plugin for DeepSeek Harness enabling browser tab inspection, app switching, and desktop GUI actions.

@@ -1,3 +1,11 @@
+---
+title: "SpiderCreator | AwesomeCUA"
+url: https://awesomecua.com/resources/github-carlosplanchon-spidercreator/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # SpiderCreator
 
 SpiderCreator records browser interactions and DOM snapshots to automatically synthesize executable Playwright web-scraping spiders with LLMs.

@@ -1,3 +1,11 @@
+---
+title: "InternVL3_5-14B-HF · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-5304880559ad79f5b797/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # InternVL3_5-14B-HF
 
 InternVL3.5 多模态模型系列的 Hugging Face 格式检查点；模型卡将图形界面交互列为其能力之一，并介绍了 Cascade RL 训练方法。

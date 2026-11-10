@@ -1,3 +1,11 @@
+---
+title: "ScreenSuite | AwesomeCUA"
+url: https://awesomecua.com/resources/github-huggingface-screensuite/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # ScreenSuite
 
 A shared evaluation harness for GUI-model perception, offline action prediction and multi-step interaction, using simple smolagents-based agents across existing benchmarks.

@@ -1,3 +1,11 @@
+---
+title: "Chat Modeling: Interaction-Enhanced Agent… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2404-01063/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Chat Modeling: Interaction-Enhanced Agent Framework for Visualizing Literature-Grounded Biological Structures
 
 Bibliographic record for Chat Modeling: Interaction-Enhanced Agent Framework for Visualizing Literature-Grounded Biological Structures. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Donggang Jia, Yunhai Wang, Ivan Viola
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2404-01063/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2404-01063/citation.csl.json
+
+```bibtex
+@misc{arxiv_2404_01063,
+  title = {{Chat Modeling: Interaction-Enhanced Agent Framework for Visualizing Literature-Grounded Biological Structures}},
+  author = {{Donggang Jia} and {Yunhai Wang} and {Ivan Viola}},
+  year = {2024},
+  eprint = {2404.01063v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2404.01063v2},
+  note = {First published: 2024-04-01; Recorded arXiv version: v2; Recorded version updated: 2026-05-19T12:38:34Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

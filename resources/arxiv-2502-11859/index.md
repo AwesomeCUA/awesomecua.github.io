@@ -1,3 +1,11 @@
+---
+title: "Defining and Evaluating Visual Language… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-11859/
+updated: 2026-11-10
+type: paper
+lang: en
+---
+
 # Defining and Evaluating Visual Language Models' Basic Spatial Abilities: A Perspective from Psychometrics
 
 Bibliographic record for Defining and Evaluating Visual Language Models' Basic Spatial Abilities: A Perspective from Psychometrics. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenrui Xu, Dalin Lyu, Weihang Wang, Jie Feng, Chen Gao, Yong Li
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-11859/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-11859/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_11859,
+  title = {{Defining and Evaluating Visual Language Models' Basic Spatial Abilities: A Perspective from Psychometrics}},
+  author = {{Wenrui Xu} and {Dalin Lyu} and {Weihang Wang} and {Jie Feng} and {Chen Gao} and {Yong Li}},
+  year = {2025},
+  eprint = {2502.11859v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.11859v2},
+  note = {First published: 2025-02-17; Recorded arXiv version: v2; Recorded version updated: 2025-02-20T07:42:46Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

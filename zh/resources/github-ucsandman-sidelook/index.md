@@ -1,3 +1,11 @@
+---
+title: "Sidelook · 智能体 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-ucsandman-sidelook/
+updated: 2026-11-04
+type: agent
+lang: zh-CN
+---
+
 # Sidelook
 
 Windows 桌面伴随智能体，可观察当前应用上下文并执行经用户批准的 UI 动作。

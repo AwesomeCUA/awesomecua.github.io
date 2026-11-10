@@ -1,3 +1,11 @@
+---
+title: "DigitalCoach: Communication and… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2606-31980/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching
 
 DigitalCoach 记录与屏幕及输入事件对齐的专家和新手软件辅导对话。自动化和交互式评估考察模型辅导者帮助学习者操作软件时，在讲解、错误诊断和视觉定位方面与人类的差异。
@@ -27,6 +35,18 @@ Meng Chen, Anya Ji, Tsung-Han Wu, Tobias Maringgele, David M. Chan, Alane Suhr, 
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2606-31980/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2606-31980/citation.csl.json
+
+```bibtex
+@misc{arxiv_2606_31980,
+  title = {{DigitalCoach: Communication and Grounding Gaps in Human and Agentic Computer Use Coaching}},
+  author = {{Meng Chen} and {Anya Ji} and {Tsung-Han Wu} and {Tobias Maringgele} and {David M. Chan} and {Alane Suhr} and {Amy Pavel}},
+  year = {2026},
+  eprint = {2606.31980v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2606.31980v2},
+  note = {First published: 2026-06-30; Recorded arXiv version: v2; Recorded version updated: 2026-09-01T04:17:49Z.}
+}
+```
 
 ## arXiv 版本记录
 

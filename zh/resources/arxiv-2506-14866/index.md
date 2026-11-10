@@ -1,3 +1,11 @@
+---
+title: "OS-Harm: A Benchmark for Measuring… · 论文 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/arxiv-2506-14866/
+updated: 2026-10-17
+type: paper
+lang: zh-CN
+---
+
 # OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents
 
 OS-Harm 为 OSWorld 增加涵盖用户滥用、提示注入和模型不当行为的任务，同时评估任务完成情况与安全性。
@@ -27,6 +35,18 @@ Thomas Kuntz, Agatha Duzan, Hao Zhao, Francesco Croce, Zico Kolter, Nicolas Flam
 
 - BibTeX：https://awesomecua.com/resources/arxiv-2506-14866/citation.bib
 - CSL JSON：https://awesomecua.com/resources/arxiv-2506-14866/citation.csl.json
+
+```bibtex
+@misc{arxiv_2506_14866,
+  title = {{OS-Harm: A Benchmark for Measuring Safety of Computer Use Agents}},
+  author = {{Thomas Kuntz} and {Agatha Duzan} and {Hao Zhao} and {Francesco Croce} and {Zico Kolter} and {Nicolas Flammarion} and {Maksym Andriushchenko}},
+  year = {2025},
+  eprint = {2506.14866v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2506.14866v2},
+  note = {First published: 2025-06-17; Recorded arXiv version: v2; Recorded version updated: 2025-10-29T10:34:04Z.}
+}
+```
 
 ## arXiv 版本记录
 

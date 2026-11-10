@@ -1,3 +1,11 @@
+---
+title: "GTA1-7B (huggingface.co/Salesforce/GTA1-7… · 模型 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-fa6761a4612fab664a7c/
+updated: 2026-11-09
+type: model
+lang: zh-CN
+---
+
 # GTA1-7B
 
 通过强化学习训练的 GUI 定位模型权重，根据截图和指令预测点击坐标；发布页提供推理示例和基准测试结果。

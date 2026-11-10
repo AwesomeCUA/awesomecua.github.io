@@ -1,3 +1,11 @@
+---
+title: "ADBKeyBoard | AwesomeCUA"
+url: https://awesomecua.com/resources/github-senzhk-adbkeyboard/
+updated: 2026-11-09
+type: tool
+lang: en
+---
+
 # ADBKeyBoard
 
 An Android virtual keyboard that accepts ADB broadcasts to enter text, Unicode characters and key events for device automation.

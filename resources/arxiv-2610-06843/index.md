@@ -1,3 +1,11 @@
+---
+title: "Recursive Video In-Context Learning for… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2610-06843/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Recursive Video In-Context Learning for Agentic Robot
 
 Bibliographic record for Recursive Video In-Context Learning for Agentic Robot. Title, authors and dates checked against arXiv; relevance and findings await editorial review.
@@ -26,6 +34,18 @@ Wenrui Bao, Xinxin Liu, Bingxin Xu, Yuzhang Shang
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2610-06843/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2610-06843/citation.csl.json
+
+```bibtex
+@misc{arxiv_2610_06843,
+  title = {{Recursive Video In-Context Learning for Agentic Robot}},
+  author = {{Wenrui Bao} and {Xinxin Liu} and {Bingxin Xu} and {Yuzhang Shang}},
+  year = {2026},
+  eprint = {2610.06843v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2610.06843v1},
+  note = {First published: 2026-10-05; Recorded arXiv version: v1; Recorded version updated: 2026-10-05T17:59:11Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

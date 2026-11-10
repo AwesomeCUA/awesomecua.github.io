@@ -1,3 +1,11 @@
+---
+title: "IdemStep | AwesomeCUA"
+url: https://awesomecua.com/resources/github-supermarioyl-idemstep/
+updated: 2026-11-04
+type: tool
+lang: en
+---
+
 # IdemStep
 
 Deduplicates repeated agent actions and HTTP retries using keyed idempotency caches and a local verification proxy.

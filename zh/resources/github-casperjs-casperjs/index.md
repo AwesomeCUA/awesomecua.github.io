@@ -1,3 +1,11 @@
+---
+title: "CasperJS · 工具 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/github-casperjs-casperjs/
+updated: 2026-11-09
+type: tool
+lang: zh-CN
+---
+
 # CasperJS
 
 CasperJS 是面向 PhantomJS 和 SlimerJS 的浏览器导航脚本与测试工具，提供表单、链接、截图和断言辅助功能。

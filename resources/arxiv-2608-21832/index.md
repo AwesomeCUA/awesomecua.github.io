@@ -1,3 +1,11 @@
+---
+title: "GUI-Primitives: Diagnosing Spatial Reasoning… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2608-21832/
+updated: 2026-10-17
+type: paper
+lang: en
+---
+
 # GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding
 
 Introduces GUI-Primitives, a paired-instruction benchmark that changes a spatial relation while holding the screenshot and anchor fixed. Its diagnostics separate failure to localize either candidate from failure to choose the candidate satisfying the relation.
@@ -26,6 +34,18 @@ Md Abrar Jahin, Md Rizwan Parvez
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2608-21832/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2608-21832/citation.csl.json
+
+```bibtex
+@misc{arxiv_2608_21832,
+  title = {{GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding}},
+  author = {{Md Abrar Jahin} and {Md Rizwan Parvez}},
+  year = {2026},
+  eprint = {2608.21832v2},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2608.21832v2},
+  note = {First published: 2026-08-22; Recorded arXiv version: v2; Recorded version updated: 2026-08-27T07:03:01Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

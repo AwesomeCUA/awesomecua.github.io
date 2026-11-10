@@ -1,3 +1,11 @@
+---
+title: "SE-GUI | AwesomeCUA"
+url: https://awesomecua.com/resources/github-yxb-nku-se-gui/
+updated: 2026-11-09
+type: framework
+lang: en
+---
+
 # SE-GUI
 
 SE-GUI provides training and evaluation code for a GUI-grounding model refined with location-based rewards and attention feedback; its README links separate weights and seed data.

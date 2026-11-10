@@ -1,3 +1,11 @@
+---
+title: "WeaveBench (huggingface.co/datasets/wan… · 评测基准 | AwesomeCUA"
+url: https://awesomecua.com/zh/resources/url-6a212bc12f82c824f6b9/
+updated: 2026-10-16
+type: benchmark
+lang: zh-CN
+---
+
 # WeaveBench
 
 WeaveBench 是结合图形界面交互与代码执行的计算机使用基准。

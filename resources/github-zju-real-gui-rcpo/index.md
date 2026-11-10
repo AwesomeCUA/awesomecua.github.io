@@ -1,3 +1,11 @@
+---
+title: "GUI-RC / GUI-RCPO | AwesomeCUA"
+url: https://awesomecua.com/resources/github-zju-real-gui-rcpo/
+updated: 2026-10-17
+type: framework
+lang: en
+---
+
 # GUI-RC / GUI-RCPO
 
 GUI-grounding research code for spatial voting across sampled predictions and test-time policy optimization using region-consistency rewards.

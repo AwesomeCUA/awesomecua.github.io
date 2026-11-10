@@ -1,3 +1,11 @@
+---
+title: "Systematic Categorization, Construction and… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2407-09295/
+updated: 2026-10-16
+type: paper
+lang: en
+---
+
 # Systematic Categorization, Construction and Evaluation of New Attacks against Multi-modal Mobile GUI Agents
 
 Develops a threat taxonomy and evaluation framework for attacks against multimodal mobile GUI agents, with case studies and dataset experiments.
@@ -26,6 +34,18 @@ Yulong Yang, Xinshan Yang, Shuaidong Li, Chenhao Lin, Zhengyu Zhao, Chao Shen, T
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2407-09295/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2407-09295/citation.csl.json
+
+```bibtex
+@misc{arxiv_2407_09295,
+  title = {{Systematic Categorization, Construction and Evaluation of New Attacks against Multi-modal Mobile GUI Agents}},
+  author = {{Yulong Yang} and {Xinshan Yang} and {Shuaidong Li} and {Chenhao Lin} and {Zhengyu Zhao} and {Chao Shen} and {Tianwei Zhang}},
+  year = {2024},
+  eprint = {2407.09295v3},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2407.09295v3},
+  note = {First published: 2024-07-12; Recorded arXiv version: v3; Recorded version updated: 2025-03-16T07:13:53Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 

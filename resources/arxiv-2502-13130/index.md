@@ -1,3 +1,11 @@
+---
+title: "Magma: A Foundation Model for Multimodal AI… | AwesomeCUA"
+url: https://awesomecua.com/resources/arxiv-2502-13130/
+updated: 2026-11-09
+type: paper
+lang: en
+---
+
 # Magma: A Foundation Model for Multimodal AI Agents
 
 Introduces Magma, a multimodal agent model trained with labels for clickable GUI elements and video motion traces, and evaluated on UI navigation and robot tasks.
@@ -26,6 +34,18 @@ Jianwei Yang, Reuben Tan, Qianhui Wu, Ruijie Zheng, Baolin Peng, Yongyuan Liang,
 
 - BibTeX: https://awesomecua.com/resources/arxiv-2502-13130/citation.bib
 - CSL JSON: https://awesomecua.com/resources/arxiv-2502-13130/citation.csl.json
+
+```bibtex
+@misc{arxiv_2502_13130,
+  title = {{Magma: A Foundation Model for Multimodal AI Agents}},
+  author = {{Jianwei Yang} and {Reuben Tan} and {Qianhui Wu} and {Ruijie Zheng} and {Baolin Peng} and {Yongyuan Liang} and {Yu Gu} and {Mu Cai} and {Seonghyeon Ye} and {Joel Jang} and {Yuquan Deng} and {Lars Liden} and {Jianfeng Gao}},
+  year = {2025},
+  eprint = {2502.13130v1},
+  archivePrefix = {arXiv},
+  url = {https://arxiv.org/abs/2502.13130v1},
+  note = {First published: 2025-02-18; Recorded arXiv version: v1; Recorded version updated: 2025-02-18T18:55:21Z.}
+}
+```
 
 ## Recorded arXiv snapshot
 
