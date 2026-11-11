@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---
@@ -20,26 +20,26 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
 - **Records awaiting review**: 1,188
-- **Discovered candidates**: 181
+- **Discovered candidates**: 187
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
 
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-10T16:15:42Z
-- **Finished**: 2026-11-10T16:19:04Z
+- **Started**: 2026-11-11T00:34:06Z
+- **Finished**: 2026-11-11T00:39:58Z
 - **Discovery documents fetched**: 103 / 103
 - **New paper metadata**: 0
-- **New candidate identifiers**: 0
+- **New candidate identifiers**: 8
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 11
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/42852680158)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/42932317945)
 
 ### Recorded gaps
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+- github_candidates: Stage exceeded 220 seconds; last verified records retained.
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-10T16:16:55Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 0 new candidates.
+2026-11-11T00:35:15Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 

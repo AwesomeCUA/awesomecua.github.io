@@ -20,7 +20,7 @@ Evidence snapshot: 2026-11-10T08:20:17Z. Resource types can refer to different p
 | [ZJU REAL Awesome GUI Agents](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 220 | 178 | 177 | 0 | 42 | 0 | 0 |
 | [OS Agents Survey](https://github.com/OS-Agent-Survey/OS-Agent-Survey) | 224 | 196 | 191 | 9 | 16 | 2 | 1 |
 | [Awesome Computer Use Agents — wjhou](https://github.com/wjhou/awesome-computer-use-agents) | 132 | 104 | 102 | 4 | 18 | 5 | 1 |
-| [Steel Awesome Web Agents](https://github.com/steel-dev/awesome-web-agents) | 113 | 58 | 58 | 0 | 36 | 18 | 1 |
+| [Steel Awesome Web Agents](https://github.com/steel-dev/awesome-web-agents) | 124 | 63 | 63 | 0 | 36 | 18 | 7 |
 | [Steel Web Agents Archive](https://github.com/steel-dev/awesome-web-agents/blob/main/ARCHIVE.md) | 7 | 3 | 3 | 0 | 4 | 0 | 0 |
 | [Computer Browser Phone Use Agent Datasets](https://github.com/Khang-9966/Computer-Browser-Phone-Use-Agent-Datasets) | 170 | 137 | 136 | 2 | 30 | 1 | 0 |
 | [Awesome Multimodal GUI Agents](https://github.com/DeLunnLi/Awesome-Multimodal-GUI-Agents) | 588 | 525 | 518 | 2 | 59 | 1 | 1 |
@@ -117,7 +117,7 @@ Evidence snapshot: 2026-11-10T08:20:17Z. Resource types can refer to different p
 | [OSU NLP Mind2Web datasets — official Hub dataset index](https://huggingface.co/osunlp) | 4 | 4 | 4 | 0 | 0 | 0 | 0 |
 | [StepFun Android datasets — official Hub dataset index](https://huggingface.co/stepfun-ai) | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
 | [Survey bibliography references with no other registered listing (arXiv identifier query)](https://arxiv.org) | 4 | 4 | 3 | 0 | 0 | 0 | 0 |
-| [Efficient GUI Agents survey (arXiv 2609.02309) — HTML bibliography](https://arxiv.org/abs/2609.02309) | 118 | 75 | 74 | 2 | 37 | 1 | 3 |
+| [Efficient GUI Agents survey (arXiv 2609.02309) — HTML bibliography](https://arxiv.org/abs/2609.02309) | 122 | 75 | 74 | 2 | 42 | 0 | 3 |
 | [GUI Agents: A Survey (arXiv 2412.13501) — HTML bibliography](https://arxiv.org/abs/2412.13501) | 117 | 62 | 56 | 13 | 35 | 6 | 1 |
 | [Computer-use benchmark leads](https://github.com/reacher-z/Awesome-CUA/blob/main/docs/discovery-leads/benchmark-leads.md) | 161 | 105 | 3 | 4 | 0 | 52 | 0 |
 
@@ -131,6 +131,6 @@ A changed or unconfirmed exclusion returns to review.
 
 Most bibliography entries still require relevance review. Asset sizes, model licenses, availability, and experiment protocols need continuing curation.
 
-181 discovered identifiers remain unresolved. 2052 candidates have an out-of-scope review.
+187 discovered identifiers remain unresolved. 2052 candidates have an out-of-scope review.
 
 [Download the complete coverage ledger](https://awesomecua.com/downloads/coverage.json) · [Editorial policy](https://awesomecua.com/about/)

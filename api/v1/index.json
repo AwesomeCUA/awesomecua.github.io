@@ -1,6 +1,6 @@
 {
  "version": "1.0.0",
- "generated_at": "2026-11-10T16:19:04Z",
+ "generated_at": "2026-11-11T00:39:58Z",
  "catalog_sha256": "5871979f53c371d4cb3d69476451c0672a26d3918a0fbd7fd6aa99830c55c613",
  "license": "Catalog annotations and these files: MIT. Linked resources, papers, data and weights keep their own terms.",
  "documentation": "https://awesomecua.com/api/",
@@ -27,7 +27,7 @@
   },
   "awaiting_review": {
    "metadata_only_records": 1188,
-   "unresolved_candidate_identifiers": 181,
+   "unresolved_candidate_identifiers": 187,
    "github_candidate_repositories": 10251
   },
   "active_records": 6535,
@@ -42,9 +42,9 @@
    "csv": "https://awesomecua.com/api/v1/resources.csv",
    "count": 3629,
    "json_bytes": 2680620,
-   "json_sha256": "34aa326bff6b39c9ea7f62b10579ee2f53547eae233705db89897d66454f2a09",
+   "json_sha256": "6945844d63c5f638ed1f78bbccc0ecbce7c32bc8716d7a2730135e5d9d19618b",
    "csv_bytes": 1621244,
-   "csv_sha256": "4a2f14f45f7d25809c3feec67717e84f87c4bf56b4d8f1076297a02e77912cbd"
+   "csv_sha256": "2229538f34ba65aff120ed199cd341e73334b39674eb829fcbfd65f304d0d550"
   },
   {
    "name": "papers",
@@ -53,9 +53,9 @@
    "csv": "https://awesomecua.com/api/v1/papers.csv",
    "count": 1718,
    "json_bytes": 1687898,
-   "json_sha256": "1d5a73a0a3010fe0277248bb8d0d93bb86347cb9a6dcc9e0a7a6bf558a19956a",
+   "json_sha256": "bbc42a749bda282069a56c97083cf13d6ef2ed240ca1b530052d785dd235c5c9",
    "csv_bytes": 1156398,
-   "csv_sha256": "d4abd1587b96836bf9786ed6a62d9d767d3b9732d5b57ce23c636d2466837603"
+   "csv_sha256": "300837867bdea5262d8203cb789095767ec66185a211bd6e62606bba607ae933"
   },
   {
    "name": "categories",
@@ -64,31 +64,31 @@
    "csv": "https://awesomecua.com/api/v1/categories.csv",
    "count": 47,
    "json_bytes": 16159,
-   "json_sha256": "58cd834a74daafa35da740af4a88aba2f890a7808507e55b950470468bf30260",
+   "json_sha256": "630ab495d2383bdb72dce01f1512e9531b1c8052f24d3ad568b1df4910a2775d",
    "csv_bytes": 10965,
-   "csv_sha256": "c94633a23527bc0d2c4fabb90fad231519b96a6f920b4690c57bcf2f3c2d240f"
+   "csv_sha256": "304916b2c647c66ebe3f8b05b05c6566fc26b92384df945aed0a7d2c35736d1a"
   },
   {
    "name": "changes",
    "description": "Catalog events in the 30 days before the snapshot: editorial reviews, new bibliography records and scope exclusions.",
    "json": "https://awesomecua.com/api/v1/changes.json",
    "csv": "https://awesomecua.com/api/v1/changes.csv",
-   "count": 7504,
-   "json_bytes": 2589319,
-   "json_sha256": "cf3d5716bb519630f73180d12241ff064ef23528ea7c07077148f540d419468f",
-   "csv_bytes": 2058250,
-   "csv_sha256": "30aa1e6bc8365f6350ed2e4bb9c95545ef4bbb1f3b5ce9d5928ce0df59dc44b1"
+   "count": 7501,
+   "json_bytes": 2588310,
+   "json_sha256": "64fd01bb1f38e1587f27f424f8431401e385cce154d761508aa3182563c4d3f4",
+   "csv_bytes": 2057454,
+   "csv_sha256": "31f1c43bd4306c59ded8add6bec8b8c7e949ac6104693b9311d1fb6a0f938829"
   },
   {
    "name": "candidates",
    "description": "UNREVIEWED rows, clearly flagged: bibliography records awaiting relevance review and discovered identifiers awaiting any review. Not part of the curated catalog.",
    "json": "https://awesomecua.com/api/v1/candidates.json",
    "csv": "https://awesomecua.com/api/v1/candidates.csv",
-   "count": 1390,
-   "json_bytes": 698689,
-   "json_sha256": "c351b2f8592d9b03881cc45480a47a328ac30afcc48e0bc4722213424e0f40f9",
-   "csv_bytes": 519088,
-   "csv_sha256": "d9bf3b5f839437fa8d4e6f4ed133170d8c634343b0d81597a86d09eb0fb39202"
+   "count": 1396,
+   "json_bytes": 700364,
+   "json_sha256": "6dd472d9c6186306ee2fe4e8d8e4989599905b3ec136dbe49fb9542817ba3796",
+   "csv_bytes": 519947,
+   "csv_sha256": "3b03fc97a28247487266a882891d0038281669116ac7fe2fe01fbdb2c6459c67"
   }
  ],
  "bulk_downloads": {
