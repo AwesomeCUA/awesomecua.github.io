@@ -10,7 +10,7 @@ lang: zh-CN
 
 计算机使用模型是读取屏幕、输出目标坐标或动作的视觉语言模型和 GUI 专用检查点。条目包括模型系列和已发布的检查点，其中许多托管在 Hugging Face。
 
-> AwesomeCUA 目录收录 475 条已审核模型。每条附有完整注释、一手证据和许可证信息。快照：2026-11-11T08:21:20Z。
+> AwesomeCUA 目录收录 475 条已审核模型。每条附有完整注释、一手证据和许可证信息。快照：2026-11-11T16:15:57Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/model/ · [English](https://awesomecua.com/categories/model/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

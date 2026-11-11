@@ -206562,6 +206562,55 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.13177v1",
+    "archive": "arXiv",
+    "archive_location": "2611.13177",
+    "author": [
+      {
+        "literal": "Adrian Phoulady"
+      },
+      {
+        "literal": "Hady Ahmady Phoulady"
+      }
+    ],
+    "citation-key": "arxiv_2611_13177",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "041a49ff65ad5c934b32af214ebbefef655552a888e45bf32fbb1c0d5aecbdde",
+        "submitted_at": "2026-11-09T19:59:30Z",
+        "updated_at": "2026-11-09T19:59:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.13177v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.13177",
+      "catalog_id": "arxiv:2611.13177",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-09",
+      "identifiers": {
+        "arxiv": "2611.13177"
+      },
+      "record_updated_at": "2026-11-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.13177",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-09; Recorded arXiv version: v1; Recorded version updated: 2026-11-09T19:59:30Z.",
+    "title": "GroundCascade: Selective Second Opinions for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "DOI": "10.20944/preprints202611.0431.v1",
     "URL": "https://doi.org/10.20944/preprints202611.0431.v1",
     "author": [

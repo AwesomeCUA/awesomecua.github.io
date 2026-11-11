@@ -10,7 +10,7 @@ lang: zh-CN
 
 工具是智能体或开发者调用的实用程序，用来控制、观察或检查界面，包括 MCP 服务器、浏览器与设备控制器、屏幕解析器和录制工具。
 
-> AwesomeCUA 目录收录 1,162 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-11T08:21:20Z。
+> AwesomeCUA 目录收录 1,162 条已审核工具。每条附有完整注释、一手证据和许可证信息。快照：2026-11-11T16:15:57Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/tool/ · [English](https://awesomecua.com/categories/tool/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

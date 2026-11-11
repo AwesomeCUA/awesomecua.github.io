@@ -1,7 +1,7 @@
 {
   "site_url": "https://awesomecua.com",
   "indexable_pages": 11455,
-  "metadata_only_pages": 1189,
+  "metadata_only_pages": 1190,
   "excluded_pages": 1308,
   "pages": [
     {
@@ -22608,6 +22608,11 @@
       "path": "/resources/arxiv-2611-11971/",
       "indexable": false,
       "sha256": "a38bfcca5dd6622897e24a82a6800255efdfade16caa146ca57af9c9a40b3f8d"
+    },
+    {
+      "path": "/resources/arxiv-2611-13177/",
+      "indexable": false,
+      "sha256": "b05374f2cef3aab0d92e0046ad3e6e06a9fd587af6bee90618833ed5f66a0f4c"
     },
     {
       "path": "/resources/component-google-research-android-control/",
@@ -67275,12 +67280,12 @@
     {
       "path": "/catalog/",
       "indexable": true,
-      "sha256": "9e8469e535a186b0309c22eb935f646861fc3ba6bb139a8733f0adbc9ce9b07e"
+      "sha256": "5ccca44a67d87eed1ecf84f86e31db887affef11f601074da00ee147241f8bc4"
     },
     {
       "path": "/zh/catalog/",
       "indexable": true,
-      "sha256": "2545732a68ef56e8ee7b2232425ca753cfdf08c1dbe7a3748192662fd6fac1e4"
+      "sha256": "9c5500d289a020a58762cb28fb17fc194ed22e1742e3cdd0897a01b94910aef4"
     },
     {
       "path": "/categories/paper/",
@@ -67290,422 +67295,422 @@
     {
       "path": "/categories/survey/",
       "indexable": true,
-      "sha256": "8ad59fe5714e42a30f499d34e58d174b2b0a33ddfc87093f7c5175f603501b5a"
+      "sha256": "77b3ebbacf2898982c42316fe90da8152d24dff7283100d9bfbd538f73526f91"
     },
     {
       "path": "/zh/categories/survey/",
       "indexable": true,
-      "sha256": "0bbb559b6ab1da6a7ee4af41346ed75216135542cff7732d78f35863c2493a20"
+      "sha256": "fa717f50fc3c7e17da697faa6dfcea7983d89e939186ae559908458569562567"
     },
     {
       "path": "/categories/learning/",
       "indexable": true,
-      "sha256": "12d908f3bd05524a74d190434b76c223c4b828c9f8d5563f041108ab0cedfeea"
+      "sha256": "2aed93f77d9328807cf7caf8a6730c0b9a36ddcf2e69bf270b7009cfb4ff5d71"
     },
     {
       "path": "/zh/categories/learning/",
       "indexable": true,
-      "sha256": "827631f0251b5814645e015b7442db1745788962867b49763e538cef304a89d5"
+      "sha256": "2e073fea0c2c04bb22fc912598448ec1c6801c5a1167fc3e0e51d2bf96c4c373"
     },
     {
       "path": "/categories/model/",
       "indexable": true,
-      "sha256": "c97b2a0850ada7be5de5ee15684732f9f127ad2da7147ba7c4178ca12d099124"
+      "sha256": "30238dbd41cadd16ca38ab8fd2296f9843d70e31131b9cf673a0eacb55229b33"
     },
     {
       "path": "/zh/categories/model/",
       "indexable": true,
-      "sha256": "1fca6639f401c2e6677a2a17eda62be05284c3dd5422a12b3a79b5d8ec5cc881"
+      "sha256": "1516aea3d254718004650ffea546c54be59e6f8622f2eb4ef50f237db08f0177"
     },
     {
       "path": "/categories/model/page/2/",
       "indexable": true,
-      "sha256": "73ecfb2d9c1ccb329e9f5401f18779eae3afca540b13fe35de3832cfe2dce80d"
+      "sha256": "85d58deeb8aad5a435d55fea30efe90575bec372116168985a4f33d618271756"
     },
     {
       "path": "/zh/categories/model/page/2/",
       "indexable": true,
-      "sha256": "c31cb9ffdeec96c0a6cb152c1170dd85820acbc81ebb28af5badc7ea39ded703"
+      "sha256": "ed77ac99b96dcad65b0eec120f4af218cdaab4a89feae73b0687b44a780f086a"
     },
     {
       "path": "/categories/model/page/3/",
       "indexable": true,
-      "sha256": "b084af156b71ba92b7932bd9a42f4c3f8255562cb26e4f1de2a2f80f0e81b1b0"
+      "sha256": "26600a6cfd4dadfcf8156fe187977a6d3d2635f9ee6813358b9b25be988e1529"
     },
     {
       "path": "/zh/categories/model/page/3/",
       "indexable": true,
-      "sha256": "a6d95d10593f260ae3af3f921f67f2b956246cd034bbacfd61bfcdde1050bda6"
+      "sha256": "d07d225bd135bc0a80085ea9606c5ac96cfb3f58ddd12d617649ed79cfffe010"
     },
     {
       "path": "/categories/model/page/4/",
       "indexable": true,
-      "sha256": "ade9929746f06377e4110197341549294d1b95a3fc0ed34283604f346a12334f"
+      "sha256": "948d521dd6fe3c23630a634e10f34bea11d4b5c5c56bc1ff136efb5c8d6c7c97"
     },
     {
       "path": "/zh/categories/model/page/4/",
       "indexable": true,
-      "sha256": "f9a523dde43b93a6a8c3ffb903325d68f73fb390842605e1ca21c2722674b525"
+      "sha256": "d96f1bd6dcfc89fb4733e03d98a070fff913085b472287662b7e5e6294f3956c"
     },
     {
       "path": "/categories/model/page/5/",
       "indexable": true,
-      "sha256": "7684ad8f9aa92742d70be44e99b52bf234aa9f8482ca32f4ec7271f65051bd9c"
+      "sha256": "67d2ab1601b98c60ef51498a41b4d28b2387b955c30f349ba9081f4b7a76a19a"
     },
     {
       "path": "/zh/categories/model/page/5/",
       "indexable": true,
-      "sha256": "ac7694eafa7f20a141b3e9e678be3719496a7861dad77deaa1582592ccb5dbe8"
+      "sha256": "c023192d71b714e1b7727d22592eca3c24d9d5fda0303be71eb26dcdb19e3938"
     },
     {
       "path": "/categories/dataset/",
       "indexable": true,
-      "sha256": "ae0b377838e3fdb7af916b411eb6829baf574842ddb2cf3d31f71df4123e96c0"
+      "sha256": "479e6067cbf31aa0a18903fc6ed4c7b25b93778970cf791ae5b160e0a9eca21a"
     },
     {
       "path": "/zh/categories/dataset/",
       "indexable": true,
-      "sha256": "a3096b8e6317031aa3bc3384d049107bf7d41c55c2ccb78f776241ec22bee735"
+      "sha256": "a8aa96cd891b0b6b55b82a1d5ec26c8f52e0a5f61f0a99e96f2cee13b36bf67f"
     },
     {
       "path": "/categories/dataset/page/2/",
       "indexable": true,
-      "sha256": "c3ab6ef363528bd9162695d5dfccd043bf9a9093f4dcc60f3ba764c42cc9e485"
+      "sha256": "293ede952852394380a3bd7b8e999b0e5524d86d81612c4dc852843438c136ed"
     },
     {
       "path": "/zh/categories/dataset/page/2/",
       "indexable": true,
-      "sha256": "6a5f80f3aba7f65f835e21862ae414c32193158ab9e834488cfc20a4bcd44930"
+      "sha256": "ad6363706a2ca2c073bb6b78502a55febdbbc2fdb55f1686104357b543360e05"
     },
     {
       "path": "/categories/dataset/page/3/",
       "indexable": true,
-      "sha256": "0320b3253157390c6e669fd452bd9d6ec5352fc9712fd04d0e4acd1115eeebe4"
+      "sha256": "c5fcc8ac9843252dda7d1654a59c2963110adca07d66072d273d00c4227ef55c"
     },
     {
       "path": "/zh/categories/dataset/page/3/",
       "indexable": true,
-      "sha256": "1d3a265d5fcc821fb9e56b1a218df0fa8e0fef3e9f2d7c7f3f2d7235d3f0e285"
+      "sha256": "4ddb50008b27a84afbba5b99edbe7b6079861235257396db64b93197a8b259e1"
     },
     {
       "path": "/categories/benchmark/",
       "indexable": true,
-      "sha256": "0a42dea45c5c3e44dee72a059563f22b1910dfdca118daad1cdd5287f0f80a71"
+      "sha256": "f29e245a17fb271362a945e88f7bdc8417d6d0a942b855d2bb600a53f1fde5d5"
     },
     {
       "path": "/zh/categories/benchmark/",
       "indexable": true,
-      "sha256": "e2b36c7939dd57f9a0682d0e696ba4960bee606521c45d4df93e1de839a56f87"
+      "sha256": "bce69fbed13e4f7b00cce25d16d4923afe4f6d153a13e0cdceae39897565befe"
     },
     {
       "path": "/categories/benchmark/page/2/",
       "indexable": true,
-      "sha256": "9e50ded77ed2b6317a7106be1d53424b270481f9ad124abe439edeba65ce7f6d"
+      "sha256": "e0b7c8f0eb9fb34fbd6e11f6c9737c3755deeaeb32dc6ef97cde3445bf0a23c0"
     },
     {
       "path": "/zh/categories/benchmark/page/2/",
       "indexable": true,
-      "sha256": "1e4abecc67332fc09b39b2597f3259215b7d43238f83d134e68bc4d5c751eea9"
+      "sha256": "7f686536aeac9ddac21e2b0bfa91250684aca9208e07bfb517c2238ff8cb21a6"
     },
     {
       "path": "/categories/benchmark/page/3/",
       "indexable": true,
-      "sha256": "19542dbcca93c0e1df48c2ad50e601bc8aa3e14384fd9b6c2f115bf9425b8851"
+      "sha256": "dad138932e97090f939f2add79a0466afb4f040d41d9ce612d2918c41cbe8c56"
     },
     {
       "path": "/zh/categories/benchmark/page/3/",
       "indexable": true,
-      "sha256": "da7b2df6f8120e8b77ca901fcb734b7d75a2825a970443b11a208a8b10459971"
+      "sha256": "407633d78a873ae3097fd31b713726063d3765f069fe5b801de48e931ea5cec0"
     },
     {
       "path": "/categories/benchmark/page/4/",
       "indexable": true,
-      "sha256": "682e95790fdf256a3c96ab9be83f854158f4801abf2777a6f011c8849a30676f"
+      "sha256": "7c940c093e27bae9cb4f3547262819b4ab3dbbc8ef5b8416880f9389b9138e8d"
     },
     {
       "path": "/zh/categories/benchmark/page/4/",
       "indexable": true,
-      "sha256": "3509219bc422c27b4aba0cb8b386a187ba0a90d03283209754c315f56a20bb43"
+      "sha256": "c0ae198454a243281270e2ca4e3b27a36981c33a44cb4fcec2b0ed12b7ab6cb4"
     },
     {
       "path": "/categories/agent/",
       "indexable": true,
-      "sha256": "b14108e5832262a8fa99ab1108e3c4e680245107b336285ed89c435b4886e93d"
+      "sha256": "32d950facf3198cae42f876c1b61c342e29a81ad4fae0d14d0a18b799f07e00c"
     },
     {
       "path": "/zh/categories/agent/",
       "indexable": true,
-      "sha256": "b7d204949afbc0addbf8c025243c55349de83fa9f47c12ac37c15a50420390a9"
+      "sha256": "46a5d71953e4a7a292520d3a528911dcd2162967c452b0b696639da390a10ebf"
     },
     {
       "path": "/categories/agent/page/2/",
       "indexable": true,
-      "sha256": "ea512fea3f83a1030ad57e042d984703201d9f3050aec8433190034528d35daf"
+      "sha256": "305eae81c99b8ecf2217f59cab50968b510afa02a5bf5b4b17301e2642e10baf"
     },
     {
       "path": "/zh/categories/agent/page/2/",
       "indexable": true,
-      "sha256": "be1b8f6bb45a3a846b1b77dcace6a6f59e57495df4798cd7f7e417d024bd0972"
+      "sha256": "e112805b2e3b9f67b5aac3ea0ed923f97788c75f21856a8b2cbb31fe1b9267d5"
     },
     {
       "path": "/categories/agent/page/3/",
       "indexable": true,
-      "sha256": "8113959131dfb611dce5d31cd818a495f9f39c46062441e96cb5d905d95d8f6e"
+      "sha256": "3dd49c5a183d6d44bfe3c0dce286f4966257333e9ed10902befc03d9bab10602"
     },
     {
       "path": "/zh/categories/agent/page/3/",
       "indexable": true,
-      "sha256": "3636d1a82dfd7e3274d6f1de35c6d0293c341153d1cb020184ae327d17722ad7"
+      "sha256": "b4fb0299185b821810e03c3e77b7a14e2e04dac352029e17b134754feca56b97"
     },
     {
       "path": "/categories/agent/page/4/",
       "indexable": true,
-      "sha256": "90ecc8a0024b1a799371edd7baa5bd9b50273aba61cfafc2935ff2e92c13ee91"
+      "sha256": "dcdb696a9ac0667fd9a4df5bc40be5cafd1cfa1b972dbe0f0cac56dc6d990ccf"
     },
     {
       "path": "/zh/categories/agent/page/4/",
       "indexable": true,
-      "sha256": "a5282e506444a28cdc6661304f3881458d1a0657ca1f07ac5fec0426782a408a"
+      "sha256": "33fdd655a2c8c74ade13332f76546d32f87942b033a5e505532b191dcca1e8b3"
     },
     {
       "path": "/categories/agent/page/5/",
       "indexable": true,
-      "sha256": "0fc8bc9b46b178e92c3a4f1097a17392b8713e513af1e7e3613d2403203db056"
+      "sha256": "3320c75b1f92352ee17dc7d47028bf287ec2fe1118a24ac340899720489c7978"
     },
     {
       "path": "/zh/categories/agent/page/5/",
       "indexable": true,
-      "sha256": "57585d0b856eaa29a8b45d33020f6676e6b12458a22b1f075aaa3f5753d25e6c"
+      "sha256": "77f28588460cbd27d92e2d5a2beec3221b35849cf65090a83797c51614bf3d9d"
     },
     {
       "path": "/categories/framework/",
       "indexable": true,
-      "sha256": "994885c50e08bbbcc000278a146ea095c056292e5fd524cf44099d428475bc31"
+      "sha256": "b4ee404f86fd2362afd8c5765fe33cf7ae2b862d269006038fb40aded4b35eaa"
     },
     {
       "path": "/zh/categories/framework/",
       "indexable": true,
-      "sha256": "ec13d0136b677b855a67988ac3ca60f42b9fb7f4d2359279a3f39a7991cc02cd"
+      "sha256": "37172d14bcc38886bee2f66e301ac87666912a61b216f7644c81548630fa523e"
     },
     {
       "path": "/categories/framework/page/2/",
       "indexable": true,
-      "sha256": "b46a1fd2d1e840cba38f2f1ca6196f1c8d12e9cb6fe3b12e1b8bcad210083750"
+      "sha256": "8a8a71aadb99944b067621f345f6c73ee88daea346476b24cc5a64ece66626bd"
     },
     {
       "path": "/zh/categories/framework/page/2/",
       "indexable": true,
-      "sha256": "38e05db5230bd53138cb3251fa4ff3e7617d91585c061fb27bf22766274f3f1f"
+      "sha256": "674a7d8b43a0fe16bee629f72b01518e64dfd3bdde126244cb71bc00a16a2c22"
     },
     {
       "path": "/categories/framework/page/3/",
       "indexable": true,
-      "sha256": "a35bda01fb819e5c237d51204fc95da0219a023c62281109c0c49aad0c2dd225"
+      "sha256": "9a1e9dd2b2d7149d42e821029a83d241ea8110511d697c130eea4e5bfc65d6a9"
     },
     {
       "path": "/zh/categories/framework/page/3/",
       "indexable": true,
-      "sha256": "23e77027a9f8e67e9856397c9e7292aa543975a4628d20b7a8d703c57ad1c10b"
+      "sha256": "54c6084972428719ae38db3de16028b6ae85dd4ae9194183c9e8791eb492a8c1"
     },
     {
       "path": "/categories/framework/page/4/",
       "indexable": true,
-      "sha256": "a1a65981b5c5684541d355db47a5f7e7f6c2a6287f849240f6f7ceae90a77ab8"
+      "sha256": "331ec4b31b7a765d05466348b83296deab3fc316949cb7cbf1f584918eca85f3"
     },
     {
       "path": "/zh/categories/framework/page/4/",
       "indexable": true,
-      "sha256": "ccdb58f5c99572085bcda829e7a18c83cdddc95d7d7a527318f5c46f7274c589"
+      "sha256": "52f118ead30a1387003318b33a5269057eaae8e7cf3457b166b3ecaf22ea82f6"
     },
     {
       "path": "/categories/framework/page/5/",
       "indexable": true,
-      "sha256": "f8ffe6505a86abf3be65cdf3376eb589971242c70e702d4e296f7dafbb27c267"
+      "sha256": "6b55b99b1d25bd17b693982a90310fe5936e29d94acd563365c481d7feb3c4b8"
     },
     {
       "path": "/zh/categories/framework/page/5/",
       "indexable": true,
-      "sha256": "b2396e8549e71d3ee5f910809b2c2f485bc2369b907793366a29fa2f78eb8830"
+      "sha256": "cf077c47623c0662b9032b4f57914dd9cc8dbf7b24230317604b8842ff93b660"
     },
     {
       "path": "/categories/framework/page/6/",
       "indexable": true,
-      "sha256": "1b6089d9f1a49e7b7e14e150e5ed07dba9631e5518e318950d69bcce53bcdaa5"
+      "sha256": "cc9c9c472c8ce341c32381770ae5c44b5e94a90bdd79cb2949d7fc969a049c56"
     },
     {
       "path": "/zh/categories/framework/page/6/",
       "indexable": true,
-      "sha256": "b0eb73235493d7395b626f886cf4c4831a3ed898bfd0e00befde4dcfa5d22641"
+      "sha256": "d52b05d2dd2ac8e9dd44d59801f93326bbb8455d369addbe473cd8b171279415"
     },
     {
       "path": "/categories/framework/page/7/",
       "indexable": true,
-      "sha256": "e2898cb484d2359f4947d497559671badf1b41705a249e01cee434b5ada2a6fa"
+      "sha256": "eae9234290a085beecb771ea3602967edcd44b878507e3d511b67eeb47b55877"
     },
     {
       "path": "/zh/categories/framework/page/7/",
       "indexable": true,
-      "sha256": "50be71c41e9ce9851c3f2982870822f864ca6f9c6e4be83048abaa3e8071c8de"
+      "sha256": "27e8fb3e01e9ebe68578a4ce9236051e1bac4fa5bd46c5a6e2c13821668b1913"
     },
     {
       "path": "/categories/infrastructure/",
       "indexable": true,
-      "sha256": "bb117f150cddbeca5f98a538c02226440876fbce1c8a8d002dc7c9c290d1e4ff"
+      "sha256": "d9fe54777932f49801f483a5164af30aaf552c26b949cff57e446d08e5a2bbac"
     },
     {
       "path": "/zh/categories/infrastructure/",
       "indexable": true,
-      "sha256": "0e40a51e6c1dcf202299fd719fec39326e5e632700b4a5bd11b950334460bbf6"
+      "sha256": "ec90b3b8295df724f8fb7cb86674b4253df2e086ca7df2b5ad20b71b754aa042"
     },
     {
       "path": "/categories/infrastructure/page/2/",
       "indexable": true,
-      "sha256": "5c9b0c4ea63248434a65dac15f6d844a83871be921b33fbad4343b7c29996a7f"
+      "sha256": "abc403889edfddc6b86858f012c48a1cee889356cbc44308224c7e171ac3254c"
     },
     {
       "path": "/zh/categories/infrastructure/page/2/",
       "indexable": true,
-      "sha256": "79ea9b16077340909434b6daea58f24711ecdaa73a1d9e65bbfbecd90d2e4e85"
+      "sha256": "8bf1b041ea2e02816b72fd38e196eb5767e59aa79661b198b13cf222b4a5863b"
     },
     {
       "path": "/categories/tool/",
       "indexable": true,
-      "sha256": "8163acde5a48d933bc6fbe08c90c71dd61c7ca2a16d8e347e6449eaba00e1d1b"
+      "sha256": "0032f12ed421261cd8ce26761b821a0996c499f4ba6ab58086a9873ea61ebe43"
     },
     {
       "path": "/zh/categories/tool/",
       "indexable": true,
-      "sha256": "c3be105d5c906c058e8af9f936097fe7278a889d42774bbff29548ef87392954"
+      "sha256": "351569e0f6b4454cdb711bc3bf69cd83c18fd554d8b790decc81baca90f239be"
     },
     {
       "path": "/categories/tool/page/2/",
       "indexable": true,
-      "sha256": "cdc64b8a711b8686d4d6362872e12981aa86ab4f837d59a9df99c575d52ac65a"
+      "sha256": "d73cc390dc894d03cc92a45038b5c1d44fb6a7692f88cb53a0b899d765a3d79a"
     },
     {
       "path": "/zh/categories/tool/page/2/",
       "indexable": true,
-      "sha256": "83091dcede9f39651e8d3c8cc228c2fa73d6ec27ffba420efdf2e4431a7d5b17"
+      "sha256": "e171059202065418d7a77db4c2124f5286ee578b81d0a937dc817e6d2e9d33bc"
     },
     {
       "path": "/categories/tool/page/3/",
       "indexable": true,
-      "sha256": "88406046f234ff56c2b20267d244501d003b22ca524c5d44c6ed73e91c0a0797"
+      "sha256": "8098694dec932fca04cb51000cb28faefe4fb5236d3145ba283cf7687b672b57"
     },
     {
       "path": "/zh/categories/tool/page/3/",
       "indexable": true,
-      "sha256": "c68f09f74fd327ecaed9533fdfafd309c726a32160b1efe67bf5b2a61a76ac63"
+      "sha256": "8f6cc60cf166992f5ce8f310ba404b469eb84e1502bd94e295d6d4b6059a42ca"
     },
     {
       "path": "/categories/tool/page/4/",
       "indexable": true,
-      "sha256": "2c9044852f2e27bee7e7979a62860c44ea21c5fa2b7fdb86a4291b2c9854d90e"
+      "sha256": "96914544667b1cebf7023c723fb1935f9168fee7077a7ba714d838780118d8c0"
     },
     {
       "path": "/zh/categories/tool/page/4/",
       "indexable": true,
-      "sha256": "83b652abdf207471a4baa6fa32813326a2279adf7314a7ab5a8153f4e113c6f5"
+      "sha256": "26efe3797a1a9c9992cceaefc18f84d7209b242a3a86af850340fcc01707f879"
     },
     {
       "path": "/categories/tool/page/5/",
       "indexable": true,
-      "sha256": "94148180ba30c6adaa9ab1e36e7b9b9837b604ff4be23329c659974cca065691"
+      "sha256": "611cb47cd1e4265eb8f157e936820dfa1129edf0154048d03e7d7fc3e5564937"
     },
     {
       "path": "/zh/categories/tool/page/5/",
       "indexable": true,
-      "sha256": "e073cd20c79991abc9fa970a4cdb50fcff45f3ba88b583e003e73befc976b4e6"
+      "sha256": "e3a4e6a2b7e769bfb3c708ebd1d43f0ed32b0b7141cb3441ce76d99e24341035"
     },
     {
       "path": "/categories/tool/page/6/",
       "indexable": true,
-      "sha256": "c638a32c1d826e2f71308c177d92f045663932233314dae0fd95100086dc828c"
+      "sha256": "32827f9286a25c49adaa1c4d4c4562c8a30118e3308e68f13613aec0da1cbcaa"
     },
     {
       "path": "/zh/categories/tool/page/6/",
       "indexable": true,
-      "sha256": "141ae5fbb9bc586a3f4460ba0170be07088b71486d655c9359adc352a530d329"
+      "sha256": "0250b74b8e8533c46a54d9740c6891661eea1cb6ee7e5efe4bab92b357c7ff50"
     },
     {
       "path": "/categories/tool/page/7/",
       "indexable": true,
-      "sha256": "9ce226485c2e1ded274a9d50c719c7153246ff55aeac70c37cf6ec7ff3a39156"
+      "sha256": "29b249f15c1541ea998a19bad42410662b34ee3cd635aec55e2dd0f3a1926569"
     },
     {
       "path": "/zh/categories/tool/page/7/",
       "indexable": true,
-      "sha256": "06d87fae91cf4d29b220a9315da2e252dd8166903967ca957eb1ac968d35c351"
+      "sha256": "44f535a007ebca78d0fc9a2f02b726f67595e488dbd9b05c25b496b9074594ea"
     },
     {
       "path": "/categories/tool/page/8/",
       "indexable": true,
-      "sha256": "6eeb51d907142ba3285d3a6ec78d31148488d4175ff8bada03231959ff133be2"
+      "sha256": "c61a6bed7142acb71bc504158acda606ec837df094c1cdc7801379e575724299"
     },
     {
       "path": "/zh/categories/tool/page/8/",
       "indexable": true,
-      "sha256": "a9bb5fbfe13196f14384ba6920cead287bcdfad346d427068fbb7d426cb3e50a"
+      "sha256": "ec4d12d70df8b0801062fc6fa347989c1ee2aa3fab35d68bb2c8688da1d77bd7"
     },
     {
       "path": "/categories/tool/page/9/",
       "indexable": true,
-      "sha256": "b55b9dc9797c977237621d1b654c069688dc46761d27dbb5b0dc87470d3c5cd8"
+      "sha256": "26b003a3cf912d17e534eec2c6284d1ed5688fcc9f63980e2017043bf5401d1b"
     },
     {
       "path": "/zh/categories/tool/page/9/",
       "indexable": true,
-      "sha256": "27a11fbd6f359d61e0ac4eb52fe72920ee57e67c603810689d80b22179ba2316"
+      "sha256": "196631fde0fb41980e1ef85fbe3f6e5a050ea9723c3dd66184d59c4cec36a611"
     },
     {
       "path": "/categories/tool/page/10/",
       "indexable": true,
-      "sha256": "44a7c242215b90333789af84dc71ca1ef584d5dbfb9995796d6306f85a76eb55"
+      "sha256": "ea1fc9dab7f02f2080691b5d2795efca009c17f23648f587e57f41b9447a3f87"
     },
     {
       "path": "/zh/categories/tool/page/10/",
       "indexable": true,
-      "sha256": "c1a2c67df3c75a6776a7efde02cc40b91435d41a7904e273d37174b3f13ae635"
+      "sha256": "788fd49a08518cb5c9c228069b36a6c1af6949db26a0a92456b65b1bf051a7a4"
     },
     {
       "path": "/categories/tool/page/11/",
       "indexable": true,
-      "sha256": "55fa0e8cadf9d1353a9861f03683e052a9eadad0e4353f51d37181e5cad337e8"
+      "sha256": "834d6de96e11110a40ad1506dc53d2b443fcff6b0b3c2dc87b4ff18571fb8cf9"
     },
     {
       "path": "/zh/categories/tool/page/11/",
       "indexable": true,
-      "sha256": "7dd104fa0a27d095fa115191704c2f3ea2c85785ed461e2e249d87f136e2c7cc"
+      "sha256": "fa0b4e369cf90b11648d31b68e24193f96193c960c847f95b35d38fc814a48d8"
     },
     {
       "path": "/categories/tool/page/12/",
       "indexable": true,
-      "sha256": "f5f16d62a918562d19789be3404f12b0d3c2ad96c511240f4254b8688af8f8d2"
+      "sha256": "8f648cce9e5227f50891fe32ff78d9f8467e5f4e0ee7c20dcf70324b811c0a00"
     },
     {
       "path": "/zh/categories/tool/page/12/",
       "indexable": true,
-      "sha256": "5e9de3cb52baa887ef889dea2a1c6a95b46f3303e4d4fb89e56f31c2fea9aa2c"
+      "sha256": "769299bcd68dfaeb0078ac84e92aded38edeab7a70ff3943cc611e78e2d766f5"
     },
     {
       "path": "/categories/product/",
       "indexable": true,
-      "sha256": "d5b6facd9e95af7c27e819b13b4fef7e7490e4e02c8c0fc674fa0c949bada0c9"
+      "sha256": "9da94ab3fbc697d2d959239714383170098238a045bf5354d3f0f656abcb5ebf"
     },
     {
       "path": "/zh/categories/product/",
       "indexable": true,
-      "sha256": "32b8d47e817eb011895a983e60d49e5bfb2a556a861435a9290662eed2e3a71c"
+      "sha256": "386883e71674188791cd22172d813dd48bb93e751373b7fe8a9bbaa5a7ff61e7"
     },
     {
       "path": "/categories/company/",
       "indexable": true,
-      "sha256": "628200659591d61e2ba261b9b1d5914a3bb864e40b45a57245e681f08cd88434"
+      "sha256": "3b56b63fc2ac173c7b401c6040aa46f348e8e88c554c03dfe736a106fc0fb376"
     },
     {
       "path": "/zh/categories/company/",
       "indexable": true,
-      "sha256": "d46a74f106cb9d459be8aef411b05b76f9e8f2948f39990b2d52d53db5451e56"
+      "sha256": "3f45526ba96cf5a0c8aeb7d6ff44fb45382eeac6775fbe51adae63f424170594"
     },
     {
       "path": "/compare/benchmarks/",
@@ -70950,12 +70955,12 @@
     {
       "path": "/coverage/",
       "indexable": true,
-      "sha256": "bae5af596e55d8801a08969130880d071226b39d433e22cedf67197e9be1e4be"
+      "sha256": "1fb65ea42833a8d2fe5ec6e5640e0f83598ef7d3e6c7178f5b3a750e5463a072"
     },
     {
       "path": "/zh/coverage/",
       "indexable": true,
-      "sha256": "e51f18f1a34e85a4f12253aa466382336e3048df33ded99dbd78b0421535f176"
+      "sha256": "1ae9f623f277f942065581f6e5ef84bada3ba477942ca7769d59f2515e2a8287"
     },
     {
       "path": "/agents/",
@@ -70970,12 +70975,12 @@
     {
       "path": "/updates/",
       "indexable": true,
-      "sha256": "47196e14cffc2978c268abd4e9caffd84e633a76427f5859d694f522b3cc0429"
+      "sha256": "4de445bfa17e7d656d2da3451e53658d848a31ce7215a397436b55d0b0ccf51f"
     },
     {
       "path": "/zh/updates/",
       "indexable": true,
-      "sha256": "c25b0699fc99de4dc28b969ec4ad521c18b8823f47f748bfca6fc6ca07946344"
+      "sha256": "eaab8e930b295fbdba8e08f4ae29e86d5e62c9d9af8b6be8dfcc802a4f03b172"
     },
     {
       "path": "/badges/",
@@ -71000,12 +71005,12 @@
     {
       "path": "/data/",
       "indexable": true,
-      "sha256": "cf08a5aa281bc8d0a00ee18133f1137974985a52469f685d92be980da7faa824"
+      "sha256": "c25f5838b068047fc434c736951435d1bcedd384318ae1318c4a06146eadc78e"
     },
     {
       "path": "/zh/data/",
       "indexable": true,
-      "sha256": "686d9c596b13beb2fe6d809d047df50a414c237533fa06810aad1189892d87b8"
+      "sha256": "234cbea0d45318bf325d323c555b94051c5f57eb37c15b73117d16c9f8aa6491"
     },
     {
       "path": "/guides/what-are-computer-use-agents/",
@@ -71055,28 +71060,28 @@
     {
       "path": "/zh/",
       "indexable": true,
-      "sha256": "8b9d47bb6fc28b376531e816325da7898db740d2d99504dd5c3e1f930571c505"
+      "sha256": "e6c29a0125c6e1b9ee2e462002be1ccecac300ea30a600a4d4a07278590f1bd3"
     },
     {
       "path": "/",
       "indexable": true,
-      "sha256": "73e1aca6f684544fa65346fe0eefc25550821ac241926d0d88cfdb4e64467dcb"
+      "sha256": "d5b617d177f4dbb2495845214f8edf31259f516b6141d3c68376376efb56dbbb"
     },
     {
       "path": "/explore/",
       "indexable": false,
-      "sha256": "b05a16a63fdbe1c7c7a74b3e3398389e246b201c9506f885ab453b7232c58d07",
+      "sha256": "4eca7612c73c0650b7576e4305355c23cfdccdcf010cb10a4afdb46e7997b63b",
       "utility": true
     },
     {
       "path": "/api/",
       "indexable": true,
-      "sha256": "39153b3f395b5c54347930ae8a964377043f5e7e65c0a0e9d9da2f7ee6122972"
+      "sha256": "992eca8ec774e0c2ace16d48143f960d8b026044676ecf3b261f3cd7b91a3ef7"
     },
     {
       "path": "/zh/api/",
       "indexable": true,
-      "sha256": "dc865c3b0b3b4fdde6a337bb22c733151f90c93e5d28641b952d156857b5d43a"
+      "sha256": "6cd71bd88090e13acdc953a90d7de4e8190004200b389a6ef3a3319ea05ac2ad"
     }
   ]
 }

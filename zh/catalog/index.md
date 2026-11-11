@@ -8,7 +8,7 @@ lang: zh-CN
 
 # AwesomeCUA 资源目录
 
-> 5,347 条已审核的计算机使用智能体资源：论文与综述 1,718 条，其他资源 3,629 条。另有 1,189 条书目记录待审核。
+> 5,347 条已审核的计算机使用智能体资源：论文与综述 1,718 条，其他资源 3,629 条。另有 1,190 条书目记录待审核。
 
 HTML 页面：https://awesomecua.com/zh/catalog/ · [English](https://awesomecua.com/catalog/index.md) · 目录索引：https://awesomecua.com/llms.txt
 

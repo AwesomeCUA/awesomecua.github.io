@@ -8,9 +8,9 @@ lang: en
 
 # Coverage and verification ledger
 
-5,347 curated resources and 1,189 records with verified bibliographic metadata awaiting review.
+5,347 curated resources and 1,190 records with verified bibliographic metadata awaiting review.
 
-Evidence snapshot: 2026-11-11T08:21:20Z. Resource types can refer to different parts of the same project.
+Evidence snapshot: 2026-11-11T16:15:57Z. Resource types can refer to different parts of the same project.
 
 ## Discovery-source coverage
 
@@ -90,7 +90,7 @@ Evidence snapshot: 2026-11-11T08:21:20Z. Resource types can refer to different p
 | [AndroidWorld leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | 66 | 43 | 43 | 0 | 22 | 0 | 1 |
 | [WebArena and VisualWebArena leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | 83 | 46 | 43 | 4 | 26 | 6 | 1 |
 | [AndroidLab leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1Zv6mBfd4Ibt8mke24K6zAFrXe4AvEFaBLW3hpJqSgjw) | 6 | 5 | 5 | 0 | 1 | 0 | 0 |
-| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1117 | 1104 | 1045 | 13 | 0 | 0 | 0 |
+| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1118 | 1105 | 1045 | 13 | 0 | 0 | 0 |
 | [Hub model search "gui" (by likes)](https://huggingface.co/models?search=gui) | 30 | 27 | 27 | 0 | 2 | 1 | 0 |
 | [Hub model search "computer-use" (by likes)](https://huggingface.co/models?search=computer-use) | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
 | [Hub dataset search "gui" (by likes)](https://huggingface.co/datasets?search=gui) | 18 | 15 | 15 | 0 | 0 | 3 | 0 |
@@ -123,7 +123,7 @@ Evidence snapshot: 2026-11-11T08:21:20Z. Resource types can refer to different p
 
 ## Explicit scope exclusions
 
-1308 records are excluded after individual scope review. The original 4,162-record arXiv metadata archive is retained. [Inspect decisions and source evidence](https://awesomecua.com/downloads/exclusions.json) · [Download the raw archive](https://awesomecua.com/downloads/arxiv-archive.jsonl).
+1308 records are excluded after individual scope review. The original 4,163-record arXiv metadata archive is retained. [Inspect decisions and source evidence](https://awesomecua.com/downloads/exclusions.json) · [Download the raw archive](https://awesomecua.com/downloads/arxiv-archive.jsonl).
 
 A changed or unconfirmed exclusion returns to review.
 
