@@ -1,7 +1,7 @@
 ---
 title: "TPTU-v2: Boosting Task Planning and Tool… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-11315/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

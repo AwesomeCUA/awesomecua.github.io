@@ -1,7 +1,7 @@
 ---
 title: "Scaling Trapped Ion Quantum Computers Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1711-05875/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

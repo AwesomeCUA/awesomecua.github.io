@@ -1,7 +1,7 @@
 ---
 title: "关于 AwesomeCUA 与收录方法"
 url: https://awesomecua.com/zh/about/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: zh-CN
 ---

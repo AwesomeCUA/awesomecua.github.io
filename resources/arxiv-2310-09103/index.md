@@ -1,7 +1,7 @@
 ---
 title: "Qin's Algorithm, Continued Fractions and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-09103/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Detecting Active Attacks in Over-the-Air… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2312-08950/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

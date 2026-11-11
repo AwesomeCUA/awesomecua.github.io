@@ -1,7 +1,7 @@
 ---
 title: "E-MMDiT: Revisiting Multimodal Diffusion… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-27135/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

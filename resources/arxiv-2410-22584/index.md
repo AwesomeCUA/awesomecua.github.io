@@ -1,7 +1,7 @@
 ---
 title: "BenchAgents: Multi-Agent Systems for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-22584/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

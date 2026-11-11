@@ -1,7 +1,7 @@
 ---
 title: "Stable Code Technical Report | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-01226/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

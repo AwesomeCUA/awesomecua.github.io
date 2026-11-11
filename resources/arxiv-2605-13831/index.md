@@ -1,7 +1,7 @@
 ---
 title: "Training Long-Context Vision-Language Models… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-13831/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

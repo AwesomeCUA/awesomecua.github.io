@@ -1,7 +1,7 @@
 ---
 title: "A Multi-Dataset Benchmark for Evaluating LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-29193/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

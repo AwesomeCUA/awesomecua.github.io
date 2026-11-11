@@ -1,7 +1,7 @@
 ---
 title: "Qudit-Basis Universal Quantum Computation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1704-03431/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

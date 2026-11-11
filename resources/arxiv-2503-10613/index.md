@@ -1,7 +1,7 @@
 ---
 title: "CoSTA$\\ast$: Cost-Sensitive Toolpath Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-10613/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

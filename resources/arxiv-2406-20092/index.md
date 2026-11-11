@@ -1,7 +1,7 @@
 ---
 title: "Efficient Large Multi-modal Models via Visual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-20092/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

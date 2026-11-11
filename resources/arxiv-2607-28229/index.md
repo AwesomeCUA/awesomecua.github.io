@@ -1,7 +1,7 @@
 ---
 title: "EMBL AI Librarian: Life-Sciences Knowledge… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-28229/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

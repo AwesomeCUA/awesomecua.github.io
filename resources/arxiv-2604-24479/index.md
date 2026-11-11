@@ -1,7 +1,7 @@
 ---
 title: "Zero-to-CAD: Agentic Synthesis of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-24479/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

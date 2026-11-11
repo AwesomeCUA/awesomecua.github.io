@@ -1,7 +1,7 @@
 ---
 title: "Paper Circle: An Open-source Multi-agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-06170/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

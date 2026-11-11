@@ -1,7 +1,7 @@
 ---
 title: "Can Graph Learning Improve Planning in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-19119/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

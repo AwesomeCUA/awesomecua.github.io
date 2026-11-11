@@ -1,7 +1,7 @@
 ---
 title: "MetaGPT: Meta Programming for A Multi-Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-00352/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

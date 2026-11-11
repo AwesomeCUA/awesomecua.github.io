@@ -1,7 +1,7 @@
 ---
 title: "Benchmark Everything Everywhere All at Once | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-06462/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

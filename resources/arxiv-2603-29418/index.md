@@ -1,7 +1,7 @@
 ---
 title: "Covert Visual Prompt Injection against… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-29418/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

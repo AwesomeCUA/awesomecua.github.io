@@ -1,7 +1,7 @@
 ---
 title: "Adiabatic computing using 2-local… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1310-3562/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

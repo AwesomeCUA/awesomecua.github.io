@@ -1,7 +1,7 @@
 ---
 title: "Odyssey: Empowering Minecraft Agents with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-15325/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

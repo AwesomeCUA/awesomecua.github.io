@@ -1,7 +1,7 @@
 ---
 title: "SwimVG: Step-wise Multimodal Fusion and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-16786/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

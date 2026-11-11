@@ -1,7 +1,7 @@
 ---
 title: "Assessment of various Hamiltonian… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2210-10189/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

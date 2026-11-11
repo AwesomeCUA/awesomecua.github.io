@@ -1,7 +1,7 @@
 ---
 title: "Local Information Matters: Inference… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-23959/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

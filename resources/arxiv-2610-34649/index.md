@@ -1,7 +1,7 @@
 ---
 title: "RobotAgentBench: Towards Open-world Robot… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-34649/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

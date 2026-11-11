@@ -1,7 +1,7 @@
 ---
 title: "JailbreakBench: An Open Robustness Benchmark… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-01318/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

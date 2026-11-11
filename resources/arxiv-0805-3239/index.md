@@ -1,7 +1,7 @@
 ---
 title: "A robust system for Quantum Computation using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0805-3239/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

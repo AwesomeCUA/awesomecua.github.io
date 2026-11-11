@@ -1,7 +1,7 @@
 ---
 title: "A distributed-memory package for dense… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1503-05464/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

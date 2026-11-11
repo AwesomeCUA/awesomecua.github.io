@@ -1,7 +1,7 @@
 ---
 title: "Memory in the LLM Era: Modular Architectures… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-01707/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

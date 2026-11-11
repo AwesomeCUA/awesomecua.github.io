@@ -1,7 +1,7 @@
 ---
 title: "Low overhead quantum computation using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1808-06709/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

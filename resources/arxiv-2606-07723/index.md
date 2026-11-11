@@ -1,7 +1,7 @@
 ---
 title: "VoLo: A Physical Orchestrator for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-07723/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

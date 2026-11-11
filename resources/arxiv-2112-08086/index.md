@@ -1,7 +1,7 @@
 ---
 title: "Photonic neuromorphic computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2112-08086/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

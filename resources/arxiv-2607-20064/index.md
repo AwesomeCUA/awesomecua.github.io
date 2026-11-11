@@ -1,7 +1,7 @@
 ---
 title: "PRO-LONG: Programmatic Memory Enables… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-20064/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

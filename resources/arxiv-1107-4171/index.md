@@ -1,7 +1,7 @@
 ---
 title: "Next Generation High Speed Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1107-4171/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

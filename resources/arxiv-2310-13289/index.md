@@ -1,7 +1,7 @@
 ---
 title: "SALMONN: Towards Generic Hearing Abilities… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-13289/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

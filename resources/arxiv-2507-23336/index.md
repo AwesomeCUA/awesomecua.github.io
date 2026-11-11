@@ -1,7 +1,7 @@
 ---
 title: "DSBC : Data Science task Benchmarking with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-23336/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

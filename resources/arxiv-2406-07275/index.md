@@ -1,7 +1,7 @@
 ---
 title: "DCA-Bench: A Benchmark for Dataset Curation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-07275/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

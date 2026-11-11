@@ -1,7 +1,7 @@
 ---
 title: "Direct Preference Optimization: Your Language… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-18290/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

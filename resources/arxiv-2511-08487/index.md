@@ -1,7 +1,7 @@
 ---
 title: "How Brittle is Agent Safety? Rethinking Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-08487/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

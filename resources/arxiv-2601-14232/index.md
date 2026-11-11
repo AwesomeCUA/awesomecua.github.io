@@ -1,7 +1,7 @@
 ---
 title: "KAGE-Bench: Fast Known-Axis Visual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-14232/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

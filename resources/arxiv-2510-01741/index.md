@@ -1,7 +1,7 @@
 ---
 title: "Multi-scale friction coefficient: From… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-01741/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

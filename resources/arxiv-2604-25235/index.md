@@ -1,7 +1,7 @@
 ---
 title: "VLM Judges Can Rank but Cannot Score… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-25235/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

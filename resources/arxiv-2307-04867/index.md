@@ -1,7 +1,7 @@
 ---
 title: "Measurement Noise Mitigation in a Quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2307-04867/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

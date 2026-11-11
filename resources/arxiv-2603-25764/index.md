@@ -1,7 +1,7 @@
 ---
 title: "Confident and Wrong: Silent Semantic Failures… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-25764/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

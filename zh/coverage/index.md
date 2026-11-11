@@ -1,16 +1,16 @@
 ---
 title: "覆盖与核验台账 | AwesomeCUA"
 url: https://awesomecua.com/zh/coverage/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: zh-CN
 ---
 
 # 覆盖与核验台账
 
-5,347 条已审阅资源，另有 1,188 条书目元数据已核实、等待审阅的记录。
+5,347 条已审阅资源，另有 1,189 条书目元数据已核实、等待审阅的记录。
 
-证据快照：2026-11-10T08:20:17Z。不同资源类型可能指向同一项目的不同部分。
+证据快照：2026-11-11T08:21:20Z。不同资源类型可能指向同一项目的不同部分。
 
 ## 发现来源覆盖
 
@@ -123,7 +123,7 @@ lang: zh-CN
 
 ## 范围排除
 
-1,308 条记录经逐条范围审阅后排除。包含 4,161 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
+1,308 条记录经逐条范围审阅后排除。包含 4,162 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
 
 排除依据发生变化或尚未确认时，记录会回到审阅队列。
 

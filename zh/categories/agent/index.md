@@ -10,7 +10,7 @@ lang: zh-CN
 
 计算机使用智能体是完整的系统：观察屏幕或网页，制定计划，再通过点击、输入、浏览器命令或命令行工具完成用户任务。
 
-> AwesomeCUA 目录收录 479 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-10T08:20:17Z。
+> AwesomeCUA 目录收录 479 条已审核智能体。每条附有完整注释、一手证据和许可证信息。快照：2026-11-11T08:21:20Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/agent/ · [English](https://awesomecua.com/categories/agent/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

@@ -1,7 +1,7 @@
 ---
 title: "Smart polymer solution and thermal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-13063/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

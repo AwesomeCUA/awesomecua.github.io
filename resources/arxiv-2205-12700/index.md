@@ -1,7 +1,7 @@
 ---
 title: "BITE: Textual Backdoor Attacks with Iterative… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2205-12700/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

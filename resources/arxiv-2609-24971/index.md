@@ -1,7 +1,7 @@
 ---
 title: "DolphinBench: Mapping the Pareto Frontier of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-24971/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2611.02430",
+  "citation-key": "arxiv_2611_02430",
+  "type": "article",
+  "title": "InteractionBench: Measuring Timing, Task Accuracy, Whisper and Volume, and Grounding in Real-Time Voice Systems",
+  "URL": "https://arxiv.org/abs/2611.02430v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.02430",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.02430",
+    "identifiers": {
+      "arxiv": "2611.02430"
+    },
+    "first_published_at": "2026-11-02",
+    "record_updated_at": "2026-11-02",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "3c42c0775ea492f4c8e91832fb5916ad014e8e871b3342dce1acd05c8864a2ae",
+      "submitted_at": "2026-11-02T02:53:57Z",
+      "updated_at": "2026-11-02T02:53:57Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.02430v1"
+    }
+  },
+  "note": "First published: 2026-11-02; Recorded arXiv version: v1; Recorded version updated: 2026-11-02T02:53:57Z.",
+  "author": [
+    {
+      "literal": "Richard Yucheng He"
+    },
+    {
+      "literal": "Chen Xu"
+    },
+    {
+      "literal": "Yihang Liu"
+    },
+    {
+      "literal": "Tairan Chen"
+    },
+    {
+      "literal": "Baodong Cao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        2
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.02430",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,7 +1,7 @@
 ---
 title: "From System 1 to System 2: A Survey of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-17419/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

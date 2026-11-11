@@ -1,7 +1,7 @@
 ---
 title: "MMMU-Pro: A More Robust Multi-discipline… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-02813/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

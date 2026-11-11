@@ -1,7 +1,7 @@
 ---
 title: "Crossing the Human-Robot Embodiment Gap with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-12609/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AgentSearchBench: A Benchmark for AI Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-22436/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

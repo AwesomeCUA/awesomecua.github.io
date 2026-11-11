@@ -1,7 +1,7 @@
 ---
 title: "A True Random Number Generator for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2304-08808/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

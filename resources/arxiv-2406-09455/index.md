@@ -1,7 +1,7 @@
 ---
 title: "Pandora: Towards General World Model with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-09455/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "CogVLM: Visual Expert for Pretrained Language… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-03079/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

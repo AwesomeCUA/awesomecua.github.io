@@ -1,7 +1,7 @@
 ---
 title: "Comment on some articles regarding… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1501-05941/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

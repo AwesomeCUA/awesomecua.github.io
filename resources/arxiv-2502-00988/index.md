@@ -1,7 +1,7 @@
 ---
 title: "PlotGen: Multi-Agent LLM-based Scientific… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-00988/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

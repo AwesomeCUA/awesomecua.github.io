@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Memory Admission Control for LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-04549/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

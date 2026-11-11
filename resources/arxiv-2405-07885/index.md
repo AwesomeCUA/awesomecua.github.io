@@ -1,7 +1,7 @@
 ---
 title: "Quantum Computation Using Large Spin Qudits | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-07885/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

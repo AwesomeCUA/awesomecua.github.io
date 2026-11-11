@@ -1,7 +1,7 @@
 ---
 title: "Ordinal Probit Functional Outcome Regression… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1901-07976/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

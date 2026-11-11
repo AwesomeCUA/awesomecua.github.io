@@ -1,7 +1,7 @@
 ---
 title: "ToolChain*: Efficient Action Space Navigation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-13227/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

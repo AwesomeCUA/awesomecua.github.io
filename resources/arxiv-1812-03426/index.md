@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Referring Expression Comprehension… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1812-03426/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

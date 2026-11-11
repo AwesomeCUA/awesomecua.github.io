@@ -1,7 +1,7 @@
 ---
 title: "Private Product Computation using Quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-05993/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

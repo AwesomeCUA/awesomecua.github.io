@@ -1,7 +1,7 @@
 ---
 title: "Reducing the complexity for class group… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1810-12010/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

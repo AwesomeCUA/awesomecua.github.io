@@ -1,7 +1,7 @@
 ---
 title: "AI Agents May Always Fall for Prompt Injections | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-17634/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

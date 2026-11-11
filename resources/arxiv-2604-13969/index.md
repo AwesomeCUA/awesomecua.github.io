@@ -1,7 +1,7 @@
 ---
 title: "GEM3D CIM General Purpose Matrix Computation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-13969/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

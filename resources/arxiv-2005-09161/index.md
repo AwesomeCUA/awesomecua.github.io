@@ -1,7 +1,7 @@
 ---
 title: "Spatiotemporal Attacks for Embodied Agents | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2005-09161/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

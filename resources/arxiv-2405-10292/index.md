@@ -1,7 +1,7 @@
 ---
 title: "Fine-Tuning Large Vision-Language Models as… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-10292/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

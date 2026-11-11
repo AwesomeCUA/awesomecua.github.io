@@ -1,7 +1,7 @@
 ---
 title: "Vision-Language Models as Success Detectors | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2303-07280/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

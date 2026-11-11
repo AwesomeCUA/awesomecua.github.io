@@ -1,7 +1,7 @@
 ---
 title: "Search-o1: Agentic Search-Enhanced Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-05366/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

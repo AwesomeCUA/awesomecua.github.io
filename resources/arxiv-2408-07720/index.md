@@ -1,7 +1,7 @@
 ---
 title: "Re-Thinking Process Mining in the AI-Based… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2408-07720/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

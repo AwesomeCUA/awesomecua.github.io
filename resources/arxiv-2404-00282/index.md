@@ -1,7 +1,7 @@
 ---
 title: "Survey on Large Language Model-Enhanced… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-00282/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Cryptanalysis of Multi-Server Authenticated… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1401-4790/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

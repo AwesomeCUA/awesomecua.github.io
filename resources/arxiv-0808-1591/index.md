@@ -1,7 +1,7 @@
 ---
 title: "A scalable, high-speed measurement-based… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0808-1591/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

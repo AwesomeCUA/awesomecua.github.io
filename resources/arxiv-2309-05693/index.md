@@ -1,7 +1,7 @@
 ---
 title: "Near-Term Distributed Quantum Computation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-05693/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "An Incentive-Based Mechanism for Volunteer… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2009-11901/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

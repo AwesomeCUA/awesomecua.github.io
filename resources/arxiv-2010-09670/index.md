@@ -1,7 +1,7 @@
 ---
 title: "RobustBench: a standardized adversarial… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2010-09670/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

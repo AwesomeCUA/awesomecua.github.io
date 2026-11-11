@@ -1,7 +1,7 @@
 ---
 title: "If You Can't Use Them, Recycle Them… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-04144/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

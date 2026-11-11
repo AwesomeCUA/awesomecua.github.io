@@ -1,7 +1,7 @@
 ---
 title: "Web-Bench: A LLM Code Benchmark Based on Web… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-07473/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Explorative Imitation Learning: A Path… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-04856/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

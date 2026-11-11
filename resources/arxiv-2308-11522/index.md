@@ -1,7 +1,7 @@
 ---
 title: "ReLiCADA -- Reservoir Computing using Linear… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-11522/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

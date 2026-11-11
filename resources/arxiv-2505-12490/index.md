@@ -1,7 +1,7 @@
 ---
 title: "Improving Google A2A Protocol: Protecting… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-12490/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

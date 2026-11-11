@@ -1,7 +1,7 @@
 ---
 title: "Shifts 2.0: Extending The Dataset of Real… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2206-15407/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

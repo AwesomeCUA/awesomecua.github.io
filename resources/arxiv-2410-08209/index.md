@@ -1,7 +1,7 @@
 ---
 title: "Emergent Visual Grounding in Large Multimodal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-08209/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

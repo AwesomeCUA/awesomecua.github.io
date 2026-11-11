@@ -1,7 +1,7 @@
 ---
 title: "EVM-QuestBench: An Execution-Grounded… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-06565/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

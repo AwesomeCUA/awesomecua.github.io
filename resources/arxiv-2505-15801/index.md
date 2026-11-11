@@ -1,7 +1,7 @@
 ---
 title: "VerifyBench: Benchmarking Reference-based… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-15801/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

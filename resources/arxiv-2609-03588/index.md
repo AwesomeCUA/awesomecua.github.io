@@ -1,7 +1,7 @@
 ---
 title: "KC-Bench: A Dynamic Interactive Benchmark for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-03588/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

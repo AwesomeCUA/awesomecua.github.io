@@ -1,7 +1,7 @@
 ---
 title: "Self-Improving CAD Generation Agents with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-17448/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

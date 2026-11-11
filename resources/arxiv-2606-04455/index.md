@@ -1,7 +1,7 @@
 ---
 title: "The Meta-Agent Challenge: Are Current Agents… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-04455/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

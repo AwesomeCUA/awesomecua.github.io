@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Real-Time Voice Agents: From… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-30798/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

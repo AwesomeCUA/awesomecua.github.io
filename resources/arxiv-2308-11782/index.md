@@ -1,7 +1,7 @@
 ---
 title: "Resource Allocation in Cloud Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-11782/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Formalizing and Benchmarking Prompt Injection… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-12815/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

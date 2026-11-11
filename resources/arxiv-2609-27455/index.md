@@ -1,7 +1,7 @@
 ---
 title: "LeWAM: Latent evolving World Action Model | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-27455/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

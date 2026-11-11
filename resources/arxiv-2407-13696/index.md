@@ -1,7 +1,7 @@
 ---
 title: "Do These LLM Benchmarks Agree? Fixing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-13696/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

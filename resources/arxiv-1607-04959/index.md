@@ -1,7 +1,7 @@
 ---
 title: "Quantum computation using arrays of N polar… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1607-04959/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

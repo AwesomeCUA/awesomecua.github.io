@@ -1,7 +1,7 @@
 ---
 title: "Xmodel-2.5: 1.3B Data-Efficient Reasoning SLM | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-19496/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

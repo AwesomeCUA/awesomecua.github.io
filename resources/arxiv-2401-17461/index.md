@@ -1,7 +1,7 @@
 ---
 title: "Synthetic Dialogue Dataset Generation using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2401-17461/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

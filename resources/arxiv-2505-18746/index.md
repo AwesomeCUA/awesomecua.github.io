@@ -1,7 +1,7 @@
 ---
 title: "$C^3$-Bench: The Things Real Disturbing LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-18746/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

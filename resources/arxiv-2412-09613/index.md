@@ -1,7 +1,7 @@
 ---
 title: "PVC: Progressive Visual Token Compression for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-09613/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

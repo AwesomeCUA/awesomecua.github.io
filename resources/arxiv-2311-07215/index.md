@@ -1,7 +1,7 @@
 ---
 title: "Coffee: Boost Your Code LLMs by Fixing Bugs… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-07215/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

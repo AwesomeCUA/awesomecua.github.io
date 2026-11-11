@@ -1,7 +1,7 @@
 ---
 title: "Orion: A Unified Visual Agent for Multimodal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-14210/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

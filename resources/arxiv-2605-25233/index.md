@@ -1,7 +1,7 @@
 ---
 title: "Meta-Agent: From Task Descriptions to… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-25233/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

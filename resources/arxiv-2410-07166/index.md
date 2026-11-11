@@ -1,7 +1,7 @@
 ---
 title: "Embodied Agent Interface: Benchmarking LLMs… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-07166/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

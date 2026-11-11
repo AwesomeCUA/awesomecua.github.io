@@ -1,7 +1,7 @@
 ---
 title: "Analogue and Physical Reservoir Computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2306-09095/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

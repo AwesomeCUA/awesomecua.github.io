@@ -1,7 +1,7 @@
 ---
 title: "Componentwise accurate Brownian motion… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1605-01482/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Quantum Computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1210-6512/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

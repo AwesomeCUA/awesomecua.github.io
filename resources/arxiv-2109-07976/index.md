@@ -1,7 +1,7 @@
 ---
 title: "Scalable massively parallel computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2109-07976/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Template-Based Financial Report Generation in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-14233/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

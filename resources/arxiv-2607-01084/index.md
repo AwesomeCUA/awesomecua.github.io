@@ -1,7 +1,7 @@
 ---
 title: "Can Agents Generalize to the Open World?… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-01084/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

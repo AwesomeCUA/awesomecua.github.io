@@ -1,7 +1,7 @@
 ---
 title: "Sustainability-Aware Cloud Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1510-05182/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

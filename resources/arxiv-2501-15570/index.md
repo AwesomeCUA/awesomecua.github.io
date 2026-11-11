@@ -1,7 +1,7 @@
 ---
 title: "ARWKV: Pretrain is not what we need, an… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-15570/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

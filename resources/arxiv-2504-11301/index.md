@@ -1,7 +1,7 @@
 ---
 title: "Learning to Be A Doctor: Searching for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-11301/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

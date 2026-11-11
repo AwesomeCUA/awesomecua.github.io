@@ -1,7 +1,7 @@
 ---
 title: "DataEnvGym: Data Generation Agents in Teacher… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-06215/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

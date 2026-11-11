@@ -1,7 +1,7 @@
 ---
 title: "RewardHarness: Self-Evolving Agentic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-08703/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

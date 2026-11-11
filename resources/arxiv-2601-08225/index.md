@@ -1,7 +1,7 @@
 ---
 title: "User-Oriented Multi-Turn Dialogue Generation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-08225/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

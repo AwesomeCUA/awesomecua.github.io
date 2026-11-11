@@ -1,7 +1,7 @@
 ---
 title: "ETC: Extreme Token Compression via Task-aware… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-00543/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

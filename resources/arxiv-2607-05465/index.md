@@ -1,7 +1,7 @@
 ---
 title: "CanvasAgent: Enabling Complex Image Creation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-05465/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

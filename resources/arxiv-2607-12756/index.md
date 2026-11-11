@@ -1,7 +1,7 @@
 ---
 title: "VisCo: Leveraging Large Language Models as… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-12756/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

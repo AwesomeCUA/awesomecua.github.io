@@ -1,7 +1,7 @@
 ---
 title: "ChatEval: Towards Better LLM-based Evaluators… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-07201/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

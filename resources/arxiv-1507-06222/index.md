@@ -1,7 +1,7 @@
 ---
 title: "STICK: Spike Time Interval Computational… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1507-06222/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

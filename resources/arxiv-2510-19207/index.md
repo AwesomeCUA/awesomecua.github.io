@@ -1,7 +1,7 @@
 ---
 title: "Defending Against Prompt Injection with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-19207/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

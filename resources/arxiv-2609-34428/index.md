@@ -1,7 +1,7 @@
 ---
 title: "AgentHop: A Diagnostic Benchmark for Agentic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-34428/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

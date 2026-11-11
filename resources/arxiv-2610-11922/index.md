@@ -1,7 +1,7 @@
 ---
 title: "Project Greenhouse: Progress Toward Fully… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-11922/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

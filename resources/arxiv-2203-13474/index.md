@@ -1,7 +1,7 @@
 ---
 title: "CodeGen: An Open Large Language Model for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2203-13474/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

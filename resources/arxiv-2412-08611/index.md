@@ -1,7 +1,7 @@
 ---
 title: "Minimizing resource overhead in fusion-based… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-08611/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

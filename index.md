@@ -1,7 +1,7 @@
 ---
 title: "Awesome CUA: 5,347 computer-use agent resources"
 url: https://awesomecua.com/
-updated: 2026-11-10
+updated: 2026-11-11
 type: home
 lang: en
 ---
@@ -10,7 +10,7 @@ lang: en
 
 > Awesome CUA (Awesome Computer-Use Agents) is a source-backed catalog of computer-use, GUI, browser and mobile agent research and resources: 5,347 curated records (1,718 papers and surveys, 3,629 models, datasets, benchmarks, agents, frameworks, tools and products), each reviewed against a primary source.
 
-Snapshot 2026-11-10T08:20:17Z. Awaiting review and not counted above: 1,188 metadata-only bibliography records and 187 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
+Snapshot 2026-11-11T08:21:20Z. Awaiting review and not counted above: 1,189 metadata-only bibliography records and 187 discovered identifiers. Headline counts use curated, source-reviewed records. Metadata-only bibliography records and discovered candidates await relevance review.
 
 HTML page: https://awesomecua.com/ · 中文: https://awesomecua.com/zh/ · Agent index: https://awesomecua.com/llms.txt
 
@@ -67,7 +67,7 @@ Awesome CUA is a source-backed catalog of computer-use, GUI, browser and mobile 
 
 ### How many resources does it list?
 
-5,347 reviewed records: 1,718 papers and surveys and 3,629 other resources, including 309 benchmarks, 278 datasets, 475 models, 479 agents, 672 frameworks and 1,162 tools. 1,188 metadata-only bibliography records and 187 scan finds are listed separately.
+5,347 reviewed records: 1,718 papers and surveys and 3,629 other resources, including 309 benchmarks, 278 datasets, 475 models, 479 agents, 672 frameworks and 1,162 tools. 1,189 metadata-only bibliography records and 187 scan finds are listed separately.
 
 ### How is each record reviewed?
 

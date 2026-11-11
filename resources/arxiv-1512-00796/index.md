@@ -1,7 +1,7 @@
 ---
 title: "Designing a Million-Qubit Quantum Computer… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1512-00796/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

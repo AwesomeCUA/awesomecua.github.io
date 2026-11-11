@@ -1,7 +1,7 @@
 ---
 title: "Where to find training data for GUI agents | AwesomeCUA"
 url: https://awesomecua.com/guides/gui-agent-training-data/
-updated: 2026-11-10
+updated: 2026-11-11
 type: guide
 lang: en
 ---

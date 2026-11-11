@@ -1,7 +1,7 @@
 ---
 title: "Quantum reservoir computing using arrays of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2111-10956/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

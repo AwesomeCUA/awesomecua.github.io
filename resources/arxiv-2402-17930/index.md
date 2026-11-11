@@ -1,7 +1,7 @@
 ---
 title: "Pragmatic Instruction Following and Goal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-17930/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

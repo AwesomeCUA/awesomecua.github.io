@@ -1,7 +1,7 @@
 ---
 title: "Crypto multi tenant: an environment of secure… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1406-4681/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

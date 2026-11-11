@@ -1,7 +1,7 @@
 ---
 title: "Efficient Computation Using Spatial-Photonic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-01400/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

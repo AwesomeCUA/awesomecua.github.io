@@ -1,7 +1,7 @@
 ---
 title: "Comment on \"Electron transport through… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0912-3431/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

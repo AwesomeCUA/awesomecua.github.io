@@ -1,7 +1,7 @@
 ---
 title: "Building a fusion-based quantum computer… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-01477/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

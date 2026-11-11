@@ -1,7 +1,7 @@
 ---
 title: "In-Memory Learning: A Declarative Learning… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-02757/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---

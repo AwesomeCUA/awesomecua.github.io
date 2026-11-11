@@ -1,7 +1,7 @@
 ---
 title: "Experimental quantum mechanics in the class… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1805-06275/
-updated: 2026-11-10
+updated: 2026-11-11
 type: page
 lang: en
 ---
