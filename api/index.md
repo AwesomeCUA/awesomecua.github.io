@@ -10,7 +10,7 @@ lang: en
 
 > Versioned JSON and CSV files for agents and scripts: curated resources and papers, categories, recent changes and clearly flagged unreviewed candidates, regenerated with every catalog snapshot. No key or account is needed.
 
-Base URL: https://awesomecua.com/api/v1/ · Version 1.0.0 · Snapshot 2026-11-12T08:22:44Z · HTML page: https://awesomecua.com/api/
+Base URL: https://awesomecua.com/api/v1/ · Version 1.0.0 · Snapshot 2026-11-12T16:21:36Z · HTML page: https://awesomecua.com/api/
 
 - [API index](https://awesomecua.com/api/v1/index.json): endpoints with counts, byte sizes and SHA-256
 - [JSON Schema](https://awesomecua.com/api/v1/schema.json): validate a file against `$defs/<name>`

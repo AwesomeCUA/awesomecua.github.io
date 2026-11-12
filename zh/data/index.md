@@ -45,7 +45,7 @@ lang: zh-CN
 
 ### 来源与审核状态：8 个文件
 
-- [覆盖台账](https://awesomecua.com/downloads/coverage.json) · JSON · 1 份报告 · 491.1 KiB · SHA-256：13f4f48edcce5c88ecc89b9c15ba453a3c2104c62873fc2959d1f39f768ba518
+- [覆盖台账](https://awesomecua.com/downloads/coverage.json) · JSON · 1 份报告 · 491.1 KiB · SHA-256：f2d4c4c12e32680c12a06227ad850a18e2752a2365ca21d8b55152d5a3717c30
 - [扫描来源登记](https://awesomecua.com/downloads/sources.json) · JSON · 104 份发现文档 · 61.5 KiB · SHA-256：9d35eecbcec89f6b35e956a78c7b72bd287c0ff9862a2882584c54b017762d94
 - [范围审阅决定](https://awesomecua.com/downloads/exclusions.json) · JSON · 1,308 项决定 · 1.8 MiB · SHA-256：d41bcb9cd09d8524c7d6279d3d4ccd39915ce9174cbffd33dfffb2086118dabd
 - [原始 arXiv 采集档案](https://awesomecua.com/downloads/arxiv-archive.jsonl) · JSONL · 4,164 条 arXiv 记录 · 8.3 MiB · SHA-256：31479118c4feffb3d5ed57d72d601344dcfa554338f2822390502fe9f08a5ecd
