@@ -27,25 +27,19 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-12T00:35:33Z
-- **结束**: 2026-11-12T00:40:46Z
+- **开始**: 2026-11-12T08:18:41Z
+- **结束**: 2026-11-12T08:22:44Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 1
-- **新增候选标识**: 1
+- **新增论文元数据**: 0
+- **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43128362496)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43181852579)
 
 ### 记录的缺口
 
 - github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
-
-## 新加入书目的记录
-
-以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
-
-- [A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents](https://awesomecua.com/resources/arxiv-2611-14256/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-12T00:36:37Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 0 个新候选。
+2026-11-12T08:19:32Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
