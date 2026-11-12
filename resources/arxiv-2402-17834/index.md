@@ -1,7 +1,7 @@
 ---
 title: "Stable LM 2 1.6B Technical Report | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-17834/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

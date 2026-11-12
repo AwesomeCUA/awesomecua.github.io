@@ -1,7 +1,7 @@
 ---
 title: "COLLEAGUE.SKILL: Automated AI Skill… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-31264/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

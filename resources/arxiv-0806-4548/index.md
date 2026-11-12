@@ -1,7 +1,7 @@
 ---
 title: "Efficient and robust adiabatic universal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0806-4548/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

@@ -10,7 +10,7 @@ lang: en
 
 Frameworks are libraries and SDKs for building, running, evaluating or training computer-use agents, from browser-automation agent libraries to reinforcement-learning training stacks.
 
-> 672 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-11T16:15:57Z.
+> 672 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-12T00:36:38Z.
 
 HTML page: https://awesomecua.com/categories/framework/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 

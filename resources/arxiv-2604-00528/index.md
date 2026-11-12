@@ -1,7 +1,7 @@
 ---
 title: "Think, Act, Build: An Agentic Framework with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-00528/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

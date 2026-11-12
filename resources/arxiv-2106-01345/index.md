@@ -1,7 +1,7 @@
 ---
 title: "Decision Transformer: Reinforcement Learning… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2106-01345/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

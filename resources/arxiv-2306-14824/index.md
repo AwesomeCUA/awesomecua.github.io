@@ -1,7 +1,7 @@
 ---
 title: "Kosmos-2: Grounding Multimodal Large Language… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2306-14824/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AutoAgent: Evolving Cognition and Elastic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-09716/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

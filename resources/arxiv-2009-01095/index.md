@@ -1,7 +1,7 @@
 ---
 title: "Efficient encoding of the weighted MAX k-CUT… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2009-01095/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

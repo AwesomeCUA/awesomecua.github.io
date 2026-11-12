@@ -1,7 +1,7 @@
 ---
 title: "Efficient Reservoir Computing using Field… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2102-09049/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

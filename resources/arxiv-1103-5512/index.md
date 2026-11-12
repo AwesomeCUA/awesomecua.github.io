@@ -1,7 +1,7 @@
 ---
 title: "Macroscopic quantum computation using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1103-5512/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

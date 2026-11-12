@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---
@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,190
+- **Records awaiting review**: 1,191
 - **Discovered candidates**: 187
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,25 +27,25 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-11T16:14:58Z
-- **Finished**: 2026-11-11T16:20:37Z
+- **Started**: 2026-11-12T00:35:33Z
+- **Finished**: 2026-11-12T00:40:46Z
 - **Discovery documents fetched**: 103 / 103
 - **New paper metadata**: 1
 - **New candidate identifiers**: 1
 - **Reviewed papers at scan completion**: 1718
-- **Pending metadata changes**: 11
+- **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43056370896)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43128362496)
 
 ### Recorded gaps
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
+- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
 
 ## New to the bibliography
 
 These are newly discovered bibliographic records. Relevance and findings still require editorial review.
 
-- [GroundCascade: Selective Second Opinions for GUI Grounding](https://awesomecua.com/resources/arxiv-2611-13177/) · metadata verified
+- [A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents](https://awesomecua.com/resources/arxiv-2611-14256/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +59,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-11T16:15:57Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 0 new candidates.
+2026-11-12T00:36:37Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 

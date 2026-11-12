@@ -1,7 +1,7 @@
 ---
 title: "A scalable Controlled NOT gate for linear… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1904-02268/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

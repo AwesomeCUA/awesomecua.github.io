@@ -1,7 +1,7 @@
 ---
 title: "Jev-Mem: System-One-Controlled Agentic Memory… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-23986/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

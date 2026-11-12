@@ -1,7 +1,7 @@
 ---
 title: "RetryRoute: Retry-Aware Model Routing for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-41460/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

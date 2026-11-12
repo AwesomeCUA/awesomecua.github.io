@@ -1,7 +1,7 @@
 ---
 title: "Very Large-Scale Multi-Agent Simulation in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-17789/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

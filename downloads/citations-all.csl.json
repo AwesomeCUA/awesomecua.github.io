@@ -206611,6 +206611,52 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.14256v1",
+    "archive": "arXiv",
+    "archive_location": "2611.14256",
+    "author": [
+      {
+        "literal": "Jingjing Jiang"
+      }
+    ],
+    "citation-key": "arxiv_2611_14256",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "85663224835246d3d62adadadd6b963cb9e138f64edc731d006b22d2b4ba0f3c",
+        "submitted_at": "2026-11-10T16:04:02Z",
+        "updated_at": "2026-11-10T16:04:02Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.14256v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.14256",
+      "catalog_id": "arxiv:2611.14256",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-10",
+      "identifiers": {
+        "arxiv": "2611.14256"
+      },
+      "record_updated_at": "2026-11-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.14256",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-10; Recorded arXiv version: v1; Recorded version updated: 2026-11-10T16:04:02Z.",
+    "title": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "DOI": "10.20944/preprints202611.0431.v1",
     "URL": "https://doi.org/10.20944/preprints202611.0431.v1",
     "author": [

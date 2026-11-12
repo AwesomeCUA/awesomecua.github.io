@@ -1,7 +1,7 @@
 ---
 title: "Xmodel-VLM: A Simple Baseline for Multimodal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-09215/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

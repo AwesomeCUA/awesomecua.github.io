@@ -1,7 +1,7 @@
 ---
 title: "Connecting the Dots: Training-Free Visual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-19516/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

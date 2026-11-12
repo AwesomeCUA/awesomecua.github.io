@@ -1,7 +1,7 @@
 ---
 title: "Reservoir Computing Using Complex Systems | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2212-11141/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

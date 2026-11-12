@@ -1,7 +1,7 @@
 ---
 title: "Diagnostic tools of approximate Bayesian… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1301-3166/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

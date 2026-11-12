@@ -1,7 +1,7 @@
 ---
 title: "MIMESIS: Learning User Simulators as Training… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-09484/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

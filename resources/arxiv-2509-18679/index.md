@@ -1,7 +1,7 @@
 ---
 title: "Lightweight Targeted Estimation of Layout… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-18679/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

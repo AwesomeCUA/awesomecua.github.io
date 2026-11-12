@@ -1,7 +1,7 @@
 ---
 title: "HybridFlow: A Flexible and Efficient RLHF… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-19256/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

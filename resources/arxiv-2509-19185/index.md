@@ -1,7 +1,7 @@
 ---
 title: "An Empirical Study of Testing Practices in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-19185/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

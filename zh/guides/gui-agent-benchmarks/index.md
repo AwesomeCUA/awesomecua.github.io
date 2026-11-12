@@ -1,7 +1,7 @@
 ---
 title: "如何选择 GUI 智能体评测基准 | AwesomeCUA"
 url: https://awesomecua.com/zh/guides/gui-agent-benchmarks/
-updated: 2026-11-11
+updated: 2026-11-12
 type: guide
 lang: zh-CN
 ---

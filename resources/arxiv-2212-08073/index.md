@@ -1,7 +1,7 @@
 ---
 title: "Constitutional AI: Harmlessness from AI… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2212-08073/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

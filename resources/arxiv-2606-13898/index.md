@@ -1,7 +1,7 @@
 ---
 title: "HiLo-Token: Input-Adaptive High-Low Frequency… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-13898/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "PARCEL: Pool-Anchored Resampling with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-30126/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

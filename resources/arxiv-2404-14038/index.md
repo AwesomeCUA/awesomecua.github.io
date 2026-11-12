@@ -1,7 +1,7 @@
 ---
 title: "Accurate Chemical Reaction Modeling on Noisy… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-14038/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

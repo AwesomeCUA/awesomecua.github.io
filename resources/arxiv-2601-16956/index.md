@@ -1,7 +1,7 @@
 ---
 title: "DataStates-LLM: Scalable Checkpointing for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-16956/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "DUET-VLM: Dual stage Unified Efficient Token… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-18846/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

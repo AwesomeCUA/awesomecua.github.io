@@ -1,7 +1,7 @@
 ---
 title: "What are computer-use agents? | AwesomeCUA"
 url: https://awesomecua.com/guides/what-are-computer-use-agents/
-updated: 2026-11-11
+updated: 2026-11-12
 type: guide
 lang: en
 ---

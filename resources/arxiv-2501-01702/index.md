@@ -1,7 +1,7 @@
 ---
 title: "AgentRefine: Enhancing Agent Generalization… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-01702/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

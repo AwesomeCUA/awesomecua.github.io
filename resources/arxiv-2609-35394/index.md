@@ -1,7 +1,7 @@
 ---
 title: "Rethinking Visual Token Compression for Video… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-35394/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

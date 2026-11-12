@@ -1,7 +1,7 @@
 ---
 title: "Proposing and solving olympiad geometry with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-10673/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

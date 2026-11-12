@@ -1,7 +1,7 @@
 ---
 title: "Creative Agents: Empowering Agents with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2312-02519/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

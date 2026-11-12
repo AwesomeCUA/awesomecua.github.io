@@ -1,7 +1,7 @@
 ---
 title: "Learning to Model the World with Language | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-01399/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

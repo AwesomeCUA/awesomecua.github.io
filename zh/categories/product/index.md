@@ -10,7 +10,7 @@ lang: zh-CN
 
 产品是由发布方运营的商业化或托管式计算机使用服务，例如浏览器智能体、桌面助手和智能体 API。
 
-> AwesomeCUA 目录收录 75 条已审核产品。每条附有完整注释、一手证据和许可证信息。快照：2026-11-11T16:15:57Z。
+> AwesomeCUA 目录收录 75 条已审核产品。每条附有完整注释、一手证据和许可证信息。快照：2026-11-12T00:36:38Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/product/ · [English](https://awesomecua.com/categories/product/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

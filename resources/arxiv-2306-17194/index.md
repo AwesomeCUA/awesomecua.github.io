@@ -1,7 +1,7 @@
 ---
 title: "On the Exploitability of Instruction Tuning | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2306-17194/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

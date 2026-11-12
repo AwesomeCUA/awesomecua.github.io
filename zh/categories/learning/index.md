@@ -10,7 +10,7 @@ lang: zh-CN
 
 学习资源是用于构建和研究计算机使用智能体的课程、实践手册、教程、示例合集和精选列表。
 
-> AwesomeCUA 目录收录 38 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-11T16:15:57Z。
+> AwesomeCUA 目录收录 38 条已审核学习资源。每条附有完整注释、一手证据和许可证信息。快照：2026-11-12T00:36:38Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/learning/ · [English](https://awesomecua.com/categories/learning/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

@@ -1,7 +1,7 @@
 ---
 title: "Toward a standardized methodology for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2006-05846/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

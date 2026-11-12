@@ -1,7 +1,7 @@
 ---
 title: "LLMC+: Benchmarking Vision-Language Model… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2508-09981/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

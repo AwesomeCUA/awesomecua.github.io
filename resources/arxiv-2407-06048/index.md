@@ -1,7 +1,7 @@
 ---
 title: "Vision-Braille: A Curriculum Learning Toolkit… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-06048/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

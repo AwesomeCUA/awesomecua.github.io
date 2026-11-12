@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning Enhanced LLMs: A Survey | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-10400/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

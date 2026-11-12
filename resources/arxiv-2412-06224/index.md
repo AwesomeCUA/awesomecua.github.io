@@ -1,7 +1,7 @@
 ---
 title: "Uni-NaVid: A Video-based… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-06224/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

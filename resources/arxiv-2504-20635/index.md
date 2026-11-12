@@ -1,7 +1,7 @@
 ---
 title: "Bridging the Generalisation Gap: Synthetic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-20635/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

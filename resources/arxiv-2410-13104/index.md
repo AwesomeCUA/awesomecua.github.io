@@ -1,7 +1,7 @@
 ---
 title: "Cost-Effective Realization of n-Bit Toffoli… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-13104/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

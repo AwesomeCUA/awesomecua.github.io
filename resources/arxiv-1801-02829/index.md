@@ -1,7 +1,7 @@
 ---
 title: "Improvement of accuracy of the spectral… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1801-02829/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

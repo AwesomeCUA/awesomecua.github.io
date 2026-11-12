@@ -1,7 +1,7 @@
 ---
 title: "A generic trust framework for large-scale… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1103-0086/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

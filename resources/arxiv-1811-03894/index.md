@@ -1,7 +1,7 @@
 ---
 title: "Near Zero-Energy Computation Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1811-03894/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "How to choose a GUI-agent benchmark | AwesomeCUA"
 url: https://awesomecua.com/guides/gui-agent-benchmarks/
-updated: 2026-11-11
+updated: 2026-11-12
 type: guide
 lang: en
 ---

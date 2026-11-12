@@ -1,7 +1,7 @@
 ---
 title: "From Self-Evolving Synthetic Data to… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-22607/
-updated: 2026-11-11
+updated: 2026-11-12
 type: page
 lang: en
 ---
