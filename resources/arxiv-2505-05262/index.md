@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Cooperative Multi-Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-05262/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

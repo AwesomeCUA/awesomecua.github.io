@@ -1,7 +1,7 @@
 ---
 title: "VerifyBench: A Systematic Benchmark for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-09884/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

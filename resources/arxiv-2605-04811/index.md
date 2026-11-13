@@ -1,7 +1,7 @@
 ---
 title: "Tree-based Credit Assignment for Multi-Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-04811/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

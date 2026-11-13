@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,191
+- **Records awaiting review**: 1,198
 - **Discovered candidates**: 187
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,19 +27,31 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-13T00:34:52Z
-- **Finished**: 2026-11-13T00:40:34Z
+- **Started**: 2026-11-13T08:18:07Z
+- **Finished**: 2026-11-13T08:23:46Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 0
-- **New candidate identifiers**: 0
+- **New paper metadata**: 7
+- **New candidate identifiers**: 7
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43338135765)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43392115488)
 
 ### Recorded gaps
 
 - github_candidates: Stage exceeded 220 seconds; last verified records retained.
+
+## New to the bibliography
+
+These are newly discovered bibliographic records. Relevance and findings still require editorial review.
+
+- [ReTTT: Reflection-Driven Test-Time Training via Experience-Based Parametric Memory](https://awesomecua.com/resources/arxiv-2610-23942/) · metadata verified
+- [Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis](https://awesomecua.com/resources/arxiv-2611-08219/) · metadata verified
+- [Rational Use of Time for Social Coordination in Humans and AI](https://awesomecua.com/resources/arxiv-2611-14766/) · metadata verified
+- [GuardianAgentFlow: Multi-Agent Coordination for Web Privacy Protection](https://awesomecua.com/resources/arxiv-2611-15097/) · metadata verified
+- [Trained on What Screen Readers Cannot Read: Accessibility Debt in the GUI Corpora Behind Computer-Use Agents](https://awesomecua.com/resources/arxiv-2611-16107/) · metadata verified
+- [MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection](https://awesomecua.com/resources/arxiv-2611-16693/) · metadata verified
+- [Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents](https://awesomecua.com/resources/arxiv-2611-16744/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +65,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-13T00:36:06Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 0 new candidates.
+2026-11-13T08:19:17Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 2 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -73,8 +85,8 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Visual grounding<br>screenshot visual grounding click localization agent | 80 | 0 | 80 | success |
 | Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | success |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | success |
-| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | success |
-| Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | success |
+| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 1 | 80 | success |
+| Agent memory<br>GUI agent episodic memory self reflection | 80 | 1 | 80 | success |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | success |

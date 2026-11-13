@@ -1,7 +1,7 @@
 ---
 title: "Visual Adversarial Examples Jailbreak Aligned… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2306-13213/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

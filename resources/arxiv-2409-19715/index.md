@@ -1,7 +1,7 @@
 ---
 title: "Coffee-Gym: An Environment for Evaluating and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-19715/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

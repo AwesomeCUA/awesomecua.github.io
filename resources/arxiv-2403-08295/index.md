@@ -1,7 +1,7 @@
 ---
 title: "Gemma: Open Models Based on Gemini Research… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-08295/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

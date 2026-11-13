@@ -1,7 +1,7 @@
 ---
 title: "Say It My Way: Exploring Control in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-16930/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

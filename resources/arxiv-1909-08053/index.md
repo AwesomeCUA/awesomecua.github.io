@@ -1,7 +1,7 @@
 ---
 title: "Megatron-LM: Training Multi-Billion Parameter… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1909-08053/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

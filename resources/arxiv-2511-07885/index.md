@@ -1,7 +1,7 @@
 ---
 title: "Intelligence per Watt: Measuring Intelligence… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-07885/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Agent-RLVR: Training Software Engineering… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-11425/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

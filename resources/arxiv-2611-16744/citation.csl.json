@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2611.16744",
+  "citation-key": "arxiv_2611_16744",
+  "type": "article",
+  "title": "Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents",
+  "URL": "https://arxiv.org/abs/2611.16744v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.16744",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.16744",
+    "identifiers": {
+      "arxiv": "2611.16744"
+    },
+    "first_published_at": "2026-11-12",
+    "record_updated_at": "2026-11-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a7bc49abf45ca2fe860b3dc212d84b5335834a131be98417284e096ef196172c",
+      "submitted_at": "2026-11-12T12:57:11Z",
+      "updated_at": "2026-11-12T12:57:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.16744v1"
+    }
+  },
+  "note": "First published: 2026-11-12; Recorded arXiv version: v1; Recorded version updated: 2026-11-12T12:57:11Z.",
+  "author": [
+    {
+      "literal": "Yiheng Zhao"
+    },
+    {
+      "literal": "Runze Ji"
+    },
+    {
+      "literal": "Chenyu Yi"
+    },
+    {
+      "literal": "Yi Yu"
+    },
+    {
+      "literal": "Bingquan Shen"
+    },
+    {
+      "literal": "Alex Kot"
+    },
+    {
+      "literal": "Xudong Jiang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.16744",
+  "genre": "preprint",
+  "version": "1"
+}

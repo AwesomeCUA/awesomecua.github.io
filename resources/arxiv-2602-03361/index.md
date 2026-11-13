@@ -1,7 +1,7 @@
 ---
 title: "Z3D: Zero-Shot 3D Visual Grounding from Images | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-03361/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

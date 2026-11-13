@@ -1,7 +1,7 @@
 ---
 title: "AgentSPEX: An Agent SPecification and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-13346/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

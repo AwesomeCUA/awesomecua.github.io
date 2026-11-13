@@ -1,7 +1,7 @@
 ---
 title: "Data Formulator: AI-powered Concept-driven… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-10094/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

@@ -10,7 +10,7 @@ lang: zh-CN
 
 计算机使用数据集提供截图、指令、界面元素标注和动作轨迹，用于训练或评估 GUI 智能体。监督信号从单个元素的定位到完整的多步轨迹不等。
 
-> AwesomeCUA 目录收录 278 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-12T00:36:38Z。
+> AwesomeCUA 目录收录 278 条已审核数据集。每条附有完整注释、一手证据和许可证信息。快照：2026-11-13T08:19:17Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/dataset/ · [English](https://awesomecua.com/categories/dataset/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

@@ -1,7 +1,7 @@
 ---
 title: "Identifying the Risks of LM Agents with an… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-15817/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

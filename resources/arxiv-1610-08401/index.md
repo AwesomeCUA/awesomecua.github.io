@@ -1,7 +1,7 @@
 ---
 title: "Universal adversarial perturbations | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1610-08401/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

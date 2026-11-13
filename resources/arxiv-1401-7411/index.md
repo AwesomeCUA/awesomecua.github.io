@@ -1,7 +1,7 @@
 ---
 title: "Design and Construction of a Brain-Like… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1401-7411/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

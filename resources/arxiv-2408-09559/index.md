@@ -1,7 +1,7 @@
 ---
 title: "HiAgent: Hierarchical Working Memory… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2408-09559/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

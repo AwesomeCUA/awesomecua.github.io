@@ -1,7 +1,7 @@
 ---
 title: "Grounding Task Assistance with Multimodal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-01578/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

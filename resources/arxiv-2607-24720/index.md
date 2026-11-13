@@ -1,7 +1,7 @@
 ---
 title: "The Physics of Multi-Turn Long-Horizon… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-24720/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

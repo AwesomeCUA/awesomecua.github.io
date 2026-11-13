@@ -1,7 +1,7 @@
 ---
 title: "Quantum Many-Body Effects in X-Ray Spectra… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1801-04073/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

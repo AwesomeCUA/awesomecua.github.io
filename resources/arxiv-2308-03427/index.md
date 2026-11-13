@@ -1,7 +1,7 @@
 ---
 title: "TPTU: Large Language Model-based AI Agents… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-03427/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

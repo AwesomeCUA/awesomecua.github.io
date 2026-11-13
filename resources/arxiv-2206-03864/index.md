@@ -1,7 +1,7 @@
 ---
 title: "Discontinuity Computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2206-03864/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

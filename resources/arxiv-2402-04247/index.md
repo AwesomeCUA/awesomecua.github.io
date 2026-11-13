@@ -1,7 +1,7 @@
 ---
 title: "Risks of AI Scientists: Prioritizing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-04247/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Behavioral Cloning from Observation | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1805-01954/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Compression Tells Intelligence: Visual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-20742/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

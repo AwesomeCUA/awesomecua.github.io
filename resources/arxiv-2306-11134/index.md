@@ -1,7 +1,7 @@
 ---
 title: "OpenP5: An Open-Source Platform for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2306-11134/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

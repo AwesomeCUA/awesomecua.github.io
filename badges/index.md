@@ -1,7 +1,7 @@
 ---
 title: "Featured resource badges | AwesomeCUA"
 url: https://awesomecua.com/badges/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

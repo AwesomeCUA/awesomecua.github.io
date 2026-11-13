@@ -1,7 +1,7 @@
 ---
 title: "Motion Tracks: A Unified Representation for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-06994/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

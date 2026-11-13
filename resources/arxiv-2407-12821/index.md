@@ -1,7 +1,7 @@
 ---
 title: "AutoFlow: Automated Workflow Generation for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-12821/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

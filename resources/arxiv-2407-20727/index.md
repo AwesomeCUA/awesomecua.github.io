@@ -1,7 +1,7 @@
 ---
 title: "SceneTeller: Language-to-3D Scene Generation | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-20727/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

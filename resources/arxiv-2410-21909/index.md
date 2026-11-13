@@ -1,7 +1,7 @@
 ---
 title: "SceneGenAgent: Precise Industrial Scene… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-21909/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

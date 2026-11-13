@@ -1,7 +1,7 @@
 ---
 title: "Simulating Non-Markovian Quantum Dynamics on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2411-12049/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

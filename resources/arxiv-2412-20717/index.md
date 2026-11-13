@@ -1,7 +1,7 @@
 ---
 title: "Closing Speed Computation using Stereo Camera… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-20717/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

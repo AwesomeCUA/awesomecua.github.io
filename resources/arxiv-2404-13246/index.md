@@ -1,7 +1,7 @@
 ---
 title: "ISQA: Informative Factuality Feedback for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-13246/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

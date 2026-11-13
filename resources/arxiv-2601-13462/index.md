@@ -1,7 +1,7 @@
 ---
 title: "SpatialBench-UC: Uncertainty-Aware Evaluation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-13462/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

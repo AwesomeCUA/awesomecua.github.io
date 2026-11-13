@@ -1,7 +1,7 @@
 ---
 title: "Discourse Coherence, Reference Grounding and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2007-04428/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

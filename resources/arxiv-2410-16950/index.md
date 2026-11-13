@@ -1,7 +1,7 @@
 ---
 title: "Breaking ReAct Agents: Foot-in-the-Door… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-16950/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

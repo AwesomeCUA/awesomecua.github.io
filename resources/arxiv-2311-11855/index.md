@@ -1,7 +1,7 @@
 ---
 title: "Evil Geniuses: Delving into the Safety of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-11855/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

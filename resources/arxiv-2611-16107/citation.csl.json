@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2611.16107",
+  "citation-key": "arxiv_2611_16107",
+  "type": "article",
+  "title": "Trained on What Screen Readers Cannot Read: Accessibility Debt in the GUI Corpora Behind Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2611.16107v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.16107",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.16107",
+    "identifiers": {
+      "arxiv": "2611.16107"
+    },
+    "first_published_at": "2026-11-11",
+    "record_updated_at": "2026-11-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "552af591ae7b364c5bec2f30f9816e0e73bb6cc3e8e0dcbaba417301c8fa1737",
+      "submitted_at": "2026-11-11T23:28:30Z",
+      "updated_at": "2026-11-11T23:28:30Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.16107v1"
+    }
+  },
+  "note": "First published: 2026-11-11; Recorded arXiv version: v1; Recorded version updated: 2026-11-11T23:28:30Z.",
+  "author": [
+    {
+      "literal": "Obada Kraishan"
+    },
+    {
+      "literal": "Kulsawasd Jitkajornwanich"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.16107",
+  "genre": "preprint",
+  "version": "1"
+}

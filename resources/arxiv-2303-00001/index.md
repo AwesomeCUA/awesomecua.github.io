@@ -1,7 +1,7 @@
 ---
 title: "Reward Design with Language Models | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2303-00001/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

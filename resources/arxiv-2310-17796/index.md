@@ -1,7 +1,7 @@
 ---
 title: "ControlLLM: Augment Language Models with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-17796/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

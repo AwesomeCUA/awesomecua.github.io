@@ -1,7 +1,7 @@
 ---
 title: "Distributed Quantum Faithful Simulation and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2101-02360/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "On the Use of Agentic Coding Manifests: An… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-14744/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

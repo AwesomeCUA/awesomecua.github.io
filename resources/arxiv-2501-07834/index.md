@@ -1,7 +1,7 @@
 ---
 title: "Flow: Modularized Agentic Workflow Automation | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-07834/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

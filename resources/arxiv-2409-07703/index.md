@@ -1,7 +1,7 @@
 ---
 title: "DSBench: How Far Are Data Science Agents from… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-07703/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

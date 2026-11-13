@@ -1,7 +1,7 @@
 ---
 title: "Toolformer: Language Models Can Teach… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2302-04761/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

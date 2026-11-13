@@ -194510,6 +194510,64 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.23942v1",
+    "archive": "arXiv",
+    "archive_location": "2610.23942",
+    "author": [
+      {
+        "literal": "Kangcong Li"
+      },
+      {
+        "literal": "Hangfan Zhang"
+      },
+      {
+        "literal": "Shuyue Hu"
+      },
+      {
+        "literal": "Shengji Tang"
+      },
+      {
+        "literal": "Tao Chen"
+      }
+    ],
+    "citation-key": "arxiv_2610_23942",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "27db794afb79d8f23bafc703989d21a5058c93bcf3bf132fa74ee3405d5fc199",
+        "submitted_at": "2026-10-08T04:47:31Z",
+        "updated_at": "2026-10-08T04:47:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.23942v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.23942",
+      "catalog_id": "arxiv:2610.23942",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-08",
+      "identifiers": {
+        "arxiv": "2610.23942"
+      },
+      "record_updated_at": "2026-10-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.23942",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T04:47:31Z.",
+    "title": "ReTTT: Reflection-Driven Test-Time Training via Experience-Based Parametric Memory",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.23986v1",
     "archive": "arXiv",
     "archive_location": "2610.23986",
@@ -206154,6 +206212,73 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.08219v1",
+    "archive": "arXiv",
+    "archive_location": "2611.08219",
+    "author": [
+      {
+        "literal": "Teng Pan"
+      },
+      {
+        "literal": "Zixuan Wang"
+      },
+      {
+        "literal": "Yuchen Yan"
+      },
+      {
+        "literal": "Qifei Wu"
+      },
+      {
+        "literal": "Yao Chen"
+      },
+      {
+        "literal": "Yingqi Qu"
+      },
+      {
+        "literal": "Ruiqing Zhang"
+      },
+      {
+        "literal": "Yongliang Shen"
+      }
+    ],
+    "citation-key": "arxiv_2611_08219",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9a98841c04bdc48b93d6768fd0b2b022f708a93e3baa0dc032d2828775b085ab",
+        "submitted_at": "2026-11-05T16:08:05Z",
+        "updated_at": "2026-11-05T16:08:05Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.08219v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.08219",
+      "catalog_id": "arxiv:2611.08219",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-05",
+      "identifiers": {
+        "arxiv": "2611.08219"
+      },
+      "record_updated_at": "2026-11-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.08219",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-05; Recorded arXiv version: v1; Recorded version updated: 2026-11-05T16:08:05Z.",
+    "title": "Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2611.08449v1",
     "archive": "arXiv",
     "archive_location": "2611.08449",
@@ -206653,6 +206778,302 @@
     },
     "note": "First published: 2026-11-10; Recorded arXiv version: v1; Recorded version updated: 2026-11-10T16:04:02Z.",
     "title": "A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.14766v1",
+    "archive": "arXiv",
+    "archive_location": "2611.14766",
+    "author": [
+      {
+        "literal": "Xiulin Yang"
+      },
+      {
+        "literal": "Sirisha Gudavalli"
+      },
+      {
+        "literal": "Jennifer Hu"
+      }
+    ],
+    "citation-key": "arxiv_2611_14766",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1427675d8333d79b8d59ba620a06575ad50901b93800aee09ec5d4a84dda41e9",
+        "submitted_at": "2026-11-10T21:44:35Z",
+        "updated_at": "2026-11-10T21:44:35Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.14766v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.14766",
+      "catalog_id": "arxiv:2611.14766",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-10",
+      "identifiers": {
+        "arxiv": "2611.14766"
+      },
+      "record_updated_at": "2026-11-10"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.14766",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          10
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-10; Recorded arXiv version: v1; Recorded version updated: 2026-11-10T21:44:35Z.",
+    "title": "Rational Use of Time for Social Coordination in Humans and AI",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.15097v1",
+    "archive": "arXiv",
+    "archive_location": "2611.15097",
+    "author": [
+      {
+        "literal": "Ruiyi Yang"
+      },
+      {
+        "literal": "Gayathri Lihinikaduarachchi"
+      },
+      {
+        "literal": "Rahat Masood"
+      },
+      {
+        "literal": "Flora D. Salim"
+      },
+      {
+        "literal": "Salil S. Kanhere"
+      }
+    ],
+    "citation-key": "arxiv_2611_15097",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "d313f5d2089d48b4961548799adcf6154c364a6913bdeabc336297cb54bcd089",
+        "submitted_at": "2026-11-11T06:19:31Z",
+        "updated_at": "2026-11-11T06:19:31Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.15097v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.15097",
+      "catalog_id": "arxiv:2611.15097",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-11",
+      "identifiers": {
+        "arxiv": "2611.15097"
+      },
+      "record_updated_at": "2026-11-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.15097",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-11; Recorded arXiv version: v1; Recorded version updated: 2026-11-11T06:19:31Z.",
+    "title": "GuardianAgentFlow: Multi-Agent Coordination for Web Privacy Protection",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.16107v1",
+    "archive": "arXiv",
+    "archive_location": "2611.16107",
+    "author": [
+      {
+        "literal": "Obada Kraishan"
+      },
+      {
+        "literal": "Kulsawasd Jitkajornwanich"
+      }
+    ],
+    "citation-key": "arxiv_2611_16107",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "552af591ae7b364c5bec2f30f9816e0e73bb6cc3e8e0dcbaba417301c8fa1737",
+        "submitted_at": "2026-11-11T23:28:30Z",
+        "updated_at": "2026-11-11T23:28:30Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.16107v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.16107",
+      "catalog_id": "arxiv:2611.16107",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-11",
+      "identifiers": {
+        "arxiv": "2611.16107"
+      },
+      "record_updated_at": "2026-11-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.16107",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-11; Recorded arXiv version: v1; Recorded version updated: 2026-11-11T23:28:30Z.",
+    "title": "Trained on What Screen Readers Cannot Read: Accessibility Debt in the GUI Corpora Behind Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.16693v1",
+    "archive": "arXiv",
+    "archive_location": "2611.16693",
+    "author": [
+      {
+        "literal": "Yingbin Jin"
+      },
+      {
+        "literal": "Ji'an Wang"
+      },
+      {
+        "literal": "HaoYang Chai"
+      },
+      {
+        "literal": "Hanjun Luo"
+      },
+      {
+        "literal": "Li Hu"
+      },
+      {
+        "literal": "Xinfeng Li"
+      },
+      {
+        "literal": "Huadi Zheng"
+      },
+      {
+        "literal": "PeiZhao Hu"
+      },
+      {
+        "literal": "Qingqing Ye"
+      },
+      {
+        "literal": "Haibo Hu"
+      }
+    ],
+    "citation-key": "arxiv_2611_16693",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b23d6a43e1b8967bc118eeec1274b8886bf09e13262792bd22a9ad3e316497b0",
+        "submitted_at": "2026-11-12T12:08:43Z",
+        "updated_at": "2026-11-12T12:08:43Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.16693v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.16693",
+      "catalog_id": "arxiv:2611.16693",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-12",
+      "identifiers": {
+        "arxiv": "2611.16693"
+      },
+      "record_updated_at": "2026-11-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.16693",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-12; Recorded arXiv version: v1; Recorded version updated: 2026-11-12T12:08:43Z.",
+    "title": "MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.16744v1",
+    "archive": "arXiv",
+    "archive_location": "2611.16744",
+    "author": [
+      {
+        "literal": "Yiheng Zhao"
+      },
+      {
+        "literal": "Runze Ji"
+      },
+      {
+        "literal": "Chenyu Yi"
+      },
+      {
+        "literal": "Yi Yu"
+      },
+      {
+        "literal": "Bingquan Shen"
+      },
+      {
+        "literal": "Alex Kot"
+      },
+      {
+        "literal": "Xudong Jiang"
+      }
+    ],
+    "citation-key": "arxiv_2611_16744",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a7bc49abf45ca2fe860b3dc212d84b5335834a131be98417284e096ef196172c",
+        "submitted_at": "2026-11-12T12:57:11Z",
+        "updated_at": "2026-11-12T12:57:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.16744v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.16744",
+      "catalog_id": "arxiv:2611.16744",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-12",
+      "identifiers": {
+        "arxiv": "2611.16744"
+      },
+      "record_updated_at": "2026-11-12"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.16744",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          12
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-12; Recorded arXiv version: v1; Recorded version updated: 2026-11-12T12:57:11Z.",
+    "title": "Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents",
     "type": "article",
     "version": "1"
   },

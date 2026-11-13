@@ -1,7 +1,7 @@
 ---
 title: "BALROG: Benchmarking Agentic LLM and VLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2411-13543/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

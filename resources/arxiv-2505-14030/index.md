@@ -1,7 +1,7 @@
 ---
 title: "AutoBio: A Simulation and Benchmark for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-14030/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

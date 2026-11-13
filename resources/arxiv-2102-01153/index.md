@@ -1,7 +1,7 @@
 ---
 title: "DisQ: A Novel Quantum Output State… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2102-01153/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

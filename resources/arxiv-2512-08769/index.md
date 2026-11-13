@@ -1,7 +1,7 @@
 ---
 title: "A Practical Guide for Designing, Developing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-08769/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

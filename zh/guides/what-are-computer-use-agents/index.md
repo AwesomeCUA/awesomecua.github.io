@@ -1,7 +1,7 @@
 ---
 title: "什么是计算机使用智能体？ | AwesomeCUA"
 url: https://awesomecua.com/zh/guides/what-are-computer-use-agents/
-updated: 2026-11-12
+updated: 2026-11-13
 type: guide
 lang: zh-CN
 ---

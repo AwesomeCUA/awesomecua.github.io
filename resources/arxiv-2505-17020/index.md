@@ -1,7 +1,7 @@
 ---
 title: "CrossLMM: Decoupling Long Video Sequences… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-17020/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

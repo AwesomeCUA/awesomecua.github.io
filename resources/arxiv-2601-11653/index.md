@@ -1,7 +1,7 @@
 ---
 title: "AI Agents Need Memory Control Over More Context | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-11653/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

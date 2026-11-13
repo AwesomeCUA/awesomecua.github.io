@@ -1,7 +1,7 @@
 ---
 title: "iVISPAR -- An Interactive Visual-Spatial… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-03214/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

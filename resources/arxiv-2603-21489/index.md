@@ -1,7 +1,7 @@
 ---
 title: "Effective Strategies for Asynchronous… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-21489/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

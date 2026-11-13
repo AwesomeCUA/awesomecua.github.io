@@ -1,7 +1,7 @@
 ---
 title: "Private delegated computations using strong… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2205-03322/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

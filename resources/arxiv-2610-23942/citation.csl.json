@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2610.23942",
+  "citation-key": "arxiv_2610_23942",
+  "type": "article",
+  "title": "ReTTT: Reflection-Driven Test-Time Training via Experience-Based Parametric Memory",
+  "URL": "https://arxiv.org/abs/2610.23942v1",
+  "custom": {
+    "catalog_id": "arxiv:2610.23942",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2610.23942",
+    "identifiers": {
+      "arxiv": "2610.23942"
+    },
+    "first_published_at": "2026-10-08",
+    "record_updated_at": "2026-10-08",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "27db794afb79d8f23bafc703989d21a5058c93bcf3bf132fa74ee3405d5fc199",
+      "submitted_at": "2026-10-08T04:47:31Z",
+      "updated_at": "2026-10-08T04:47:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2610.23942v1"
+    }
+  },
+  "note": "First published: 2026-10-08; Recorded arXiv version: v1; Recorded version updated: 2026-10-08T04:47:31Z.",
+  "author": [
+    {
+      "literal": "Kangcong Li"
+    },
+    {
+      "literal": "Hangfan Zhang"
+    },
+    {
+      "literal": "Shuyue Hu"
+    },
+    {
+      "literal": "Shengji Tang"
+    },
+    {
+      "literal": "Tao Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        10,
+        8
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2610.23942",
+  "genre": "preprint",
+  "version": "1"
+}

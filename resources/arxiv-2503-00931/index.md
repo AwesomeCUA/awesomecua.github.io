@@ -1,7 +1,7 @@
 ---
 title: "Personalizing the meshed SPL/NAC Brain Atlas… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-00931/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Agentic Robot: A Brain-Inspired Framework for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-23450/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

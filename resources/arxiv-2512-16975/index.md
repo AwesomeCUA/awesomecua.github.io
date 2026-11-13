@@ -1,7 +1,7 @@
 ---
 title: "InfoTok: Adaptive Discrete Video Tokenizer… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-16975/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

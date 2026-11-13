@@ -1,7 +1,7 @@
 ---
 title: "FPC-VLA: A Vision-Language-Action Framework… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-04018/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

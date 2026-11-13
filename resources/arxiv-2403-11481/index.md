@@ -1,7 +1,7 @@
 ---
 title: "VideoAgent: A Memory-augmented Multimodal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-11481/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

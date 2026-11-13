@@ -1,7 +1,7 @@
 ---
 title: "Agent Memory: Characterization and System… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-06448/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

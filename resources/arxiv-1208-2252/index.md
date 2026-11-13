@@ -1,7 +1,7 @@
 ---
 title: "Towards All Optical, Universal Quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1208-2252/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

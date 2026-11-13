@@ -1,7 +1,7 @@
 ---
 title: "DI-Bench: Systematically Generating In-Domain… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-05776/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

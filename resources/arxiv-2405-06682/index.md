@@ -1,7 +1,7 @@
 ---
 title: "Self-Reflection in LLM Agents: Effects on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-06682/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

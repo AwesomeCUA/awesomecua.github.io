@@ -1,7 +1,7 @@
 ---
 title: "Probabilistic Subgoal Representations for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-16707/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

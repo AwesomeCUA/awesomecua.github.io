@@ -1,7 +1,7 @@
 ---
 title: "Current state of LLM Risks and AI Guardrails | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-12934/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Can Coding Agents Solve Repository-Level… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-09268/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

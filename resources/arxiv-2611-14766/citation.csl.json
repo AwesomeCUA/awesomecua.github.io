@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2611.14766",
+  "citation-key": "arxiv_2611_14766",
+  "type": "article",
+  "title": "Rational Use of Time for Social Coordination in Humans and AI",
+  "URL": "https://arxiv.org/abs/2611.14766v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.14766",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.14766",
+    "identifiers": {
+      "arxiv": "2611.14766"
+    },
+    "first_published_at": "2026-11-10",
+    "record_updated_at": "2026-11-10",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "1427675d8333d79b8d59ba620a06575ad50901b93800aee09ec5d4a84dda41e9",
+      "submitted_at": "2026-11-10T21:44:35Z",
+      "updated_at": "2026-11-10T21:44:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.14766v1"
+    }
+  },
+  "note": "First published: 2026-11-10; Recorded arXiv version: v1; Recorded version updated: 2026-11-10T21:44:35Z.",
+  "author": [
+    {
+      "literal": "Xiulin Yang"
+    },
+    {
+      "literal": "Sirisha Gudavalli"
+    },
+    {
+      "literal": "Jennifer Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        10
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.14766",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,7 +1,7 @@
 ---
 title: "Affective computing using speech and eye… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1805-06652/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

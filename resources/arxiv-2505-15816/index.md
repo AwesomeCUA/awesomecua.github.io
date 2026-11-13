@@ -1,7 +1,7 @@
 ---
 title: "Streamline Without Sacrifice -- Squeeze out… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-15816/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

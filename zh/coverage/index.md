@@ -1,16 +1,16 @@
 ---
 title: "覆盖与核验台账 | AwesomeCUA"
 url: https://awesomecua.com/zh/coverage/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: zh-CN
 ---
 
 # 覆盖与核验台账
 
-5,347 条已审阅资源，另有 1,191 条书目元数据已核实、等待审阅的记录。
+5,347 条已审阅资源，另有 1,198 条书目元数据已核实、等待审阅的记录。
 
-证据快照：2026-11-12T00:36:38Z。不同资源类型可能指向同一项目的不同部分。
+证据快照：2026-11-13T08:19:17Z。不同资源类型可能指向同一项目的不同部分。
 
 ## 发现来源覆盖
 
@@ -90,7 +90,7 @@ lang: zh-CN
 | [AndroidWorld leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | 66 | 43 | 43 | 0 | 22 | 0 | 1 |
 | [WebArena and VisualWebArena leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | 83 | 46 | 43 | 4 | 26 | 6 | 1 |
 | [AndroidLab leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1Zv6mBfd4Ibt8mke24K6zAFrXe4AvEFaBLW3hpJqSgjw) | 6 | 5 | 5 | 0 | 1 | 0 | 0 |
-| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1118 | 1105 | 1045 | 13 | 0 | 0 | 0 |
+| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1123 | 1110 | 1045 | 13 | 0 | 0 | 0 |
 | [Hub model search "gui" (by likes)](https://huggingface.co/models?search=gui) | 30 | 27 | 27 | 0 | 2 | 1 | 0 |
 | [Hub model search "computer-use" (by likes)](https://huggingface.co/models?search=computer-use) | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
 | [Hub dataset search "gui" (by likes)](https://huggingface.co/datasets?search=gui) | 18 | 15 | 15 | 0 | 0 | 3 | 0 |
@@ -123,7 +123,7 @@ lang: zh-CN
 
 ## 范围排除
 
-1,308 条记录经逐条范围审阅后排除。包含 4,164 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
+1,308 条记录经逐条范围审阅后排除。包含 4,171 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
 
 排除依据发生变化或尚未确认时，记录会回到审阅队列。
 

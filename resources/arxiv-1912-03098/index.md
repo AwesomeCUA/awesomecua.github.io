@@ -1,7 +1,7 @@
 ---
 title: "Connecting Vision and Language with Localized… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1912-03098/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

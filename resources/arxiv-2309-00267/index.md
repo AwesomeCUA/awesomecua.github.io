@@ -1,7 +1,7 @@
 ---
 title: "RLAIF vs. RLHF: Scaling Reinforcement… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-00267/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

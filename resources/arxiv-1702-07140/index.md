@@ -1,7 +1,7 @@
 ---
 title: "An Efficient Framework for Information… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1702-07140/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

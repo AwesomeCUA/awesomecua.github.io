@@ -1,7 +1,7 @@
 ---
 title: "World Action Agent: Harnessing VLMs for Robot… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-29964/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Apple Intelligence Foundation Language Models | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-21075/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

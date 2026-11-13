@@ -1,7 +1,7 @@
 ---
 title: "Automating Formal Verification with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-30914/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

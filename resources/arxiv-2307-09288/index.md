@@ -1,7 +1,7 @@
 ---
 title: "Llama 2: Open Foundation and Fine-Tuned Chat… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2307-09288/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

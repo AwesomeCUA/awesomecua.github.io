@@ -1,7 +1,7 @@
 ---
 title: "Can LLM Agents Be CFOs? Benchmarking… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-23638/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

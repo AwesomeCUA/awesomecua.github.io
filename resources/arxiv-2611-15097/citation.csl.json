@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2611.15097",
+  "citation-key": "arxiv_2611_15097",
+  "type": "article",
+  "title": "GuardianAgentFlow: Multi-Agent Coordination for Web Privacy Protection",
+  "URL": "https://arxiv.org/abs/2611.15097v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.15097",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.15097",
+    "identifiers": {
+      "arxiv": "2611.15097"
+    },
+    "first_published_at": "2026-11-11",
+    "record_updated_at": "2026-11-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "d313f5d2089d48b4961548799adcf6154c364a6913bdeabc336297cb54bcd089",
+      "submitted_at": "2026-11-11T06:19:31Z",
+      "updated_at": "2026-11-11T06:19:31Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.15097v1"
+    }
+  },
+  "note": "First published: 2026-11-11; Recorded arXiv version: v1; Recorded version updated: 2026-11-11T06:19:31Z.",
+  "author": [
+    {
+      "literal": "Ruiyi Yang"
+    },
+    {
+      "literal": "Gayathri Lihinikaduarachchi"
+    },
+    {
+      "literal": "Rahat Masood"
+    },
+    {
+      "literal": "Flora D. Salim"
+    },
+    {
+      "literal": "Salil S. Kanhere"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        11
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.15097",
+  "genre": "preprint",
+  "version": "1"
+}

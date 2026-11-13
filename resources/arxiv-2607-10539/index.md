@@ -1,7 +1,7 @@
 ---
 title: "AI YOU Town: Make Friends and Money with Your… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-10539/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

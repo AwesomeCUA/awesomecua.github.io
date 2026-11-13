@@ -1,7 +1,7 @@
 ---
 title: "High-throughput screening of 2D materials… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-16208/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Superconducting Neuromorphic Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1812-07503/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

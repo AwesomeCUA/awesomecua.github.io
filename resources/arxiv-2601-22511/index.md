@@ -1,7 +1,7 @@
 ---
 title: "Mock Worlds, Real Skills: Building Small… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-22511/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

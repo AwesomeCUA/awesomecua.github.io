@@ -1,7 +1,7 @@
 ---
 title: "PromptSleuth: Detecting Prompt Injection via… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2508-20890/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

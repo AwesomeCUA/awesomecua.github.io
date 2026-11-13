@@ -1,7 +1,7 @@
 ---
 title: "Robotouille: An Asynchronous Planning… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-05227/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

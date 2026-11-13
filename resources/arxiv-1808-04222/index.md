@@ -1,7 +1,7 @@
 ---
 title: "Addressing Client Needs for Cloud Computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1808-04222/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

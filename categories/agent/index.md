@@ -10,7 +10,7 @@ lang: en
 
 Computer-use agents are complete systems that observe a screen or web page, plan, and act through clicks, typing, browser commands or shell tools to finish a user task.
 
-> 479 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-12T00:36:38Z.
+> 479 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-13T08:19:17Z.
 
 HTML page: https://awesomecua.com/categories/agent/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 

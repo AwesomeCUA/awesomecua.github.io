@@ -1,7 +1,7 @@
 ---
 title: "RoboChemist: Long-Horizon and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-08820/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

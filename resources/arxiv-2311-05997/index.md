@@ -1,7 +1,7 @@
 ---
 title: "JARVIS-1: Open-World Multi-task Agents with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-05997/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

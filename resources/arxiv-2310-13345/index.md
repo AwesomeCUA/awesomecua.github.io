@@ -1,7 +1,7 @@
 ---
 title: "An LLM can Fool Itself: A Prompt-Based… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-13345/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

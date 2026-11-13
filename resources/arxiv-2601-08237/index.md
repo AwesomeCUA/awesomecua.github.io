@@ -1,7 +1,7 @@
 ---
 title: "The End of Reward Engineering: How LLMs Are… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-08237/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

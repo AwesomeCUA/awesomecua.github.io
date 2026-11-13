@@ -1,7 +1,7 @@
 ---
 title: "An Early Categorization of Prompt Injection… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-00898/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

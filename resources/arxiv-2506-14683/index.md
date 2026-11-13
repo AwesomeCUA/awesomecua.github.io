@@ -1,7 +1,7 @@
 ---
 title: "Unified Software Engineering Agent as AI… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-14683/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

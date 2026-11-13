@@ -1,0 +1,73 @@
+{
+  "id": "arxiv:2611.16693",
+  "citation-key": "arxiv_2611_16693",
+  "type": "article",
+  "title": "MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection",
+  "URL": "https://arxiv.org/abs/2611.16693v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.16693",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.16693",
+    "identifiers": {
+      "arxiv": "2611.16693"
+    },
+    "first_published_at": "2026-11-12",
+    "record_updated_at": "2026-11-12",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "b23d6a43e1b8967bc118eeec1274b8886bf09e13262792bd22a9ad3e316497b0",
+      "submitted_at": "2026-11-12T12:08:43Z",
+      "updated_at": "2026-11-12T12:08:43Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.16693v1"
+    }
+  },
+  "note": "First published: 2026-11-12; Recorded arXiv version: v1; Recorded version updated: 2026-11-12T12:08:43Z.",
+  "author": [
+    {
+      "literal": "Yingbin Jin"
+    },
+    {
+      "literal": "Ji'an Wang"
+    },
+    {
+      "literal": "HaoYang Chai"
+    },
+    {
+      "literal": "Hanjun Luo"
+    },
+    {
+      "literal": "Li Hu"
+    },
+    {
+      "literal": "Xinfeng Li"
+    },
+    {
+      "literal": "Huadi Zheng"
+    },
+    {
+      "literal": "PeiZhao Hu"
+    },
+    {
+      "literal": "Qingqing Ye"
+    },
+    {
+      "literal": "Haibo Hu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        12
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.16693",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -1,7 +1,7 @@
 ---
 title: "Dynamic-VLM: Simple Dynamic Visual Token… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-09530/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

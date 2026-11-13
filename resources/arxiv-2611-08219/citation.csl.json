@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2611.08219",
+  "citation-key": "arxiv_2611_08219",
+  "type": "article",
+  "title": "Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis",
+  "URL": "https://arxiv.org/abs/2611.08219v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.08219",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.08219",
+    "identifiers": {
+      "arxiv": "2611.08219"
+    },
+    "first_published_at": "2026-11-05",
+    "record_updated_at": "2026-11-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "9a98841c04bdc48b93d6768fd0b2b022f708a93e3baa0dc032d2828775b085ab",
+      "submitted_at": "2026-11-05T16:08:05Z",
+      "updated_at": "2026-11-05T16:08:05Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.08219v1"
+    }
+  },
+  "note": "First published: 2026-11-05; Recorded arXiv version: v1; Recorded version updated: 2026-11-05T16:08:05Z.",
+  "author": [
+    {
+      "literal": "Teng Pan"
+    },
+    {
+      "literal": "Zixuan Wang"
+    },
+    {
+      "literal": "Yuchen Yan"
+    },
+    {
+      "literal": "Qifei Wu"
+    },
+    {
+      "literal": "Yao Chen"
+    },
+    {
+      "literal": "Yingqi Qu"
+    },
+    {
+      "literal": "Ruiqing Zhang"
+    },
+    {
+      "literal": "Yongliang Shen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.08219",
+  "genre": "preprint",
+  "version": "1"
+}

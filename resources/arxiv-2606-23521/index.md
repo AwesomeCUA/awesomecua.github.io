@@ -1,7 +1,7 @@
 ---
 title: "Concordia: JIT-Compiled Persistent-Kernel… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-23521/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

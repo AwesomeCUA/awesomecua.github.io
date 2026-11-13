@@ -10,7 +10,7 @@ lang: zh-CN
 
 基础设施指计算机使用智能体在其中运行或借以操作的浏览器、沙箱、虚拟机、模拟器和输入自动化库。
 
-> AwesomeCUA 目录收录 122 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-12T00:36:38Z。
+> AwesomeCUA 目录收录 122 条已审核基础设施。每条附有完整注释、一手证据和许可证信息。快照：2026-11-13T08:19:17Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/infrastructure/ · [English](https://awesomecua.com/categories/infrastructure/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

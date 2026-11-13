@@ -1,7 +1,7 @@
 ---
 title: "SceneCode: Executable World Programs for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-19587/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

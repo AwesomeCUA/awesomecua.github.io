@@ -1,7 +1,7 @@
 ---
 title: "Dataset: Copy-based Reuse in Open Source… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2312-09370/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "ElasticTok: Adaptive Tokenization for Image… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-08368/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

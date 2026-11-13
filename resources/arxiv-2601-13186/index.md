@@ -1,7 +1,7 @@
 ---
 title: "Prompt Injection Mitigation with Agentic AI… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-13186/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

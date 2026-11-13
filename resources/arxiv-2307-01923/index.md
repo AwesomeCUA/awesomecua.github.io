@@ -1,7 +1,7 @@
 ---
 title: "An Algorithm for Persistent Homology… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2307-01923/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

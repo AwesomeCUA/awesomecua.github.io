@@ -1,7 +1,7 @@
 ---
 title: "Privacy-Preserving Multimedia Mobile Cloud… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-01710/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

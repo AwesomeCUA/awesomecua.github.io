@@ -1,7 +1,7 @@
 ---
 title: "MambaIC: State Space Models for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-12461/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

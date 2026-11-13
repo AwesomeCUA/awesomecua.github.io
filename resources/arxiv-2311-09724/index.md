@@ -1,7 +1,7 @@
 ---
 title: "OVM, Outcome-supervised Value Models for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-09724/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

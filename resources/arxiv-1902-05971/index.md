@@ -1,7 +1,7 @@
 ---
 title: "Synthesizing Number Generators for Stochastic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1902-05971/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

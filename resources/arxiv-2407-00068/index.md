@@ -1,7 +1,7 @@
 ---
 title: "D&A: Resource Optimisation in Personalised… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-00068/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

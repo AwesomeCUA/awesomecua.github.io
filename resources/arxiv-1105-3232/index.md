@@ -1,7 +1,7 @@
 ---
 title: "Unleashing the Power of Mobile Cloud… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1105-3232/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

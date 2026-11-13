@@ -1,7 +1,7 @@
 ---
 title: "Mobile UMI: Cross-View Diffusion Policy with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-20894/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---

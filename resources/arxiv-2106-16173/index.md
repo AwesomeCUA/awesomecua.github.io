@@ -1,7 +1,7 @@
 ---
 title: "String Comparison on a Quantum Computer Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2106-16173/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: en
 ---
