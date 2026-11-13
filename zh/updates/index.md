@@ -1,7 +1,7 @@
 ---
 title: "扫描动态 | AwesomeCUA"
 url: https://awesomecua.com/zh/updates/
-updated: 2026-11-12
+updated: 2026-11-13
 type: page
 lang: zh-CN
 ---
@@ -27,19 +27,19 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-12T16:16:11Z
-- **结束**: 2026-11-12T16:21:36Z
+- **开始**: 2026-11-13T00:34:52Z
+- **结束**: 2026-11-13T00:40:34Z
 - **成功获取的发现文档**: 103 / 103
 - **新增论文元数据**: 0
 - **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43256744053)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43338135765)
 
 ### 记录的缺口
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+- github_candidates: Stage exceeded 220 seconds; last verified records retained.
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-12T16:17:27Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 0 个新候选。
+2026-11-13T00:36:06Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 

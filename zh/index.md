@@ -79,7 +79,7 @@ Awesome CUA 是面向计算机使用、GUI、网页和移动端智能体的资�
 
 ### 目录多久更新一次？
 
-发现扫描每 8 小时运行一次，最近一次在 2026-11-12。详见[更新记录](https://awesomecua.com/updates/)。
+发现扫描每 8 小时运行一次，最近一次在 2026-11-13。详见[更新记录](https://awesomecua.com/updates/)。
 
 ### 如何引用 Awesome CUA？
 

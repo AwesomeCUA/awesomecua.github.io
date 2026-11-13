@@ -28,7 +28,7 @@ Clone the GitHub repository, download [catalog.jsonl](https://awesomecua.com/dow
 
 ### How often is it updated?
 
-Discovery scans run every 8 hours; the latest was 2026-11-12. See [catalog updates](https://awesomecua.com/updates/).
+Discovery scans run every 8 hours; the latest was 2026-11-13. See [catalog updates](https://awesomecua.com/updates/).
 
 ### How do I cite Awesome CUA?
 
