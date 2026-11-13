@@ -10,7 +10,7 @@ lang: zh-CN
 
 供智能体与脚本读取的版本化 JSON 和 CSV 文件：已审阅的资源与论文、分类、近期变更，以及明确标注的待审候选。随每个目录快照重新生成，无需密钥或账号。
 
-基础 URL：`https://awesomecua.com/api/v1/` · 版本 1.0.0 · 快照 2026-11-13T08:23:46Z · [API 索引](https://awesomecua.com/api/v1/index.json) · [JSON Schema](https://awesomecua.com/api/v1/schema.json) · [Markdown 版本（英文）](https://awesomecua.com/api/index.md)
+基础 URL：`https://awesomecua.com/api/v1/` · 版本 1.0.0 · 快照 2026-11-13T16:20:10Z · [API 索引](https://awesomecua.com/api/v1/index.json) · [JSON Schema](https://awesomecua.com/api/v1/schema.json) · [Markdown 版本（英文）](https://awesomecua.com/api/index.md)
 
 ## 端点
 

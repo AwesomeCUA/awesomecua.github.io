@@ -27,31 +27,19 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-13T08:18:07Z
-- **结束**: 2026-11-13T08:23:46Z
+- **开始**: 2026-11-13T16:15:22Z
+- **结束**: 2026-11-13T16:20:10Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 7
-- **新增候选标识**: 7
+- **新增论文元数据**: 0
+- **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43392115488)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43460766237)
 
 ### 记录的缺口
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
-
-## 新加入书目的记录
-
-以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
-
-- [ReTTT: Reflection-Driven Test-Time Training via Experience-Based Parametric Memory](https://awesomecua.com/resources/arxiv-2610-23942/) · 元数据已核实
-- [Agent-R$^2$: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis](https://awesomecua.com/resources/arxiv-2611-08219/) · 元数据已核实
-- [Rational Use of Time for Social Coordination in Humans and AI](https://awesomecua.com/resources/arxiv-2611-14766/) · 元数据已核实
-- [GuardianAgentFlow: Multi-Agent Coordination for Web Privacy Protection](https://awesomecua.com/resources/arxiv-2611-15097/) · 元数据已核实
-- [Trained on What Screen Readers Cannot Read: Accessibility Debt in the GUI Corpora Behind Computer-Use Agents](https://awesomecua.com/resources/arxiv-2611-16107/) · 元数据已核实
-- [MobileProbe: Adaptive Security Evaluation of Mobile Agents via Trajectory-Aware Injection](https://awesomecua.com/resources/arxiv-2611-16693/) · 元数据已核实
-- [Scale-Induced Semantic Shift in Visual Prompt Injection Against VLMs and Web Agents](https://awesomecua.com/resources/arxiv-2611-16744/) · 元数据已核实
+- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -65,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-13T08:19:17Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 2 个新候选。
+2026-11-13T16:16:11Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -85,8 +73,8 @@ lang: zh-CN
 | Visual grounding<br>screenshot visual grounding click localization agent | 80 | 0 | 80 | 成功 |
 | Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | 成功 |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | 成功 |
-| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 1 | 80 | 成功 |
-| Agent memory<br>GUI agent episodic memory self reflection | 80 | 1 | 80 | 成功 |
+| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | 成功 |
+| Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | 成功 |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | 成功 |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | 成功 |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | 成功 |
