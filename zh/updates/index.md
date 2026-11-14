@@ -19,7 +19,7 @@ lang: zh-CN
 
 - **已审阅的论文与综述**: 1,718
 - **其他已审阅资源**: 3,629
-- **待审阅记录**: 1,201
+- **待审阅记录**: 1,202
 - **已发现候选**: 190
 
 这些数量包含下方扫描之后完成的编辑工作。[浏览已审阅的研究](https://awesomecua.com/zh/papers/)或[查看完整覆盖情况](https://awesomecua.com/zh/coverage/)。
@@ -27,27 +27,25 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-14T00:32:58Z
-- **结束**: 2026-11-14T00:37:47Z
+- **开始**: 2026-11-14T08:15:56Z
+- **结束**: 2026-11-14T08:21:55Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 3
-- **新增候选标识**: 6
+- **新增论文元数据**: 1
+- **新增候选标识**: 1
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43534870038)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43574950181)
 
 ### 记录的缺口
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+- github_candidates: Stage exceeded 220 seconds; last verified records retained.
 
 ## 新加入书目的记录
 
 以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
 
-- [HG-DAgger: Interactive Imitation Learning with Human Experts](https://awesomecua.com/resources/arxiv-1810-02890/) · 元数据已核实
-- [Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification](https://awesomecua.com/resources/arxiv-2510-06135/) · 元数据已核实
-- [MemCredit: From Relevance to Utility for Decision-Time Memory in Long-Horizon Web Agents](https://awesomecua.com/resources/arxiv-2611-15600/) · 元数据已核实
+- [StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents](https://awesomecua.com/resources/arxiv-2608-18050/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -61,7 +59,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-14T00:33:47Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 2 个新候选。
+2026-11-14T08:17:17Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 1 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -84,11 +82,11 @@ lang: zh-CN
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | 成功 |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | 成功 |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | 成功 |
-| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 1 | 80 | 成功 |
+| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | 成功 |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | 成功 |
-| Task verification<br>computer use benchmark task evaluation state verification | 80 | 1 | 80 | 成功 |
+| Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | 成功 |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | 成功 |
-| Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 0 | 80 | 成功 |
+| Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 1 | 80 | 成功 |
 | Assistive interfaces<br>accessibility assistive multimodal GUI agents | 80 | 0 | 80 | 成功 |
 | Robustness<br>GUI agent robustness dynamic interfaces distribution shift | 80 | 0 | 80 | 成功 |
 | Adversarial security<br>browser GUI agent prompt injection adversarial security | 80 | 0 | 80 | 成功 |

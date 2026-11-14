@@ -10,7 +10,7 @@ lang: en
 
 Publishers are the labs and companies behind catalogued resources. Each publisher entry collects the products, models, frameworks and tools that name it as their publisher.
 
-> 19 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-14T00:33:48Z.
+> 19 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-14T08:17:18Z.
 
 HTML page: https://awesomecua.com/categories/company/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 

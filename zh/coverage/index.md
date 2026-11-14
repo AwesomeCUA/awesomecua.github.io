@@ -8,9 +8,9 @@ lang: zh-CN
 
 # 覆盖与核验台账
 
-5,347 条已审阅资源，另有 1,201 条书目元数据已核实、等待审阅的记录。
+5,347 条已审阅资源，另有 1,202 条书目元数据已核实、等待审阅的记录。
 
-证据快照：2026-11-14T00:33:48Z。不同资源类型可能指向同一项目的不同部分。
+证据快照：2026-11-14T08:17:18Z。不同资源类型可能指向同一项目的不同部分。
 
 ## 发现来源覆盖
 
@@ -30,7 +30,7 @@ lang: zh-CN
 | [Yearly GUI Agents](https://github.com/qy0720/awesome-yearly-gui-agents) | 193 | 152 | 152 | 2 | 37 | 1 | 1 |
 | [OSU-NLP-Group/GUI-Agents-Paper-List / README.md](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) | 545 | 492 | 470 | 0 | 53 | 0 | 0 |
 | [opendilab/awesome-ui-agents / README.md](https://github.com/opendilab/awesome-ui-agents) | 144 | 97 | 95 | 6 | 32 | 9 | 0 |
-| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 258 | 255 | 236 | 0 | 2 | 0 | 1 |
+| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 259 | 256 | 236 | 0 | 2 | 0 | 1 |
 | [ZJU-REAL/Awesome-GUI-Agents / ICLR2026/Paperlist.md](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 7 | 0 | 0 | 0 | 7 | 0 | 0 |
 | [dqtz5vpvj9-create/awesome-mobile-gui-agents / README.md](https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents) | 40 | 32 | 32 | 0 | 8 | 0 | 0 |
 | [PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents) | 247 | 212 | 211 | 9 | 26 | 0 | 0 |
@@ -117,13 +117,13 @@ lang: zh-CN
 | [OSU NLP Mind2Web datasets — official Hub dataset index](https://huggingface.co/osunlp) | 4 | 4 | 4 | 0 | 0 | 0 | 0 |
 | [StepFun Android datasets — official Hub dataset index](https://huggingface.co/stepfun-ai) | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
 | [Survey bibliography references with no other registered listing (arXiv identifier query)](https://arxiv.org) | 4 | 4 | 3 | 0 | 0 | 0 | 0 |
-| [Efficient GUI Agents survey (arXiv 2609.02309) — HTML bibliography](https://arxiv.org/abs/2609.02309) | 118 | 75 | 74 | 2 | 37 | 1 | 3 |
+| [Efficient GUI Agents survey (arXiv 2609.02309) — HTML bibliography](https://arxiv.org/abs/2609.02309) | 122 | 75 | 74 | 2 | 42 | 0 | 3 |
 | [GUI Agents: A Survey (arXiv 2412.13501) — HTML bibliography](https://arxiv.org/abs/2412.13501) | 117 | 62 | 56 | 13 | 35 | 6 | 1 |
 | [Computer-use benchmark leads](https://github.com/reacher-z/Awesome-CUA/blob/main/docs/discovery-leads/benchmark-leads.md) | 161 | 105 | 3 | 4 | 0 | 52 | 0 |
 
 ## 范围排除
 
-1,308 条记录经逐条范围审阅后排除。包含 4,174 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
+1,308 条记录经逐条范围审阅后排除。包含 4,175 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
 
 排除依据发生变化或尚未确认时，记录会回到审阅队列。
 
