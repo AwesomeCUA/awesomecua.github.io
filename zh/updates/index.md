@@ -27,25 +27,19 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-14T08:15:56Z
-- **结束**: 2026-11-14T08:21:55Z
+- **开始**: 2026-11-14T16:13:30Z
+- **结束**: 2026-11-14T16:19:23Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 1
-- **新增候选标识**: 1
+- **新增论文元数据**: 0
+- **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43574950181)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43614398719)
 
 ### 记录的缺口
 
 - github_candidates: Stage exceeded 220 seconds; last verified records retained.
-
-## 新加入书目的记录
-
-以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
-
-- [StagedWorkspace: A Versioned Workspace for Knowledge-Work Agents](https://awesomecua.com/resources/arxiv-2608-18050/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-14T08:17:17Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 1 个新候选。
+2026-11-14T16:14:46Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -86,7 +80,7 @@ lang: zh-CN
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | 成功 |
 | Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | 成功 |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | 成功 |
-| Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 1 | 80 | 成功 |
+| Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 0 | 80 | 成功 |
 | Assistive interfaces<br>accessibility assistive multimodal GUI agents | 80 | 0 | 80 | 成功 |
 | Robustness<br>GUI agent robustness dynamic interfaces distribution shift | 80 | 0 | 80 | 成功 |
 | Adversarial security<br>browser GUI agent prompt injection adversarial security | 80 | 0 | 80 | 成功 |
