@@ -1,7 +1,7 @@
 ---
 title: "Time-shift selection for reservoir computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2211-17095/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

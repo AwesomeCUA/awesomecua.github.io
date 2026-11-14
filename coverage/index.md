@@ -1,16 +1,16 @@
 ---
 title: "Coverage and verification ledger | AwesomeCUA"
 url: https://awesomecua.com/coverage/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---
 
 # Coverage and verification ledger
 
-5,347 curated resources and 1,198 records with verified bibliographic metadata awaiting review.
+5,347 curated resources and 1,201 records with verified bibliographic metadata awaiting review.
 
-Evidence snapshot: 2026-11-13T08:19:17Z. Resource types can refer to different parts of the same project.
+Evidence snapshot: 2026-11-14T00:33:48Z. Resource types can refer to different parts of the same project.
 
 ## Discovery-source coverage
 
@@ -87,7 +87,7 @@ Evidence snapshot: 2026-11-13T08:19:17Z. Resource types can refer to different p
 | [OSWorld-Verified leaderboard results](https://os-world.github.io) | 50 | 33 | 33 | 0 | 10 | 7 | 0 |
 | [OSWorld self-reported leaderboard results](https://os-world.github.io) | 89 | 22 | 22 | 5 | 55 | 7 | 0 |
 | [ScreenSpot-Pro grounding leaderboard results](https://gui-agent.github.io/grounding-leaderboard) | 45 | 32 | 32 | 2 | 9 | 2 | 0 |
-| [AndroidWorld leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | 66 | 43 | 43 | 0 | 22 | 0 | 1 |
+| [AndroidWorld leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | 69 | 43 | 43 | 0 | 22 | 0 | 4 |
 | [WebArena and VisualWebArena leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | 83 | 46 | 43 | 4 | 26 | 6 | 1 |
 | [AndroidLab leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1Zv6mBfd4Ibt8mke24K6zAFrXe4AvEFaBLW3hpJqSgjw) | 6 | 5 | 5 | 0 | 1 | 0 | 0 |
 | [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1123 | 1110 | 1045 | 13 | 0 | 0 | 0 |
@@ -123,7 +123,7 @@ Evidence snapshot: 2026-11-13T08:19:17Z. Resource types can refer to different p
 
 ## Explicit scope exclusions
 
-1308 records are excluded after individual scope review. The original 4,171-record arXiv metadata archive is retained. [Inspect decisions and source evidence](https://awesomecua.com/downloads/exclusions.json) · [Download the raw archive](https://awesomecua.com/downloads/arxiv-archive.jsonl).
+1308 records are excluded after individual scope review. The original 4,174-record arXiv metadata archive is retained. [Inspect decisions and source evidence](https://awesomecua.com/downloads/exclusions.json) · [Download the raw archive](https://awesomecua.com/downloads/arxiv-archive.jsonl).
 
 A changed or unconfirmed exclusion returns to review.
 
@@ -131,6 +131,6 @@ A changed or unconfirmed exclusion returns to review.
 
 Most bibliography entries still require relevance review. Asset sizes, model licenses, availability, and experiment protocols need continuing curation.
 
-187 discovered identifiers remain unresolved. 2052 candidates have an out-of-scope review.
+190 discovered identifiers remain unresolved. 2052 candidates have an out-of-scope review.
 
 [Download the complete coverage ledger](https://awesomecua.com/downloads/coverage.json) · [Editorial policy](https://awesomecua.com/about/)

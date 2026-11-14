@@ -1,7 +1,7 @@
 ---
 title: "Reward learning from human preferences and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1811-06521/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

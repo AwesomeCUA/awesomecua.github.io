@@ -1,7 +1,7 @@
 ---
 title: "Offline Reinforcement Learning with Implicit… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2110-06169/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

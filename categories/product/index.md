@@ -10,7 +10,7 @@ lang: en
 
 Products are commercial and hosted computer-use offerings, such as browser agents, desktop assistants and agent APIs, run by their publishers.
 
-> 75 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-13T08:19:17Z.
+> 75 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-14T00:33:48Z.
 
 HTML page: https://awesomecua.com/categories/product/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 

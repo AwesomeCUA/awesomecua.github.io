@@ -1,7 +1,7 @@
 ---
 title: "Can GPT-O1 Kill All Bugs? An Evaluation of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-10033/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

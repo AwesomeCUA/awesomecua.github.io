@@ -1,7 +1,7 @@
 ---
 title: "Proactive bottleneck performance analysis in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1311-1907/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Open-Sourcing Highly Capable Foundation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-09227/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

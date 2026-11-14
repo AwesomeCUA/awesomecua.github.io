@@ -1,7 +1,7 @@
 ---
 title: "On Quantum Computation Using Bias-Preserving… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-07532/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

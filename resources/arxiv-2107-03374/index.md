@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Large Language Models Trained on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2107-03374/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

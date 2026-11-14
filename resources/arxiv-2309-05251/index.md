@@ -1,7 +1,7 @@
 ---
 title: "Multi3DRefer: Grounding Text Description to… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-05251/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

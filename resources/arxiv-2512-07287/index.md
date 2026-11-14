@@ -1,7 +1,7 @@
 ---
 title: "Experience-Evolving Multi-Turn Tool-Use Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-07287/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

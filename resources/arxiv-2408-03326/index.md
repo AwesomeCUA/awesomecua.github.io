@@ -1,7 +1,7 @@
 ---
 title: "LLaVA-OneVision: Easy Visual Task Transfer | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2408-03326/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

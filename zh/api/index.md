@@ -1,7 +1,7 @@
 ---
 title: "AwesomeCUA 静态数据 API"
 url: https://awesomecua.com/zh/api/
-updated: 2026-11-13
+updated: 2026-11-14
 type: documentation
 lang: zh-CN
 ---
@@ -10,7 +10,7 @@ lang: zh-CN
 
 供智能体与脚本读取的版本化 JSON 和 CSV 文件：已审阅的资源与论文、分类、近期变更，以及明确标注的待审候选。随每个目录快照重新生成，无需密钥或账号。
 
-基础 URL：`https://awesomecua.com/api/v1/` · 版本 1.0.0 · 快照 2026-11-13T16:20:10Z · [API 索引](https://awesomecua.com/api/v1/index.json) · [JSON Schema](https://awesomecua.com/api/v1/schema.json) · [Markdown 版本（英文）](https://awesomecua.com/api/index.md)
+基础 URL：`https://awesomecua.com/api/v1/` · 版本 1.0.0 · 快照 2026-11-14T00:37:47Z · [API 索引](https://awesomecua.com/api/v1/index.json) · [JSON Schema](https://awesomecua.com/api/v1/schema.json) · [Markdown 版本（英文）](https://awesomecua.com/api/index.md)
 
 ## 端点
 
@@ -19,8 +19,8 @@ lang: zh-CN
 | [resources.json](https://awesomecua.com/api/v1/resources.json) | [resources.csv](https://awesomecua.com/api/v1/resources.csv) | 3,629 | 2.6 MiB | 论文以外的已审阅资源：模型、数据集、评测基准、智能体、框架、基础设施、工具、产品、发布者与学习资源。 |
 | [papers.json](https://awesomecua.com/api/v1/papers.json) | [papers.csv](https://awesomecua.com/api/v1/papers.csv) | 1,718 | 1.6 MiB | 已审阅的研究论文与综述，含作者、记录的发表日期、arXiv 版本与引用文件。 |
 | [categories.json](https://awesomecua.com/api/v1/categories.json) | [categories.csv](https://awesomecua.com/api/v1/categories.csv) | 47 | 16 KiB | 资源类型与研究主题，附已审阅数量，以及对应页面、Markdown 与数据的链接。 |
-| [changes.json](https://awesomecua.com/api/v1/changes.json) | [changes.csv](https://awesomecua.com/api/v1/changes.csv) | 7,509 | 2.5 MiB | 快照前 30 天内的目录事件：编辑审阅、新增书目记录与范围排除。 |
-| [candidates.json](https://awesomecua.com/api/v1/candidates.json) | [candidates.csv](https://awesomecua.com/api/v1/candidates.csv) | 1,406 | 688 KiB | 待审阅记录，逐条标注：等待相关性审阅的书目记录，以及等待审阅的已发现标识。 |
+| [changes.json](https://awesomecua.com/api/v1/changes.json) | [changes.csv](https://awesomecua.com/api/v1/changes.csv) | 7,512 | 2.5 MiB | 快照前 30 天内的目录事件：编辑审阅、新增书目记录与范围排除。 |
+| [candidates.json](https://awesomecua.com/api/v1/candidates.json) | [candidates.csv](https://awesomecua.com/api/v1/candidates.csv) | 1,412 | 690 KiB | 待审阅记录，逐条标注：等待相关性审阅的书目记录，以及等待审阅的已发现标识。 |
 
 ## 标识
 

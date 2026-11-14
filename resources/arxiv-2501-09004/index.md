@@ -1,7 +1,7 @@
 ---
 title: "Aegis2.0: A Diverse AI Safety Dataset and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-09004/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

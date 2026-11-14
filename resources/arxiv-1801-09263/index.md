@@ -1,7 +1,7 @@
 ---
 title: "Fast hybrid density-functional computations… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1801-09263/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Mitigating Object Hallucinations in Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-16922/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

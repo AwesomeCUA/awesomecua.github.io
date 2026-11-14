@@ -1,7 +1,7 @@
 ---
 title: "AutoDojo: A Generative Benchmark for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-15057/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

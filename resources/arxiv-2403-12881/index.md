@@ -1,7 +1,7 @@
 ---
 title: "Agent-FLAN: Designing Data and Methods of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-12881/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

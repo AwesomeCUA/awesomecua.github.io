@@ -1,7 +1,7 @@
 ---
 title: "Numerical convergence of the Lyapunov… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1805-00824/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

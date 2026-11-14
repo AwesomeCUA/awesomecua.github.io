@@ -1,7 +1,7 @@
 ---
 title: "High Speed Photonic Neuromorphic Computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2203-15807/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

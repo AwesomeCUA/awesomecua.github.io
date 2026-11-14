@@ -1,7 +1,7 @@
 ---
 title: "Do More Agents Help? Evaluating Accuracy and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-05670/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

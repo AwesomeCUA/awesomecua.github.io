@@ -10,7 +10,7 @@ lang: zh-CN
 
 计算机使用评测基准是一组任务与环境，用来给操作网页浏览器、桌面应用或移动设备的智能体打分。每个基准都把固定的任务集与评估器配在一起，评估方式包括基于执行的状态检查、答案匹配和目标定位。
 
-> AwesomeCUA 目录收录 309 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-13T08:19:17Z。
+> AwesomeCUA 目录收录 309 条已审核评测基准。每条附有完整注释、一手证据和许可证信息。快照：2026-11-14T00:33:48Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/benchmark/ · [English](https://awesomecua.com/categories/benchmark/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/resources.json
 

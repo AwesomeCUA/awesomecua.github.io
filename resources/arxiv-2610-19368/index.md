@@ -1,7 +1,7 @@
 ---
 title: "OS-Bench: Evaluating SWE Agents on Cross-OS… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-19368/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

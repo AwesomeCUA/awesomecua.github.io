@@ -1,7 +1,7 @@
 ---
 title: "Does the brain function as a quantum phase… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2012-06537/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

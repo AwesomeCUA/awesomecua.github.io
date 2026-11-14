@@ -1,7 +1,7 @@
 ---
 title: "MM-WebAgent: A Hierarchical Multimodal Web… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-15309/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

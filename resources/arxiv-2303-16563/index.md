@@ -1,7 +1,7 @@
 ---
 title: "Skill Reinforcement Learning and Planning for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2303-16563/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

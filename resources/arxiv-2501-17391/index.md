@@ -1,7 +1,7 @@
 ---
 title: "LFTR: Learning-Free Token Reduction for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-17391/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

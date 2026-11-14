@@ -1,7 +1,7 @@
 ---
 title: "Thinking with Map: Reinforced Parallel… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-05432/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

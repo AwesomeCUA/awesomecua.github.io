@@ -1,7 +1,7 @@
 ---
 title: "GPT-4 Technical Report | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2303-08774/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

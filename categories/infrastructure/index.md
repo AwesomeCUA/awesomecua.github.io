@@ -10,7 +10,7 @@ lang: en
 
 Infrastructure covers the browsers, sandboxes, virtual machines, emulators and input-automation libraries that computer-use agents run inside or act through.
 
-> 122 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-13T08:19:17Z.
+> 122 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-14T00:33:48Z.
 
 HTML page: https://awesomecua.com/categories/infrastructure/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 

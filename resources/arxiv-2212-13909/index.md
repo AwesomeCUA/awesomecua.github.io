@@ -1,7 +1,7 @@
 ---
 title: "Framework for understanding quantum computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2212-13909/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

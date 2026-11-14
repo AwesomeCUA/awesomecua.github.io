@@ -1,7 +1,7 @@
 ---
 title: "Octopus: Embodied Vision-Language Programmer… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-08588/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

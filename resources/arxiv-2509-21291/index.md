@@ -1,7 +1,7 @@
 ---
 title: "VC-Agent: An Interactive Agent for Customized… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-21291/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Video-MME-v2: Towards the Next Stage in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-05015/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

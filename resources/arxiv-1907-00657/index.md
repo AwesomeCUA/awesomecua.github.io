@@ -1,7 +1,7 @@
 ---
 title: "Optical Reservoir Computing using multiple… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1907-00657/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

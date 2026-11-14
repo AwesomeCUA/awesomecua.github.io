@@ -1,7 +1,7 @@
 ---
 title: "On the Modeling Capabilities of Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-05656/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Open data for Moroccan license plates for OCR… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2104-08244/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

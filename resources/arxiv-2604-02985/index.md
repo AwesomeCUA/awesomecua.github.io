@@ -1,7 +1,7 @@
 ---
 title: "Prompt Compression in the Wild: Measuring… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-02985/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

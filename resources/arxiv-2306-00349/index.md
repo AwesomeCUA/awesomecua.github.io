@@ -1,7 +1,7 @@
 ---
 title: "CALICO: Self-Supervised Camera-LiDAR… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2306-00349/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

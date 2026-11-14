@@ -1,7 +1,7 @@
 ---
 title: "AReaL: A Large-Scale Asynchronous… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-24298/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

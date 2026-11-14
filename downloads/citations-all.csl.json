@@ -1065,6 +1065,61 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/1810.02890v2",
+    "archive": "arXiv",
+    "archive_location": "1810.02890",
+    "author": [
+      {
+        "literal": "Michael Kelly"
+      },
+      {
+        "literal": "Chelsea Sidrane"
+      },
+      {
+        "literal": "Katherine Driggs-Campbell"
+      },
+      {
+        "literal": "Mykel J. Kochenderfer"
+      }
+    ],
+    "citation-key": "arxiv_1810_02890",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "47834460ffeda7ec57e8a4c5613cc5d1c958b396aee0c8d222e66cd433e2edea",
+        "submitted_at": "2018-10-05T21:18:40Z",
+        "updated_at": "2019-03-11T06:46:08Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/1810.02890v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/1810.02890",
+      "catalog_id": "arxiv:1810.02890",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2018-10-05",
+      "identifiers": {
+        "arxiv": "1810.02890"
+      },
+      "record_updated_at": "2019-03-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:1810.02890",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          5
+        ]
+      ]
+    },
+    "note": "First published: 2018-10-05; Recorded arXiv version: v2; Recorded version updated: 2019-03-11T06:46:08Z.",
+    "title": "HG-DAgger: Interactive Imitation Learning with Human Experts",
+    "type": "article",
+    "version": "2"
+  },
+  {
     "URL": "https://arxiv.org/abs/1812.09195v1",
     "archive": "arXiv",
     "archive_location": "1812.09195",
@@ -98097,6 +98152,64 @@
     "title": "Agent+P: Guiding UI Agents via Symbolic Planning",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2510.06135v1",
+    "archive": "arXiv",
+    "archive_location": "2510.06135",
+    "author": [
+      {
+        "literal": "Weihao Zeng"
+      },
+      {
+        "literal": "Keqing He"
+      },
+      {
+        "literal": "Chuqiao Kuang"
+      },
+      {
+        "literal": "Xiaoguang Li"
+      },
+      {
+        "literal": "Junxian He"
+      }
+    ],
+    "citation-key": "arxiv_2510_06135",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "bf9248fd552b38793c53d178c9e44be4347171bf28491e3c59169fba55bce6ee",
+        "submitted_at": "2025-10-07T17:09:23Z",
+        "updated_at": "2025-10-07T17:09:23Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2510.06135v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2510.06135",
+      "catalog_id": "arxiv:2510.06135",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2025-10-07",
+      "identifiers": {
+        "arxiv": "2510.06135"
+      },
+      "record_updated_at": "2025-10-07"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2510.06135",
+    "issued": {
+      "date-parts": [
+        [
+          2025,
+          10,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2025-10-07; Recorded arXiv version: v1; Recorded version updated: 2025-10-07T17:09:23Z.",
+    "title": "Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2510.06223v2",
@@ -206888,6 +207001,70 @@
     },
     "note": "First published: 2026-11-11; Recorded arXiv version: v1; Recorded version updated: 2026-11-11T06:19:31Z.",
     "title": "GuardianAgentFlow: Multi-Agent Coordination for Web Privacy Protection",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.15600v1",
+    "archive": "arXiv",
+    "archive_location": "2611.15600",
+    "author": [
+      {
+        "literal": "Quanjiang Guo"
+      },
+      {
+        "literal": "Sijie Wang"
+      },
+      {
+        "literal": "Qianyang Zhu"
+      },
+      {
+        "literal": "Ben Zhang"
+      },
+      {
+        "literal": "Jinchuan Zhang"
+      },
+      {
+        "literal": "Ke Yan"
+      },
+      {
+        "literal": "Zhao Kang"
+      }
+    ],
+    "citation-key": "arxiv_2611_15600",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5848a12a8437d6a506a88bb0033595232c66bdd50cb00c9ec5a9c076d7ec7c3a",
+        "submitted_at": "2026-11-11T15:17:38Z",
+        "updated_at": "2026-11-11T15:17:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.15600v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.15600",
+      "catalog_id": "arxiv:2611.15600",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-11",
+      "identifiers": {
+        "arxiv": "2611.15600"
+      },
+      "record_updated_at": "2026-11-11"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.15600",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          11
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-11; Recorded arXiv version: v1; Recorded version updated: 2026-11-11T15:17:38Z.",
+    "title": "MemCredit: From Relevance to Utility for Decision-Time Memory in Long-Horizon Web Agents",
     "type": "article",
     "version": "1"
   },

@@ -1,7 +1,7 @@
 ---
 title: "Online Continual Learning For Interactive… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-07548/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

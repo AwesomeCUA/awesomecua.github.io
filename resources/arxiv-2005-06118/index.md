@@ -1,7 +1,7 @@
 ---
 title: "Improved Computation-Communication Trade-Off… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2005-06118/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

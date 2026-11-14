@@ -10,7 +10,7 @@ lang: en
 
 Computer-use models are vision-language and GUI-specialized checkpoints that read screens and output target coordinates or actions. Entries cover model families and released checkpoints, many hosted on Hugging Face.
 
-> 475 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-13T08:19:17Z.
+> 475 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-14T00:33:48Z.
 
 HTML page: https://awesomecua.com/categories/model/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 

@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2510.06135",
+  "citation-key": "arxiv_2510_06135",
+  "type": "article",
+  "title": "Pushing Test-Time Scaling Limits of Deep Search with Asymmetric Verification",
+  "URL": "https://arxiv.org/abs/2510.06135v1",
+  "custom": {
+    "catalog_id": "arxiv:2510.06135",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2510.06135",
+    "identifiers": {
+      "arxiv": "2510.06135"
+    },
+    "first_published_at": "2025-10-07",
+    "record_updated_at": "2025-10-07",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "bf9248fd552b38793c53d178c9e44be4347171bf28491e3c59169fba55bce6ee",
+      "submitted_at": "2025-10-07T17:09:23Z",
+      "updated_at": "2025-10-07T17:09:23Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2510.06135v1"
+    }
+  },
+  "note": "First published: 2025-10-07; Recorded arXiv version: v1; Recorded version updated: 2025-10-07T17:09:23Z.",
+  "author": [
+    {
+      "literal": "Weihao Zeng"
+    },
+    {
+      "literal": "Keqing He"
+    },
+    {
+      "literal": "Chuqiao Kuang"
+    },
+    {
+      "literal": "Xiaoguang Li"
+    },
+    {
+      "literal": "Junxian He"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        10,
+        7
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2510.06135",
+  "genre": "preprint",
+  "version": "1"
+}

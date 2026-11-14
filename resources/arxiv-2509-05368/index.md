@@ -1,7 +1,7 @@
 ---
 title: "Long-Horizon Visual Imitation Learning via… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-05368/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

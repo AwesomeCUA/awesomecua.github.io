@@ -1,7 +1,7 @@
 ---
 title: "Gandalf the Red: Adaptive Security for LLMs | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-07927/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

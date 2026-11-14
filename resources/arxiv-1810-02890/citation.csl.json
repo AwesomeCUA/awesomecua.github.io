@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:1810.02890",
+  "citation-key": "arxiv_1810_02890",
+  "type": "article",
+  "title": "HG-DAgger: Interactive Imitation Learning with Human Experts",
+  "URL": "https://arxiv.org/abs/1810.02890v2",
+  "custom": {
+    "catalog_id": "arxiv:1810.02890",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/1810.02890",
+    "identifiers": {
+      "arxiv": "1810.02890"
+    },
+    "first_published_at": "2018-10-05",
+    "record_updated_at": "2019-03-11",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "47834460ffeda7ec57e8a4c5613cc5d1c958b396aee0c8d222e66cd433e2edea",
+      "submitted_at": "2018-10-05T21:18:40Z",
+      "updated_at": "2019-03-11T06:46:08Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/1810.02890v2"
+    }
+  },
+  "note": "First published: 2018-10-05; Recorded arXiv version: v2; Recorded version updated: 2019-03-11T06:46:08Z.",
+  "author": [
+    {
+      "literal": "Michael Kelly"
+    },
+    {
+      "literal": "Chelsea Sidrane"
+    },
+    {
+      "literal": "Katherine Driggs-Campbell"
+    },
+    {
+      "literal": "Mykel J. Kochenderfer"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2018,
+        10,
+        5
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "1810.02890",
+  "genre": "preprint",
+  "version": "2"
+}

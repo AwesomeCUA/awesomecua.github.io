@@ -1,7 +1,7 @@
 ---
 title: "Auditing Agent Harness Safety | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-14271/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "STEP-LLM: Generating CAD STEP Models from… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-12641/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

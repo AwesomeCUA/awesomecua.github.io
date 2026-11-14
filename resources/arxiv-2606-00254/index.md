@@ -1,7 +1,7 @@
 ---
 title: "Symmetry-Protected Quantum Computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-00254/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

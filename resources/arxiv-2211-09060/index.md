@@ -1,7 +1,7 @@
 ---
 title: "All-optical quantum computing using cubic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2211-09060/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

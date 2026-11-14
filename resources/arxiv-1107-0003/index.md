@@ -1,7 +1,7 @@
 ---
 title: "Valley-based noise-resistant quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1107-0003/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

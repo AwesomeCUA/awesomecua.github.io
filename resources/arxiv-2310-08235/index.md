@@ -1,7 +1,7 @@
 ---
 title: "GROOT: Learning to Follow Instructions by… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-08235/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

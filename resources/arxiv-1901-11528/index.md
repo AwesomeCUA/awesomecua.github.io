@@ -1,7 +1,7 @@
 ---
 title: "Shaping the Narrative Arc: An… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1901-11528/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

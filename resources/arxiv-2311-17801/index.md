@@ -1,7 +1,7 @@
 ---
 title: "Towards Efficient Hyperdimensional Computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-17801/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AI, Take the Wheel: What Drives Delegation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-28255/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

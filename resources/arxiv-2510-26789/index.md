@@ -1,7 +1,7 @@
 ---
 title: "Entanglement-assisted circuit knitting… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-26789/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

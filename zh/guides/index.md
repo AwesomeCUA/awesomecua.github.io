@@ -1,7 +1,7 @@
 ---
 title: "计算机使用智能体指南 | AwesomeCUA"
 url: https://awesomecua.com/zh/guides/
-updated: 2026-11-13
+updated: 2026-11-14
 type: guide
 lang: zh-CN
 ---

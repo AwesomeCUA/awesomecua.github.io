@@ -1,7 +1,7 @@
 ---
 title: "Zero-Shot Medical Phrase Grounding with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-12920/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "MATE: LLM-Powered Multi-Agent Translation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-19502/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

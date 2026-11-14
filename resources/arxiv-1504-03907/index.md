@@ -1,7 +1,7 @@
 ---
 title: "Ultra-low-energy non-volatile straintronic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1504-03907/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

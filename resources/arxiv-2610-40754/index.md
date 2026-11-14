@@ -1,7 +1,7 @@
 ---
 title: "DyCraft: An Agentic System for Long-Horizon… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-40754/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Hybrid Temporal Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-22999/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

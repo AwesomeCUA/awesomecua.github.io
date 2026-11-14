@@ -10,7 +10,7 @@ lang: zh-CN
 
 综述是梳理计算机使用与 GUI 智能体研究的文章，涵盖方法、评测基准、数据集、安全问题和待解决的问题。
 
-> AwesomeCUA 目录收录 37 条已审核综述。每条附有完整注释、一手证据和许可证信息。快照：2026-11-13T08:19:17Z。
+> AwesomeCUA 目录收录 37 条已审核综述。每条附有完整注释、一手证据和许可证信息。快照：2026-11-14T00:33:48Z。
 
 HTML 页面：https://awesomecua.com/zh/categories/survey/ · [English](https://awesomecua.com/categories/survey/index.md) · 目录索引：https://awesomecua.com/llms.txt · API：https://awesomecua.com/api/v1/papers.json
 

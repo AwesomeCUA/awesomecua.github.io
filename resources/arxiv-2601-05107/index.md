@@ -1,7 +1,7 @@
 ---
 title: "Controllable Memory Usage: Balancing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-05107/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

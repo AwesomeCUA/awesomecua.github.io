@@ -1,7 +1,7 @@
 ---
 title: "What Matters in Learning from Offline Human… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2108-03298/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

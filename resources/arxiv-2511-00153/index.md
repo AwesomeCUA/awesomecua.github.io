@@ -1,7 +1,7 @@
 ---
 title: "EgoMI: Learning Active Vision and Whole-Body… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-00153/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

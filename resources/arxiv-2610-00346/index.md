@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking System One decision models… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-00346/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

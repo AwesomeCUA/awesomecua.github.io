@@ -10,7 +10,7 @@ lang: en
 
 Learning resources are courses, cookbooks, tutorials, example collections and curated lists for building and studying computer-use agents.
 
-> 38 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-13T08:19:17Z.
+> 38 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-14T00:33:48Z.
 
 HTML page: https://awesomecua.com/categories/learning/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 

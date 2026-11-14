@@ -1,7 +1,7 @@
 ---
 title: "AgentLAB: Benchmarking LLM Agents against… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-16901/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

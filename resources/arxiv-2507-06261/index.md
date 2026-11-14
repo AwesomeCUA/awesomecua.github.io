@@ -1,7 +1,7 @@
 ---
 title: "Gemini 2.5: Pushing the Frontier with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-06261/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Reservoir Computing using Cellular Automata | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1410-0162/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

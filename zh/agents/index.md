@@ -1,7 +1,7 @@
 ---
 title: "AwesomeCUA：Agents 与 RAG 使用指南"
 url: https://awesomecua.com/zh/agents/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: zh-CN
 ---

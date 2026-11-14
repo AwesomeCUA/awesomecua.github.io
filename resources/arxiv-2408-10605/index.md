@@ -1,7 +1,7 @@
 ---
 title: "MUSES: 3D-Controllable Image Generation via… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2408-10605/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

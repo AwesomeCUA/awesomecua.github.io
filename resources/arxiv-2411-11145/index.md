@@ -1,7 +1,7 @@
 ---
 title: "From 2D Document Interactions into Immersive… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2411-11145/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

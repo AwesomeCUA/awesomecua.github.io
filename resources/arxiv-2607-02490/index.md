@@ -1,7 +1,7 @@
 ---
 title: "Visually Grounded Self-Reflection for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-02490/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

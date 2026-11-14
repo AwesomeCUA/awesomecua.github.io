@@ -1,7 +1,7 @@
 ---
 title: "Slow-Fast Architecture for Video Multi-Modal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-01328/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Universal computation using localized… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2112-05558/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

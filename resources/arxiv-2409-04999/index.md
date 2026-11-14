@@ -1,7 +1,7 @@
 ---
 title: "Visual Grounding with Multi-modal Conditional… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-04999/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

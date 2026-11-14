@@ -1,7 +1,7 @@
 ---
 title: "NetArena: Dynamic Benchmarks for AI Agents in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-03231/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---

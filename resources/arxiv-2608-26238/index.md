@@ -1,7 +1,7 @@
 ---
 title: "Procedura: Agentic 3D Modeling with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-26238/
-updated: 2026-11-13
+updated: 2026-11-14
 type: page
 lang: en
 ---
