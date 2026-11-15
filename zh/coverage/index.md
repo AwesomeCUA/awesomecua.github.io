@@ -91,7 +91,7 @@ lang: zh-CN
 | [WebArena and VisualWebArena leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | 83 | 46 | 43 | 4 | 26 | 6 | 1 |
 | [AndroidLab leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1Zv6mBfd4Ibt8mke24K6zAFrXe4AvEFaBLW3hpJqSgjw) | 6 | 5 | 5 | 0 | 1 | 0 | 0 |
 | [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1123 | 1110 | 1045 | 13 | 0 | 0 | 0 |
-| [Hub model search "gui" (by likes)](https://huggingface.co/models?search=gui) | 30 | 27 | 27 | 0 | 2 | 1 | 0 |
+| [Hub model search "gui" (by likes)](https://huggingface.co/models?search=gui) | 29 | 27 | 27 | 0 | 1 | 1 | 0 |
 | [Hub model search "computer-use" (by likes)](https://huggingface.co/models?search=computer-use) | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
 | [Hub dataset search "gui" (by likes)](https://huggingface.co/datasets?search=gui) | 18 | 15 | 15 | 0 | 0 | 3 | 0 |
 | [Hub dataset search "computer-use" (by likes)](https://huggingface.co/datasets?search=computer-use) | 4 | 3 | 3 | 0 | 1 | 0 | 0 |
@@ -117,7 +117,7 @@ lang: zh-CN
 | [OSU NLP Mind2Web datasets — official Hub dataset index](https://huggingface.co/osunlp) | 4 | 4 | 4 | 0 | 0 | 0 | 0 |
 | [StepFun Android datasets — official Hub dataset index](https://huggingface.co/stepfun-ai) | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
 | [Survey bibliography references with no other registered listing (arXiv identifier query)](https://arxiv.org) | 4 | 4 | 3 | 0 | 0 | 0 | 0 |
-| [Efficient GUI Agents survey (arXiv 2609.02309) — HTML bibliography](https://arxiv.org/abs/2609.02309) | 118 | 75 | 74 | 2 | 37 | 1 | 3 |
+| [Efficient GUI Agents survey (arXiv 2609.02309) — HTML bibliography](https://arxiv.org/abs/2609.02309) | 122 | 75 | 74 | 2 | 42 | 0 | 3 |
 | [GUI Agents: A Survey (arXiv 2412.13501) — HTML bibliography](https://arxiv.org/abs/2412.13501) | 117 | 62 | 56 | 13 | 35 | 6 | 1 |
 | [Computer-use benchmark leads](https://github.com/reacher-z/Awesome-CUA/blob/main/docs/discovery-leads/benchmark-leads.md) | 161 | 105 | 3 | 4 | 0 | 52 | 0 |
 

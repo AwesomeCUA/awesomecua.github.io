@@ -27,25 +27,19 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-15T00:37:21Z
-- **Finished**: 2026-11-15T00:43:12Z
+- **Started**: 2026-11-15T08:16:36Z
+- **Finished**: 2026-11-15T08:20:13Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 1
-- **New candidate identifiers**: 1
+- **New paper metadata**: 0
+- **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43659058866)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43693715888)
 
 ### Recorded gaps
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
-
-## New to the bibliography
-
-These are newly discovered bibliographic records. Relevance and findings still require editorial review.
-
-- [EfficientUICoder: A Bidirectional Token Compression Framework for Efficient MLLM-Based UI Code Generation](https://awesomecua.com/resources/arxiv-2509-12159/) · metadata verified
+- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-15T00:38:33Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 1 new candidates.
+2026-11-15T08:17:46Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -91,7 +85,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Robustness<br>GUI agent robustness dynamic interfaces distribution shift | 80 | 0 | 80 | success |
 | Adversarial security<br>browser GUI agent prompt injection adversarial security | 80 | 0 | 80 | success |
 | Human collaboration<br>GUI agent human collaboration clarification intervention | 80 | 0 | 80 | success |
-| Efficiency<br>GUI agent efficiency latency visual token compression | 80 | 1 | 80 | success |
+| Efficiency<br>GUI agent efficiency latency visual token compression | 80 | 0 | 80 | success |
 | Open models<br>open source GUI model computer use checkpoint | 80 | 0 | 80 | success |
 | Workflow automation<br>visual workflow automation robotic process automation agents | 80 | 0 | 80 | success |
 | Multilingual interfaces<br>multilingual GUI agent interface grounding | 80 | 0 | 80 | success |
