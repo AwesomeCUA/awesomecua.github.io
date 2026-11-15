@@ -1,6 +1,6 @@
 {
  "version": "1.0.0",
- "generated_at": "2026-11-15T08:20:13Z",
+ "generated_at": "2026-11-15T16:19:38Z",
  "catalog_sha256": "4a55fac8579e05c354efe683d6ab4fafe4b94ce1021c60a3975f54da4e465e6b",
  "license": "Catalog annotations and these files: MIT. Linked resources, papers, data and weights keep their own terms.",
  "documentation": "https://awesomecua.com/api/",
@@ -42,9 +42,9 @@
    "csv": "https://awesomecua.com/api/v1/resources.csv",
    "count": 3629,
    "json_bytes": 2680620,
-   "json_sha256": "3956107c93470c62a4e7dad45815c5f8aa3dee46378bf3464591e2f1fec9db0f",
+   "json_sha256": "e410fb7fd1dcedec04a343320ce0f04fe615abe10aba01d1224b10215a4e450a",
    "csv_bytes": 1621244,
-   "csv_sha256": "4616021a5c5ca9c80361d5bba089d7f03e5ec999c0665d3f5a019cce7ac354dc"
+   "csv_sha256": "e6afd7a8a14ae5613b52aa1623aa32f91671891cd6ee59da8ef02a03da397632"
   },
   {
    "name": "papers",
@@ -53,9 +53,9 @@
    "csv": "https://awesomecua.com/api/v1/papers.csv",
    "count": 1718,
    "json_bytes": 1687898,
-   "json_sha256": "86be7c5033d3600ac56981401ab8b893339e23d852ec39f279e44c180d95a844",
+   "json_sha256": "5c884c51ea6e5f238b6222c01038dcb079ba2a536ad28d001881a9956f472acc",
    "csv_bytes": 1156398,
-   "csv_sha256": "d6b0a803216dc32595036424efb9d8f44d7de2565c660c58f82ec455e25a02ab"
+   "csv_sha256": "7c30671c6f816049ea2af22ca25dd68b66e5e2b103a085cb8a76aeaaca610601"
   },
   {
    "name": "categories",
@@ -64,20 +64,20 @@
    "csv": "https://awesomecua.com/api/v1/categories.csv",
    "count": 47,
    "json_bytes": 16159,
-   "json_sha256": "115a40d9182606cfd96ff59a094d23b49e8a08675e26d4e3970bfe69d819a48c",
+   "json_sha256": "a21e6ce47e96d6d5b8940694a1fd00bafe7f5d22efbfcf49515468cd84511398",
    "csv_bytes": 10965,
-   "csv_sha256": "1ad5e7a0562b9670447e83d22a5c7e2e09ac6fda23a9243e65b69c14b698e73e"
+   "csv_sha256": "b95f6f7a1cf3d64a1ddd12fc5a7ae75fe96798af84c697a9bf36816e17b05902"
   },
   {
    "name": "changes",
    "description": "Catalog events in the 30 days before the snapshot: editorial reviews, new bibliography records and scope exclusions.",
    "json": "https://awesomecua.com/api/v1/changes.json",
    "csv": "https://awesomecua.com/api/v1/changes.csv",
-   "count": 7200,
-   "json_bytes": 2495294,
-   "json_sha256": "d06bf823a7ac0fa637912dafbb2ad0fcd4018e8297e0becaada5dcd0beffe436",
-   "csv_bytes": 1985800,
-   "csv_sha256": "aaf5d505e7ba504b4366cad921aa247577d80c729f90ed78ad60a372c4d3aab8"
+   "count": 6826,
+   "json_bytes": 2373608,
+   "json_sha256": "ab69a89a80fb89a6a2bbc6560f3592e482e5a2cf7eac2ce214e2999f8e409b7b",
+   "csv_bytes": 1890571,
+   "csv_sha256": "e25437e1b681638b7cbbe242e5fe6c1554b92cdaf64b5c2590d0d63fae42d793"
   },
   {
    "name": "candidates",
@@ -86,9 +86,9 @@
    "csv": "https://awesomecua.com/api/v1/candidates.csv",
    "count": 1414,
    "json_bytes": 707725,
-   "json_sha256": "bcafcc6bd853fd293de58a465fb7b33334441a6e61180ae20907cd7f21d17537",
+   "json_sha256": "2236f71bb1e690c0f7e8f2488d40b60bcfc046d64c4c0c08f6bd08295c8725e8",
    "csv_bytes": 524982,
-   "csv_sha256": "a9b1ee152915e291bf480a09485c1c3cf4bb47701be7ca3881277b01c5873b37"
+   "csv_sha256": "2b7f4294ba3fa4caddd33f21a3ffd44058827d07daff9295fde7b233950ed459"
   }
  ],
  "bulk_downloads": {
