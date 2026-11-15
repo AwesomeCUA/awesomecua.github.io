@@ -1,7 +1,7 @@
 ---
 title: "LiteFrame: Efficient Vision Encoders Unlock… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-17260/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

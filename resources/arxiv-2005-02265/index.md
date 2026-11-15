@@ -1,7 +1,7 @@
 ---
 title: "Predicting atmospheric optical properties for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2005-02265/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

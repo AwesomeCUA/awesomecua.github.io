@@ -1,7 +1,7 @@
 ---
 title: "Trial and Error: Exploration-Based Trajectory… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-02502/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

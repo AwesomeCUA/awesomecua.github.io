@@ -1,7 +1,7 @@
 ---
 title: "Application-level Benchmarking of Quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-01363/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

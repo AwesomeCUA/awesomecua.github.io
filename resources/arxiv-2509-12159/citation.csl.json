@@ -1,0 +1,42 @@
+{
+  "id": "arxiv:2509.12159",
+  "citation-key": "arxiv_2509_12159",
+  "type": "article",
+  "title": "EfficientUICoder: A Bidirectional Token Compression Framework for Efficient MLLM-Based UI Code Generation",
+  "URL": "https://arxiv.org/abs/2509.12159v2",
+  "custom": {
+    "catalog_id": "arxiv:2509.12159",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2509.12159",
+    "identifiers": {
+      "arxiv": "2509.12159"
+    },
+    "first_published_at": "2025-09-15",
+    "record_updated_at": "2026-06-27",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "468808c1e11c90e6fe012dd31fcf43c31a6befea5cabf31314fa3e0158a24441",
+      "submitted_at": "2025-09-15T17:23:46Z",
+      "updated_at": "2026-06-27T08:23:38Z",
+      "version": 2,
+      "versioned_url": "https://arxiv.org/abs/2509.12159v2"
+    },
+    "authors_omitted": true
+  },
+  "note": "First published: 2025-09-15; Recorded arXiv version: v2; Recorded version updated: 2026-06-27T08:23:38Z; Authors: see the paper (https://arxiv.org/abs/2509.12159v2); this catalog does not list them.",
+  "issued": {
+    "date-parts": [
+      [
+        2025,
+        9,
+        15
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2509.12159",
+  "genre": "preprint",
+  "version": "2"
+}

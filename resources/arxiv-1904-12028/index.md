@@ -1,7 +1,7 @@
 ---
 title: "Arbitrary-time error suppression for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1904-12028/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Study of the effect of quantum noise on the… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2201-03068/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

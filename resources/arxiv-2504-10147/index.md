@@ -1,7 +1,7 @@
 ---
 title: "A Survey of Personalization: From RAG to Agent | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-10147/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

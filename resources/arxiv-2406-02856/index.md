@@ -1,7 +1,7 @@
 ---
 title: "Xmodel-LM Technical Report | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-02856/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

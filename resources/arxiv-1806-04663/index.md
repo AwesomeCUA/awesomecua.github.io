@@ -1,7 +1,7 @@
 ---
 title: "Universal quantum computation using fractal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1806-04663/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

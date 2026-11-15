@@ -1,7 +1,7 @@
 ---
 title: "AXNet: ApproXimate computing using an… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1807-10458/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

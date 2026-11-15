@@ -1,7 +1,7 @@
 ---
 title: "Encrypted Vector Similarity Computations… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-05850/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Auto MC-Reward: Automated Dense Reward Design… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2312-09238/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

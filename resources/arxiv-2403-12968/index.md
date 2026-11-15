@@ -1,7 +1,7 @@
 ---
 title: "LLMLingua-2: Data Distillation for Efficient… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-12968/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

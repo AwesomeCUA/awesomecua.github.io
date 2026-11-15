@@ -1,7 +1,7 @@
 ---
 title: "SOA-based reservoir computing using up-sampling | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-02117/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Scalable and self-correcting photonic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2210-16935/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

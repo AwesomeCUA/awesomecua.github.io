@@ -1,7 +1,7 @@
 ---
 title: "Molmo and PixMo: Open Weights and Open Data… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-17146/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

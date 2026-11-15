@@ -1,7 +1,7 @@
 ---
 title: "Plan-and-Solve Prompting: Improving Zero-Shot… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-04091/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

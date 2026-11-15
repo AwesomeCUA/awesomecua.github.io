@@ -1,7 +1,7 @@
 ---
 title: "Agent2Agent Threats in Safety-Critical LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-05877/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

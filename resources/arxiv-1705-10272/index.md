@@ -1,7 +1,7 @@
 ---
 title: "Who's to say what's funny? A computer using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1705-10272/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

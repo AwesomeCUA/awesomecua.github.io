@@ -1,7 +1,7 @@
 ---
 title: "Experimenting quantum phenomena on NISQ… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2111-02896/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

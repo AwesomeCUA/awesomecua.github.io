@@ -1,7 +1,7 @@
 ---
 title: "Learning to Act under Noise: Enhancing Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-27209/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

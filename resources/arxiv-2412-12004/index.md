@@ -1,7 +1,7 @@
 ---
 title: "The Open Source Advantage in Large Language… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-12004/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

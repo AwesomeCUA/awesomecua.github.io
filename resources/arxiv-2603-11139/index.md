@@ -1,7 +1,7 @@
 ---
 title: "H2LooP Spark Preview: Continual Pretraining… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-11139/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

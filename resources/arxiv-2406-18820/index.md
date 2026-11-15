@@ -1,7 +1,7 @@
 ---
 title: "Universal Checkpointing: A Flexible and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-18820/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

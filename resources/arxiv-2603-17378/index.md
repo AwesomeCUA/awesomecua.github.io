@@ -1,7 +1,7 @@
 ---
 title: "Efficient Exploration at Scale | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-17378/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

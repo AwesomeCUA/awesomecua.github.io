@@ -1,7 +1,7 @@
 ---
 title: "Use AwesomeCUA with agents and RAG"
 url: https://awesomecua.com/agents/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Large-scale Evaluation of Notebook… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-01377/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

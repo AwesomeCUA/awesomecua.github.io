@@ -1,7 +1,7 @@
 ---
 title: "Robust universal Hamiltonian quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1911-01354/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

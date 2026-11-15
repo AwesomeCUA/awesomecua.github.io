@@ -1,7 +1,7 @@
 ---
 title: "Scalable architecture for trapped-ion quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-01168/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

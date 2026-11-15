@@ -1,7 +1,7 @@
 ---
 title: "Effects of dissipation in reservoir computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-07481/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "IDAT: A Multi-Modal Dataset and Toolkit for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-08898/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

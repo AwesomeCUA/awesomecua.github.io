@@ -1,7 +1,7 @@
 ---
 title: "Can AI Agents Answer Your Data Questions? A… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-20576/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

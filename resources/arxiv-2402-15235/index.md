@@ -1,7 +1,7 @@
 ---
 title: "MACRec: a Multi-Agent Collaboration Framework… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-15235/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

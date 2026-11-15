@@ -1,7 +1,7 @@
 ---
 title: "Continual Vision-and-Language Navigation | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-15049/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

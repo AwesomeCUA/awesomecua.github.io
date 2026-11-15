@@ -1,7 +1,7 @@
 ---
 title: "PlotEdit: Natural Language-Driven Accessible… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-11233/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

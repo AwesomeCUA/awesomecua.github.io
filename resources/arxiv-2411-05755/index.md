@@ -1,7 +1,7 @@
 ---
 title: "End-to-End Navigation with Vision Language… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2411-05755/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

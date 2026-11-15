@@ -1,7 +1,7 @@
 ---
 title: "Human2Robot: Learning Robot Actions from… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-16587/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "InternGPT: Solving Vision-Centric Tasks by… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-05662/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

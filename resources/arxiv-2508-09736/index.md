@@ -1,7 +1,7 @@
 ---
 title: "Seeing, Listening, Remembering, and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2508-09736/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AIOS: LLM Agent Operating System | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-16971/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

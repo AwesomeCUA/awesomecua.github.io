@@ -1,7 +1,7 @@
 ---
 title: "Git-Theta: A Git Extension for Collaborative… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2306-04529/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

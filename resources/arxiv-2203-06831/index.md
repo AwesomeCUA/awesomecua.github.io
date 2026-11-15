@@ -1,7 +1,7 @@
 ---
 title: "Enhanced-Fidelity Ultrafast Geometric Quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2203-06831/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

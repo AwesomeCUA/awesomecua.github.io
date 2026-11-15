@@ -1,7 +1,7 @@
 ---
 title: "Experiential Reflective Learning for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-24639/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

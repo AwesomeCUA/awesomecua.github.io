@@ -1,7 +1,7 @@
 ---
 title: "Training Leaves Traces: Centered Residual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-14929/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Prompt Infection: LLM-to-LLM Prompt Injection… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-07283/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

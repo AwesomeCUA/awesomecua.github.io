@@ -1,7 +1,7 @@
 ---
 title: "Energy Inference of Black-Box Quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-15472/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

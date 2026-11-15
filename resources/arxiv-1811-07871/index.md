@@ -1,7 +1,7 @@
 ---
 title: "Scalable agent alignment via reward modeling… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1811-07871/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Teaching Quantum Computing using Microsoft… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-12960/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

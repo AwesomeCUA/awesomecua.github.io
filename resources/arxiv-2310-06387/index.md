@@ -1,7 +1,7 @@
 ---
 title: "Jailbreak and Guard Aligned Language Models… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-06387/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

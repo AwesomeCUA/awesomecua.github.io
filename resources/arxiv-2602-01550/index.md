@@ -1,7 +1,7 @@
 ---
 title: "S1-NexusAgent: a Self-Evolving Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-01550/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

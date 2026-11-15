@@ -1,7 +1,7 @@
 ---
 title: "CRIL: Continual Robot Imitation Learning via… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2106-09422/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

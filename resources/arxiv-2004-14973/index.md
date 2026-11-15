@@ -1,7 +1,7 @@
 ---
 title: "Improving Vision-and-Language Navigation with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2004-14973/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

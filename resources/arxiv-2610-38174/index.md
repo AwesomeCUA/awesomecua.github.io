@@ -1,7 +1,7 @@
 ---
 title: "Scaling Lean Theorem Proving for Real-World… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-38174/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Adversarial Prompt Tuning for Vision-Language… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-11261/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

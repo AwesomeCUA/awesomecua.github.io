@@ -1,7 +1,7 @@
 ---
 title: "Enhanced delegated computing using coherence | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1501-06730/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

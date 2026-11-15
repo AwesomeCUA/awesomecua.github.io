@@ -1,7 +1,7 @@
 ---
 title: "Verified eigenvalue and eigenvector… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2110-01822/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---

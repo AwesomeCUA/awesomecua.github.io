@@ -1,7 +1,7 @@
 ---
 title: "AutoGen: Enabling Next-Gen LLM Applications… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-08155/
-updated: 2026-11-14
+updated: 2026-11-15
 type: page
 lang: en
 ---
