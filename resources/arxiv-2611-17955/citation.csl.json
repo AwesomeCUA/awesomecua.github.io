@@ -1,0 +1,109 @@
+{
+  "id": "arxiv:2611.17955",
+  "citation-key": "arxiv_2611_17955",
+  "type": "article",
+  "title": "WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents",
+  "URL": "https://arxiv.org/abs/2611.17955v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.17955",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.17955",
+    "identifiers": {
+      "arxiv": "2611.17955"
+    },
+    "first_published_at": "2026-11-13",
+    "record_updated_at": "2026-11-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "a81051ee1cf914bba7ec3fb3e8f4260e64731d02142be1f4de092c69a6e7af17",
+      "submitted_at": "2026-11-13T09:44:48Z",
+      "updated_at": "2026-11-13T09:44:48Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.17955v1"
+    }
+  },
+  "note": "First published: 2026-11-13; Recorded arXiv version: v1; Recorded version updated: 2026-11-13T09:44:48Z.",
+  "author": [
+    {
+      "literal": "Imene Kerboua"
+    },
+    {
+      "literal": "Fatemeh Pesaran Zadeh"
+    },
+    {
+      "literal": "Xing Han Lù"
+    },
+    {
+      "literal": "Weijian Qi"
+    },
+    {
+      "literal": "Alexander Miller"
+    },
+    {
+      "literal": "Junyi Song"
+    },
+    {
+      "literal": "Yunjia Tian"
+    },
+    {
+      "literal": "Dongjin Kang"
+    },
+    {
+      "literal": "Seyeon Choi"
+    },
+    {
+      "literal": "Marzia Nouri"
+    },
+    {
+      "literal": "Ewen Gueguen"
+    },
+    {
+      "literal": "Matteo Boglioni"
+    },
+    {
+      "literal": "Fengyuan Liu"
+    },
+    {
+      "literal": "Zeyi Liao"
+    },
+    {
+      "literal": "Mengqi Yuan"
+    },
+    {
+      "literal": "Yue Li"
+    },
+    {
+      "literal": "Alexandre Lacoste"
+    },
+    {
+      "literal": "Alexandre Drouin"
+    },
+    {
+      "literal": "Spandana Gella"
+    },
+    {
+      "literal": "Huan Sun"
+    },
+    {
+      "literal": "Gunhee Kim"
+    },
+    {
+      "literal": "Siva Reddy"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.17955",
+  "genre": "preprint",
+  "version": "1"
+}

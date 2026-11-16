@@ -1,0 +1,76 @@
+{
+  "id": "arxiv:2611.18562",
+  "citation-key": "arxiv_2611_18562",
+  "type": "article",
+  "title": "Training Reasoning Models in Simulation to Natively Use Real Robots",
+  "URL": "https://arxiv.org/abs/2611.18562v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.18562",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.18562",
+    "identifiers": {
+      "arxiv": "2611.18562"
+    },
+    "first_published_at": "2026-11-13",
+    "record_updated_at": "2026-11-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "aa806dbd73dbcecdc36369ffd6199e2666473f5a274256426e0775f87232dc1a",
+      "submitted_at": "2026-11-13T18:59:02Z",
+      "updated_at": "2026-11-13T18:59:02Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.18562v1"
+    }
+  },
+  "note": "First published: 2026-11-13; Recorded arXiv version: v1; Recorded version updated: 2026-11-13T18:59:02Z.",
+  "author": [
+    {
+      "literal": "Jiaming Tang"
+    },
+    {
+      "literal": "Zhuoyang Zhang"
+    },
+    {
+      "literal": "Junxian Guo"
+    },
+    {
+      "literal": "Fangzhou Zhao"
+    },
+    {
+      "literal": "Yilong Zhao"
+    },
+    {
+      "literal": "Zekai Li"
+    },
+    {
+      "literal": "Xingyang Li"
+    },
+    {
+      "literal": "Yuyang Zhao"
+    },
+    {
+      "literal": "Song Bian"
+    },
+    {
+      "literal": "Zhijian Liu"
+    },
+    {
+      "literal": "Song Han"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.18562",
+  "genre": "preprint",
+  "version": "1"
+}
