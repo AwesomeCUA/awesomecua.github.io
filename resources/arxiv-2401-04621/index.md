@@ -1,7 +1,7 @@
 ---
 title: "DebugBench: Evaluating Debugging Capability… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2401-04621/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

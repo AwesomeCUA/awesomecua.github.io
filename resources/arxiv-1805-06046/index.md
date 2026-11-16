@@ -1,7 +1,7 @@
 ---
 title: "Coded Iterative Computing using Substitute… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1805-06046/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

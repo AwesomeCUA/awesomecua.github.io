@@ -1,7 +1,7 @@
 ---
 title: "Think Before You Act: Decision Transformers… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-16338/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

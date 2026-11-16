@@ -1,7 +1,7 @@
 ---
 title: "Detecting Heart Disease from Multi-View… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2306-00003/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

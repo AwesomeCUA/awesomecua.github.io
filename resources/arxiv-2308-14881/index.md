@@ -1,7 +1,7 @@
 ---
 title: "Universal quantum computation using atoms in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-14881/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

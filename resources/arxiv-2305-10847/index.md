@@ -1,7 +1,7 @@
 ---
 title: "Large Language Models can be Guided to Evade… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-10847/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

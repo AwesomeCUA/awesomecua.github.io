@@ -1,7 +1,7 @@
 ---
 title: "MRKL Systems: A modular, neuro-symbolic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2205-00445/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

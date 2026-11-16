@@ -1,7 +1,7 @@
 ---
 title: "High-fidelity adiabatic quantum computation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1706-08061/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "General Agentic Memory Via Deep Research | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-18423/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

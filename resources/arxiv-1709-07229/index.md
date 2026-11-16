@@ -1,7 +1,7 @@
 ---
 title: "High-Performance Derivative Computations… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1709-07229/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

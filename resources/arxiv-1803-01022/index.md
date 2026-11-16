@@ -1,7 +1,7 @@
 ---
 title: "Programming Quantum Computers Using Design… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1803-01022/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

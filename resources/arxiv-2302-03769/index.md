@@ -1,7 +1,7 @@
 ---
 title: "Computational capability for physical… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2302-03769/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

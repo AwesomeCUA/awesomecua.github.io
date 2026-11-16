@@ -1,7 +1,7 @@
 ---
 title: "Learning a Thousand Tasks in a Day | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-10110/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

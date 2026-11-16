@@ -1,7 +1,7 @@
 ---
 title: "CUDABench: Benchmarking LLMs for Text-to-CUDA… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-02236/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

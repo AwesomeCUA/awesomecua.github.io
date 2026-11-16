@@ -1,7 +1,7 @@
 ---
 title: "Tensor Trust: Interpretable Prompt Injection… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-01011/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

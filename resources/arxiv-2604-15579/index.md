@@ -1,7 +1,7 @@
 ---
 title: "Don't Make Models Guess Security and Safety… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-15579/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

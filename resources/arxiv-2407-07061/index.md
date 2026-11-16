@@ -1,7 +1,7 @@
 ---
 title: "Internet of Agents: Weaving a Web of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-07061/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

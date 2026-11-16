@@ -1,7 +1,7 @@
 ---
 title: "Delay-aware and Energy-Efficient Computation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2103-07811/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Language Conditioned Imitation Learning over… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2005-07648/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

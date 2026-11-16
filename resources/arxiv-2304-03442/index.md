@@ -1,7 +1,7 @@
 ---
 title: "Generative Agents: Interactive Simulacra of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2304-03442/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

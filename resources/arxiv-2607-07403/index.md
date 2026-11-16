@@ -1,7 +1,7 @@
 ---
 title: "Multi-Agent Robotic Control with Onboard… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-07403/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

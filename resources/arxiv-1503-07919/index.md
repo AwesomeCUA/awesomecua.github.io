@@ -1,7 +1,7 @@
 ---
 title: "BitWhisper: Covert Signaling Channel between… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1503-07919/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

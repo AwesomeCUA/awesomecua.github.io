@@ -1,7 +1,7 @@
 ---
 title: "AgentDoG: A Diagnostic Guardrail Framework… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-18491/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

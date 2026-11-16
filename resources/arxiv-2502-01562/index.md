@@ -1,7 +1,7 @@
 ---
 title: "Memento No More: Coaching AI Agents to Master… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-01562/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AI PERSONA: Towards Life-long Personalization… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-13103/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

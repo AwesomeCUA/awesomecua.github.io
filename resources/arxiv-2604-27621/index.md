@@ -1,7 +1,7 @@
 ---
 title: "Robot Learning from Human Videos: A Survey | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-27621/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

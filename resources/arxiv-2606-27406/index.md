@@ -1,7 +1,7 @@
 ---
 title: "Towards Evaluation of Implicit Software World… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-27406/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

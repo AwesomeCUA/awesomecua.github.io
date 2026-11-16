@@ -1,7 +1,7 @@
 ---
 title: "All is Not Lost: LLM Recovery without… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-15461/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

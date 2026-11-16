@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---
@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,203
+- **Records awaiting review**: 1,205
 - **Discovered candidates**: 190
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,19 +27,27 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-15T16:13:52Z
-- **Finished**: 2026-11-15T16:19:38Z
+- **Started**: 2026-11-16T00:40:37Z
+- **Finished**: 2026-11-16T00:44:30Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 0
-- **New candidate identifiers**: 0
+- **New paper metadata**: 2
+- **New candidate identifiers**: 2
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43734266669)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43781738497)
 
 ### Recorded gaps
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+- GitHub candidate observations paused for provider rate limiting; verified progress and cursor are retained.
+- 1 GitHub candidate requests have no accepted metadata response.
+
+## New to the bibliography
+
+These are newly discovered bibliographic records. Relevance and findings still require editorial review.
+
+- [OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access](https://awesomecua.com/resources/arxiv-2602-20196/) · metadata verified
+- [Runtime Authorization of Self-Generated Subgoals in Long-Horizon Tool-Using AI Agents](https://awesomecua.com/resources/arxiv-2610-04975/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +61,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-15T16:15:16Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
+2026-11-16T00:41:50Z · 32 / 32 query windows succeeded · 1,514 distinct identifiers · 2 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -73,7 +81,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Visual grounding<br>screenshot visual grounding click localization agent | 80 | 0 | 80 | success |
 | Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | success |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | success |
-| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | success |
+| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 1 | 80 | success |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | success |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
@@ -86,7 +94,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Adversarial security<br>browser GUI agent prompt injection adversarial security | 80 | 0 | 80 | success |
 | Human collaboration<br>GUI agent human collaboration clarification intervention | 80 | 0 | 80 | success |
 | Efficiency<br>GUI agent efficiency latency visual token compression | 80 | 0 | 80 | success |
-| Open models<br>open source GUI model computer use checkpoint | 80 | 0 | 80 | success |
+| Open models<br>open source GUI model computer use checkpoint | 80 | 1 | 80 | success |
 | Workflow automation<br>visual workflow automation robotic process automation agents | 80 | 0 | 80 | success |
 | Multilingual interfaces<br>multilingual GUI agent interface grounding | 80 | 0 | 80 | success |
 | Testing and exploration<br>GUI agent software testing interface exploration | 80 | 0 | 80 | success |

@@ -1,7 +1,7 @@
 ---
 title: "ML-AutoResearch: Training Machine Learning… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-17216/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

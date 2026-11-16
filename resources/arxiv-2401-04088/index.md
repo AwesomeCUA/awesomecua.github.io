@@ -1,7 +1,7 @@
 ---
 title: "Mixtral of Experts | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2401-04088/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

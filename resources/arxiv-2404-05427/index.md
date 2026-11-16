@@ -1,7 +1,7 @@
 ---
 title: "AutoCodeRover: Autonomous Program Improvement | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-05427/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

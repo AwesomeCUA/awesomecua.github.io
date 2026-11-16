@@ -1,7 +1,7 @@
 ---
 title: "StructRL: Online Structured Reinforcement… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-36352/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

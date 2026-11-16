@@ -1,7 +1,7 @@
 ---
 title: "Impact of finite squeezing on near-term… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-15955/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

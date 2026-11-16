@@ -1,7 +1,7 @@
 ---
 title: "Image2Gcode: Image-to-G-code Generation for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-20636/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "See What Matters: Differentiable Grid Sample… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-11817/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

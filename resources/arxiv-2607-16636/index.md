@@ -1,7 +1,7 @@
 ---
 title: "PhyAgentOS: A Self-Evolving Operating System… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-16636/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

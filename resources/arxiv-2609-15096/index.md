@@ -1,7 +1,7 @@
 ---
 title: "OpenAI4S: Code as Action, Science as Sessions | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-15096/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

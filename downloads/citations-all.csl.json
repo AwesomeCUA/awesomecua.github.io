@@ -123307,6 +123307,64 @@
     "version": "3"
   },
   {
+    "URL": "https://arxiv.org/abs/2602.20196v1",
+    "archive": "arXiv",
+    "archive_location": "2602.20196",
+    "author": [
+      {
+        "literal": "Genliang Zhu"
+      },
+      {
+        "literal": "Chu Wang"
+      },
+      {
+        "literal": "Ziyuan Wang"
+      },
+      {
+        "literal": "Zhida Li"
+      },
+      {
+        "literal": "Qiang Li"
+      }
+    ],
+    "citation-key": "arxiv_2602_20196",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "73a6752ad707787517fc8fee9c742f70eceb2b99a49b7018ebce601c9bd8e620",
+        "submitted_at": "2026-02-22T05:16:40Z",
+        "updated_at": "2026-02-22T05:16:40Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2602.20196v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2602.20196",
+      "catalog_id": "arxiv:2602.20196",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-02-22",
+      "identifiers": {
+        "arxiv": "2602.20196"
+      },
+      "record_updated_at": "2026-02-22"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2602.20196",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          2,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-02-22; Recorded arXiv version: v1; Recorded version updated: 2026-02-22T05:16:40Z.",
+    "title": "OpenPort Protocol: A Security Governance Specification for AI Agent Tool Access",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2602.20502v2",
     "archive": "arXiv",
     "archive_location": "2602.20502",
@@ -185122,6 +185180,55 @@
     "title": "Scaling Verifiable Environments for Long-horizon Work Agents",
     "type": "article",
     "version": "3"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2610.04975v1",
+    "archive": "arXiv",
+    "archive_location": "2610.04975",
+    "author": [
+      {
+        "literal": "Genliang Zhu"
+      },
+      {
+        "literal": "Chu Wang"
+      }
+    ],
+    "citation-key": "arxiv_2610_04975",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "717d137d67fb6515668748ad3b27213e0457a9e43aadd380763bc60dc8704de4",
+        "submitted_at": "2026-10-04T05:43:47Z",
+        "updated_at": "2026-10-04T05:43:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.04975v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.04975",
+      "catalog_id": "arxiv:2610.04975",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-04",
+      "identifiers": {
+        "arxiv": "2610.04975"
+      },
+      "record_updated_at": "2026-10-04"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.04975",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          4
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-04; Recorded arXiv version: v1; Recorded version updated: 2026-10-04T05:43:47Z.",
+    "title": "Runtime Authorization of Self-Generated Subgoals in Long-Horizon Tool-Using AI Agents",
+    "type": "article",
+    "version": "1"
   },
   {
     "URL": "https://arxiv.org/abs/2610.04981v1",

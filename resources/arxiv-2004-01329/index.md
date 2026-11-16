@@ -1,7 +1,7 @@
 ---
 title: "How to Compute Using Quantum Walks | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2004-01329/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "DiSCO: Defending text-to-image generation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-17067/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

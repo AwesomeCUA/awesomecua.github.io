@@ -1,7 +1,7 @@
 ---
 title: "Pattern recognition with neuromorphic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2204-13260/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

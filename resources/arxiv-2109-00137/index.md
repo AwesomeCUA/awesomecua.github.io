@@ -1,7 +1,7 @@
 ---
 title: "Implicit Behavioral Cloning | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2109-00137/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

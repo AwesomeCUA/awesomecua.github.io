@@ -1,7 +1,7 @@
 ---
 title: "Minimizing Latency for Secure Coded Computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1802-02640/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

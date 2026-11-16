@@ -1,7 +1,7 @@
 ---
 title: "Choosing How to Remember: Adaptive Memory… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-14038/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

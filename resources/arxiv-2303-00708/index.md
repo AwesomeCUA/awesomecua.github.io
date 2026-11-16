@@ -1,7 +1,7 @@
 ---
 title: "Perspective on unconventional computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2303-00708/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

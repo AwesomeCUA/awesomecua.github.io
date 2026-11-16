@@ -1,7 +1,7 @@
 ---
 title: "Low-overhead fault-tolerant quantum computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2110-10794/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

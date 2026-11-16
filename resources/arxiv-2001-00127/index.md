@@ -1,7 +1,7 @@
 ---
 title: "Reinforcement Learning with Goal-Distance… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2001-00127/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---

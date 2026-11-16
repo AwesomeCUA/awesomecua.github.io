@@ -1,7 +1,7 @@
 ---
 title: "Human + AI for Accelerating Ad Localization… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-12543/
-updated: 2026-11-15
+updated: 2026-11-16
 type: page
 lang: en
 ---
