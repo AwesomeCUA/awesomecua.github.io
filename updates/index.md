@@ -27,28 +27,19 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-16T08:31:55Z
-- **Finished**: 2026-11-16T08:37:04Z
+- **Started**: 2026-11-16T16:15:41Z
+- **Finished**: 2026-11-16T16:21:32Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 4
-- **New candidate identifiers**: 4
+- **New paper metadata**: 0
+- **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43831941675)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43905444414)
 
 ### Recorded gaps
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
-
-## New to the bibliography
-
-These are newly discovered bibliographic records. Relevance and findings still require editorial review.
-
-- [WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents](https://awesomecua.com/resources/arxiv-2611-17955/) · metadata verified
-- [Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination](https://awesomecua.com/resources/arxiv-2611-18514/) · metadata verified
-- [StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval](https://awesomecua.com/resources/arxiv-2611-18516/) · metadata verified
-- [Training Reasoning Models in Simulation to Natively Use Real Robots](https://awesomecua.com/resources/arxiv-2611-18562/) · metadata verified
+- github_candidates: Stage exceeded 220 seconds; last verified records retained.
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -62,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-16T08:33:02Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
+2026-11-16T16:16:52Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 

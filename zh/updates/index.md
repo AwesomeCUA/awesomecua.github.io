@@ -27,28 +27,19 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-16T08:31:55Z
-- **结束**: 2026-11-16T08:37:04Z
+- **开始**: 2026-11-16T16:15:41Z
+- **结束**: 2026-11-16T16:21:32Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 4
-- **新增候选标识**: 4
+- **新增论文元数据**: 0
+- **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43831941675)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43905444414)
 
 ### 记录的缺口
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
-
-## 新加入书目的记录
-
-以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
-
-- [WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents](https://awesomecua.com/resources/arxiv-2611-17955/) · 元数据已核实
-- [Can Mechanistic Interpretability Help Explain LLM Agent Failures? A Case Study on Web Element Hallucination](https://awesomecua.com/resources/arxiv-2611-18514/) · 元数据已核实
-- [StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval](https://awesomecua.com/resources/arxiv-2611-18516/) · 元数据已核实
-- [Training Reasoning Models in Simulation to Natively Use Real Robots](https://awesomecua.com/resources/arxiv-2611-18562/) · 元数据已核实
+- github_candidates: Stage exceeded 220 seconds; last verified records retained.
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -62,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-16T08:33:02Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 0 个新候选。
+2026-11-16T16:16:52Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
