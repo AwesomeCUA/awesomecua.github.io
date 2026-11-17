@@ -1,7 +1,7 @@
 ---
 title: "Memory-Driven Role-Playing: Evaluation and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-19313/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "BadChain: Backdoor Chain-of-Thought Prompting… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2401-12242/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

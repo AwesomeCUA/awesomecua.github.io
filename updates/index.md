@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---
@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,209
+- **Records awaiting review**: 1,210
 - **Discovered candidates**: 190
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,19 +27,25 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-16T16:15:41Z
-- **Finished**: 2026-11-16T16:21:32Z
+- **Started**: 2026-11-17T00:34:33Z
+- **Finished**: 2026-11-17T00:40:03Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 0
-- **New candidate identifiers**: 0
+- **New paper metadata**: 1
+- **New candidate identifiers**: 1
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43905444414)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43988684897)
 
 ### Recorded gaps
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
+- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+
+## New to the bibliography
+
+These are newly discovered bibliographic records. Relevance and findings still require editorial review.
+
+- [AgentS4D: Benchmarking Runtime Risks across the Execution Lifecycle of LLM-Based Workspace Agents](https://awesomecua.com/resources/arxiv-2607-27294/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +59,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-16T16:16:52Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 0 new candidates.
+2026-11-17T00:35:38Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 1 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -63,7 +69,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Grounding evaluation<br>GUI grounding benchmark | 80 | 0 | 80 | success |
 | Mobile learning<br>mobile GUI agent reinforcement learning | 80 | 0 | 80 | success |
 | Web data and evaluation<br>web agent dataset benchmark | 80 | 0 | 80 | success |
-| Safety and security<br>computer use agent safety | 80 | 0 | 80 | success |
+| Safety and security<br>computer use agent safety | 80 | 1 | 80 | success |
 | Memory and planning<br>GUI agent memory planning | 80 | 0 | 80 | success |
 | Desktop platforms<br>desktop computer use agent Windows macOS Linux | 80 | 0 | 80 | success |
 | Android<br>Android smartphone GUI agent automation | 80 | 0 | 80 | success |

@@ -1,7 +1,7 @@
 ---
 title: "Fast Stencil Computations using Fast Fourier… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2105-06676/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

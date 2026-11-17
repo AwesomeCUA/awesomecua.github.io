@@ -1,7 +1,7 @@
 ---
 title: "Revisiting Secure Computation Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2011-06191/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

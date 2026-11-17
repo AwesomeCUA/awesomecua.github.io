@@ -1,7 +1,7 @@
 ---
 title: "Sufficient condition for universal quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-07820/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

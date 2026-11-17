@@ -1,7 +1,7 @@
 ---
 title: "Simulating collider physics on quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2102-05044/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

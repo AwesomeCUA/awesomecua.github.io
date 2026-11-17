@@ -1,7 +1,7 @@
 ---
 title: "Real AI Agents with Fake Memories: Fatal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-16248/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

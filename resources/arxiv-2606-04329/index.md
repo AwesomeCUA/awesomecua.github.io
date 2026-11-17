@@ -1,7 +1,7 @@
 ---
 title: "From Untrusted Input to Trusted Memory: A… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-04329/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

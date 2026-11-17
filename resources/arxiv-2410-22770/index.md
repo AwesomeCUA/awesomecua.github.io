@@ -1,7 +1,7 @@
 ---
 title: "InjecGuard: Benchmarking and Mitigating… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-22770/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

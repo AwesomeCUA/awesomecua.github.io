@@ -1,7 +1,7 @@
 ---
 title: "CMD: Controllable Multiview Diffusion for 3D… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-07003/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

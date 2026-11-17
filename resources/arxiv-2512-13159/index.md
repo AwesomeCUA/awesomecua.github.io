@@ -1,7 +1,7 @@
 ---
 title: "SpeakRL: Synergizing Reasoning, Speaking, and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-13159/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

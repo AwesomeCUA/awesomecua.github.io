@@ -1,7 +1,7 @@
 ---
 title: "Trapped Ion Quantum Computing using Optical… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2301-04668/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Instructions as Backdoors: Backdoor… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-14710/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

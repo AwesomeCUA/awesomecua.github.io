@@ -1,16 +1,16 @@
 ---
 title: "Coverage and verification ledger | AwesomeCUA"
 url: https://awesomecua.com/coverage/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---
 
 # Coverage and verification ledger
 
-5,347 curated resources and 1,209 records with verified bibliographic metadata awaiting review.
+5,347 curated resources and 1,210 records with verified bibliographic metadata awaiting review.
 
-Evidence snapshot: 2026-11-16T08:33:02Z. Resource types can refer to different parts of the same project.
+Evidence snapshot: 2026-11-17T00:35:40Z. Resource types can refer to different parts of the same project.
 
 ## Discovery-source coverage
 
@@ -123,7 +123,7 @@ Evidence snapshot: 2026-11-16T08:33:02Z. Resource types can refer to different p
 
 ## Explicit scope exclusions
 
-1308 records are excluded after individual scope review. The original 4,182-record arXiv metadata archive is retained. [Inspect decisions and source evidence](https://awesomecua.com/downloads/exclusions.json) · [Download the raw archive](https://awesomecua.com/downloads/arxiv-archive.jsonl).
+1308 records are excluded after individual scope review. The original 4,183-record arXiv metadata archive is retained. [Inspect decisions and source evidence](https://awesomecua.com/downloads/exclusions.json) · [Download the raw archive](https://awesomecua.com/downloads/arxiv-archive.jsonl).
 
 A changed or unconfirmed exclusion returns to review.
 

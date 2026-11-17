@@ -1,7 +1,7 @@
 ---
 title: "Hybrid-Level Instruction Injection for Video… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-16036/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "LLaVA-Mini: Efficient Image and Video Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-03895/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

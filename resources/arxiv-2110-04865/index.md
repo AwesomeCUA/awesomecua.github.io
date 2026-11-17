@@ -1,7 +1,7 @@
 ---
 title: "Parallel Minimum Spanning Forest Computation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2110-04865/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

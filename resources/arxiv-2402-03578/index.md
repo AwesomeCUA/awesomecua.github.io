@@ -1,7 +1,7 @@
 ---
 title: "LLM Multi-Agent Systems: Challenges and Open… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-03578/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

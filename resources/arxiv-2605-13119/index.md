@@ -1,7 +1,7 @@
 ---
 title: "Towards Long-horizon Embodied Agents with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-13119/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

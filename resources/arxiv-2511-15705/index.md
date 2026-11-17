@@ -1,7 +1,7 @@
 ---
 title: "GeoVista: Web-Augmented Agentic Visual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-15705/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

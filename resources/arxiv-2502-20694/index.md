@@ -1,7 +1,7 @@
 ---
 title: "WorldModelBench: Judging Video Generation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-20694/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

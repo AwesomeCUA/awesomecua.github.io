@@ -1,7 +1,7 @@
 ---
 title: "DeltaMem: Towards Agentic Memory Management… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-01560/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

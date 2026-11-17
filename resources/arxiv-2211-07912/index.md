@@ -1,7 +1,7 @@
 ---
 title: "YORO -- Lightweight End to End Visual Grounding | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2211-07912/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

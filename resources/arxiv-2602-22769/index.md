@@ -1,7 +1,7 @@
 ---
 title: "AMA-Bench: Evaluating Long-Horizon Memory for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-22769/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "FDABench: A Benchmark for Data Agents on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-02473/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "TimeSeriesGym: A Scalable Benchmark for (Time… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-13291/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

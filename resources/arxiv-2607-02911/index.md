@@ -1,7 +1,7 @@
 ---
 title: "CoACT: Action-Preserving Observation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-02911/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

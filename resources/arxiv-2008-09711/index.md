@@ -1,7 +1,7 @@
 ---
 title: "Fast Transit Computation Using Tabulated… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2008-09711/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

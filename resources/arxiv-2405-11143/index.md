@@ -1,7 +1,7 @@
 ---
 title: "OpenRLHF: An Easy-to-use, Scalable and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-11143/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

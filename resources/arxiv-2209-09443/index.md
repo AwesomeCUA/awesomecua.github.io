@@ -1,7 +1,7 @@
 ---
 title: "Cryogenic in-memory computing using magnetic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2209-09443/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "HuggingGPT: Solving AI Tasks with ChatGPT and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2303-17580/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

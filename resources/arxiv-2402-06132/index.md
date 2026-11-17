@@ -1,7 +1,7 @@
 ---
 title: "TETRIS: Towards Exploring the Robustness of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-06132/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

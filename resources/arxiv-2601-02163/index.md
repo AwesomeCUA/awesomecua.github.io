@@ -1,7 +1,7 @@
 ---
 title: "EverMemOS: A Self-Organizing Memory Operating… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-02163/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

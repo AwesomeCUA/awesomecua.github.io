@@ -1,7 +1,7 @@
 ---
 title: "Game On: Towards Language Models as RL… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-03402/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

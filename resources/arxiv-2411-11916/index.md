@@ -1,7 +1,7 @@
 ---
 title: "From Words to Structured Visuals: A Benchmark… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2411-11916/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

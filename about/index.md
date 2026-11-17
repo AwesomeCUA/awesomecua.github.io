@@ -1,7 +1,7 @@
 ---
 title: "About AwesomeCUA and editorial policy"
 url: https://awesomecua.com/about/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

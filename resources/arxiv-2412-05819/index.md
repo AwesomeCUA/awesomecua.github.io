@@ -1,7 +1,7 @@
 ---
 title: "[CLS] Token Tells Everything Needed for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-05819/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

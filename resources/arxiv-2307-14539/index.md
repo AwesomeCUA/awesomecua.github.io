@@ -1,7 +1,7 @@
 ---
 title: "Jailbreak in pieces: Compositional… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2307-14539/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

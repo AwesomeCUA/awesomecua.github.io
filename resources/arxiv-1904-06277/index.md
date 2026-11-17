@@ -1,7 +1,7 @@
 ---
 title: "Verified partial eigenvalue computations… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1904-06277/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

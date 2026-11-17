@@ -1,7 +1,7 @@
 ---
 title: "Octo-planner: On-device Language Model for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-18082/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

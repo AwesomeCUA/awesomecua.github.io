@@ -1,7 +1,7 @@
 ---
 title: "Universal quantum computation using Ising… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-14860/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

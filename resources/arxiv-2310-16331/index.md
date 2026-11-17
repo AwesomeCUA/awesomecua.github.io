@@ -1,7 +1,7 @@
 ---
 title: "Brain-Inspired Reservoir Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-16331/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---

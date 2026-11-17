@@ -1,7 +1,7 @@
 ---
 title: "Xmodel-2 Technical Report | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-19638/
-updated: 2026-11-16
+updated: 2026-11-17
 type: page
 lang: en
 ---
