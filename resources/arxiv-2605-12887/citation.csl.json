@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2605.12887",
+  "citation-key": "arxiv_2605_12887",
+  "type": "article",
+  "title": "EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents",
+  "URL": "https://arxiv.org/abs/2605.12887v3",
+  "custom": {
+    "catalog_id": "arxiv:2605.12887",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2605.12887",
+    "identifiers": {
+      "arxiv": "2605.12887"
+    },
+    "first_published_at": "2026-05-13",
+    "record_updated_at": "2026-11-05",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "c20f81840339dca7e79b46fa37ff3bf74091c9ec22b2a7a2e614dfa646a2be82",
+      "submitted_at": "2026-05-13T02:03:18Z",
+      "updated_at": "2026-11-05T09:38:03Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2605.12887v3"
+    }
+  },
+  "note": "First published: 2026-05-13; Recorded arXiv version: v3; Recorded version updated: 2026-11-05T09:38:03Z.",
+  "author": [
+    {
+      "literal": "Hengwei Ye"
+    },
+    {
+      "literal": "Jiasheng Mao"
+    },
+    {
+      "literal": "Zhenhan Guan"
+    },
+    {
+      "literal": "Zheng Tian"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        5,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2605.12887",
+  "genre": "preprint",
+  "version": "3"
+}

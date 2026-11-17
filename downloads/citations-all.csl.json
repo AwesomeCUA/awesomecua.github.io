@@ -142609,6 +142609,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2605.12887v3",
+    "archive": "arXiv",
+    "archive_location": "2605.12887",
+    "author": [
+      {
+        "literal": "Hengwei Ye"
+      },
+      {
+        "literal": "Jiasheng Mao"
+      },
+      {
+        "literal": "Zhenhan Guan"
+      },
+      {
+        "literal": "Zheng Tian"
+      }
+    ],
+    "citation-key": "arxiv_2605_12887",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "c20f81840339dca7e79b46fa37ff3bf74091c9ec22b2a7a2e614dfa646a2be82",
+        "submitted_at": "2026-05-13T02:03:18Z",
+        "updated_at": "2026-11-05T09:38:03Z",
+        "version": 3,
+        "versioned_url": "https://arxiv.org/abs/2605.12887v3"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2605.12887",
+      "catalog_id": "arxiv:2605.12887",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-05-13",
+      "identifiers": {
+        "arxiv": "2605.12887"
+      },
+      "record_updated_at": "2026-11-05"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2605.12887",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          13
+        ]
+      ]
+    },
+    "note": "First published: 2026-05-13; Recorded arXiv version: v3; Recorded version updated: 2026-11-05T09:38:03Z.",
+    "title": "EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents",
+    "type": "article",
+    "version": "3"
+  },
+  {
     "URL": "https://arxiv.org/abs/2605.12978v2",
     "archive": "arXiv",
     "archive_location": "2605.12978",
@@ -157935,6 +157990,88 @@
     "title": "The Balkanization of Execution-Security Research for AI Coding Agents: Isolation, Access Control, and Time-of-Check-to-Time-of-Use Vulnerabilities",
     "type": "article",
     "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2607.05750v2",
+    "archive": "arXiv",
+    "archive_location": "2607.05750",
+    "author": [
+      {
+        "literal": "Yunhan Xu"
+      },
+      {
+        "literal": "Qifeng Wu"
+      },
+      {
+        "literal": "Xunjin Li"
+      },
+      {
+        "literal": "Yuanwei Bin"
+      },
+      {
+        "literal": "Qingsong Yao"
+      },
+      {
+        "literal": "Jianghang Gu"
+      },
+      {
+        "literal": "Guan Wang"
+      },
+      {
+        "literal": "Weihao Lv"
+      },
+      {
+        "literal": "Huiyu Yang"
+      },
+      {
+        "literal": "Wenfa Luo"
+      },
+      {
+        "literal": "Jiao Xiang"
+      },
+      {
+        "literal": "Yuntian Chen"
+      },
+      {
+        "literal": "Shiyi Chen"
+      }
+    ],
+    "citation-key": "arxiv_2607_05750",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a11b64c7e51f1f988fd78efa6ab9f9d17d96695930382f369c8251b0e45d418e",
+        "submitted_at": "2026-07-07T02:11:50Z",
+        "updated_at": "2026-07-08T02:05:52Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2607.05750v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.05750",
+      "catalog_id": "arxiv:2607.05750",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-07-07",
+      "identifiers": {
+        "arxiv": "2607.05750"
+      },
+      "record_updated_at": "2026-07-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.05750",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          7
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-07; Recorded arXiv version: v2; Recorded version updated: 2026-07-08T02:05:52Z.",
+    "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
+    "type": "article",
+    "version": "2"
   },
   {
     "URL": "https://arxiv.org/abs/2607.05804v2",
@@ -207004,6 +207141,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.11470v1",
+    "archive": "arXiv",
+    "archive_location": "2611.11470",
+    "author": [
+      {
+        "literal": "Yitian Pang"
+      },
+      {
+        "literal": "Yifan Li"
+      },
+      {
+        "literal": "Xiaowei Yue"
+      },
+      {
+        "literal": "Li Zheng"
+      }
+    ],
+    "citation-key": "arxiv_2611_11470",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b8901d5cd90ec659f3711934fbc52864ff8586620c734a8a5241b8e7d4f4d1fc",
+        "submitted_at": "2026-11-08T16:07:56Z",
+        "updated_at": "2026-11-08T16:07:56Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.11470v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.11470",
+      "catalog_id": "arxiv:2611.11470",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-08",
+      "identifiers": {
+        "arxiv": "2611.11470"
+      },
+      "record_updated_at": "2026-11-08"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.11470",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          8
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-08; Recorded arXiv version: v1; Recorded version updated: 2026-11-08T16:07:56Z.",
+    "title": "GOPR-CAD: Graph-of-Operations Progressive Reasoning for CAD Generation",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2611.11971v1",
     "archive": "arXiv",
     "archive_location": "2611.11971",
@@ -208134,6 +208326,79 @@
     },
     "note": "First published: 2026-11-16; Recorded arXiv version: v1; Recorded version updated: 2026-11-16T09:21:59Z.",
     "title": "Building Fully On-Device GUI Agents with Mobile NPUs",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.20882v1",
+    "archive": "arXiv",
+    "archive_location": "2611.20882",
+    "author": [
+      {
+        "literal": "Bowen Liu"
+      },
+      {
+        "literal": "Yuhan Li"
+      },
+      {
+        "literal": "Nuo Chen"
+      },
+      {
+        "literal": "Weile Luo"
+      },
+      {
+        "literal": "Miao Peng"
+      },
+      {
+        "literal": "Qintong Zhang"
+      },
+      {
+        "literal": "Qifan Zhang"
+      },
+      {
+        "literal": "Jia Li"
+      },
+      {
+        "literal": "Ziqi Gao"
+      },
+      {
+        "literal": "Lydell Huang"
+      }
+    ],
+    "citation-key": "arxiv_2611_20882",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8e98a721eaecff93692369d1810dc3f73a8a784a898d689b444ced741699260e",
+        "submitted_at": "2026-11-16T10:52:59Z",
+        "updated_at": "2026-11-16T10:52:59Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.20882v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.20882",
+      "catalog_id": "arxiv:2611.20882",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-16",
+      "identifiers": {
+        "arxiv": "2611.20882"
+      },
+      "record_updated_at": "2026-11-16"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.20882",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-16; Recorded arXiv version: v1; Recorded version updated: 2026-11-16T10:52:59Z.",
+    "title": "Accelerate Bench: Evaluating Agents for Application-Level Program Optimization",
     "type": "article",
     "version": "1"
   },

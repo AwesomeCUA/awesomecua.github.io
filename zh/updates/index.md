@@ -19,7 +19,7 @@ lang: zh-CN
 
 - **已审阅的论文与综述**: 1,718
 - **其他已审阅资源**: 3,629
-- **待审阅记录**: 1,215
+- **待审阅记录**: 1,219
 - **已发现候选**: 192
 
 这些数量包含下方扫描之后完成的编辑工作。[浏览已审阅的研究](https://awesomecua.com/zh/papers/)或[查看完整覆盖情况](https://awesomecua.com/zh/coverage/)。
@@ -27,15 +27,15 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-17T08:18:42Z
-- **结束**: 2026-11-17T08:21:41Z
+- **开始**: 2026-11-17T16:16:11Z
+- **结束**: 2026-11-17T16:21:26Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 5
-- **新增候选标识**: 7
+- **新增论文元数据**: 4
+- **新增候选标识**: 4
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44045602488)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44123738547)
 
 ### 记录的缺口
 
@@ -45,11 +45,10 @@ lang: zh-CN
 
 以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
 
-- [T2T Technical Report: Synthesizing GUI Agent Trajectories at Scale from Video Tutorials](https://awesomecua.com/resources/arxiv-2611-18715/) · 元数据已核实
-- [Video-as-Experience: Learning Computer Use via Audio-Visual Understanding](https://awesomecua.com/resources/arxiv-2611-18747/) · 元数据已核实
-- [EVIDENT: Evaluating Evidence Grounding in GUI Agents](https://awesomecua.com/resources/arxiv-2611-20488/) · 元数据已核实
-- [UIAnchor: Anchoring UI Perception and Action Execution for Reliable Service-Composed Mobile Task Automation with GUI Agents](https://awesomecua.com/resources/arxiv-2611-20753/) · 元数据已核实
-- [Building Fully On-Device GUI Agents with Mobile NPUs](https://awesomecua.com/resources/arxiv-2611-20772/) · 元数据已核实
+- [EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents](https://awesomecua.com/resources/arxiv-2605-12887/) · 元数据已核实
+- [ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation](https://awesomecua.com/resources/arxiv-2607-05750/) · 元数据已核实
+- [GOPR-CAD: Graph-of-Operations Progressive Reasoning for CAD Generation](https://awesomecua.com/resources/arxiv-2611-11470/) · 元数据已核实
+- [Accelerate Bench: Evaluating Agents for Application-Level Program Optimization](https://awesomecua.com/resources/arxiv-2611-20882/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -63,7 +62,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-17T08:19:42Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 0 个新候选。
+2026-11-17T16:17:18Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 4 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -81,15 +80,15 @@ lang: zh-CN
 | HarmonyOS<br>HarmonyOS mobile GUI agent | 80 | 0 | 80 | 成功 |
 | Screen understanding<br>GUI screen understanding interface element detection | 80 | 0 | 80 | 成功 |
 | Visual grounding<br>screenshot visual grounding click localization agent | 80 | 0 | 80 | 成功 |
-| Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | 成功 |
+| Browser interaction<br>visual web navigation browser agent | 80 | 1 | 80 | 成功 |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | 成功 |
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | 成功 |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | 成功 |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | 成功 |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | 成功 |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | 成功 |
-| Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | 成功 |
-| Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | 成功 |
+| Task verification<br>computer use benchmark task evaluation state verification | 80 | 1 | 80 | 成功 |
+| Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 2 | 80 | 成功 |
 | Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 0 | 80 | 成功 |
 | Assistive interfaces<br>accessibility assistive multimodal GUI agents | 80 | 0 | 80 | 成功 |
 | Robustness<br>GUI agent robustness dynamic interfaces distribution shift | 80 | 0 | 80 | 成功 |
