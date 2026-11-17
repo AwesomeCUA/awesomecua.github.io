@@ -19,23 +19,23 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,210
-- **Discovered candidates**: 190
+- **Records awaiting review**: 1,215
+- **Discovered candidates**: 192
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
 
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-17T00:34:33Z
-- **Finished**: 2026-11-17T00:40:03Z
+- **Started**: 2026-11-17T08:18:42Z
+- **Finished**: 2026-11-17T08:21:41Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 1
-- **New candidate identifiers**: 1
+- **New paper metadata**: 5
+- **New candidate identifiers**: 7
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/43988684897)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44045602488)
 
 ### Recorded gaps
 
@@ -45,7 +45,11 @@ These counts include editorial work completed after the scan below. [Browse revi
 
 These are newly discovered bibliographic records. Relevance and findings still require editorial review.
 
-- [AgentS4D: Benchmarking Runtime Risks across the Execution Lifecycle of LLM-Based Workspace Agents](https://awesomecua.com/resources/arxiv-2607-27294/) · metadata verified
+- [T2T Technical Report: Synthesizing GUI Agent Trajectories at Scale from Video Tutorials](https://awesomecua.com/resources/arxiv-2611-18715/) · metadata verified
+- [Video-as-Experience: Learning Computer Use via Audio-Visual Understanding](https://awesomecua.com/resources/arxiv-2611-18747/) · metadata verified
+- [EVIDENT: Evaluating Evidence Grounding in GUI Agents](https://awesomecua.com/resources/arxiv-2611-20488/) · metadata verified
+- [UIAnchor: Anchoring UI Perception and Action Execution for Reliable Service-Composed Mobile Task Automation with GUI Agents](https://awesomecua.com/resources/arxiv-2611-20753/) · metadata verified
+- [Building Fully On-Device GUI Agents with Mobile NPUs](https://awesomecua.com/resources/arxiv-2611-20772/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +63,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-17T00:35:38Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 1 new candidates.
+2026-11-17T08:19:42Z · 32 / 32 query windows succeeded · 1,512 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -69,7 +73,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Grounding evaluation<br>GUI grounding benchmark | 80 | 0 | 80 | success |
 | Mobile learning<br>mobile GUI agent reinforcement learning | 80 | 0 | 80 | success |
 | Web data and evaluation<br>web agent dataset benchmark | 80 | 0 | 80 | success |
-| Safety and security<br>computer use agent safety | 80 | 1 | 80 | success |
+| Safety and security<br>computer use agent safety | 80 | 0 | 80 | success |
 | Memory and planning<br>GUI agent memory planning | 80 | 0 | 80 | success |
 | Desktop platforms<br>desktop computer use agent Windows macOS Linux | 80 | 0 | 80 | success |
 | Android<br>Android smartphone GUI agent automation | 80 | 0 | 80 | success |

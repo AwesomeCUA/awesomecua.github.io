@@ -19,23 +19,23 @@ lang: zh-CN
 
 - **已审阅的论文与综述**: 1,718
 - **其他已审阅资源**: 3,629
-- **待审阅记录**: 1,210
-- **已发现候选**: 190
+- **待审阅记录**: 1,215
+- **已发现候选**: 192
 
 这些数量包含下方扫描之后完成的编辑工作。[浏览已审阅的研究](https://awesomecua.com/zh/papers/)或[查看完整覆盖情况](https://awesomecua.com/zh/coverage/)。
 
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-17T00:34:33Z
-- **结束**: 2026-11-17T00:40:03Z
+- **开始**: 2026-11-17T08:18:42Z
+- **结束**: 2026-11-17T08:21:41Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 1
-- **新增候选标识**: 1
+- **新增论文元数据**: 5
+- **新增候选标识**: 7
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/43988684897)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44045602488)
 
 ### 记录的缺口
 
@@ -45,7 +45,11 @@ lang: zh-CN
 
 以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
 
-- [AgentS4D: Benchmarking Runtime Risks across the Execution Lifecycle of LLM-Based Workspace Agents](https://awesomecua.com/resources/arxiv-2607-27294/) · 元数据已核实
+- [T2T Technical Report: Synthesizing GUI Agent Trajectories at Scale from Video Tutorials](https://awesomecua.com/resources/arxiv-2611-18715/) · 元数据已核实
+- [Video-as-Experience: Learning Computer Use via Audio-Visual Understanding](https://awesomecua.com/resources/arxiv-2611-18747/) · 元数据已核实
+- [EVIDENT: Evaluating Evidence Grounding in GUI Agents](https://awesomecua.com/resources/arxiv-2611-20488/) · 元数据已核实
+- [UIAnchor: Anchoring UI Perception and Action Execution for Reliable Service-Composed Mobile Task Automation with GUI Agents](https://awesomecua.com/resources/arxiv-2611-20753/) · 元数据已核实
+- [Building Fully On-Device GUI Agents with Mobile NPUs](https://awesomecua.com/resources/arxiv-2611-20772/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +63,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-17T00:35:38Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 1 个新候选。
+2026-11-17T08:19:42Z · 32 / 32 个查询窗口成功 · 1,512 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -69,7 +73,7 @@ lang: zh-CN
 | Grounding evaluation<br>GUI grounding benchmark | 80 | 0 | 80 | 成功 |
 | Mobile learning<br>mobile GUI agent reinforcement learning | 80 | 0 | 80 | 成功 |
 | Web data and evaluation<br>web agent dataset benchmark | 80 | 0 | 80 | 成功 |
-| Safety and security<br>computer use agent safety | 80 | 1 | 80 | 成功 |
+| Safety and security<br>computer use agent safety | 80 | 0 | 80 | 成功 |
 | Memory and planning<br>GUI agent memory planning | 80 | 0 | 80 | 成功 |
 | Desktop platforms<br>desktop computer use agent Windows macOS Linux | 80 | 0 | 80 | 成功 |
 | Android<br>Android smartphone GUI agent automation | 80 | 0 | 80 | 成功 |
