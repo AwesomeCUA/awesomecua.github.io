@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,226
+- **Records awaiting review**: 1,228
 - **Discovered candidates**: 193
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,15 +27,15 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-18T08:18:39Z
-- **Finished**: 2026-11-18T08:24:33Z
+- **Started**: 2026-11-18T16:14:52Z
+- **Finished**: 2026-11-18T16:20:22Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 6
-- **New candidate identifiers**: 7
+- **New paper metadata**: 2
+- **New candidate identifiers**: 2
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44265837809)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44344907837)
 
 ### Recorded gaps
 
@@ -45,12 +45,8 @@ These counts include editorial work completed after the scan below. [Browse revi
 
 These are newly discovered bibliographic records. Relevance and findings still require editorial review.
 
-- [Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction](https://awesomecua.com/resources/arxiv-2610-06964/) · metadata verified
-- [Sage S2.1 Flash Technical Report](https://awesomecua.com/resources/arxiv-2611-21072/) · metadata verified
-- [GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk](https://awesomecua.com/resources/arxiv-2611-22223/) · metadata verified
-- [PACT: Plan-Action Consistency Training by Preserving Correct Plans and Repairing Actions in GUI Agents](https://awesomecua.com/resources/arxiv-2611-22591/) · metadata verified
-- [Practice in Text, Act in Pixels: Correcting Where Perception Fails](https://awesomecua.com/resources/arxiv-2611-22722/) · metadata verified
-- [SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](https://awesomecua.com/resources/arxiv-2611-22971/) · metadata verified
+- [CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference](https://awesomecua.com/resources/arxiv-2611-22563/) · metadata verified
+- [MillBill: A Machining Agent with Geometric Feedback](https://awesomecua.com/resources/arxiv-2611-22565/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -64,7 +60,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-18T08:19:51Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 1 new candidates.
+2026-11-18T16:15:53Z · 32 / 32 query windows succeeded · 1,514 distinct identifiers · 2 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -85,12 +81,12 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | success |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | success |
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | success |
-| Agent memory<br>GUI agent episodic memory self reflection | 80 | 1 | 80 | success |
+| Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | success |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | success |
 | Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | success |
-| Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | success |
+| Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 2 | 80 | success |
 | Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 0 | 80 | success |
 | Assistive interfaces<br>accessibility assistive multimodal GUI agents | 80 | 0 | 80 | success |
 | Robustness<br>GUI agent robustness dynamic interfaces distribution shift | 80 | 0 | 80 | success |

@@ -8,7 +8,7 @@ lang: en
 
 # Download the data
 
-Reviewed records: 5,347 · Catalog records awaiting review: 1,226 · Updated: 2026-11-18 · [File list as JSON](https://awesomecua.com/downloads/manifest.json) · [中文](https://awesomecua.com/zh/data/index.md)
+Reviewed records: 5,347 · Catalog records awaiting review: 1,228 · Updated: 2026-11-18 · [File list as JSON](https://awesomecua.com/downloads/manifest.json) · [中文](https://awesomecua.com/zh/data/index.md)
 
 - [Hugging Face](https://huggingface.co/datasets/TIGER-Lab/AwesomeCUA) · Format: datasets · Records: 5,347 · Config: resources · Updated: Every scan
 
@@ -16,43 +16,43 @@ Reviewed records: 5,347 · Catalog records awaiting review: 1,226 · Updated: 20
 
 ### Complete catalog: 3 files
 
-- [Full catalog](https://awesomecua.com/downloads/catalog.jsonl) · JSONL · 6,573 resources · 14.9 MiB · SHA-256: 6158a09f90a962b666d64bbf6b992ea3f8b691d89d704198246861cf33787811
-- [Full catalog as a JSON array](https://awesomecua.com/data/records.json) · JSON · 6,573 resources · 14.3 MiB · SHA-256: f0327d80c56d4b8650b59dc0f3a1d7d39771826a685e38c0afb1f81f0646b505
-- [Queryable database](https://awesomecua.com/downloads/catalog.sqlite) · SQLite · 6,573 resources · 29.4 MiB · SHA-256: 744440f25a0837eef540e070432ded0319468519cfcfb06a83145bfc77a38866
+- [Full catalog](https://awesomecua.com/downloads/catalog.jsonl) · JSONL · 6,575 resources · 14.9 MiB · SHA-256: 04e0333a0a2b1f5c2d311ccb3b812d4d07f1bee0c6dc0092355c94407e1fdbf0
+- [Full catalog as a JSON array](https://awesomecua.com/data/records.json) · JSON · 6,575 resources · 14.3 MiB · SHA-256: 4f49aad81d5d9602e64f297e16328c8db422a47963d034e77c0b0950d7fd0732
+- [Queryable database](https://awesomecua.com/downloads/catalog.sqlite) · SQLite · 6,575 resources · 29.4 MiB · SHA-256: 3f3fb224f70d2c07a39ceb490465e68e8d988b4607445713d5454d098cac4e2d
 
 ### RAG documents: 3 files
 
 - [Reviewed retrieval documents](https://awesomecua.com/downloads/rag-documents.jsonl) · JSONL · 5,347 documents · 17.4 MiB · SHA-256: 084902b38f61ce58073772070ce6cee461f1e0f47354315d5ed807b21b1542dc
-- [All retrieval documents](https://awesomecua.com/downloads/rag-all-records.jsonl) · JSONL · 6,573 documents · 21.4 MiB · SHA-256: cb032d8c08ce8c7a233777975369fc85417e43b33078e855d4fbe509348283db
-- [RAG export manifest](https://awesomecua.com/downloads/rag-manifest.json) · JSON · 2 export files · 958 B · SHA-256: 9bb33f29091401bdfc3ac48b785302692f1754f69c4867417e05737be6f2d9f8
+- [All retrieval documents](https://awesomecua.com/downloads/rag-all-records.jsonl) · JSONL · 6,575 documents · 21.4 MiB · SHA-256: ccae35cadf0584c2b7aece2431649288519cc14d598d0c1a9566869302526d0c
+- [RAG export manifest](https://awesomecua.com/downloads/rag-manifest.json) · JSON · 2 export files · 958 B · SHA-256: e06ff9af05ca5105fd0dece46061846233518965615dcf8b130d842d82650fab
 
 ### Citations: 7 files
 
 - [Reviewed paper citations](https://awesomecua.com/downloads/citations.bib) · BibTeX · 1,718 citations · 1.3 MiB · SHA-256: b0046731dea07e63942f7e751ea370cc09e331ecd8cc592e08dcbd4f2c204cad
 - [Reviewed paper citations](https://awesomecua.com/downloads/citations.csl.json) · CSL JSON · 1,718 citations · 3.1 MiB · SHA-256: ebdb2f45a3f9f0626a9349982a77e8eff38d569a04949e3e4677bdee59b7cb42
-- [All bibliography citations](https://awesomecua.com/downloads/citations-all.bib) · BibTeX · 2,944 citations · 2.1 MiB · SHA-256: 3aac755d4ee6ec7b8b756c33cfa49f8327dd3f102026f29450b3ca853273b530
-- [All bibliography citations](https://awesomecua.com/downloads/citations-all.csl.json) · CSL JSON · 2,944 citations · 5.4 MiB · SHA-256: c1ea1efb0155a49f47248c41d09aa66eead397b1385a66812d9ce117e1a30fe6
+- [All bibliography citations](https://awesomecua.com/downloads/citations-all.bib) · BibTeX · 2,946 citations · 2.1 MiB · SHA-256: d7a37c1a937186648fed83bc6da6178d222b8e6a63016189c8b8e28466f396df
+- [All bibliography citations](https://awesomecua.com/downloads/citations-all.csl.json) · CSL JSON · 2,946 citations · 5.4 MiB · SHA-256: 1fa28f019bb8312f0a69c67edde0fd07a32cde3021c2d8ae9c31da13653ed3e7
 - [Publication citations](https://awesomecua.com/downloads/publication-citations.bib) · BibTeX · 126 citations · 267.3 KiB · SHA-256: 8d4c49b534098e3038f34c892f5ccc8ee4b81f171e2de33e01bdecb912ff7040
 - [Publication citations](https://awesomecua.com/downloads/publication-citations.csl.json) · CSL JSON · 126 citations · 404.8 KiB · SHA-256: 77293a6516dfafefef3ea34e355d26590c5aa44975d2cdc62dc6821efb6ff0a2
-- [Citation export manifest](https://awesomecua.com/downloads/citations-manifest.json) · JSON · 6 export files · 3.5 KiB · SHA-256: cd6ce98fb29871228a30d146f8f9150935f04b91f7725ef3e2e04e5a2b4c0aa4
+- [Citation export manifest](https://awesomecua.com/downloads/citations-manifest.json) · JSON · 6 export files · 3.5 KiB · SHA-256: 93a146d075ed7d1b746fd448bb3c350c6c8e07446804ef064365ca8450db7a5d
 
 ### Topics and comparisons: 4 files
 
-- [Topic subsets](https://awesomecua.com/downloads/topics.json) · JSON · 35 topics · 628.6 KiB · SHA-256: 35375130eeb7d904a0c3c98e784ae0784d7377541ad86b7aed4254bd88a6e2b6
+- [Topic subsets](https://awesomecua.com/downloads/topics.json) · JSON · 35 topics · 628.6 KiB · SHA-256: 96606f4d2f820e2dbe2b55e29f5e6075e4e0de07d227117b8cd8977e648bba86
 - [Benchmark protocols](https://awesomecua.com/downloads/benchmarks-profiles.json) · JSON · 94 profiles · 417.5 KiB · SHA-256: f144cd3b90a0d74b53fd87cc7d66d1e4723895aa81916b738e757bc153374cac
 - [Dataset profiles](https://awesomecua.com/downloads/datasets-profiles.json) · JSON · 125 profiles · 489.4 KiB · SHA-256: 9d2244781ecda134816efd46ed84dfa7fa5a45d3a2736a92bbeec856006b02e1
 - [Reviewed relationships](https://awesomecua.com/downloads/relationships.json) · JSON · 1,155 relations · 354.0 KiB · SHA-256: 725fbe6afda6d43d9d8084c39695ee9ca514b352b31c64eaacde0d4fdb138aa5
 
 ### Sources and review status: 8 files
 
-- [Coverage ledger](https://awesomecua.com/downloads/coverage.json) · JSON · 1 report · 491.1 KiB · SHA-256: f0f5362076fb688c5e82df17f9f6f483566c5a32a1977a8c46d8e8086ab3ebff
+- [Coverage ledger](https://awesomecua.com/downloads/coverage.json) · JSON · 1 report · 491.1 KiB · SHA-256: 4921ce73c8b74997f653ab43d19caf1b0a257dcacd392b27597c10b7138a1963
 - [Where the scans look](https://awesomecua.com/downloads/sources.json) · JSON · 104 discovery documents · 61.5 KiB · SHA-256: 9d35eecbcec89f6b35e956a78c7b72bd287c0ff9862a2882584c54b017762d94
 - [Scope decisions](https://awesomecua.com/downloads/exclusions.json) · JSON · 1,308 decisions · 1.8 MiB · SHA-256: d41bcb9cd09d8524c7d6279d3d4ccd39915ce9174cbffd33dfffb2086118dabd
-- [Raw arXiv harvest](https://awesomecua.com/downloads/arxiv-archive.jsonl) · JSONL · 4,199 arXiv records · 8.4 MiB · SHA-256: 76b8c23c1359f96fa09bdb4a60f78e9348acfd1797b5d26b0b89d21fe597cc28
+- [Raw arXiv harvest](https://awesomecua.com/downloads/arxiv-archive.jsonl) · JSONL · 4,201 arXiv records · 8.4 MiB · SHA-256: cb6bf19b1c12a7e5248969d7bcf2d6fdc93f85786b9a2da5d6502acf40913492
 - [Published editions of papers](https://awesomecua.com/downloads/publications.jsonl) · JSONL · 127 publication editions · 271.1 KiB · SHA-256: 81da93605d65100e2839d47eaa4d7b0eb41ff6cf0edfe8db105cc22c8e8687bf
 - [Former repository names](https://awesomecua.com/downloads/repository-aliases.json) · JSON · 61 former repository names · 73.1 KiB · SHA-256: bd464331fc4967dc6054cb595d4a1b6d6055266d565a74f595c7d1ed5b2c5452
 - [GitHub candidate repositories](https://awesomecua.com/downloads/github-candidates.jsonl) · JSONL · 10,252 repositories · 27.0 MiB · SHA-256: acea4ddfea7f601edfc7ca49c12c84f9f11501a995c971ae23bccdf12794a5c3
-- [Candidate observation manifest](https://awesomecua.com/downloads/github-candidates-manifest.json) · JSON · 1 report · 357.5 KiB · SHA-256: 136bdacee385f8f50d2a7a33434de39d6f90a6b2c7129cb1d2f594c777a26d0b
+- [Candidate observation manifest](https://awesomecua.com/downloads/github-candidates-manifest.json) · JSON · 1 report · 357.5 KiB · SHA-256: b975c55996d3afe3c42029ed93c88a8298dd23a583cfb9552267f25878b1d649
 
 ### File schemas: 7 files
 
@@ -64,4 +64,4 @@ Reviewed records: 5,347 · Catalog records awaiting review: 1,226 · Updated: 20
 - [Candidate observation schema](https://awesomecua.com/schemas/github-candidate-observation.schema.json) · JSON Schema · 1 schema · 5.1 KiB · SHA-256: 092193106b87ca7f3d9d259232a0f19d603256c7f5c3dafea4f11fd1ab772f24
 - [Candidate manifest schema](https://awesomecua.com/schemas/github-candidate-observation-manifest.schema.json) · JSON Schema · 1 schema · 24.6 KiB · SHA-256: f4043c13c780ede7901a13f6a588764e640b0fb4402d8fe0c8748b3673d9a959
 
-Source catalog SHA-256: 6158a09f90a962b666d64bbf6b992ea3f8b691d89d704198246861cf33787811
+Source catalog SHA-256: 04e0333a0a2b1f5c2d311ccb3b812d4d07f1bee0c6dc0092355c94407e1fdbf0

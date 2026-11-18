@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2611.22563",
+  "citation-key": "arxiv_2611_22563",
+  "type": "article",
+  "title": "CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference",
+  "URL": "https://arxiv.org/abs/2611.22563v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.22563",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.22563",
+    "identifiers": {
+      "arxiv": "2611.22563"
+    },
+    "first_published_at": "2026-11-17",
+    "record_updated_at": "2026-11-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "936e8c81d1b89a63552891b9a91b1ce8e1a60841191543b0b04f2fb4227961f6",
+      "submitted_at": "2026-11-17T10:48:35Z",
+      "updated_at": "2026-11-17T10:48:35Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.22563v1"
+    }
+  },
+  "note": "First published: 2026-11-17; Recorded arXiv version: v1; Recorded version updated: 2026-11-17T10:48:35Z.",
+  "author": [
+    {
+      "literal": "Oleg Pavlov"
+    },
+    {
+      "literal": "Nikita Gavrilov"
+    },
+    {
+      "literal": "Soslan Kabisov"
+    },
+    {
+      "literal": "Gennadii Savrasov"
+    },
+    {
+      "literal": "Andrey Kuznetsov"
+    },
+    {
+      "literal": "Anton Konushin"
+    },
+    {
+      "literal": "Dmitrii Zhemchuzhnikov"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.22563",
+  "genre": "preprint",
+  "version": "1"
+}
