@@ -1,7 +1,7 @@
 ---
 title: "Resource-efficient verification of quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1806-09138/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

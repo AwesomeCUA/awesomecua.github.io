@@ -1,7 +1,7 @@
 ---
 title: "FlowBench: Revisiting and Benchmarking… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-14884/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

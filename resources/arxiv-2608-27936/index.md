@@ -1,7 +1,7 @@
 ---
 title: "Accelerated S-NFC for Million-Chaff RCS… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-27936/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

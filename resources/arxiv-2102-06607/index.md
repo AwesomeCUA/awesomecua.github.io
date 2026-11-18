@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Software Web Agents: A Gap Analysis | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2102-06607/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

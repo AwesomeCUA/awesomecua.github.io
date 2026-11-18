@@ -1,7 +1,7 @@
 ---
 title: "Gutzwiller wave function on a quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2201-11381/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

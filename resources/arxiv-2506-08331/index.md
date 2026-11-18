@@ -1,7 +1,7 @@
 ---
 title: "Correcting a noisy quantum computer using a… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-08331/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

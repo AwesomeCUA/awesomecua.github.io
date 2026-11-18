@@ -1,7 +1,7 @@
 ---
 title: "ChatInject: Abusing Chat Templates for Prompt… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-22830/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

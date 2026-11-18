@@ -1,7 +1,7 @@
 ---
 title: "Universal quantum computation using the… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0910-1024/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

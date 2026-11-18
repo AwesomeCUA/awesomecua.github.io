@@ -1,7 +1,7 @@
 ---
 title: "Neuromorphic computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2209-03252/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Quantum computing using shortcuts through… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0804-0272/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

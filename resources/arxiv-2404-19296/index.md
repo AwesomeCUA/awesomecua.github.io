@@ -1,7 +1,7 @@
 ---
 title: "Octopus v4: Graph of language models | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-19296/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

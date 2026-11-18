@@ -1,7 +1,7 @@
 ---
 title: "Compiler Optimization for Quantum Computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2212-04508/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

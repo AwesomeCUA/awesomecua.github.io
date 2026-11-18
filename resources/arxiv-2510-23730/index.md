@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Long-Term Memory for Long-Context… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-23730/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

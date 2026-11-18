@@ -1,7 +1,7 @@
 ---
 title: "Quantum Computation Using Action Variables | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2109-13639/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

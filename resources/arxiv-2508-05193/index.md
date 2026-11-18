@@ -1,7 +1,7 @@
 ---
 title: "STEPWISE-CODEX-Bench: Evaluating Complex… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2508-05193/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

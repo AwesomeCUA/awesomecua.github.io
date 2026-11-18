@@ -1,7 +1,7 @@
 ---
 title: "GS-Agent: Creating 4D Physical Worlds With… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-21522/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

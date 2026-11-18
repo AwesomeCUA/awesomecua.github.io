@@ -1,7 +1,7 @@
 ---
 title: "RoboCLIP: One Demonstration is Enough to… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-07899/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

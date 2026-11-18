@@ -1,7 +1,7 @@
 ---
 title: "Last Translation Benchmark | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-04173/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

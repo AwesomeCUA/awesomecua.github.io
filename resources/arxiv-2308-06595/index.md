@@ -1,7 +1,7 @@
 ---
 title: "VisIT-Bench: A Benchmark for Vision-Language… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-06595/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

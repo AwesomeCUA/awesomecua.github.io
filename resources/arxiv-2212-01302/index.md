@@ -1,7 +1,7 @@
 ---
 title: "DeepFT: Fault-Tolerant Edge Computing using a… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2212-01302/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

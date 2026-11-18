@@ -1,7 +1,7 @@
 ---
 title: "Large-scale quantum reservoir computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-13695/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

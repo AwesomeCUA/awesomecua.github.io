@@ -1,7 +1,7 @@
 ---
 title: "Beyond Static Leaderboards: Predictive… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-19704/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

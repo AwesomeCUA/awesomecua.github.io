@@ -1,7 +1,7 @@
 ---
 title: "Proactive Agents for Multi-Turn Text-to-Image… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-06771/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

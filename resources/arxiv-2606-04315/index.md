@@ -1,7 +1,7 @@
 ---
 title: "Exploring Cross-Scenario Generality of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-04315/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

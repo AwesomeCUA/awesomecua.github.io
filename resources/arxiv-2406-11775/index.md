@@ -1,7 +1,7 @@
 ---
 title: "Task Me Anything | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-11775/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

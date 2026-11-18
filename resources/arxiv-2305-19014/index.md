@@ -1,7 +1,7 @@
 ---
 title: "Implementing Jastrow--Gutzwiller operators on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-19014/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

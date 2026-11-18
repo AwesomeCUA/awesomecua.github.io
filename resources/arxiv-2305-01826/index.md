@@ -1,7 +1,7 @@
 ---
 title: "Trustworthy Computing using Untrusted… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-01826/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

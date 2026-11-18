@@ -1,7 +1,7 @@
 ---
 title: "Implementation of Reservoir Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-02617/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

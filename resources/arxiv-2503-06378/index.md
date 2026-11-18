@@ -1,7 +1,7 @@
 ---
 title: "General Scales Unlock AI Evaluation with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-06378/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

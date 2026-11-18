@@ -1,7 +1,7 @@
 ---
 title: "Shopping MMLU: A Massive Multi-Task Online… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-20745/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

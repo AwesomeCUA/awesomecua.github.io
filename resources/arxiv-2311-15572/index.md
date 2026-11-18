@@ -1,7 +1,7 @@
 ---
 title: "Shaping dynamical neural computations using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-15572/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

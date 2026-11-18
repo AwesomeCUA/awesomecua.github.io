@@ -1,7 +1,7 @@
 ---
 title: "Ignore Previous Prompt: Attack Techniques For… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2211-09527/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

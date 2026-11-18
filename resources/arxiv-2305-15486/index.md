@@ -1,7 +1,7 @@
 ---
 title: "SPRING: Studying the Paper and Reasoning to… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-15486/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

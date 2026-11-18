@@ -1,7 +1,7 @@
 ---
 title: "A Max-Min Task Offloading Algorithm for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2109-01239/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

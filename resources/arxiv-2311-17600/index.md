@@ -1,7 +1,7 @@
 ---
 title: "MM-SafetyBench: A Benchmark for Safety… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-17600/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

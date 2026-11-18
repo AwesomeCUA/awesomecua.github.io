@@ -1,7 +1,7 @@
 ---
 title: "在哪里找到 GUI 智能体的训练数据 | AwesomeCUA"
 url: https://awesomecua.com/zh/guides/gui-agent-training-data/
-updated: 2026-11-17
+updated: 2026-11-18
 type: guide
 lang: zh-CN
 ---

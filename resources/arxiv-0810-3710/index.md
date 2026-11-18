@@ -1,7 +1,7 @@
 ---
 title: "Insights into classical irreversible… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0810-3710/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

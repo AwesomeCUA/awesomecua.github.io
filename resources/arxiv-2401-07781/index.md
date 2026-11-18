@@ -1,7 +1,7 @@
 ---
 title: "Towards A Better Metric for Text-to-Video… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2401-07781/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

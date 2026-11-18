@@ -1,7 +1,7 @@
 ---
 title: "Effective dimensionality reduction for Greeks… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-11576/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

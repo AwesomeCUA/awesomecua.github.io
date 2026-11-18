@@ -1,7 +1,7 @@
 ---
 title: "BReG-NeXt: Facial Affect Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2004-08495/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

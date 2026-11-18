@@ -1,7 +1,7 @@
 ---
 title: "GPTFUZZER: Red Teaming Large Language Models… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-10253/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

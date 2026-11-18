@@ -1,7 +1,7 @@
 ---
 title: "A Framework to Quantify Adaptation to… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-07463/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

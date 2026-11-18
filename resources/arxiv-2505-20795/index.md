@@ -1,7 +1,7 @@
 ---
 title: "Learning Generalizable Robot Policy with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-20795/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "MedGPT-oss: Training a General-Purpose… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-00842/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

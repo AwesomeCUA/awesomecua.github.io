@@ -1,7 +1,7 @@
 ---
 title: "Boolean Computation Using Self-Sustaining… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1410-5016/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

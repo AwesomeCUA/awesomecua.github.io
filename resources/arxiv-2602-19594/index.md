@@ -1,7 +1,7 @@
 ---
 title: "ISO-Bench: Can Coding Agents Optimize… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-19594/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

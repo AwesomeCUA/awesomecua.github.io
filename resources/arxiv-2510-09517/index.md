@@ -1,7 +1,7 @@
 ---
 title: "StatEval: A Comprehensive Benchmark for Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-09517/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

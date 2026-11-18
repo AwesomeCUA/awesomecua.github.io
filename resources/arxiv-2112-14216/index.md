@@ -1,7 +1,7 @@
 ---
 title: "Casper: Accelerating Stencil Computation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2112-14216/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "aDSL: Agentic 3D Creation via Joint… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-17975/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

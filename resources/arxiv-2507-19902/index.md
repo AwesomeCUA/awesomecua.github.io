@@ -1,7 +1,7 @@
 ---
 title: "AgentMesh: A Cooperative Multi-Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-19902/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---
@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,219
+- **Records awaiting review**: 1,220
 - **Discovered candidates**: 192
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,28 +27,25 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-17T16:16:11Z
-- **Finished**: 2026-11-17T16:21:26Z
+- **Started**: 2026-11-18T00:35:20Z
+- **Finished**: 2026-11-18T00:41:10Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 4
-- **New candidate identifiers**: 4
+- **New paper metadata**: 1
+- **New candidate identifiers**: 1
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44123738547)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44209000374)
 
 ### Recorded gaps
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+- github_candidates: Stage exceeded 220 seconds; last verified records retained.
 
 ## New to the bibliography
 
 These are newly discovered bibliographic records. Relevance and findings still require editorial review.
 
-- [EcoGEO: Trajectory-Aware Evidence Ecosystems for Web-Enabled LLM Search Agents](https://awesomecua.com/resources/arxiv-2605-12887/) · metadata verified
-- [ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation](https://awesomecua.com/resources/arxiv-2607-05750/) · metadata verified
-- [GOPR-CAD: Graph-of-Operations Progressive Reasoning for CAD Generation](https://awesomecua.com/resources/arxiv-2611-11470/) · metadata verified
-- [Accelerate Bench: Evaluating Agents for Application-Level Program Optimization](https://awesomecua.com/resources/arxiv-2611-20882/) · metadata verified
+- [Rank, Don't Regress: A 279M Text Ranker Beats 2B and 7B VLMs on Referential Urdu GUI Grounding](https://awesomecua.com/resources/arxiv-2611-20145/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -62,7 +59,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-17T16:17:18Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 4 new candidates.
+2026-11-18T00:36:28Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -80,15 +77,15 @@ Newly found identifiers go through primary metadata verification and relevance r
 | HarmonyOS<br>HarmonyOS mobile GUI agent | 80 | 0 | 80 | success |
 | Screen understanding<br>GUI screen understanding interface element detection | 80 | 0 | 80 | success |
 | Visual grounding<br>screenshot visual grounding click localization agent | 80 | 0 | 80 | success |
-| Browser interaction<br>visual web navigation browser agent | 80 | 1 | 80 | success |
+| Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | success |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | success |
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | success |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | success |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | success |
-| Task verification<br>computer use benchmark task evaluation state verification | 80 | 1 | 80 | success |
-| Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 2 | 80 | success |
+| Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | success |
+| Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | success |
 | Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 0 | 80 | success |
 | Assistive interfaces<br>accessibility assistive multimodal GUI agents | 80 | 0 | 80 | success |
 | Robustness<br>GUI agent robustness dynamic interfaces distribution shift | 80 | 0 | 80 | success |

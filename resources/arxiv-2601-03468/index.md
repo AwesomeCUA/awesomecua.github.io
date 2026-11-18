@@ -1,7 +1,7 @@
 ---
 title: "Understanding Reward Hacking in Text-to-Image… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-03468/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

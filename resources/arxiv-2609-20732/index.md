@@ -1,7 +1,7 @@
 ---
 title: "Q&A on Any Spreadsheet Requires Interpreting… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-20732/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

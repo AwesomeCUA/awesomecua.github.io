@@ -1,7 +1,7 @@
 ---
 title: "T-MAN: Enabling End-to-End Low-Bit LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-11248/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

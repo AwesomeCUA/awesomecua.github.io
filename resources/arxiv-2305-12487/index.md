@@ -1,7 +1,7 @@
 ---
 title: "Augmenting Autotelic Agents with Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-12487/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

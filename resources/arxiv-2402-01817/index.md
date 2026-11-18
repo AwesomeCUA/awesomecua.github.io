@@ -1,7 +1,7 @@
 ---
 title: "LLMs Can't Plan, But Can Help Planning in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-01817/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

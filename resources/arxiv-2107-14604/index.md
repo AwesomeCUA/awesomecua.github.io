@@ -1,7 +1,7 @@
 ---
 title: "Three-Dimensional Data-Driven Magnetostatic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2107-14604/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

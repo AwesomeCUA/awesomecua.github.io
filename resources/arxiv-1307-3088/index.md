@@ -1,7 +1,7 @@
 ---
 title: "The Declaratron, semantic specification for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1307-3088/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

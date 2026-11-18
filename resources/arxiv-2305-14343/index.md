@@ -1,7 +1,7 @@
 ---
 title: "Video Prediction Models as Rewards for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-14343/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

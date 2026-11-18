@@ -1,7 +1,7 @@
 ---
 title: "Multi-Task Wavelength-Multiplexed Reservoir… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-16588/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

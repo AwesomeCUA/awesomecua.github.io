@@ -1,7 +1,7 @@
 ---
 title: "PixArt-Σ: Weak-to-Strong Training of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-04692/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

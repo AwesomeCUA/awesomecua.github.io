@@ -1,7 +1,7 @@
 ---
 title: "HAICOSYSTEM: An Ecosystem for Sandboxing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-16427/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

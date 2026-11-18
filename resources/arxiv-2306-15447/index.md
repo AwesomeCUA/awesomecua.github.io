@@ -1,7 +1,7 @@
 ---
 title: "Are aligned neural networks adversarially… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2306-15447/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

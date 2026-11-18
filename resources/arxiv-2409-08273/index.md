@@ -1,7 +1,7 @@
 ---
 title: "Hand-Object Interaction Pretraining from Videos | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-08273/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

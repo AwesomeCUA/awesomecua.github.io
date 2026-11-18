@@ -1,7 +1,7 @@
 ---
 title: "Large-scale workflow placement in serverless… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-14427/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

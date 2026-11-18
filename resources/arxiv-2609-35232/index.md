@@ -1,7 +1,7 @@
 ---
 title: "Beyond Selection: Token Parameterization for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-35232/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

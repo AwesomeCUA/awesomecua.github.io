@@ -1,7 +1,7 @@
 ---
 title: "Encoding Integers and Rationals on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2208-07468/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

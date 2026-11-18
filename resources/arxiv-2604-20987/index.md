@@ -1,7 +1,7 @@
 ---
 title: "Co-Evolving LLM Decision and Skill Bank… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-20987/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

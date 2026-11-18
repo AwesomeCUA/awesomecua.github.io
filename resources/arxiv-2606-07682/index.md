@@ -1,7 +1,7 @@
 ---
 title: "SWE-Marathon: Can Agents Autonomously… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-07682/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

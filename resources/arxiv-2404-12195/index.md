@@ -1,7 +1,7 @@
 ---
 title: "OpenBezoar: Small, Cost-Effective and Open… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-12195/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

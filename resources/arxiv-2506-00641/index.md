@@ -1,7 +1,7 @@
 ---
 title: "AgentAuditor: Human-Level Safety and Security… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-00641/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

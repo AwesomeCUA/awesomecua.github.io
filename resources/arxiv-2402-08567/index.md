@@ -1,7 +1,7 @@
 ---
 title: "Agent Smith: A Single Image Can Jailbreak One… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-08567/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

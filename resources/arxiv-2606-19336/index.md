@@ -1,7 +1,7 @@
 ---
 title: "Learning User Simulators with Turing Rewards | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-19336/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

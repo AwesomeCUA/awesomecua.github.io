@@ -1,7 +1,7 @@
 ---
 title: "Octopus: On-device language model for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-01549/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

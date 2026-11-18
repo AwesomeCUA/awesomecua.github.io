@@ -1,7 +1,7 @@
 ---
 title: "Self-GC: Self-Governing Context for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-00692/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

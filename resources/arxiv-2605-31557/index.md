@@ -1,7 +1,7 @@
 ---
 title: "EGOSTREAM: A Diagnostic Benchmark for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-31557/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

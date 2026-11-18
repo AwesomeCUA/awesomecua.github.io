@@ -1,7 +1,7 @@
 ---
 title: "Grounding of Textual Phrases in Images by… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1511-03745/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

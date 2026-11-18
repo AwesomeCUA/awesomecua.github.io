@@ -1,7 +1,7 @@
 ---
 title: "FlowBank: Query-Adaptive Agentic Workflows… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-11290/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

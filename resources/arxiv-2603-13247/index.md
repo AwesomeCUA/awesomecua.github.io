@@ -1,7 +1,7 @@
 ---
 title: "ILION: Deterministic Pre-Execution Safety… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-13247/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

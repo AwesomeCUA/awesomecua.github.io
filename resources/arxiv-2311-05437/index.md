@@ -1,7 +1,7 @@
 ---
 title: "LLaVA-Plus: Learning to Use Tools for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-05437/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "xLAM: A Family of Large Action Models to… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-03215/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

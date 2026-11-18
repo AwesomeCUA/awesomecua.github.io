@@ -1,7 +1,7 @@
 ---
 title: "SpecFLASH: A Latent-Guided… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-12728/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

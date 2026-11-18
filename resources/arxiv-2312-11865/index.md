@@ -1,7 +1,7 @@
 ---
 title: "Large Language Models Play StarCraft II… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2312-11865/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "VideoGen-Agent: Reinforcing Video Generation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-24997/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

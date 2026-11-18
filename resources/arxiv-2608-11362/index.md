@@ -1,7 +1,7 @@
 ---
 title: "RevCRN: Reversible Analog Computation using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-11362/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

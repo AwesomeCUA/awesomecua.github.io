@@ -1,7 +1,7 @@
 ---
 title: "Progress towards practical qubit computation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1910-03673/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

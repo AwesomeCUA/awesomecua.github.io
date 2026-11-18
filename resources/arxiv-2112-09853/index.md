@@ -1,7 +1,7 @@
 ---
 title: "Scalable randomized benchmarking of quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2112-09853/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

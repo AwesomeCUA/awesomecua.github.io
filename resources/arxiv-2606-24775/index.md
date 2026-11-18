@@ -1,7 +1,7 @@
 ---
 title: "Are We Ready For An Agent-Native Memory System? | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-24775/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

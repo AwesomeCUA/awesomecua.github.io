@@ -1,7 +1,7 @@
 ---
 title: "Agentic Coding Needs Proactivity, Not Just… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-06717/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Deep Reservoir Computing Using Cellular… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1703-02806/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

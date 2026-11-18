@@ -1,7 +1,7 @@
 ---
 title: "Executable Code Actions Elicit Better LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-01030/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Efficient ANN-SNN Conversion with Error… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-01968/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

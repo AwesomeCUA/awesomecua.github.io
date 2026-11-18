@@ -1,7 +1,7 @@
 ---
 title: "Medical Imaging Classification with Cold-Atom… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-06727/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---

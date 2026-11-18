@@ -1,7 +1,7 @@
 ---
 title: "Design Patterns for Securing LLM Agents… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-08837/
-updated: 2026-11-17
+updated: 2026-11-18
 type: page
 lang: en
 ---
