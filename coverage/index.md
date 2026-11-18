@@ -8,16 +8,16 @@ lang: en
 
 # Coverage and verification ledger
 
-5,347 curated resources and 1,220 records with verified bibliographic metadata awaiting review.
+5,347 curated resources and 1,226 records with verified bibliographic metadata awaiting review.
 
-Evidence snapshot: 2026-11-18T00:36:29Z. Resource types can refer to different parts of the same project.
+Evidence snapshot: 2026-11-18T08:19:52Z. Resource types can refer to different parts of the same project.
 
 ## Discovery-source coverage
 
 | Source | Found | Indexed | Curated | Excluded | Set aside | Out of scope | Unresolved |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ShowLab Awesome GUI Agent](https://github.com/showlab/Awesome-GUI-Agent) | 338 | 235 | 233 | 7 | 90 | 5 | 1 |
-| [ZJU REAL Awesome GUI Agents](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 220 | 178 | 177 | 0 | 42 | 0 | 0 |
+| [ZJU REAL Awesome GUI Agents](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 221 | 178 | 177 | 0 | 42 | 0 | 1 |
 | [OS Agents Survey](https://github.com/OS-Agent-Survey/OS-Agent-Survey) | 224 | 196 | 191 | 9 | 16 | 2 | 1 |
 | [Awesome Computer Use Agents — wjhou](https://github.com/wjhou/awesome-computer-use-agents) | 132 | 104 | 102 | 4 | 18 | 5 | 1 |
 | [Steel Awesome Web Agents](https://github.com/steel-dev/awesome-web-agents) | 124 | 63 | 63 | 0 | 36 | 18 | 7 |
@@ -30,7 +30,7 @@ Evidence snapshot: 2026-11-18T00:36:29Z. Resource types can refer to different p
 | [Yearly GUI Agents](https://github.com/qy0720/awesome-yearly-gui-agents) | 193 | 152 | 152 | 2 | 37 | 1 | 1 |
 | [OSU-NLP-Group/GUI-Agents-Paper-List / README.md](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) | 545 | 493 | 464 | 0 | 52 | 0 | 0 |
 | [opendilab/awesome-ui-agents / README.md](https://github.com/opendilab/awesome-ui-agents) | 144 | 97 | 95 | 6 | 32 | 9 | 0 |
-| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 260 | 257 | 236 | 0 | 2 | 0 | 1 |
+| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 261 | 258 | 236 | 0 | 2 | 0 | 1 |
 | [ZJU-REAL/Awesome-GUI-Agents / ICLR2026/Paperlist.md](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 7 | 0 | 0 | 0 | 7 | 0 | 0 |
 | [dqtz5vpvj9-create/awesome-mobile-gui-agents / README.md](https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents) | 40 | 32 | 32 | 0 | 8 | 0 | 0 |
 | [PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents) | 247 | 212 | 211 | 9 | 26 | 0 | 0 |
@@ -90,8 +90,8 @@ Evidence snapshot: 2026-11-18T00:36:29Z. Resource types can refer to different p
 | [AndroidWorld leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | 69 | 43 | 43 | 0 | 22 | 0 | 4 |
 | [WebArena and VisualWebArena leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | 83 | 46 | 43 | 4 | 26 | 6 | 1 |
 | [AndroidLab leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1Zv6mBfd4Ibt8mke24K6zAFrXe4AvEFaBLW3hpJqSgjw) | 6 | 5 | 5 | 0 | 1 | 0 | 0 |
-| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1132 | 1119 | 1045 | 13 | 0 | 0 | 0 |
-| [Hub model search "gui" (by likes)](https://huggingface.co/models?search=gui) | 29 | 27 | 27 | 0 | 1 | 1 | 0 |
+| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1136 | 1123 | 1045 | 13 | 0 | 0 | 0 |
+| [Hub model search "gui" (by likes)](https://huggingface.co/models?search=gui) | 28 | 27 | 27 | 0 | 0 | 1 | 0 |
 | [Hub model search "computer-use" (by likes)](https://huggingface.co/models?search=computer-use) | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
 | [Hub dataset search "gui" (by likes)](https://huggingface.co/datasets?search=gui) | 18 | 15 | 15 | 0 | 0 | 3 | 0 |
 | [Hub dataset search "computer-use" (by likes)](https://huggingface.co/datasets?search=computer-use) | 4 | 3 | 3 | 0 | 1 | 0 | 0 |
@@ -123,7 +123,7 @@ Evidence snapshot: 2026-11-18T00:36:29Z. Resource types can refer to different p
 
 ## Explicit scope exclusions
 
-1308 records are excluded after individual scope review. The original 4,193-record arXiv metadata archive is retained. [Inspect decisions and source evidence](https://awesomecua.com/downloads/exclusions.json) · [Download the raw archive](https://awesomecua.com/downloads/arxiv-archive.jsonl).
+1308 records are excluded after individual scope review. The original 4,199-record arXiv metadata archive is retained. [Inspect decisions and source evidence](https://awesomecua.com/downloads/exclusions.json) · [Download the raw archive](https://awesomecua.com/downloads/arxiv-archive.jsonl).
 
 A changed or unconfirmed exclusion returns to review.
 
@@ -131,6 +131,6 @@ A changed or unconfirmed exclusion returns to review.
 
 Most bibliography entries still require relevance review. Asset sizes, model licenses, availability, and experiment protocols need continuing curation.
 
-192 discovered identifiers remain unresolved. 2052 candidates have an out-of-scope review.
+193 discovered identifiers remain unresolved. 2052 candidates have an out-of-scope review.
 
 [Download the complete coverage ledger](https://awesomecua.com/downloads/coverage.json) · [Editorial policy](https://awesomecua.com/about/)

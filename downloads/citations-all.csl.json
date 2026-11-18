@@ -186213,6 +186213,64 @@
     "version": "2"
   },
   {
+    "URL": "https://arxiv.org/abs/2610.06964v1",
+    "archive": "arXiv",
+    "archive_location": "2610.06964",
+    "author": [
+      {
+        "literal": "Bowen Ye"
+      },
+      {
+        "literal": "Yongchao Xu"
+      },
+      {
+        "literal": "Junkai Ma"
+      },
+      {
+        "literal": "Xiang Yin"
+      },
+      {
+        "literal": "Wenzhao Li"
+      }
+    ],
+    "citation-key": "arxiv_2610_06964",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b3e4088bf68170f14e72b4d7ea0a3cb4c5104fbc03740c9966a51d1f327cc19d",
+        "submitted_at": "2026-10-03T17:29:38Z",
+        "updated_at": "2026-10-03T17:29:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2610.06964v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2610.06964",
+      "catalog_id": "arxiv:2610.06964",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-10-03",
+      "identifiers": {
+        "arxiv": "2610.06964"
+      },
+      "record_updated_at": "2026-10-03"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2610.06964",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          10,
+          3
+        ]
+      ]
+    },
+    "note": "First published: 2026-10-03; Recorded arXiv version: v1; Recorded version updated: 2026-10-03T17:29:38Z.",
+    "title": "Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2610.07118v1",
     "archive": "arXiv",
     "archive_location": "2610.07118",
@@ -208448,6 +208506,914 @@
     },
     "note": "First published: 2026-11-16; Recorded arXiv version: v1; Recorded version updated: 2026-11-16T10:52:59Z.",
     "title": "Accelerate Bench: Evaluating Agents for Application-Level Program Optimization",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.21072v2",
+    "archive": "arXiv",
+    "archive_location": "2611.21072",
+    "author": [
+      {
+        "literal": "Kun Cai"
+      },
+      {
+        "literal": "Haodong Chen"
+      },
+      {
+        "literal": "Guangran Cheng"
+      },
+      {
+        "literal": "Qingxiu Cheng"
+      },
+      {
+        "literal": "Xu Dai"
+      },
+      {
+        "literal": "Guanting Dong"
+      },
+      {
+        "literal": "Qiming Ge"
+      },
+      {
+        "literal": "Lixin Gu"
+      },
+      {
+        "literal": "Tao Gui"
+      },
+      {
+        "literal": "Honglin Guo"
+      },
+      {
+        "literal": "Yuyang Hu"
+      },
+      {
+        "literal": "Zixian Huang"
+      },
+      {
+        "literal": "Jiajie Jin"
+      },
+      {
+        "literal": "Alexander Lam"
+      },
+      {
+        "literal": "Jiaqiang Li"
+      },
+      {
+        "literal": "Yining Li"
+      },
+      {
+        "literal": "Jiahang Lin"
+      },
+      {
+        "literal": "Yanjiang Liu"
+      },
+      {
+        "literal": "Xinyu Lu"
+      },
+      {
+        "literal": "Haijun Lv"
+      },
+      {
+        "literal": "Ningsheng Ma"
+      },
+      {
+        "literal": "Zerun Ma"
+      },
+      {
+        "literal": "Minlong Peng"
+      },
+      {
+        "literal": "Jianmin Qian"
+      },
+      {
+        "literal": "Huayu Sha"
+      },
+      {
+        "literal": "Junlin Shang"
+      },
+      {
+        "literal": "Shuo Shen"
+      },
+      {
+        "literal": "Qisheng Su"
+      },
+      {
+        "literal": "Jiajun Sun"
+      },
+      {
+        "literal": "Yanan Sun"
+      },
+      {
+        "literal": "Zhichao Sun"
+      },
+      {
+        "literal": "Ran Tao"
+      },
+      {
+        "literal": "Zhongbo Tian"
+      },
+      {
+        "literal": "Guoqiang Wang"
+      },
+      {
+        "literal": "Hui Wang"
+      },
+      {
+        "literal": "Rui Wang"
+      },
+      {
+        "literal": "Yiding Wang"
+      },
+      {
+        "literal": "Zhecan Wang"
+      },
+      {
+        "literal": "Hao Xiang"
+      },
+      {
+        "literal": "Xinchen Xie"
+      },
+      {
+        "literal": "Shuhao Xing"
+      },
+      {
+        "literal": "Xiaoyu Xing"
+      },
+      {
+        "literal": "Wanghan Xu"
+      },
+      {
+        "literal": "Xinyu Yang"
+      },
+      {
+        "literal": "Yajie Yang"
+      },
+      {
+        "literal": "Dingbo Yuan"
+      },
+      {
+        "literal": "Yuhang Zang"
+      },
+      {
+        "literal": "Hongjie Zhang"
+      },
+      {
+        "literal": "Chengfeng Zhao"
+      },
+      {
+        "literal": "Haoran Zhao"
+      },
+      {
+        "literal": "Penghao Zhao"
+      },
+      {
+        "literal": "Ruojun Zhou"
+      },
+      {
+        "literal": "Dongsheng Zhu"
+      },
+      {
+        "literal": "Yicheng Zou"
+      },
+      {
+        "literal": "Qiye Cai"
+      },
+      {
+        "literal": "Yifei Cao"
+      },
+      {
+        "literal": "Xinmeng Che"
+      },
+      {
+        "literal": "Hongji Chen"
+      },
+      {
+        "literal": "Jiabei Chen"
+      },
+      {
+        "literal": "Jiadong Chen"
+      },
+      {
+        "literal": "Jiahao Chen"
+      },
+      {
+        "literal": "Jiayi Chen"
+      },
+      {
+        "literal": "Xinjie Chen"
+      },
+      {
+        "literal": "Yujia Chen"
+      },
+      {
+        "literal": "Xin Deng"
+      },
+      {
+        "literal": "Yi Dong"
+      },
+      {
+        "literal": "Yichen Dong"
+      },
+      {
+        "literal": "Wenjie Fu"
+      },
+      {
+        "literal": "Jianing Geng"
+      },
+      {
+        "literal": "Chenyang Gu"
+      },
+      {
+        "literal": "Ding Han"
+      },
+      {
+        "literal": "Han Han"
+      },
+      {
+        "literal": "Feiyang Hao"
+      },
+      {
+        "literal": "Haotan He"
+      },
+      {
+        "literal": "Qiushi He"
+      },
+      {
+        "literal": "Xufeng He"
+      },
+      {
+        "literal": "Xin Hong"
+      },
+      {
+        "literal": "Jie Hou"
+      },
+      {
+        "literal": "Binze Hu"
+      },
+      {
+        "literal": "Yongkang Hu"
+      },
+      {
+        "literal": "Zijian Hu"
+      },
+      {
+        "literal": "Enfu Huang"
+      },
+      {
+        "literal": "Junhao Huang"
+      },
+      {
+        "literal": "Changhao Jiang"
+      },
+      {
+        "literal": "Huicheng Jiang"
+      },
+      {
+        "literal": "Jiazhen Jiang"
+      },
+      {
+        "literal": "Shufan Jiang"
+      },
+      {
+        "literal": "Wenqing Jing"
+      },
+      {
+        "literal": "Jiahao Kuang"
+      },
+      {
+        "literal": "Bowen Lai"
+      },
+      {
+        "literal": "Bo Li"
+      },
+      {
+        "literal": "Qi Li"
+      },
+      {
+        "literal": "Qilong Li"
+      },
+      {
+        "literal": "Zhuoqun Li"
+      },
+      {
+        "literal": "Tianhao Liang"
+      },
+      {
+        "literal": "Jiaxiang Liu"
+      },
+      {
+        "literal": "Junzhang Liu"
+      },
+      {
+        "literal": "Shaofan Liu"
+      },
+      {
+        "literal": "Shuainan Liu"
+      },
+      {
+        "literal": "Tong Liu"
+      },
+      {
+        "literal": "Yi Liu"
+      },
+      {
+        "literal": "Ziyu Liu"
+      },
+      {
+        "literal": "Zhonghang Lu"
+      },
+      {
+        "literal": "Jianwen Luo"
+      },
+      {
+        "literal": "Xuan Luo"
+      },
+      {
+        "literal": "Yanyi Luo"
+      },
+      {
+        "literal": "Huijie Lv"
+      },
+      {
+        "literal": "Mingyu Ma"
+      },
+      {
+        "literal": "Houcheng Min"
+      },
+      {
+        "literal": "Hongjun Mo"
+      },
+      {
+        "literal": "Songhao Ni"
+      },
+      {
+        "literal": "Chengjun Pan"
+      },
+      {
+        "literal": "Qiyuan Peng"
+      },
+      {
+        "literal": "Xiaoxuan Peng"
+      },
+      {
+        "literal": "Wanying Ren"
+      },
+      {
+        "literal": "Runhui Ruan"
+      },
+      {
+        "literal": "Jifei Shan"
+      },
+      {
+        "literal": "Zixin Shang"
+      },
+      {
+        "literal": "Bing Shao"
+      },
+      {
+        "literal": "Zhuohui Sheng"
+      },
+      {
+        "literal": "Jiayang Shi"
+      },
+      {
+        "literal": "Qingyun Shi"
+      },
+      {
+        "literal": "Yang Shu"
+      },
+      {
+        "literal": "Aierpanjiang Simayi"
+      },
+      {
+        "literal": "Sirui Song"
+      },
+      {
+        "literal": "Yuxiao Song"
+      },
+      {
+        "literal": "Jiahao Sun"
+      },
+      {
+        "literal": "Zhe Sun"
+      },
+      {
+        "literal": "Wenzhe Tan"
+      },
+      {
+        "literal": "Guoxiang Wang"
+      },
+      {
+        "literal": "Hanchen Wang"
+      },
+      {
+        "literal": "Jie Wang"
+      },
+      {
+        "literal": "Pengbo Wang"
+      },
+      {
+        "literal": "Qing Wang"
+      },
+      {
+        "literal": "Rui Wang"
+      },
+      {
+        "literal": "Weihang Wang"
+      },
+      {
+        "literal": "Xiaotao Wang"
+      },
+      {
+        "literal": "Yuhui Wang"
+      },
+      {
+        "literal": "Zhekai Wang"
+      },
+      {
+        "literal": "Zihan Wang"
+      },
+      {
+        "literal": "Zile Wang"
+      },
+      {
+        "literal": "Jinke Wu"
+      },
+      {
+        "literal": "Liwei Wu"
+      },
+      {
+        "literal": "Xuansheng Wu"
+      },
+      {
+        "literal": "Yida Wu"
+      },
+      {
+        "literal": "Yihao Wu"
+      },
+      {
+        "literal": "Yinqi Wu"
+      },
+      {
+        "literal": "Yue Wu"
+      },
+      {
+        "literal": "Yuhan Wu"
+      },
+      {
+        "literal": "Yuwa Wu"
+      },
+      {
+        "literal": "Zhiheng Xi"
+      },
+      {
+        "literal": "Ying Xiao"
+      },
+      {
+        "literal": "Zhide Xie"
+      },
+      {
+        "literal": "Caijun Xu"
+      },
+      {
+        "literal": "Xingle Xu"
+      },
+      {
+        "literal": "Yichen Xu"
+      },
+      {
+        "literal": "Yongfeng Xu"
+      },
+      {
+        "literal": "Xiaolei Yang"
+      },
+      {
+        "literal": "Zhixiong Yang"
+      },
+      {
+        "literal": "Jiacheng Yao"
+      },
+      {
+        "literal": "Dingcheng Yi"
+      },
+      {
+        "literal": "Shihong Yi"
+      },
+      {
+        "literal": "Jinhui Yin"
+      },
+      {
+        "literal": "Peizhou Yu"
+      },
+      {
+        "literal": "Shan Yu"
+      },
+      {
+        "literal": "Hao Yuan"
+      },
+      {
+        "literal": "Junjie Yuan"
+      },
+      {
+        "literal": "Xiongyao Zha"
+      },
+      {
+        "literal": "Bo Zhang"
+      },
+      {
+        "literal": "Caixian Zhang"
+      },
+      {
+        "literal": "Kaicheng Zhang"
+      },
+      {
+        "literal": "Pengxiang Zhang"
+      },
+      {
+        "literal": "Qiuyinzhe Zhang"
+      },
+      {
+        "literal": "Wei Zhang"
+      },
+      {
+        "literal": "Xiaoqian Zhang"
+      },
+      {
+        "literal": "Xinsen Zhang"
+      },
+      {
+        "literal": "Jiyuan Zhao"
+      },
+      {
+        "literal": "Shuyu Zhao"
+      },
+      {
+        "literal": "Pujun Zheng"
+      },
+      {
+        "literal": "Zheyu Zheng"
+      },
+      {
+        "literal": "Xiaoxue Zhong"
+      },
+      {
+        "literal": "Peiheng Zhou"
+      },
+      {
+        "literal": "Xiaohao Zhou"
+      },
+      {
+        "literal": "Xinyu Zhou"
+      },
+      {
+        "literal": "Fangyi Zhu"
+      },
+      {
+        "literal": "Guanru Zhu"
+      },
+      {
+        "literal": "Yulun Zhu"
+      },
+      {
+        "literal": "Jiabao Zhuang"
+      },
+      {
+        "literal": "Pengfei Cao"
+      },
+      {
+        "literal": "Zhicheng Dou"
+      },
+      {
+        "literal": "Xianpei Han"
+      },
+      {
+        "literal": "Ben He"
+      },
+      {
+        "literal": "Guoxiu He"
+      },
+      {
+        "literal": "Xuanjing Huang"
+      },
+      {
+        "literal": "Tao Ji"
+      },
+      {
+        "literal": "Yu-Gang Jiang"
+      },
+      {
+        "literal": "Dahua Lin"
+      },
+      {
+        "literal": "Hongyu Lin"
+      },
+      {
+        "literal": "Kang Liu"
+      },
+      {
+        "literal": "Yaojie Lu"
+      },
+      {
+        "literal": "Le Sun"
+      },
+      {
+        "literal": "Ji-Rong Wen"
+      },
+      {
+        "literal": "Jun Zhao"
+      },
+      {
+        "literal": "Yutao Zhu"
+      },
+      {
+        "literal": "Qi Zhang"
+      },
+      {
+        "literal": "Bowen Zhou"
+      }
+    ],
+    "citation-key": "arxiv_2611_21072",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "337c8fdd0b2fccb7aa1d664c522fe5147fd782b2c8b433fe0432a5ec813f6f31",
+        "submitted_at": "2026-11-16T13:23:49Z",
+        "updated_at": "2026-11-17T15:05:02Z",
+        "version": 2,
+        "versioned_url": "https://arxiv.org/abs/2611.21072v2"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.21072",
+      "catalog_id": "arxiv:2611.21072",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-16",
+      "identifiers": {
+        "arxiv": "2611.21072"
+      },
+      "record_updated_at": "2026-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.21072",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          16
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-16; Recorded arXiv version: v2; Recorded version updated: 2026-11-17T15:05:02Z.",
+    "title": "Sage S2.1 Flash Technical Report",
+    "type": "article",
+    "version": "2"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.22223v1",
+    "archive": "arXiv",
+    "archive_location": "2611.22223",
+    "author": [
+      {
+        "literal": "Chaklam Cheong"
+      },
+      {
+        "literal": "Tiancong Cao"
+      },
+      {
+        "literal": "Qi Li"
+      },
+      {
+        "literal": "Zelin Zhang"
+      },
+      {
+        "literal": "Jianbing Ni"
+      },
+      {
+        "literal": "Rongxing Lu"
+      },
+      {
+        "literal": "Mohammad Zulkernine"
+      }
+    ],
+    "citation-key": "arxiv_2611_22223",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4c25a7d3f2f610db732722bdbe78b030cb60a52b43f8bce45540b818f88716e6",
+        "submitted_at": "2026-11-17T05:06:25Z",
+        "updated_at": "2026-11-17T05:06:25Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.22223v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.22223",
+      "catalog_id": "arxiv:2611.22223",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-17",
+      "identifiers": {
+        "arxiv": "2611.22223"
+      },
+      "record_updated_at": "2026-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.22223",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-17; Recorded arXiv version: v1; Recorded version updated: 2026-11-17T05:06:25Z.",
+    "title": "GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.22591v1",
+    "archive": "arXiv",
+    "archive_location": "2611.22591",
+    "author": [
+      {
+        "literal": "Zhuohan Cai"
+      },
+      {
+        "literal": "Zhangxuan Gu"
+      },
+      {
+        "literal": "Runze Li"
+      },
+      {
+        "literal": "Beitong Zhou"
+      },
+      {
+        "literal": "Ming Wen"
+      },
+      {
+        "literal": "Hongbo Yu"
+      },
+      {
+        "literal": "Shuheng Shen"
+      },
+      {
+        "literal": "Changhua Meng"
+      }
+    ],
+    "citation-key": "arxiv_2611_22591",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7b156c75223b1a877dd995afb6b3565491ff12de640bfb38ac044570a8b44b9d",
+        "submitted_at": "2026-11-17T11:14:59Z",
+        "updated_at": "2026-11-17T11:14:59Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.22591v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.22591",
+      "catalog_id": "arxiv:2611.22591",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-17",
+      "identifiers": {
+        "arxiv": "2611.22591"
+      },
+      "record_updated_at": "2026-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.22591",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-17; Recorded arXiv version: v1; Recorded version updated: 2026-11-17T11:14:59Z.",
+    "title": "PACT: Plan-Action Consistency Training by Preserving Correct Plans and Repairing Actions in GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.22722v1",
+    "archive": "arXiv",
+    "archive_location": "2611.22722",
+    "author": [
+      {
+        "literal": "Zhongling Xu"
+      },
+      {
+        "literal": "Hairong Wang"
+      }
+    ],
+    "citation-key": "arxiv_2611_22722",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5796c2f99f0e05c0fb3569426b64892d7091a79ff06a21c427d539c4398885a9",
+        "submitted_at": "2026-11-17T12:58:00Z",
+        "updated_at": "2026-11-17T12:58:00Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.22722v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.22722",
+      "catalog_id": "arxiv:2611.22722",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-17",
+      "identifiers": {
+        "arxiv": "2611.22722"
+      },
+      "record_updated_at": "2026-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.22722",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-17; Recorded arXiv version: v1; Recorded version updated: 2026-11-17T12:58:00Z.",
+    "title": "Practice in Text, Act in Pixels: Correcting Where Perception Fails",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.22971v1",
+    "archive": "arXiv",
+    "archive_location": "2611.22971",
+    "author": [
+      {
+        "literal": "Yuxuan Zhou"
+      },
+      {
+        "literal": "Chen Xiong"
+      },
+      {
+        "literal": "Haitong Liu"
+      },
+      {
+        "literal": "Kuofeng Gao"
+      },
+      {
+        "literal": "Yang Bai"
+      },
+      {
+        "literal": "Zhiyuan He"
+      },
+      {
+        "literal": "Tao Dai"
+      },
+      {
+        "literal": "Shu-Tao Xia"
+      }
+    ],
+    "citation-key": "arxiv_2611_22971",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "52e65e59bb33ab09e16cded5856d8ef2c2b5f885782b592872bde6214674add9",
+        "submitted_at": "2026-11-17T15:53:58Z",
+        "updated_at": "2026-11-17T15:53:58Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.22971v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.22971",
+      "catalog_id": "arxiv:2611.22971",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-17",
+      "identifiers": {
+        "arxiv": "2611.22971"
+      },
+      "record_updated_at": "2026-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.22971",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-17; Recorded arXiv version: v1; Recorded version updated: 2026-11-17T15:53:58Z.",
+    "title": "SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway",
     "type": "article",
     "version": "1"
   },

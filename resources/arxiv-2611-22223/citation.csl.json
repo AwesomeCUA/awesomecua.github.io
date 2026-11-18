@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2611.22223",
+  "citation-key": "arxiv_2611_22223",
+  "type": "article",
+  "title": "GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk",
+  "URL": "https://arxiv.org/abs/2611.22223v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.22223",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.22223",
+    "identifiers": {
+      "arxiv": "2611.22223"
+    },
+    "first_published_at": "2026-11-17",
+    "record_updated_at": "2026-11-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "4c25a7d3f2f610db732722bdbe78b030cb60a52b43f8bce45540b818f88716e6",
+      "submitted_at": "2026-11-17T05:06:25Z",
+      "updated_at": "2026-11-17T05:06:25Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.22223v1"
+    }
+  },
+  "note": "First published: 2026-11-17; Recorded arXiv version: v1; Recorded version updated: 2026-11-17T05:06:25Z.",
+  "author": [
+    {
+      "literal": "Chaklam Cheong"
+    },
+    {
+      "literal": "Tiancong Cao"
+    },
+    {
+      "literal": "Qi Li"
+    },
+    {
+      "literal": "Zelin Zhang"
+    },
+    {
+      "literal": "Jianbing Ni"
+    },
+    {
+      "literal": "Rongxing Lu"
+    },
+    {
+      "literal": "Mohammad Zulkernine"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.22223",
+  "genre": "preprint",
+  "version": "1"
+}

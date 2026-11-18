@@ -8,16 +8,16 @@ lang: zh-CN
 
 # 覆盖与核验台账
 
-5,347 条已审阅资源，另有 1,220 条书目元数据已核实、等待审阅的记录。
+5,347 条已审阅资源，另有 1,226 条书目元数据已核实、等待审阅的记录。
 
-证据快照：2026-11-18T00:36:29Z。不同资源类型可能指向同一项目的不同部分。
+证据快照：2026-11-18T08:19:52Z。不同资源类型可能指向同一项目的不同部分。
 
 ## 发现来源覆盖
 
 | 来源 | 发现 | 已收录 | 已审阅 | 已排除 | 已搁置 | 范围外 | 待核实 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | [ShowLab Awesome GUI Agent](https://github.com/showlab/Awesome-GUI-Agent) | 338 | 235 | 233 | 7 | 90 | 5 | 1 |
-| [ZJU REAL Awesome GUI Agents](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 220 | 178 | 177 | 0 | 42 | 0 | 0 |
+| [ZJU REAL Awesome GUI Agents](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 221 | 178 | 177 | 0 | 42 | 0 | 1 |
 | [OS Agents Survey](https://github.com/OS-Agent-Survey/OS-Agent-Survey) | 224 | 196 | 191 | 9 | 16 | 2 | 1 |
 | [Awesome Computer Use Agents — wjhou](https://github.com/wjhou/awesome-computer-use-agents) | 132 | 104 | 102 | 4 | 18 | 5 | 1 |
 | [Steel Awesome Web Agents](https://github.com/steel-dev/awesome-web-agents) | 124 | 63 | 63 | 0 | 36 | 18 | 7 |
@@ -30,7 +30,7 @@ lang: zh-CN
 | [Yearly GUI Agents](https://github.com/qy0720/awesome-yearly-gui-agents) | 193 | 152 | 152 | 2 | 37 | 1 | 1 |
 | [OSU-NLP-Group/GUI-Agents-Paper-List / README.md](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) | 545 | 493 | 464 | 0 | 52 | 0 | 0 |
 | [opendilab/awesome-ui-agents / README.md](https://github.com/opendilab/awesome-ui-agents) | 144 | 97 | 95 | 6 | 32 | 9 | 0 |
-| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 260 | 257 | 236 | 0 | 2 | 0 | 1 |
+| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 261 | 258 | 236 | 0 | 2 | 0 | 1 |
 | [ZJU-REAL/Awesome-GUI-Agents / ICLR2026/Paperlist.md](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 7 | 0 | 0 | 0 | 7 | 0 | 0 |
 | [dqtz5vpvj9-create/awesome-mobile-gui-agents / README.md](https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents) | 40 | 32 | 32 | 0 | 8 | 0 | 0 |
 | [PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents) | 247 | 212 | 211 | 9 | 26 | 0 | 0 |
@@ -90,8 +90,8 @@ lang: zh-CN
 | [AndroidWorld leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | 69 | 43 | 43 | 0 | 22 | 0 | 4 |
 | [WebArena and VisualWebArena leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | 83 | 46 | 43 | 4 | 26 | 6 | 1 |
 | [AndroidLab leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1Zv6mBfd4Ibt8mke24K6zAFrXe4AvEFaBLW3hpJqSgjw) | 6 | 5 | 5 | 0 | 1 | 0 | 0 |
-| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1132 | 1119 | 1045 | 13 | 0 | 0 | 0 |
-| [Hub model search "gui" (by likes)](https://huggingface.co/models?search=gui) | 29 | 27 | 27 | 0 | 1 | 1 | 0 |
+| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1136 | 1123 | 1045 | 13 | 0 | 0 | 0 |
+| [Hub model search "gui" (by likes)](https://huggingface.co/models?search=gui) | 28 | 27 | 27 | 0 | 0 | 1 | 0 |
 | [Hub model search "computer-use" (by likes)](https://huggingface.co/models?search=computer-use) | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
 | [Hub dataset search "gui" (by likes)](https://huggingface.co/datasets?search=gui) | 18 | 15 | 15 | 0 | 0 | 3 | 0 |
 | [Hub dataset search "computer-use" (by likes)](https://huggingface.co/datasets?search=computer-use) | 4 | 3 | 3 | 0 | 1 | 0 | 0 |
@@ -123,7 +123,7 @@ lang: zh-CN
 
 ## 范围排除
 
-1,308 条记录经逐条范围审阅后排除。包含 4,193 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
+1,308 条记录经逐条范围审阅后排除。包含 4,199 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
 
 排除依据发生变化或尚未确认时，记录会回到审阅队列。
 
@@ -131,6 +131,6 @@ lang: zh-CN
 
 多数书目条目仍待相关性审阅。资产规模、模型许可证、可用性与实验协议在持续整理中。
 
-192 个已发现标识尚待核实；2,052 个候选经审阅判定为范围外。
+193 个已发现标识尚待核实；2,052 个候选经审阅判定为范围外。
 
 [下载完整覆盖台账](https://awesomecua.com/downloads/coverage.json) · [收录方法](https://awesomecua.com/zh/about/)

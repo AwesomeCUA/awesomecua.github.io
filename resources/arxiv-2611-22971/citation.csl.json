@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2611.22971",
+  "citation-key": "arxiv_2611_22971",
+  "type": "article",
+  "title": "SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway",
+  "URL": "https://arxiv.org/abs/2611.22971v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.22971",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.22971",
+    "identifiers": {
+      "arxiv": "2611.22971"
+    },
+    "first_published_at": "2026-11-17",
+    "record_updated_at": "2026-11-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "52e65e59bb33ab09e16cded5856d8ef2c2b5f885782b592872bde6214674add9",
+      "submitted_at": "2026-11-17T15:53:58Z",
+      "updated_at": "2026-11-17T15:53:58Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.22971v1"
+    }
+  },
+  "note": "First published: 2026-11-17; Recorded arXiv version: v1; Recorded version updated: 2026-11-17T15:53:58Z.",
+  "author": [
+    {
+      "literal": "Yuxuan Zhou"
+    },
+    {
+      "literal": "Chen Xiong"
+    },
+    {
+      "literal": "Haitong Liu"
+    },
+    {
+      "literal": "Kuofeng Gao"
+    },
+    {
+      "literal": "Yang Bai"
+    },
+    {
+      "literal": "Zhiyuan He"
+    },
+    {
+      "literal": "Tao Dai"
+    },
+    {
+      "literal": "Shu-Tao Xia"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.22971",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -19,23 +19,23 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,220
-- **Discovered candidates**: 192
+- **Records awaiting review**: 1,226
+- **Discovered candidates**: 193
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
 
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-18T00:35:20Z
-- **Finished**: 2026-11-18T00:41:10Z
+- **Started**: 2026-11-18T08:18:39Z
+- **Finished**: 2026-11-18T08:24:33Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 1
-- **New candidate identifiers**: 1
+- **New paper metadata**: 6
+- **New candidate identifiers**: 7
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44209000374)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44265837809)
 
 ### Recorded gaps
 
@@ -45,7 +45,12 @@ These counts include editorial work completed after the scan below. [Browse revi
 
 These are newly discovered bibliographic records. Relevance and findings still require editorial review.
 
-- [Rank, Don't Regress: A 279M Text Ranker Beats 2B and 7B VLMs on Referential Urdu GUI Grounding](https://awesomecua.com/resources/arxiv-2611-20145/) · metadata verified
+- [Principles that Guide, Actions that Inform: Agent Evolution via Knowledge Abstraction](https://awesomecua.com/resources/arxiv-2610-06964/) · metadata verified
+- [Sage S2.1 Flash Technical Report](https://awesomecua.com/resources/arxiv-2611-21072/) · metadata verified
+- [GapLeak: When Privacy-Preserving LLM-based Web Agents Become a Privacy Risk](https://awesomecua.com/resources/arxiv-2611-22223/) · metadata verified
+- [PACT: Plan-Action Consistency Training by Preserving Correct Plans and Repairing Actions in GUI Agents](https://awesomecua.com/resources/arxiv-2611-22591/) · metadata verified
+- [Practice in Text, Act in Pixels: Correcting Where Perception Fails](https://awesomecua.com/resources/arxiv-2611-22722/) · metadata verified
+- [SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway](https://awesomecua.com/resources/arxiv-2611-22971/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +64,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-18T00:36:28Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
+2026-11-18T08:19:51Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 1 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -80,7 +85,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | success |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | success |
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | success |
-| Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | success |
+| Agent memory<br>GUI agent episodic memory self reflection | 80 | 1 | 80 | success |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | success |

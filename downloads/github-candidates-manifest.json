@@ -1,8 +1,8 @@
 {
   "active_catalog_context": {
-    "records": 6567,
+    "records": 6573,
     "role": "Comparison context only; not the observation source, selection, or approval.",
-    "sha256": "19b4240055d60de2e2f9d45a84fc5dee622ff12ee3a645dde0799987fc8cf7c2"
+    "sha256": "6158a09f90a962b666d64bbf6b992ea3f8b691d89d704198246861cf33787811"
   },
   "checkpoint_state_sha256": "7aa3a64abaa1dd9bd4e262c9f71ce9477bd7d16898d939ce772427d7c471dc67",
   "count": {
