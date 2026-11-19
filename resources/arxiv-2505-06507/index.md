@@ -1,7 +1,7 @@
 ---
 title: "Text-to-CadQuery: A New Paradigm for CAD… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-06507/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

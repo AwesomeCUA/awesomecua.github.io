@@ -1,7 +1,7 @@
 ---
 title: "Tether: Autonomous Functional Play with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-03278/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

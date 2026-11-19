@@ -1,7 +1,7 @@
 ---
 title: "VisionThink: Smart and Efficient Vision… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-13348/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

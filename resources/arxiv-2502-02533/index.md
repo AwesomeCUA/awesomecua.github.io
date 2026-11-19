@@ -1,7 +1,7 @@
 ---
 title: "Multi-Agent Design: Optimizing Agents with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-02533/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

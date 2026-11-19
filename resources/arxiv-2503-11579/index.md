@@ -1,7 +1,7 @@
 ---
 title: "Vamba: Understanding Hour-Long Videos with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-11579/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

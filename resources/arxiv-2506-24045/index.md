@@ -1,7 +1,7 @@
 ---
 title: "Agent.xpu: Efficient Scheduling of Agentic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-24045/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

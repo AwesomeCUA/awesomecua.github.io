@@ -1,7 +1,7 @@
 ---
 title: "Reservoir Computing using Stochastic p-Bits | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1709-10211/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

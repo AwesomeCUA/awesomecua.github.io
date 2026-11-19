@@ -1,7 +1,7 @@
 ---
 title: "精选资源徽章 | AwesomeCUA"
 url: https://awesomecua.com/zh/badges/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: zh-CN
 ---

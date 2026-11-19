@@ -1,7 +1,7 @@
 ---
 title: "FireAct: Toward Language Agent Fine-tuning | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-05915/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

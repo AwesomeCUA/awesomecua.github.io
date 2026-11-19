@@ -1,7 +1,7 @@
 ---
 title: "SketchMetaFace: A Learning-based Sketching… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2307-00804/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

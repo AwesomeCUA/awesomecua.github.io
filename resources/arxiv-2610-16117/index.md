@@ -1,7 +1,7 @@
 ---
 title: "Beyond Perfect Teammates: Multi-Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-16117/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

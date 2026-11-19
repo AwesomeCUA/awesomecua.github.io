@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking AI Agents for Addressing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-12736/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

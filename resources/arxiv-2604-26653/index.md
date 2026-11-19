@@ -1,7 +1,7 @@
 ---
 title: "AgentSim: A Platform for Verifiable… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-26653/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

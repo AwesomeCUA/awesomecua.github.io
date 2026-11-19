@@ -1,7 +1,7 @@
 ---
 title: "A Survey on Vision-Language-Action Models for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-14093/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

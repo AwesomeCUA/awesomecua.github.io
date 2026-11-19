@@ -1,7 +1,7 @@
 ---
 title: "Agent^2 RL-Bench: Can LLM Agents Engineer… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-10547/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

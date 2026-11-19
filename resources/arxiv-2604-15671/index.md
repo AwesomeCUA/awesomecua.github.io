@@ -1,7 +1,7 @@
 ---
 title: "Long-Term Memory for VLA-based Agents in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-15671/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

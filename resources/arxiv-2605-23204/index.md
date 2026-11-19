@@ -1,7 +1,7 @@
 ---
 title: "AutoResearch AI: Towards AI-Powered Research… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-23204/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

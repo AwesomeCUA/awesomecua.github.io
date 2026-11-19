@@ -1,7 +1,7 @@
 ---
 title: "PsySafe: A Comprehensive Framework for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2401-11880/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

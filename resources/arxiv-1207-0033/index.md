@@ -1,7 +1,7 @@
 ---
 title: "Quantum-like model of behavioral response… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1207-0033/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

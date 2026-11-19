@@ -1,7 +1,7 @@
 ---
 title: "A Dual Process VLA: Efficient Robotic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-15549/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

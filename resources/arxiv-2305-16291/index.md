@@ -1,7 +1,7 @@
 ---
 title: "Voyager: An Open-Ended Embodied Agent with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-16291/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

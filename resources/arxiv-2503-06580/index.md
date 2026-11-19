@@ -1,7 +1,7 @@
 ---
 title: "Agent models: Internalizing Chain-of-Action… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-06580/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

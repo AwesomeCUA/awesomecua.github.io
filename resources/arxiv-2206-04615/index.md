@@ -1,7 +1,7 @@
 ---
 title: "Beyond the Imitation Game: Quantifying and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2206-04615/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

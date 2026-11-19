@@ -1,7 +1,7 @@
 ---
 title: "LocalAlign: Enabling Generalizable Prompt… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-01462/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

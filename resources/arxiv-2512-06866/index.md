@@ -1,7 +1,7 @@
 ---
 title: "Less Is More, but Where? Dynamic Token… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-06866/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

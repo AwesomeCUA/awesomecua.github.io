@@ -1,7 +1,7 @@
 ---
 title: "SpatialReward: Bridging the Perception Gap in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-07458/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

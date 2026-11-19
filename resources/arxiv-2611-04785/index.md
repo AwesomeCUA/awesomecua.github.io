@@ -1,7 +1,7 @@
 ---
 title: "Kierston & KierstonBench: Simulation of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2611-04785/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

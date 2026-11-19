@@ -1,7 +1,7 @@
 ---
 title: "Hindsight is 20/20: Building Agent Memory… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-12818/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

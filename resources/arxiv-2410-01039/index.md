@@ -1,7 +1,7 @@
 ---
 title: "From Facts to Insights: A Study on the… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-01039/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

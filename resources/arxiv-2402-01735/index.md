@@ -1,7 +1,7 @@
 ---
 title: "VIALM: A Survey and Benchmark of Visually… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-01735/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

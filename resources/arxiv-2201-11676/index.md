@@ -1,7 +1,7 @@
 ---
 title: "Monitoring Model Deterioration with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2201-11676/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

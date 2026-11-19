@@ -1,7 +1,7 @@
 ---
 title: "FocusLLaVA: A Coarse-to-Fine Approach for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2411-14228/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

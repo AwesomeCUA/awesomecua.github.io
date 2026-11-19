@@ -1,7 +1,7 @@
 ---
 title: "Quantum computing using continuous-time… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2004-00704/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

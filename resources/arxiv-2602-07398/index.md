@@ -1,7 +1,7 @@
 ---
 title: "AgentSys: Secure and Dynamic LLM Agents… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-07398/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

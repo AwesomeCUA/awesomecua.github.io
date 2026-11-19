@@ -1,7 +1,7 @@
 ---
 title: "LLaVA-UHD v4: What Makes Efficient Visual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-08985/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

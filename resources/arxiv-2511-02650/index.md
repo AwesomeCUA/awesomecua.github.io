@@ -1,7 +1,7 @@
 ---
 title: "Can Visual Input Be Compressed? A Visual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-02650/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

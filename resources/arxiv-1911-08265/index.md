@@ -1,7 +1,7 @@
 ---
 title: "Mastering Atari, Go, Chess and Shogi by… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1911-08265/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Towards Verifiably Safe Tool Use for LLM Agents | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-08012/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

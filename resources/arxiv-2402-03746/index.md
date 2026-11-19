@@ -1,7 +1,7 @@
 ---
 title: "Tuning Large Multimodal Models for Videos… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-03746/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

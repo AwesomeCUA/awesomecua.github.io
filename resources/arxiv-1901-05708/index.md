@@ -1,7 +1,7 @@
 ---
 title: "Efficient Matrix Profile Computation Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1901-05708/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

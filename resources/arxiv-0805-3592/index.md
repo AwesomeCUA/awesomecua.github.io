@@ -1,7 +1,7 @@
 ---
 title: "Deterministic optical quantum computer using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0805-3592/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

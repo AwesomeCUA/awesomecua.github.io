@@ -1,7 +1,7 @@
 ---
 title: "Blind Quantum Computation Using a… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2006-06255/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

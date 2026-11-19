@@ -1,7 +1,7 @@
 ---
 title: "MCU: An Evaluation Framework for Open-Ended… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-08367/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

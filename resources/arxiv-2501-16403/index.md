@@ -1,7 +1,7 @@
 ---
 title: "Is Open Source the Future of AI? A… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-16403/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

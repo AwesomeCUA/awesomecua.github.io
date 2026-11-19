@@ -1,7 +1,7 @@
 ---
 title: "VillagerAgent: A Graph-Based Multi-Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-05720/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

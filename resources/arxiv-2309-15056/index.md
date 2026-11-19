@@ -1,7 +1,7 @@
 ---
 title: "QUILT: Effective Multi-Class Classification… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-15056/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

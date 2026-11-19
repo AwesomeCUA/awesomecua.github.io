@@ -1,7 +1,7 @@
 ---
 title: "ROS2SmolVLA: Enabling Small… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-23320/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

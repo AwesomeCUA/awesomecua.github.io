@@ -1,7 +1,7 @@
 ---
 title: "CATP: Contextually Adaptive Token Pruning for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2508-07871/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

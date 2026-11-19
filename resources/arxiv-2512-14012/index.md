@@ -1,7 +1,7 @@
 ---
 title: "Professional Software Developers Don't Vibe… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-14012/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

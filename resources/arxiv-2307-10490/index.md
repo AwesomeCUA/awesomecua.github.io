@@ -1,7 +1,7 @@
 ---
 title: "Abusing Images and Sounds for Indirect… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2307-10490/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

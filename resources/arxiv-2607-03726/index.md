@@ -1,7 +1,7 @@
 ---
 title: "SelfMem: Self-Optimizing Memory for AI Agents | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-03726/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

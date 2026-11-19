@@ -1,7 +1,7 @@
 ---
 title: "Evaluating Memory in LLM Agents via… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-05257/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

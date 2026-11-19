@@ -1,7 +1,7 @@
 ---
 title: "Quantifying performance bottlenecks of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1410-5010/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

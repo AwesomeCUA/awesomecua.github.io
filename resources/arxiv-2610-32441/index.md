@@ -1,7 +1,7 @@
 ---
 title: "SCI-AGENT-EXAM: Benchmarking Agents on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-32441/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

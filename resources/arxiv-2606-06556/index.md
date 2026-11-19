@@ -1,7 +1,7 @@
 ---
 title: "Robots Need More than VLA and World Models | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-06556/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

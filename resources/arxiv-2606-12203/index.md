@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Multi-Resolution Procedural… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-12203/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Self-collaboration Code Generation via ChatGPT | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2304-07590/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

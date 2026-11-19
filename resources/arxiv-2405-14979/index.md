@@ -1,7 +1,7 @@
 ---
 title: "CraftsMan3D: High-fidelity Mesh Generation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-14979/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

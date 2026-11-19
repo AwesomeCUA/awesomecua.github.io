@@ -1,7 +1,7 @@
 ---
 title: "Building a fault-tolerant quantum computer… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2012-04108/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

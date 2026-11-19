@@ -1,7 +1,7 @@
 ---
 title: "Predicting Abandonment of Open Source… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-21678/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Sparse implicitization by interpolation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1411-2846/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

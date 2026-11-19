@@ -1,7 +1,7 @@
 ---
 title: "Stochastic single flux quantum neuromorphic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1612-09292/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---

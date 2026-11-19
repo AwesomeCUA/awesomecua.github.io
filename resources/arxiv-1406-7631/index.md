@@ -1,7 +1,7 @@
 ---
 title: "Dynamical topological quantum computation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1406-7631/
-updated: 2026-11-18
+updated: 2026-11-19
 type: page
 lang: en
 ---
