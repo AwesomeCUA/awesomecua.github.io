@@ -1,0 +1,82 @@
+{
+  "id": "arxiv:2611.12856",
+  "citation-key": "arxiv_2611_12856",
+  "type": "article",
+  "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+  "URL": "https://arxiv.org/abs/2611.12856v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.12856",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.12856",
+    "identifiers": {
+      "arxiv": "2611.12856"
+    },
+    "first_published_at": "2026-11-09",
+    "record_updated_at": "2026-11-09",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "0f5ae5ca74dd70d3068b6f47d25b18d100286262aa6ffbbdeb563c4bc66fe639",
+      "submitted_at": "2026-11-09T18:45:28Z",
+      "updated_at": "2026-11-09T18:45:28Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.12856v1"
+    }
+  },
+  "note": "First published: 2026-11-09; Recorded arXiv version: v1; Recorded version updated: 2026-11-09T18:45:28Z.",
+  "author": [
+    {
+      "literal": "Zheng Jiang"
+    },
+    {
+      "literal": "Fang Niu"
+    },
+    {
+      "literal": "Bo Peng"
+    },
+    {
+      "literal": "Houde Qian"
+    },
+    {
+      "literal": "Wenyi Li"
+    },
+    {
+      "literal": "Deyao Hong"
+    },
+    {
+      "literal": "Mingju Gao"
+    },
+    {
+      "literal": "Yizhe Chi"
+    },
+    {
+      "literal": "Youjie Zheng"
+    },
+    {
+      "literal": "Kaisen Yang"
+    },
+    {
+      "literal": "Calvin Xiao"
+    },
+    {
+      "literal": "Lifeng Sun"
+    },
+    {
+      "literal": "Huan-ang Gao"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        9
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.12856",
+  "genre": "preprint",
+  "version": "1"
+}

@@ -161220,6 +161220,82 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2607.21653v4",
+    "archive": "arXiv",
+    "archive_location": "2607.21653",
+    "author": [
+      {
+        "literal": "Jian Hu"
+      },
+      {
+        "literal": "Huiying Li"
+      },
+      {
+        "literal": "Hao Zhang"
+      },
+      {
+        "literal": "Binfeng Xu"
+      },
+      {
+        "literal": "Yifan Zhang"
+      },
+      {
+        "literal": "Shaokun Zhang"
+      },
+      {
+        "literal": "Hemil Desai"
+      },
+      {
+        "literal": "Michael Demoret"
+      },
+      {
+        "literal": "Pavlo Molchanov"
+      },
+      {
+        "literal": "Jan Kautz"
+      },
+      {
+        "literal": "Yi Dong"
+      }
+    ],
+    "citation-key": "arxiv_2607_21653",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ea035ca2ecae69d4011da586c991de522ca3f4c111f24c90ffe54e5987e2d1ef",
+        "submitted_at": "2026-07-22T18:06:15Z",
+        "updated_at": "2026-11-18T05:03:42Z",
+        "version": 4,
+        "versioned_url": "https://arxiv.org/abs/2607.21653v4"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2607.21653",
+      "catalog_id": "arxiv:2607.21653",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-07-22",
+      "identifiers": {
+        "arxiv": "2607.21653"
+      },
+      "record_updated_at": "2026-11-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2607.21653",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          7,
+          22
+        ]
+      ]
+    },
+    "note": "First published: 2026-07-22; Recorded arXiv version: v4; Recorded version updated: 2026-11-18T05:03:42Z.",
+    "title": "MOLT: A Hugging Face-Native, Minimal, and Scalable Framework for Agentic Reinforcement Learning",
+    "type": "article",
+    "version": "4"
+  },
+  {
     "URL": "https://arxiv.org/abs/2607.22689v1",
     "archive": "arXiv",
     "archive_location": "2607.22689",
@@ -207321,6 +207397,88 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.12856v1",
+    "archive": "arXiv",
+    "archive_location": "2611.12856",
+    "author": [
+      {
+        "literal": "Zheng Jiang"
+      },
+      {
+        "literal": "Fang Niu"
+      },
+      {
+        "literal": "Bo Peng"
+      },
+      {
+        "literal": "Houde Qian"
+      },
+      {
+        "literal": "Wenyi Li"
+      },
+      {
+        "literal": "Deyao Hong"
+      },
+      {
+        "literal": "Mingju Gao"
+      },
+      {
+        "literal": "Yizhe Chi"
+      },
+      {
+        "literal": "Youjie Zheng"
+      },
+      {
+        "literal": "Kaisen Yang"
+      },
+      {
+        "literal": "Calvin Xiao"
+      },
+      {
+        "literal": "Lifeng Sun"
+      },
+      {
+        "literal": "Huan-ang Gao"
+      }
+    ],
+    "citation-key": "arxiv_2611_12856",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "0f5ae5ca74dd70d3068b6f47d25b18d100286262aa6ffbbdeb563c4bc66fe639",
+        "submitted_at": "2026-11-09T18:45:28Z",
+        "updated_at": "2026-11-09T18:45:28Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.12856v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.12856",
+      "catalog_id": "arxiv:2611.12856",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-09",
+      "identifiers": {
+        "arxiv": "2611.12856"
+      },
+      "record_updated_at": "2026-11-09"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.12856",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          9
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-09; Recorded arXiv version: v1; Recorded version updated: 2026-11-09T18:45:28Z.",
+    "title": "WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2611.13177v1",
     "archive": "arXiv",
     "archive_location": "2611.13177",
@@ -209588,6 +209746,420 @@
     },
     "note": "First published: 2026-11-17; Recorded arXiv version: v1; Recorded version updated: 2026-11-17T15:53:58Z.",
     "title": "SEAM: Computer-Use Agents Know the Harm Between Screens, and Commit It Anyway",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.23257v1",
+    "archive": "arXiv",
+    "archive_location": "2611.23257",
+    "author": [
+      {
+        "literal": "Zhiyuan Peng"
+      },
+      {
+        "literal": "Wei Tao"
+      },
+      {
+        "literal": "Chenhao Ying"
+      },
+      {
+        "literal": "Yuan Luo"
+      },
+      {
+        "literal": "Yiwen Guo"
+      }
+    ],
+    "citation-key": "arxiv_2611_23257",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "90ee490fdaed980b1eb39ecfafb2f07b4c9b1c1911168e361bf7331c440d8d0f",
+        "submitted_at": "2026-09-29T17:55:57Z",
+        "updated_at": "2026-09-29T17:55:57Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.23257v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.23257",
+      "catalog_id": "arxiv:2611.23257",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-09-29",
+      "identifiers": {
+        "arxiv": "2611.23257"
+      },
+      "record_updated_at": "2026-09-29"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.23257",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          29
+        ]
+      ]
+    },
+    "note": "First published: 2026-09-29; Recorded arXiv version: v1; Recorded version updated: 2026-09-29T17:55:57Z.",
+    "title": "StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.23860v1",
+    "archive": "arXiv",
+    "archive_location": "2611.23860",
+    "author": [
+      {
+        "literal": "Ziyi He"
+      },
+      {
+        "literal": "Xian Wu"
+      },
+      {
+        "literal": "Qiyuan Chen"
+      },
+      {
+        "literal": "Haitao Li"
+      },
+      {
+        "literal": "Cehao Yang"
+      },
+      {
+        "literal": "Yinghao Zhu"
+      },
+      {
+        "literal": "Xichen Zhang"
+      },
+      {
+        "literal": "Xiao Chen"
+      },
+      {
+        "literal": "Yushi Feng"
+      },
+      {
+        "literal": "Lequan Yu"
+      }
+    ],
+    "citation-key": "arxiv_2611_23860",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9e0fc02857b6941296ae56169f7eeee5143501b0b416fd84ef4a313aeb3b66cf",
+        "submitted_at": "2026-11-18T05:04:41Z",
+        "updated_at": "2026-11-18T05:04:41Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.23860v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.23860",
+      "catalog_id": "arxiv:2611.23860",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-18",
+      "identifiers": {
+        "arxiv": "2611.23860"
+      },
+      "record_updated_at": "2026-11-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.23860",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-18; Recorded arXiv version: v1; Recorded version updated: 2026-11-18T05:04:41Z.",
+    "title": "MobileWeave: Program-First Synthesis of Dependency-Linked Tasks for Training Mobile GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.23946v1",
+    "archive": "arXiv",
+    "archive_location": "2611.23946",
+    "author": [
+      {
+        "literal": "Jingxing Wang"
+      },
+      {
+        "literal": "Teng Wang"
+      },
+      {
+        "literal": "Xingyu Lou"
+      },
+      {
+        "literal": "Zihan Guo"
+      },
+      {
+        "literal": "Jun Wang"
+      },
+      {
+        "literal": "Weiwen Liu"
+      },
+      {
+        "literal": "Weinan Zhang"
+      },
+      {
+        "literal": "Jianghao Lin"
+      }
+    ],
+    "citation-key": "arxiv_2611_23946",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8e1095e4d206d564602f33b9927158af7c9973566f6164718793a0e8766165da",
+        "submitted_at": "2026-11-18T06:32:44Z",
+        "updated_at": "2026-11-18T06:32:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.23946v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.23946",
+      "catalog_id": "arxiv:2611.23946",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-18",
+      "identifiers": {
+        "arxiv": "2611.23946"
+      },
+      "record_updated_at": "2026-11-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.23946",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-18; Recorded arXiv version: v1; Recorded version updated: 2026-11-18T06:32:44Z.",
+    "title": "How Complete Must an Environment Be to Train a Capable GUI Agent?",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.24102v1",
+    "archive": "arXiv",
+    "archive_location": "2611.24102",
+    "author": [
+      {
+        "literal": "Zhizhuo Kou"
+      },
+      {
+        "literal": "Sizai Hou"
+      },
+      {
+        "literal": "Jian Yang"
+      },
+      {
+        "literal": "Ge Sun"
+      },
+      {
+        "literal": "Junyu Luo"
+      },
+      {
+        "literal": "Wenkai Zhang"
+      },
+      {
+        "literal": "Sirui Han"
+      },
+      {
+        "literal": "Yike Guo"
+      }
+    ],
+    "citation-key": "arxiv_2611_24102",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a7908c9a452ef80743caade49fe60f1620506156c4a30ab6a6ecca7f34a2cda2",
+        "submitted_at": "2026-11-18T09:22:48Z",
+        "updated_at": "2026-11-18T09:22:48Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.24102v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.24102",
+      "catalog_id": "arxiv:2611.24102",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-18",
+      "identifiers": {
+        "arxiv": "2611.24102"
+      },
+      "record_updated_at": "2026-11-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.24102",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-18; Recorded arXiv version: v1; Recorded version updated: 2026-11-18T09:22:48Z.",
+    "title": "IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.24115v1",
+    "archive": "arXiv",
+    "archive_location": "2611.24115",
+    "author": [
+      {
+        "literal": "Zongyuan Wu"
+      },
+      {
+        "literal": "Xin Wang"
+      },
+      {
+        "literal": "Tongtong Feng"
+      },
+      {
+        "literal": "Yuan Meng"
+      },
+      {
+        "literal": "Zeyang Zhang"
+      },
+      {
+        "literal": "Ling Feng"
+      },
+      {
+        "literal": "Wenwu Zhu"
+      }
+    ],
+    "citation-key": "arxiv_2611_24115",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "229e5db80c946740db2b38061fdf6970812f177bdee8942bab4a1e24e336f5a8",
+        "submitted_at": "2026-11-18T09:30:33Z",
+        "updated_at": "2026-11-18T09:30:33Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.24115v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.24115",
+      "catalog_id": "arxiv:2611.24115",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-18",
+      "identifiers": {
+        "arxiv": "2611.24115"
+      },
+      "record_updated_at": "2026-11-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.24115",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-18; Recorded arXiv version: v1; Recorded version updated: 2026-11-18T09:30:33Z.",
+    "title": "Embodied Graph: A Relational World Model for Long-Horizon Tasks",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.24154v1",
+    "archive": "arXiv",
+    "archive_location": "2611.24154",
+    "author": [
+      {
+        "literal": "Xirui Jiang"
+      },
+      {
+        "literal": "Yuxi Chen"
+      },
+      {
+        "literal": "Rui Yang"
+      },
+      {
+        "literal": "Feng Luo"
+      },
+      {
+        "literal": "Pengcheng Wang"
+      },
+      {
+        "literal": "Bingxuan Li"
+      },
+      {
+        "literal": "Zihao Zhao"
+      },
+      {
+        "literal": "Yushan Li"
+      },
+      {
+        "literal": "Han Wang"
+      },
+      {
+        "literal": "Manling Li"
+      },
+      {
+        "literal": "Yang Zhang"
+      },
+      {
+        "literal": "Shiyu Chang"
+      },
+      {
+        "literal": "Tong Zhang"
+      },
+      {
+        "literal": "Huan Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2611_24154",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "7b26ce08ff70270abe79ef7fbb56cb394b697a855283caf4abb215685c6bfb76",
+        "submitted_at": "2026-11-18T09:58:53Z",
+        "updated_at": "2026-11-18T09:58:53Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.24154v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.24154",
+      "catalog_id": "arxiv:2611.24154",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-18",
+      "identifiers": {
+        "arxiv": "2611.24154"
+      },
+      "record_updated_at": "2026-11-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.24154",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-18; Recorded arXiv version: v1; Recorded version updated: 2026-11-18T09:58:53Z.",
+    "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
     "type": "article",
     "version": "1"
   },
