@@ -27,32 +27,19 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-19T08:18:45Z
-- **结束**: 2026-11-19T08:24:17Z
+- **开始**: 2026-11-19T16:15:06Z
+- **结束**: 2026-11-19T16:21:08Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 8
-- **新增候选标识**: 8
+- **新增论文元数据**: 0
+- **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44486490244)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44563891242)
 
 ### 记录的缺口
 
 - github_candidates: Stage exceeded 220 seconds; last verified records retained.
-
-## 新加入书目的记录
-
-以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
-
-- [MOLT: A Hugging Face-Native, Minimal, and Scalable Framework for Agentic Reinforcement Learning](https://awesomecua.com/resources/arxiv-2607-21653/) · 元数据已核实
-- [WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems](https://awesomecua.com/resources/arxiv-2611-12856/) · 元数据已核实
-- [StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software](https://awesomecua.com/resources/arxiv-2611-23257/) · 元数据已核实
-- [MobileWeave: Program-First Synthesis of Dependency-Linked Tasks for Training Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2611-23860/) · 元数据已核实
-- [How Complete Must an Environment Be to Train a Capable GUI Agent?](https://awesomecua.com/resources/arxiv-2611-23946/) · 元数据已核实
-- [IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents](https://awesomecua.com/resources/arxiv-2611-24102/) · 元数据已核实
-- [Embodied Graph: A Relational World Model for Long-Horizon Tasks](https://awesomecua.com/resources/arxiv-2611-24115/) · 元数据已核实
-- [Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development](https://awesomecua.com/resources/arxiv-2611-24154/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -66,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-19T08:19:39Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 1 个新候选。
+2026-11-19T16:16:29Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -86,7 +73,7 @@ lang: zh-CN
 | Visual grounding<br>screenshot visual grounding click localization agent | 80 | 0 | 80 | 成功 |
 | Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | 成功 |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | 成功 |
-| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 1 | 80 | 成功 |
+| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | 成功 |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | 成功 |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | 成功 |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | 成功 |

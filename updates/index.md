@@ -27,32 +27,19 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-19T08:18:45Z
-- **Finished**: 2026-11-19T08:24:17Z
+- **Started**: 2026-11-19T16:15:06Z
+- **Finished**: 2026-11-19T16:21:08Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 8
-- **New candidate identifiers**: 8
+- **New paper metadata**: 0
+- **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44486490244)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44563891242)
 
 ### Recorded gaps
 
 - github_candidates: Stage exceeded 220 seconds; last verified records retained.
-
-## New to the bibliography
-
-These are newly discovered bibliographic records. Relevance and findings still require editorial review.
-
-- [MOLT: A Hugging Face-Native, Minimal, and Scalable Framework for Agentic Reinforcement Learning](https://awesomecua.com/resources/arxiv-2607-21653/) · metadata verified
-- [WorkflowArena: Benchmarking Executable Workflow Orchestration in LLM-Based Multi-Agent Systems](https://awesomecua.com/resources/arxiv-2611-12856/) · metadata verified
-- [StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software](https://awesomecua.com/resources/arxiv-2611-23257/) · metadata verified
-- [MobileWeave: Program-First Synthesis of Dependency-Linked Tasks for Training Mobile GUI Agents](https://awesomecua.com/resources/arxiv-2611-23860/) · metadata verified
-- [How Complete Must an Environment Be to Train a Capable GUI Agent?](https://awesomecua.com/resources/arxiv-2611-23946/) · metadata verified
-- [IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents](https://awesomecua.com/resources/arxiv-2611-24102/) · metadata verified
-- [Embodied Graph: A Relational World Model for Long-Horizon Tasks](https://awesomecua.com/resources/arxiv-2611-24115/) · metadata verified
-- [Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development](https://awesomecua.com/resources/arxiv-2611-24154/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -66,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-19T08:19:39Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 1 new candidates.
+2026-11-19T16:16:29Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -86,7 +73,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Visual grounding<br>screenshot visual grounding click localization agent | 80 | 0 | 80 | success |
 | Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | success |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | success |
-| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 1 | 80 | success |
+| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | success |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | success |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
