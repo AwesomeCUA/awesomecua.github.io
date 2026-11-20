@@ -1,0 +1,49 @@
+{
+  "id": "arxiv:2611.24977",
+  "citation-key": "arxiv_2611_24977",
+  "type": "article",
+  "title": "CANDID: Candidate-Driven Intervention for Disciplined Execution in Local Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2611.24977v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.24977",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.24977",
+    "identifiers": {
+      "arxiv": "2611.24977"
+    },
+    "first_published_at": "2026-11-17",
+    "record_updated_at": "2026-11-17",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "411e49d5ecd777b145643acf7f0ae56baaf20234ba3d27c77f47dae7bf9716e3",
+      "submitted_at": "2026-11-17T15:39:11Z",
+      "updated_at": "2026-11-17T15:39:11Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.24977v1"
+    }
+  },
+  "note": "First published: 2026-11-17; Recorded arXiv version: v1; Recorded version updated: 2026-11-17T15:39:11Z.",
+  "author": [
+    {
+      "literal": "Woongkyu Lee"
+    },
+    {
+      "literal": "Jungwook Choi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        17
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.24977",
+  "genre": "preprint",
+  "version": "1"
+}

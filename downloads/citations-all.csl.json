@@ -210231,6 +210231,262 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.24977v1",
+    "archive": "arXiv",
+    "archive_location": "2611.24977",
+    "author": [
+      {
+        "literal": "Woongkyu Lee"
+      },
+      {
+        "literal": "Jungwook Choi"
+      }
+    ],
+    "citation-key": "arxiv_2611_24977",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "411e49d5ecd777b145643acf7f0ae56baaf20234ba3d27c77f47dae7bf9716e3",
+        "submitted_at": "2026-11-17T15:39:11Z",
+        "updated_at": "2026-11-17T15:39:11Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.24977v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.24977",
+      "catalog_id": "arxiv:2611.24977",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-17",
+      "identifiers": {
+        "arxiv": "2611.24977"
+      },
+      "record_updated_at": "2026-11-17"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.24977",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          17
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-17; Recorded arXiv version: v1; Recorded version updated: 2026-11-17T15:39:11Z.",
+    "title": "CANDID: Candidate-Driven Intervention for Disciplined Execution in Local Computer-Use Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.25257v1",
+    "archive": "arXiv",
+    "archive_location": "2611.25257",
+    "author": [
+      {
+        "literal": "Jiajun Fan"
+      },
+      {
+        "literal": "Neil He"
+      },
+      {
+        "literal": "Bangji Yang"
+      },
+      {
+        "literal": "Qinglong Zheng"
+      },
+      {
+        "literal": "Ziwen Wang"
+      },
+      {
+        "literal": "Chaoran Cheng"
+      },
+      {
+        "literal": "Changyi Yang"
+      },
+      {
+        "literal": "Hanqi Mao"
+      },
+      {
+        "literal": "Ge Liu"
+      }
+    ],
+    "citation-key": "arxiv_2611_25257",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "58c476eb52742fc964916c3b3d6a012371d2254ddfb40cb3be4f840d0ee72644",
+        "submitted_at": "2026-11-18T22:41:26Z",
+        "updated_at": "2026-11-18T22:41:26Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.25257v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.25257",
+      "catalog_id": "arxiv:2611.25257",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-18",
+      "identifiers": {
+        "arxiv": "2611.25257"
+      },
+      "record_updated_at": "2026-11-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.25257",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-18; Recorded arXiv version: v1; Recorded version updated: 2026-11-18T22:41:26Z.",
+    "title": "Keel: A Frontier Model Teaches a Vision-Language Model by Rewriting Its Weights",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.25297v1",
+    "archive": "arXiv",
+    "archive_location": "2611.25297",
+    "author": [
+      {
+        "literal": "Chen Liu"
+      },
+      {
+        "literal": "Zhen Fang"
+      },
+      {
+        "literal": "Xin Yu"
+      },
+      {
+        "literal": "Dadong Wang"
+      },
+      {
+        "literal": "Ling Chen"
+      }
+    ],
+    "citation-key": "arxiv_2611_25297",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5270f6dfbbfb49c95063a725dd7bc3ec7fe8a78877a6b93c97c58e34f8fc7d01",
+        "submitted_at": "2026-11-18T23:49:44Z",
+        "updated_at": "2026-11-18T23:49:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.25297v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.25297",
+      "catalog_id": "arxiv:2611.25297",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-18",
+      "identifiers": {
+        "arxiv": "2611.25297"
+      },
+      "record_updated_at": "2026-11-18"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.25297",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          18
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-18; Recorded arXiv version: v1; Recorded version updated: 2026-11-18T23:49:44Z.",
+    "title": "ScaleDiag: Diagnosing the Limits of Test-Time Scaling in GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.25387v1",
+    "archive": "arXiv",
+    "archive_location": "2611.25387",
+    "author": [
+      {
+        "literal": "Xuwei Ding"
+      },
+      {
+        "literal": "Skylar Zhai"
+      },
+      {
+        "literal": "Linxin Song"
+      },
+      {
+        "literal": "Jiarui Feng"
+      },
+      {
+        "literal": "Dongqi Fu"
+      },
+      {
+        "literal": "Huajun Xi"
+      },
+      {
+        "literal": "Junnan Li"
+      },
+      {
+        "literal": "Jingcheng Liang"
+      },
+      {
+        "literal": "Jieyu Zhao"
+      },
+      {
+        "literal": "Yinglong Xia"
+      },
+      {
+        "literal": "Hong Li"
+      },
+      {
+        "literal": "Jian Kang"
+      }
+    ],
+    "citation-key": "arxiv_2611_25387",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "a3c252a481d12d52841401fd69613dc16def79eb08f6d2ec8179fa42c8cdc9b6",
+        "submitted_at": "2026-11-19T02:32:10Z",
+        "updated_at": "2026-11-19T02:32:10Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.25387v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.25387",
+      "catalog_id": "arxiv:2611.25387",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-19",
+      "identifiers": {
+        "arxiv": "2611.25387"
+      },
+      "record_updated_at": "2026-11-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.25387",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-19; Recorded arXiv version: v1; Recorded version updated: 2026-11-19T02:32:10Z.",
+    "title": "TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "DOI": "10.20944/preprints202611.0431.v1",
     "URL": "https://doi.org/10.20944/preprints202611.0431.v1",
     "author": [

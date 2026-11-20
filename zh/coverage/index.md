@@ -8,9 +8,9 @@ lang: zh-CN
 
 # 覆盖与核验台账
 
-5,347 条已审阅资源，另有 1,238 条书目元数据已核实、等待审阅的记录。
+5,347 条已审阅资源，另有 1,242 条书目元数据已核实、等待审阅的记录。
 
-证据快照：2026-11-20T00:33:31Z。不同资源类型可能指向同一项目的不同部分。
+证据快照：2026-11-20T08:19:47Z。不同资源类型可能指向同一项目的不同部分。
 
 ## 发现来源覆盖
 
@@ -30,7 +30,7 @@ lang: zh-CN
 | [Yearly GUI Agents](https://github.com/qy0720/awesome-yearly-gui-agents) | 193 | 152 | 152 | 2 | 37 | 1 | 1 |
 | [OSU-NLP-Group/GUI-Agents-Paper-List / README.md](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) | 545 | 493 | 464 | 0 | 52 | 0 | 0 |
 | [opendilab/awesome-ui-agents / README.md](https://github.com/opendilab/awesome-ui-agents) | 144 | 97 | 95 | 6 | 32 | 9 | 0 |
-| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 263 | 260 | 236 | 0 | 2 | 0 | 1 |
+| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 265 | 262 | 236 | 0 | 2 | 0 | 1 |
 | [ZJU-REAL/Awesome-GUI-Agents / ICLR2026/Paperlist.md](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 7 | 0 | 0 | 0 | 7 | 0 | 0 |
 | [dqtz5vpvj9-create/awesome-mobile-gui-agents / README.md](https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents) | 40 | 32 | 32 | 0 | 8 | 0 | 0 |
 | [PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents) | 247 | 212 | 211 | 9 | 26 | 0 | 0 |
@@ -90,7 +90,7 @@ lang: zh-CN
 | [AndroidWorld leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | 69 | 43 | 43 | 0 | 22 | 0 | 4 |
 | [WebArena and VisualWebArena leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | 83 | 46 | 43 | 4 | 26 | 6 | 1 |
 | [AndroidLab leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1Zv6mBfd4Ibt8mke24K6zAFrXe4AvEFaBLW3hpJqSgjw) | 6 | 5 | 5 | 0 | 1 | 0 | 0 |
-| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1143 | 1130 | 1046 | 13 | 0 | 0 | 0 |
+| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1146 | 1133 | 1046 | 13 | 0 | 0 | 0 |
 | [Hub model search "gui" (by likes)](https://huggingface.co/models?search=gui) | 28 | 27 | 27 | 0 | 0 | 1 | 0 |
 | [Hub model search "computer-use" (by likes)](https://huggingface.co/models?search=computer-use) | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
 | [Hub dataset search "gui" (by likes)](https://huggingface.co/datasets?search=gui) | 18 | 15 | 15 | 0 | 0 | 3 | 0 |
@@ -123,7 +123,7 @@ lang: zh-CN
 
 ## 范围排除
 
-1,308 条记录经逐条范围审阅后排除。包含 4,211 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
+1,308 条记录经逐条范围审阅后排除。包含 4,215 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
 
 排除依据发生变化或尚未确认时，记录会回到审阅队列。
 
