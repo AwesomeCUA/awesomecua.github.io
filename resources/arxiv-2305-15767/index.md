@@ -1,7 +1,7 @@
 ---
 title: "A Scalable, Fast and Programmable Neural… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-15767/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

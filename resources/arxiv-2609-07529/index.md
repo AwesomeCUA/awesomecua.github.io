@@ -1,7 +1,7 @@
 ---
 title: "CoER: Defending against Adaptive Indirect… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-07529/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

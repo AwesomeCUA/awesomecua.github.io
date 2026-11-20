@@ -1,7 +1,7 @@
 ---
 title: "Minimal surface computation using a finite… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1403-3535/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

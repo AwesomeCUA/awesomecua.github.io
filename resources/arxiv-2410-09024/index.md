@@ -1,7 +1,7 @@
 ---
 title: "AgentHarm: A Benchmark for Measuring… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-09024/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "RewardDance: Reward Scaling in Visual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-08826/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

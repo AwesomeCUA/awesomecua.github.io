@@ -1,7 +1,7 @@
 ---
 title: "Quantum Reservoir Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2408-09577/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

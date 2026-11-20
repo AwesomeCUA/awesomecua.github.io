@@ -1,7 +1,7 @@
 ---
 title: "Efficient Optimisation of Physical Reservoir… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2401-14371/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

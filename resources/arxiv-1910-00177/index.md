@@ -1,7 +1,7 @@
 ---
 title: "Advantage-Weighted Regression: Simple and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1910-00177/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

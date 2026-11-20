@@ -1,7 +1,7 @@
 ---
 title: "Toward Fast Neural Computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1804-00267/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

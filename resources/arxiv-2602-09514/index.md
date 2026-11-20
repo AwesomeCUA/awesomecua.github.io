@@ -1,7 +1,7 @@
 ---
 title: "EcoGym: Evaluating LLMs for Long-Horizon… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-09514/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

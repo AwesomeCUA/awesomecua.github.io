@@ -1,7 +1,7 @@
 ---
 title: "On optimality of kernels for approximate… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1106-6280/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

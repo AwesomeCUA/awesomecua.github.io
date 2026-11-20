@@ -1,7 +1,7 @@
 ---
 title: "CAD Adjacency Computation Using Validated… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1704-06856/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

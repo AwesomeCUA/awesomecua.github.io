@@ -1,7 +1,7 @@
 ---
 title: "A generic new platform for topological… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0907-2239/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

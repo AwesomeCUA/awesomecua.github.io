@@ -1,7 +1,7 @@
 ---
 title: "Vulnerability Liquefaction Mapping in Padang… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-02210/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

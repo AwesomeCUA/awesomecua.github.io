@@ -1,7 +1,7 @@
 ---
 title: "Mellum: Production-Grade in-IDE Contextual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-05788/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

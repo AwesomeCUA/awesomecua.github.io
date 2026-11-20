@@ -1,7 +1,7 @@
 ---
 title: "MM-REACT: Prompting ChatGPT for Multimodal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2303-11381/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

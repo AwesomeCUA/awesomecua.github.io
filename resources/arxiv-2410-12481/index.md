@@ -1,7 +1,7 @@
 ---
 title: "SAC-GLAM: Improving Online RL for LLM agents… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-12481/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

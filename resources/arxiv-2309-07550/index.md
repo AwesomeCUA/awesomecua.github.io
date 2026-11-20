@@ -1,7 +1,7 @@
 ---
 title: "Naturalistic Robot Arm Trajectory Generation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-07550/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Visual Position Prompt for MLLM based Visual… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-15426/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

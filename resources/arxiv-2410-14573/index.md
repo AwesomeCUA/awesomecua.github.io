@@ -1,7 +1,7 @@
 ---
 title: "Building Trust in Black-box Optimization: A… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-14573/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Repository-Level Prompt Generation for Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2206-12839/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

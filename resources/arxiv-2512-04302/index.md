@@ -1,7 +1,7 @@
 ---
 title: "Towards better dense rewards in Reinforcement… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-04302/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

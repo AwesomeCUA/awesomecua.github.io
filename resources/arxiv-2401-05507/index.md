@@ -1,7 +1,7 @@
 ---
 title: "InfiAgent-DABench: Evaluating Agents on Data… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2401-05507/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

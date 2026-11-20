@@ -1,7 +1,7 @@
 ---
 title: "Detecting Wildfire Flame and Smoke through… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-08639/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-19
+updated: 2026-11-20
 type: page
 lang: en
 ---
@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,237
+- **Records awaiting review**: 1,238
 - **Discovered candidates**: 193
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,19 +27,25 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-19T16:15:06Z
-- **Finished**: 2026-11-19T16:21:08Z
+- **Started**: 2026-11-20T00:32:14Z
+- **Finished**: 2026-11-20T00:37:55Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 0
-- **New candidate identifiers**: 0
+- **New paper metadata**: 1
+- **New candidate identifiers**: 1
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44563891242)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44646606305)
 
 ### Recorded gaps
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
+- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+
+## New to the bibliography
+
+These are newly discovered bibliographic records. Relevance and findings still require editorial review.
+
+- [Vanguard: Knowing When to Trust the Draft in Speculative Vision-Language Agents](https://awesomecua.com/resources/arxiv-2611-23917/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +59,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-19T16:16:29Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
+2026-11-20T00:33:31Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
