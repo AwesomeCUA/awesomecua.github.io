@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,242
+- **Records awaiting review**: 1,243
 - **Discovered candidates**: 193
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,28 +27,25 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-20T08:18:40Z
-- **Finished**: 2026-11-20T08:24:25Z
+- **Started**: 2026-11-20T16:14:38Z
+- **Finished**: 2026-11-20T16:18:58Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 4
-- **New candidate identifiers**: 4
+- **New paper metadata**: 1
+- **New candidate identifiers**: 1
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44701467689)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44771303438)
 
 ### Recorded gaps
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
+- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
 
 ## New to the bibliography
 
 These are newly discovered bibliographic records. Relevance and findings still require editorial review.
 
-- [CANDID: Candidate-Driven Intervention for Disciplined Execution in Local Computer-Use Agents](https://awesomecua.com/resources/arxiv-2611-24977/) · metadata verified
-- [Keel: A Frontier Model Teaches a Vision-Language Model by Rewriting Its Weights](https://awesomecua.com/resources/arxiv-2611-25257/) · metadata verified
-- [ScaleDiag: Diagnosing the Limits of Test-Time Scaling in GUI Grounding](https://awesomecua.com/resources/arxiv-2611-25297/) · metadata verified
-- [TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs](https://awesomecua.com/resources/arxiv-2611-25387/) · metadata verified
+- [Phantom Success, Silent Failure: Auditing the Success Checkers of Simulated Manipulation Benchmarks](https://awesomecua.com/resources/arxiv-2611-25179/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -62,7 +59,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-20T08:19:47Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
+2026-11-20T16:15:52Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 1 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -87,7 +84,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | success |
-| Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | success |
+| Task verification<br>computer use benchmark task evaluation state verification | 80 | 1 | 80 | success |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | success |
 | Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 0 | 80 | success |
 | Assistive interfaces<br>accessibility assistive multimodal GUI agents | 80 | 0 | 80 | success |
