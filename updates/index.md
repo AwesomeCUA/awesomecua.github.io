@@ -27,26 +27,19 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-21T00:33:45Z
-- **Finished**: 2026-11-21T00:37:37Z
+- **Started**: 2026-11-21T08:16:24Z
+- **Finished**: 2026-11-21T08:20:22Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 2
-- **New candidate identifiers**: 2
+- **New paper metadata**: 0
+- **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44844610373)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44884073638)
 
 ### Recorded gaps
 
 - github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
-
-## New to the bibliography
-
-These are newly discovered bibliographic records. Relevance and findings still require editorial review.
-
-- [MergeSE: Post-Hoc Model Merging for Software Engineering Tasks Without Retraining](https://awesomecua.com/resources/arxiv-2608-04181/) · metadata verified
-- [MATE: Mobile Agent Trustworthy Execution for Safe and Efficient Mobile Control](https://awesomecua.com/resources/arxiv-2611-25526/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -60,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-21T00:34:44Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 1 new candidates.
+2026-11-21T08:17:14Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -93,7 +86,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Adversarial security<br>browser GUI agent prompt injection adversarial security | 80 | 0 | 80 | success |
 | Human collaboration<br>GUI agent human collaboration clarification intervention | 80 | 0 | 80 | success |
 | Efficiency<br>GUI agent efficiency latency visual token compression | 80 | 0 | 80 | success |
-| Open models<br>open source GUI model computer use checkpoint | 80 | 1 | 80 | success |
+| Open models<br>open source GUI model computer use checkpoint | 80 | 0 | 80 | success |
 | Workflow automation<br>visual workflow automation robotic process automation agents | 80 | 0 | 80 | success |
 | Multilingual interfaces<br>multilingual GUI agent interface grounding | 80 | 0 | 80 | success |
 | Testing and exploration<br>GUI agent software testing interface exploration | 80 | 0 | 80 | success |

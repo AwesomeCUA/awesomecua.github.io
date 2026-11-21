@@ -27,26 +27,19 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-21T00:33:45Z
-- **结束**: 2026-11-21T00:37:37Z
+- **开始**: 2026-11-21T08:16:24Z
+- **结束**: 2026-11-21T08:20:22Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 2
-- **新增候选标识**: 2
+- **新增论文元数据**: 0
+- **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44844610373)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44884073638)
 
 ### 记录的缺口
 
 - github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
-
-## 新加入书目的记录
-
-以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
-
-- [MergeSE: Post-Hoc Model Merging for Software Engineering Tasks Without Retraining](https://awesomecua.com/resources/arxiv-2608-04181/) · 元数据已核实
-- [MATE: Mobile Agent Trustworthy Execution for Safe and Efficient Mobile Control](https://awesomecua.com/resources/arxiv-2611-25526/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -60,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-21T00:34:44Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 1 个新候选。
+2026-11-21T08:17:14Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -93,7 +86,7 @@ lang: zh-CN
 | Adversarial security<br>browser GUI agent prompt injection adversarial security | 80 | 0 | 80 | 成功 |
 | Human collaboration<br>GUI agent human collaboration clarification intervention | 80 | 0 | 80 | 成功 |
 | Efficiency<br>GUI agent efficiency latency visual token compression | 80 | 0 | 80 | 成功 |
-| Open models<br>open source GUI model computer use checkpoint | 80 | 1 | 80 | 成功 |
+| Open models<br>open source GUI model computer use checkpoint | 80 | 0 | 80 | 成功 |
 | Workflow automation<br>visual workflow automation robotic process automation agents | 80 | 0 | 80 | 成功 |
 | Multilingual interfaces<br>multilingual GUI agent interface grounding | 80 | 0 | 80 | 成功 |
 | Testing and exploration<br>GUI agent software testing interface exploration | 80 | 0 | 80 | 成功 |
