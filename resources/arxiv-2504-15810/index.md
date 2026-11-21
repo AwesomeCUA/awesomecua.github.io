@@ -1,7 +1,7 @@
 ---
 title: "Multilevel lattice-based kernel approximation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-15810/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Fault Tolerance Mechanisms of Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-12228/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

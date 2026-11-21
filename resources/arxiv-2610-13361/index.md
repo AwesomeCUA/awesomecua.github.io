@@ -1,7 +1,7 @@
 ---
 title: "AgentSWE: Can Coding Agents Build the Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-13361/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

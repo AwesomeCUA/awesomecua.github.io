@@ -1,7 +1,7 @@
 ---
 title: "Online Rubrics Elicitation from Pairwise… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-07284/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "SILG: The Multi-environment Symbolic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2110-10661/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

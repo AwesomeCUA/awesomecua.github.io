@@ -1,7 +1,7 @@
 ---
 title: "DA-Code: Agent Data Science Code Generation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-07331/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

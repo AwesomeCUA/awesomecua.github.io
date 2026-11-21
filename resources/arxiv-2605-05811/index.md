@@ -1,7 +1,7 @@
 ---
 title: "Sheet As Token: A Graph-Enhanced… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-05811/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

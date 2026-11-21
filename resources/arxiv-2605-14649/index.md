@@ -1,7 +1,7 @@
 ---
 title: "Multi-objective application placement in fog… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-14649/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

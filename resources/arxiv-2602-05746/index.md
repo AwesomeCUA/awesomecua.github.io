@@ -1,7 +1,7 @@
 ---
 title: "Learning to Inject: Automated Prompt… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-05746/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

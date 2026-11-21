@@ -1,7 +1,7 @@
 ---
 title: "TimeChat: A Time-sensitive Multimodal Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2312-02051/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

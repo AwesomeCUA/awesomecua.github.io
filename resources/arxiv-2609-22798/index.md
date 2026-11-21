@@ -1,7 +1,7 @@
 ---
 title: "Expert-Play Contouring Control… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-22798/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

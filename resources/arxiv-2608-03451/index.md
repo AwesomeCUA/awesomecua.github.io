@@ -1,7 +1,7 @@
 ---
 title: "DataSpace: Benchmarking Data Agents for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-03451/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

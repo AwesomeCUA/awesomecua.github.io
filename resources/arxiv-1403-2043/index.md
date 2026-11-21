@@ -1,7 +1,7 @@
 ---
 title: "Implementation of an efficient RBAC in Cloud… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1403-2043/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

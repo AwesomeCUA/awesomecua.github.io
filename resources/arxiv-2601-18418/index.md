@@ -1,7 +1,7 @@
 ---
 title: "daVinci-Dev: Agent-native Mid-training for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-18418/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

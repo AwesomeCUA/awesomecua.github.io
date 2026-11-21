@@ -1,7 +1,7 @@
 ---
 title: "Scalable communication for high-order stencil… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2103-01597/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "KLong: Training LLM Agent for Extremely… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-17547/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

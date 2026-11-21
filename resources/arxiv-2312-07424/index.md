@@ -1,7 +1,7 @@
 ---
 title: "How Well Does GPT-4V(ision) Adapt to… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2312-07424/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

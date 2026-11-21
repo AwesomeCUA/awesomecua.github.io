@@ -1,7 +1,7 @@
 ---
 title: "Constrain Alignment with Sparse Autoencoders | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2411-07618/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

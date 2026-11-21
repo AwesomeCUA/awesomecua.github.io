@@ -1,7 +1,7 @@
 ---
 title: "MemGen: Weaving Generative Latent Memory for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-24704/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

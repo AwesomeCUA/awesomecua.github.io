@@ -1,7 +1,7 @@
 ---
 title: "Gorilla: Large Language Model Connected with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-15334/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

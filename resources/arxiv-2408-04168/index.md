@@ -1,7 +1,7 @@
 ---
 title: "Perceive, Reflect, and Plan: Designing LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2408-04168/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

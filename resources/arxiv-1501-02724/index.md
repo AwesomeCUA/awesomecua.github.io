@@ -1,7 +1,7 @@
 ---
 title: "Towards Energy-Proportional Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1501-02724/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

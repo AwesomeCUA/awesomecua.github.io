@@ -1,7 +1,7 @@
 ---
 title: "ContinuityBench: A Benchmark and Systems… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-15899/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

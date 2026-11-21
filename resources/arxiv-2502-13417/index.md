@@ -1,7 +1,7 @@
 ---
 title: "RLTHF: Targeted Human Feedback for LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-13417/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

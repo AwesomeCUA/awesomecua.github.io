@@ -1,7 +1,7 @@
 ---
 title: "Reward Design for Reinforcement Learning Agents | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-21949/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

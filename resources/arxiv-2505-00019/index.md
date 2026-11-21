@@ -1,7 +1,7 @@
 ---
 title: "An Empirical Study on Prompt Compression for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-00019/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

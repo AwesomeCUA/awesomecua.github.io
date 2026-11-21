@@ -1,7 +1,7 @@
 ---
 title: "SmartPlay: A Benchmark for LLMs as… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-01557/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

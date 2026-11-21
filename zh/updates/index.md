@@ -1,7 +1,7 @@
 ---
 title: "扫描动态 | AwesomeCUA"
 url: https://awesomecua.com/zh/updates/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: zh-CN
 ---
@@ -19,7 +19,7 @@ lang: zh-CN
 
 - **已审阅的论文与综述**: 1,718
 - **其他已审阅资源**: 3,629
-- **待审阅记录**: 1,243
+- **待审阅记录**: 1,245
 - **已发现候选**: 193
 
 这些数量包含下方扫描之后完成的编辑工作。[浏览已审阅的研究](https://awesomecua.com/zh/papers/)或[查看完整覆盖情况](https://awesomecua.com/zh/coverage/)。
@@ -27,15 +27,15 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-20T16:14:38Z
-- **结束**: 2026-11-20T16:18:58Z
+- **开始**: 2026-11-21T00:33:45Z
+- **结束**: 2026-11-21T00:37:37Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 1
-- **新增候选标识**: 1
+- **新增论文元数据**: 2
+- **新增候选标识**: 2
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44771303438)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44844610373)
 
 ### 记录的缺口
 
@@ -45,7 +45,8 @@ lang: zh-CN
 
 以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
 
-- [Phantom Success, Silent Failure: Auditing the Success Checkers of Simulated Manipulation Benchmarks](https://awesomecua.com/resources/arxiv-2611-25179/) · 元数据已核实
+- [MergeSE: Post-Hoc Model Merging for Software Engineering Tasks Without Retraining](https://awesomecua.com/resources/arxiv-2608-04181/) · 元数据已核实
+- [MATE: Mobile Agent Trustworthy Execution for Safe and Efficient Mobile Control](https://awesomecua.com/resources/arxiv-2611-25526/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +60,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-20T16:15:52Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 1 个新候选。
+2026-11-21T00:34:44Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 1 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -84,7 +85,7 @@ lang: zh-CN
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | 成功 |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | 成功 |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | 成功 |
-| Task verification<br>computer use benchmark task evaluation state verification | 80 | 1 | 80 | 成功 |
+| Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | 成功 |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | 成功 |
 | Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 0 | 80 | 成功 |
 | Assistive interfaces<br>accessibility assistive multimodal GUI agents | 80 | 0 | 80 | 成功 |
@@ -92,7 +93,7 @@ lang: zh-CN
 | Adversarial security<br>browser GUI agent prompt injection adversarial security | 80 | 0 | 80 | 成功 |
 | Human collaboration<br>GUI agent human collaboration clarification intervention | 80 | 0 | 80 | 成功 |
 | Efficiency<br>GUI agent efficiency latency visual token compression | 80 | 0 | 80 | 成功 |
-| Open models<br>open source GUI model computer use checkpoint | 80 | 0 | 80 | 成功 |
+| Open models<br>open source GUI model computer use checkpoint | 80 | 1 | 80 | 成功 |
 | Workflow automation<br>visual workflow automation robotic process automation agents | 80 | 0 | 80 | 成功 |
 | Multilingual interfaces<br>multilingual GUI agent interface grounding | 80 | 0 | 80 | 成功 |
 | Testing and exploration<br>GUI agent software testing interface exploration | 80 | 0 | 80 | 成功 |

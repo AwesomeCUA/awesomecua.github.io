@@ -1,7 +1,7 @@
 ---
 title: "$How^{2}$: How to learn from procedural… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-11144/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

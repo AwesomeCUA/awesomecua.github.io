@@ -1,7 +1,7 @@
 ---
 title: "Crowdsourcing with Tullock contests: A new… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1701-01216/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

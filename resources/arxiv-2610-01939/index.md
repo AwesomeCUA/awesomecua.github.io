@@ -1,7 +1,7 @@
 ---
 title: "Fewer Tokens, Better Action: GPT-6 Astra… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-01939/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

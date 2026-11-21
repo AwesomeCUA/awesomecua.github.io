@@ -1,7 +1,7 @@
 ---
 title: "Qwen-VL: A Versatile Vision-Language Model… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-12966/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

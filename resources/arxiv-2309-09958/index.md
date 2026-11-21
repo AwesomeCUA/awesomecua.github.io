@@ -1,7 +1,7 @@
 ---
 title: "An Empirical Study of Scaling Instruct-Tuned… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-09958/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

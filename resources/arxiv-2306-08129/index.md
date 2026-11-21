@@ -1,7 +1,7 @@
 ---
 title: "AVIS: Autonomous Visual Information Seeking… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2306-08129/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

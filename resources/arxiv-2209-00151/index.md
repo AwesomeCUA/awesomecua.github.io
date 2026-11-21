@@ -1,7 +1,7 @@
 ---
 title: "Upper Bounds for the Clock Speeds of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2209-00151/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

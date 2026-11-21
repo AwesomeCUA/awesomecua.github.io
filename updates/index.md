@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---
@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,243
+- **Records awaiting review**: 1,245
 - **Discovered candidates**: 193
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,15 +27,15 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-20T16:14:38Z
-- **Finished**: 2026-11-20T16:18:58Z
+- **Started**: 2026-11-21T00:33:45Z
+- **Finished**: 2026-11-21T00:37:37Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 1
-- **New candidate identifiers**: 1
+- **New paper metadata**: 2
+- **New candidate identifiers**: 2
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44771303438)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44844610373)
 
 ### Recorded gaps
 
@@ -45,7 +45,8 @@ These counts include editorial work completed after the scan below. [Browse revi
 
 These are newly discovered bibliographic records. Relevance and findings still require editorial review.
 
-- [Phantom Success, Silent Failure: Auditing the Success Checkers of Simulated Manipulation Benchmarks](https://awesomecua.com/resources/arxiv-2611-25179/) · metadata verified
+- [MergeSE: Post-Hoc Model Merging for Software Engineering Tasks Without Retraining](https://awesomecua.com/resources/arxiv-2608-04181/) · metadata verified
+- [MATE: Mobile Agent Trustworthy Execution for Safe and Efficient Mobile Control](https://awesomecua.com/resources/arxiv-2611-25526/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +60,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-20T16:15:52Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 1 new candidates.
+2026-11-21T00:34:44Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 1 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -84,7 +85,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | success |
-| Task verification<br>computer use benchmark task evaluation state verification | 80 | 1 | 80 | success |
+| Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | success |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | success |
 | Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 0 | 80 | success |
 | Assistive interfaces<br>accessibility assistive multimodal GUI agents | 80 | 0 | 80 | success |
@@ -92,7 +93,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Adversarial security<br>browser GUI agent prompt injection adversarial security | 80 | 0 | 80 | success |
 | Human collaboration<br>GUI agent human collaboration clarification intervention | 80 | 0 | 80 | success |
 | Efficiency<br>GUI agent efficiency latency visual token compression | 80 | 0 | 80 | success |
-| Open models<br>open source GUI model computer use checkpoint | 80 | 0 | 80 | success |
+| Open models<br>open source GUI model computer use checkpoint | 80 | 1 | 80 | success |
 | Workflow automation<br>visual workflow automation robotic process automation agents | 80 | 0 | 80 | success |
 | Multilingual interfaces<br>multilingual GUI agent interface grounding | 80 | 0 | 80 | success |
 | Testing and exploration<br>GUI agent software testing interface exploration | 80 | 0 | 80 | success |

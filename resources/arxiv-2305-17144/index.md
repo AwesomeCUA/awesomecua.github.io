@@ -1,7 +1,7 @@
 ---
 title: "Ghost in the Minecraft: Generally Capable… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-17144/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

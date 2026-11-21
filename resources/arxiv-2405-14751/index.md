@@ -1,7 +1,7 @@
 ---
 title: "AGILE: A Novel Reinforcement Learning… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-14751/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

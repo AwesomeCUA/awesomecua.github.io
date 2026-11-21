@@ -1,7 +1,7 @@
 ---
 title: "Who Writes the Docs in SE 3.0? Agent vs… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-20171/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Real-time decoder for a MegaQuOp quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-25027/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

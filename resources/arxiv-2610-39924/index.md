@@ -1,7 +1,7 @@
 ---
 title: "PhysAg3D: Bridging 3D Generative and Agentic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-39924/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

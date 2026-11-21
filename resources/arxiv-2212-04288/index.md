@@ -1,7 +1,7 @@
 ---
 title: "Secure Over-the-Air Computation using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2212-04288/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

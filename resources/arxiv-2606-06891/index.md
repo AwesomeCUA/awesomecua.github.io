@@ -1,7 +1,7 @@
 ---
 title: "Stream3D-VLM: Online 3D Spatial Understanding… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-06891/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

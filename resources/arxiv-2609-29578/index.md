@@ -1,7 +1,7 @@
 ---
 title: "PartHackBench: Certified Equal-Progress… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-29578/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

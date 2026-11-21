@@ -1,7 +1,7 @@
 ---
 title: "Adaptive Multi-Agent Response Refinement in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-08319/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

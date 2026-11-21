@@ -1,7 +1,7 @@
 ---
 title: "CPT: Colorful Prompt Tuning for Pre-trained… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2109-11797/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

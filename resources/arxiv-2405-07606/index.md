@@ -1,7 +1,7 @@
 ---
 title: "AIris: An AI-powered Wearable Assistive… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-07606/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "TC-AE: Unlocking Token Capacity for Deep… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-07340/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---

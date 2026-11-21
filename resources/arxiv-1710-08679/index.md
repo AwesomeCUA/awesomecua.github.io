@@ -1,7 +1,7 @@
 ---
 title: "Implicit Low-Order Unstructured… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1710-08679/
-updated: 2026-11-20
+updated: 2026-11-21
 type: page
 lang: en
 ---
