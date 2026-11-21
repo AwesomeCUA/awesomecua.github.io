@@ -27,15 +27,15 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-21T08:16:24Z
-- **结束**: 2026-11-21T08:20:22Z
+- **开始**: 2026-11-21T16:14:06Z
+- **结束**: 2026-11-21T16:20:06Z
 - **成功获取的发现文档**: 103 / 103
 - **新增论文元数据**: 0
 - **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44884073638)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/44923405102)
 
 ### 记录的缺口
 
@@ -53,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-21T08:17:14Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 0 个新候选。
+2026-11-21T16:15:40Z · 32 / 32 个查询窗口成功 · 1,444 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -61,9 +61,9 @@ lang: zh-CN
 | --- | --- | --- | --- | --- |
 | General computer use<br>computer use agents | 80 | 0 | 80 | 成功 |
 | Grounding evaluation<br>GUI grounding benchmark | 80 | 0 | 80 | 成功 |
-| Mobile learning<br>mobile GUI agent reinforcement learning | 80 | 0 | 80 | 成功 |
-| Web data and evaluation<br>web agent dataset benchmark | 80 | 0 | 80 | 成功 |
-| Safety and security<br>computer use agent safety | 80 | 0 | 80 | 成功 |
+| Mobile learning<br>mobile GUI agent reinforcement learning | 35 | 0 | 80 | 成功 |
+| Web data and evaluation<br>web agent dataset benchmark | 55 | 0 | 80 | 成功 |
+| Safety and security<br>computer use agent safety | 29 | 0 | 80 | 成功 |
 | Memory and planning<br>GUI agent memory planning | 80 | 0 | 80 | 成功 |
 | Desktop platforms<br>desktop computer use agent Windows macOS Linux | 80 | 0 | 80 | 成功 |
 | Android<br>Android smartphone GUI agent automation | 80 | 0 | 80 | 成功 |

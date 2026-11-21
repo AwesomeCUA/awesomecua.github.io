@@ -400,8 +400,8 @@
         "unit": "reports"
       },
       "scope": "provenance",
-      "bytes": 502869,
-      "sha256": "123e28ce35aed960bd9e3d66d59a0cfa4be351ccb20797b6804c78a2dbbb1efb"
+      "bytes": 499242,
+      "sha256": "5d8e8e4a3c1616019371c21aa4e3c3074337fe3809b6e32eaa653a7d53e5ab9a"
     },
     {
       "id": "sources",
