@@ -27,19 +27,19 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-22T08:17:04Z
-- **Finished**: 2026-11-22T08:22:09Z
+- **Started**: 2026-11-22T16:13:51Z
+- **Finished**: 2026-11-22T16:19:52Z
 - **Discovery documents fetched**: 103 / 103
 - **New paper metadata**: 0
 - **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45002045076)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45042618618)
 
 ### Recorded gaps
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+- github_candidates: Stage exceeded 220 seconds; last verified records retained.
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-22T08:18:18Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
+2026-11-22T16:15:10Z · 32 / 32 query windows succeeded · 1,507 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -76,7 +76,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | success |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | success |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
-| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
+| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 72 | 0 | 80 | success |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | success |
 | Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | success |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | success |

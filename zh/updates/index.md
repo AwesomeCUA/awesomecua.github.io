@@ -27,19 +27,19 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-22T08:17:04Z
-- **结束**: 2026-11-22T08:22:09Z
+- **开始**: 2026-11-22T16:13:51Z
+- **结束**: 2026-11-22T16:19:52Z
 - **成功获取的发现文档**: 103 / 103
 - **新增论文元数据**: 0
 - **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45002045076)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45042618618)
 
 ### 记录的缺口
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+- github_candidates: Stage exceeded 220 seconds; last verified records retained.
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-22T08:18:18Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 0 个新候选。
+2026-11-22T16:15:10Z · 32 / 32 个查询窗口成功 · 1,507 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -76,7 +76,7 @@ lang: zh-CN
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | 成功 |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | 成功 |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | 成功 |
-| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | 成功 |
+| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 72 | 0 | 80 | 成功 |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | 成功 |
 | Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | 成功 |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | 成功 |
