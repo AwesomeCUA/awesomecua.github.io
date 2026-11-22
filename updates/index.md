@@ -27,15 +27,15 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-22T00:36:41Z
-- **Finished**: 2026-11-22T00:41:33Z
+- **Started**: 2026-11-22T08:17:04Z
+- **Finished**: 2026-11-22T08:22:09Z
 - **Discovery documents fetched**: 103 / 103
 - **New paper metadata**: 0
-- **New candidate identifiers**: 3
+- **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44967436414)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45002045076)
 
 ### Recorded gaps
 
@@ -53,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-22T00:37:47Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
+2026-11-22T08:18:18Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
