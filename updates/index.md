@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-21
+updated: 2026-11-22
 type: page
 lang: en
 ---
@@ -20,22 +20,22 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
 - **Records awaiting review**: 1,245
-- **Discovered candidates**: 193
+- **Discovered candidates**: 196
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
 
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-21T16:14:06Z
-- **Finished**: 2026-11-21T16:20:06Z
+- **Started**: 2026-11-22T00:36:41Z
+- **Finished**: 2026-11-22T00:41:33Z
 - **Discovery documents fetched**: 103 / 103
 - **New paper metadata**: 0
-- **New candidate identifiers**: 0
+- **New candidate identifiers**: 3
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 12
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44923405102)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/44967436414)
 
 ### Recorded gaps
 
@@ -53,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-21T16:15:40Z · 32 / 32 query windows succeeded · 1,444 distinct identifiers · 0 new candidates.
+2026-11-22T00:37:47Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -61,9 +61,9 @@ Newly found identifiers go through primary metadata verification and relevance r
 | --- | --- | --- | --- | --- |
 | General computer use<br>computer use agents | 80 | 0 | 80 | success |
 | Grounding evaluation<br>GUI grounding benchmark | 80 | 0 | 80 | success |
-| Mobile learning<br>mobile GUI agent reinforcement learning | 35 | 0 | 80 | success |
-| Web data and evaluation<br>web agent dataset benchmark | 55 | 0 | 80 | success |
-| Safety and security<br>computer use agent safety | 29 | 0 | 80 | success |
+| Mobile learning<br>mobile GUI agent reinforcement learning | 80 | 0 | 80 | success |
+| Web data and evaluation<br>web agent dataset benchmark | 80 | 0 | 80 | success |
+| Safety and security<br>computer use agent safety | 80 | 0 | 80 | success |
 | Memory and planning<br>GUI agent memory planning | 80 | 0 | 80 | success |
 | Desktop platforms<br>desktop computer use agent Windows macOS Linux | 80 | 0 | 80 | success |
 | Android<br>Android smartphone GUI agent automation | 80 | 0 | 80 | success |

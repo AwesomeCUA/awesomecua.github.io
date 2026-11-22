@@ -41,7 +41,7 @@ Evidence snapshot: 2026-11-21T00:34:46Z. Resource types can refer to different p
 | [Awesome GUI Agent Safety](https://github.com/Autonomous-Agent-Team/Awesome-GUI-Agent-Safety) | 72 | 47 | 43 | 9 | 13 | 3 | 0 |
 | [Awesome GUI Agent Memory](https://github.com/kqcoxn/Awesome-GUI-Agent-Memory) | 57 | 52 | 50 | 1 | 4 | 0 | 0 |
 | [ChenVoid Awesome GUI Agent](https://github.com/ChenVoid/Awesome-GUI-Agent) | 215 | 147 | 145 | 32 | 34 | 2 | 0 |
-| [Awesome Computer Use — philfung](https://github.com/philfung/awesome-computer-use) | 34 | 23 | 23 | 0 | 10 | 0 | 1 |
+| [Awesome Computer Use — philfung](https://github.com/philfung/awesome-computer-use) | 37 | 23 | 23 | 0 | 10 | 0 | 4 |
 | [Fara — first-party releases](https://github.com/microsoft/fara) | 18 | 5 | 5 | 0 | 13 | 0 | 0 |
 | [UI-Venus — first-party releases](https://github.com/inclusionAI/UI-Venus) | 9 | 4 | 4 | 0 | 5 | 0 | 0 |
 | [OpenGVLab ScaleCUA — first-party releases](https://github.com/OpenGVLab/ScaleCUA) | 15 | 11 | 11 | 0 | 3 | 1 | 0 |
@@ -131,6 +131,6 @@ A changed or unconfirmed exclusion returns to review.
 
 Most bibliography entries still require relevance review. Asset sizes, model licenses, availability, and experiment protocols need continuing curation.
 
-193 discovered identifiers remain unresolved. 2052 candidates have an out-of-scope review.
+196 discovered identifiers remain unresolved. 2052 candidates have an out-of-scope review.
 
 [Download the complete coverage ledger](https://awesomecua.com/downloads/coverage.json) · [Editorial policy](https://awesomecua.com/about/)
