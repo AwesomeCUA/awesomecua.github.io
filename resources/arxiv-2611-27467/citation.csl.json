@@ -1,0 +1,100 @@
+{
+  "id": "arxiv:2611.27467",
+  "citation-key": "arxiv_2611_27467",
+  "type": "article",
+  "title": "ROSWORLD: When Digital Task Competence Meets Physical Execution",
+  "URL": "https://arxiv.org/abs/2611.27467v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.27467",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.27467",
+    "identifiers": {
+      "arxiv": "2611.27467"
+    },
+    "first_published_at": "2026-11-20",
+    "record_updated_at": "2026-11-20",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "74a60e5341738986b6158dfedffa1b4de1dd3cae382bb2e8f4e364ef2545a661",
+      "submitted_at": "2026-11-20T11:17:29Z",
+      "updated_at": "2026-11-20T11:17:29Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.27467v1"
+    }
+  },
+  "note": "First published: 2026-11-20; Recorded arXiv version: v1; Recorded version updated: 2026-11-20T11:17:29Z.",
+  "author": [
+    {
+      "literal": "Caoyuan Ma"
+    },
+    {
+      "literal": "Wendi Liu"
+    },
+    {
+      "literal": "Zhimin Zhang"
+    },
+    {
+      "literal": "Muyao Niu"
+    },
+    {
+      "literal": "Yujie Lu"
+    },
+    {
+      "literal": "Zengxi Zhang"
+    },
+    {
+      "literal": "Ji Zhao"
+    },
+    {
+      "literal": "Shuai Dong"
+    },
+    {
+      "literal": "Wenpu Liu"
+    },
+    {
+      "literal": "Ziyue Wang"
+    },
+    {
+      "literal": "Wenzheng Chang"
+    },
+    {
+      "literal": "Taiqiang Wu"
+    },
+    {
+      "literal": "Weichu Xie"
+    },
+    {
+      "literal": "Yuqi Xu"
+    },
+    {
+      "literal": "Haiyuan Wan"
+    },
+    {
+      "literal": "Xuehui Wang"
+    },
+    {
+      "literal": "Jiaqi Wang"
+    },
+    {
+      "literal": "Wenqi Shao"
+    },
+    {
+      "literal": "Yinqiang Zheng"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        20
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.27467",
+  "genre": "preprint",
+  "version": "1"
+}

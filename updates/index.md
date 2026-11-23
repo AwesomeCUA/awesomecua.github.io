@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,245
+- **Records awaiting review**: 1,247
 - **Discovered candidates**: 196
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,22 +27,27 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-23T00:37:18Z
-- **Finished**: 2026-11-23T00:44:01Z
-- **Discovery documents fetched**: 102 / 103
-- **New paper metadata**: 0
-- **New candidate identifiers**: 0
+- **Started**: 2026-11-23T08:21:01Z
+- **Finished**: 2026-11-23T08:24:11Z
+- **Discovery documents fetched**: 103 / 103
+- **New paper metadata**: 2
+- **New candidate identifiers**: 2
 - **Reviewed papers at scan completion**: 1718
-- **Pending metadata changes**: 12
+- **Pending metadata changes**: 13
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45089805560)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45137837133)
 
 ### Recorded gaps
 
-- recent_arxiv: failed
-- Network request deferred: provider_cooldown: export.arxiv.org
-- github_candidates: Stage exceeded 210.115 seconds; last verified records retained.
-- Discovery sources failed: survey-bibliography-backfill
+- GitHub candidate observations paused for provider rate limiting; verified progress and cursor are retained.
+- 1 GitHub candidate requests have no accepted metadata response.
+
+## New to the bibliography
+
+These are newly discovered bibliographic records. Relevance and findings still require editorial review.
+
+- [Bel: Step-Level Policy Improvement of Visual Agents Without Training](https://awesomecua.com/resources/arxiv-2611-27222/) · metadata verified
+- [ROSWORLD: When Digital Task Competence Meets Physical Execution](https://awesomecua.com/resources/arxiv-2611-27467/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -56,7 +61,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-23T00:39:33Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
+2026-11-23T08:21:49Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 

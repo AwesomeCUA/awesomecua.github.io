@@ -1,7 +1,7 @@
 ---
 title: "Ask-before-Plan: Proactive Language Agents… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-12639/
-updated: 2026-11-21
+updated: 2026-11-23
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Qwen Technical Report | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-16609/
-updated: 2026-11-21
+updated: 2026-11-23
 type: page
 lang: en
 ---

@@ -210658,6 +210658,170 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.27222v1",
+    "archive": "arXiv",
+    "archive_location": "2611.27222",
+    "author": [
+      {
+        "literal": "Jiajun Fan"
+      },
+      {
+        "literal": "Ziwen Wang"
+      },
+      {
+        "literal": "Zhaoyu Zhu"
+      },
+      {
+        "literal": "Changyi Yang"
+      },
+      {
+        "literal": "Neil He"
+      },
+      {
+        "literal": "Chaoran Cheng"
+      },
+      {
+        "literal": "Ge Liu"
+      }
+    ],
+    "citation-key": "arxiv_2611_27222",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "3108c08dab4abb9f6b5dccf7647d89ded6b0a6d399125ea874af01c0e3ff449b",
+        "submitted_at": "2026-11-20T07:21:43Z",
+        "updated_at": "2026-11-20T07:21:43Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.27222v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.27222",
+      "catalog_id": "arxiv:2611.27222",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-20",
+      "identifiers": {
+        "arxiv": "2611.27222"
+      },
+      "record_updated_at": "2026-11-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.27222",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-20; Recorded arXiv version: v1; Recorded version updated: 2026-11-20T07:21:43Z.",
+    "title": "Bel: Step-Level Policy Improvement of Visual Agents Without Training",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.27467v1",
+    "archive": "arXiv",
+    "archive_location": "2611.27467",
+    "author": [
+      {
+        "literal": "Caoyuan Ma"
+      },
+      {
+        "literal": "Wendi Liu"
+      },
+      {
+        "literal": "Zhimin Zhang"
+      },
+      {
+        "literal": "Muyao Niu"
+      },
+      {
+        "literal": "Yujie Lu"
+      },
+      {
+        "literal": "Zengxi Zhang"
+      },
+      {
+        "literal": "Ji Zhao"
+      },
+      {
+        "literal": "Shuai Dong"
+      },
+      {
+        "literal": "Wenpu Liu"
+      },
+      {
+        "literal": "Ziyue Wang"
+      },
+      {
+        "literal": "Wenzheng Chang"
+      },
+      {
+        "literal": "Taiqiang Wu"
+      },
+      {
+        "literal": "Weichu Xie"
+      },
+      {
+        "literal": "Yuqi Xu"
+      },
+      {
+        "literal": "Haiyuan Wan"
+      },
+      {
+        "literal": "Xuehui Wang"
+      },
+      {
+        "literal": "Jiaqi Wang"
+      },
+      {
+        "literal": "Wenqi Shao"
+      },
+      {
+        "literal": "Yinqiang Zheng"
+      }
+    ],
+    "citation-key": "arxiv_2611_27467",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "74a60e5341738986b6158dfedffa1b4de1dd3cae382bb2e8f4e364ef2545a661",
+        "submitted_at": "2026-11-20T11:17:29Z",
+        "updated_at": "2026-11-20T11:17:29Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.27467v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.27467",
+      "catalog_id": "arxiv:2611.27467",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-20",
+      "identifiers": {
+        "arxiv": "2611.27467"
+      },
+      "record_updated_at": "2026-11-20"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.27467",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          20
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-20; Recorded arXiv version: v1; Recorded version updated: 2026-11-20T11:17:29Z.",
+    "title": "ROSWORLD: When Digital Task Competence Meets Physical Execution",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "DOI": "10.20944/preprints202611.0431.v1",
     "URL": "https://doi.org/10.20944/preprints202611.0431.v1",
     "author": [

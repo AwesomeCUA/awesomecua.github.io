@@ -1,7 +1,7 @@
 ---
 title: "Agents-K1: Towards Agent-native Knowledge… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-13669/
-updated: 2026-11-21
+updated: 2026-11-23
 type: page
 lang: en
 ---
