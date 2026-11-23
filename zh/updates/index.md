@@ -1,7 +1,7 @@
 ---
 title: "扫描动态 | AwesomeCUA"
 url: https://awesomecua.com/zh/updates/
-updated: 2026-11-22
+updated: 2026-11-23
 type: page
 lang: zh-CN
 ---
@@ -27,19 +27,22 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-22T16:13:51Z
-- **结束**: 2026-11-22T16:19:52Z
-- **成功获取的发现文档**: 103 / 103
+- **开始**: 2026-11-23T00:37:18Z
+- **结束**: 2026-11-23T00:44:01Z
+- **成功获取的发现文档**: 102 / 103
 - **新增论文元数据**: 0
 - **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 12
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45042618618)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45089805560)
 
 ### 记录的缺口
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
+- recent_arxiv: failed
+- Network request deferred: provider_cooldown: export.arxiv.org
+- github_candidates: Stage exceeded 210.115 seconds; last verified records retained.
+- Discovery sources failed: survey-bibliography-backfill
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +56,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-22T16:15:10Z · 32 / 32 个查询窗口成功 · 1,507 个不重复标识 · 0 个新候选。
+2026-11-23T00:39:33Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -76,7 +79,7 @@ lang: zh-CN
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | 成功 |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | 成功 |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | 成功 |
-| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 72 | 0 | 80 | 成功 |
+| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | 成功 |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | 成功 |
 | Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | 成功 |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | 成功 |
