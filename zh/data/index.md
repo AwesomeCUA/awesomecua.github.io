@@ -8,7 +8,7 @@ lang: zh-CN
 
 # 下载数据
 
-已审核记录：5,347 · 目录记录待审核：1,247 · 更新：2026-11-23 · [文件清单 JSON](https://awesomecua.com/downloads/manifest.json) · [English](https://awesomecua.com/data/index.md)
+已审核记录：5,347 · 目录记录待审核：1,248 · 更新：2026-11-23 · [文件清单 JSON](https://awesomecua.com/downloads/manifest.json) · [English](https://awesomecua.com/data/index.md)
 
 - [Hugging Face](https://huggingface.co/datasets/TIGER-Lab/AwesomeCUA) · 格式：datasets · 条数：5,347 · 配置：resources · 更新：随扫描
 
@@ -16,43 +16,43 @@ lang: zh-CN
 
 ### 完整目录：3 个文件
 
-- [完整目录](https://awesomecua.com/downloads/catalog.jsonl) · JSONL · 6,594 条资源 · 14.9 MiB · SHA-256：72b68b6e6e1aee07c2673bc5e1ac2f79f4cbfd2d41239d7901792d12eae2759d
-- [完整目录 JSON 数组](https://awesomecua.com/data/records.json) · JSON · 6,594 条资源 · 14.3 MiB · SHA-256：0eeff7f4d64856e113c52bf14a34354671aa531974728c9e7e9e85986cdfb4e7
-- [可查询数据库](https://awesomecua.com/downloads/catalog.sqlite) · SQLite · 6,594 条资源 · 29.5 MiB · SHA-256：5d4257001395dbc068c80daf00ea634e895226b6d2419e57179a3e0d0b5d4aa4
+- [完整目录](https://awesomecua.com/downloads/catalog.jsonl) · JSONL · 6,595 条资源 · 14.9 MiB · SHA-256：c3ef20c13ab08af93ef7d401485ef5abe037e559b8b65d54054f3288405b8f45
+- [完整目录 JSON 数组](https://awesomecua.com/data/records.json) · JSON · 6,595 条资源 · 14.3 MiB · SHA-256：9b4a989315e8676632714c0bdb4cc0c71e92cde596afcb3c7e6450410e35f492
+- [可查询数据库](https://awesomecua.com/downloads/catalog.sqlite) · SQLite · 6,595 条资源 · 29.5 MiB · SHA-256：d8f11144ee0a46517b17dc7d86b6a1c34038ba3de8c7401600f89f84bf219927
 
 ### RAG 文档：3 个文件
 
 - [已审阅检索文档](https://awesomecua.com/downloads/rag-documents.jsonl) · JSONL · 5,347 份文档 · 17.4 MiB · SHA-256：084902b38f61ce58073772070ce6cee461f1e0f47354315d5ed807b21b1542dc
-- [全部检索文档](https://awesomecua.com/downloads/rag-all-records.jsonl) · JSONL · 6,594 份文档 · 21.4 MiB · SHA-256：5860fa829ab50a1197988914500e7726145a8379a2e76274ac099f1734a02054
-- [RAG 导出清单](https://awesomecua.com/downloads/rag-manifest.json) · JSON · 2 个导出文件 · 958 B · SHA-256：9957dd0e62bb35204436bd5ab18c39a36f3a58f17626aefd7a3bd23bc8ab685f
+- [全部检索文档](https://awesomecua.com/downloads/rag-all-records.jsonl) · JSONL · 6,595 份文档 · 21.4 MiB · SHA-256：90098b8edbe3572f9316f42a1a3c222ee5bae81bbe3b705fc9106d918ce33f89
+- [RAG 导出清单](https://awesomecua.com/downloads/rag-manifest.json) · JSON · 2 个导出文件 · 958 B · SHA-256：458b13bc97739ea4e90c5b5cce1be36bb86be7faf8122dfef5d21d0df8692ccd
 
 ### 论文引用：7 个文件
 
 - [已审阅论文引用](https://awesomecua.com/downloads/citations.bib) · BibTeX · 1,718 条引用 · 1.3 MiB · SHA-256：b0046731dea07e63942f7e751ea370cc09e331ecd8cc592e08dcbd4f2c204cad
 - [已审阅论文引用](https://awesomecua.com/downloads/citations.csl.json) · CSL JSON · 1,718 条引用 · 3.1 MiB · SHA-256：ebdb2f45a3f9f0626a9349982a77e8eff38d569a04949e3e4677bdee59b7cb42
-- [全部书目引用](https://awesomecua.com/downloads/citations-all.bib) · BibTeX · 2,965 条引用 · 2.1 MiB · SHA-256：0f101b1a5ce9349a136e1c02f1744cc4669ebba1d424894748d38e2a4b82c5c6
-- [全部书目引用](https://awesomecua.com/downloads/citations-all.csl.json) · CSL JSON · 2,965 条引用 · 5.4 MiB · SHA-256：e63264e394afd2119dede97a5510d30fd387943056df0c38d1c837e934d16066
+- [全部书目引用](https://awesomecua.com/downloads/citations-all.bib) · BibTeX · 2,966 条引用 · 2.1 MiB · SHA-256：823a554187061c69fefeaa81ecb4eec514049d72117ebaf0c5d8656eb2ad41e1
+- [全部书目引用](https://awesomecua.com/downloads/citations-all.csl.json) · CSL JSON · 2,966 条引用 · 5.4 MiB · SHA-256：ee4caec00d044a687bda67e09507423e631b6ec4badba6062f8e77055484b25f
 - [正式出版版引用](https://awesomecua.com/downloads/publication-citations.bib) · BibTeX · 126 条引用 · 267.3 KiB · SHA-256：8d4c49b534098e3038f34c892f5ccc8ee4b81f171e2de33e01bdecb912ff7040
 - [正式出版版引用](https://awesomecua.com/downloads/publication-citations.csl.json) · CSL JSON · 126 条引用 · 404.8 KiB · SHA-256：77293a6516dfafefef3ea34e355d26590c5aa44975d2cdc62dc6821efb6ff0a2
-- [引用导出清单](https://awesomecua.com/downloads/citations-manifest.json) · JSON · 6 个导出文件 · 3.5 KiB · SHA-256：a2466666287c2fd32b5223fa1d04fa528886e0c93cee6508d96c4e4fdfed6c89
+- [引用导出清单](https://awesomecua.com/downloads/citations-manifest.json) · JSON · 6 个导出文件 · 3.5 KiB · SHA-256：e06143d872e4e83a6de3398ec66ab48f30bfeb2126a6e13e1b87a9c7591bae4b
 
 ### 主题与对比：4 个文件
 
-- [主题子集](https://awesomecua.com/downloads/topics.json) · JSON · 35 个主题 · 628.6 KiB · SHA-256：5649e1c89133a91d0a5b713fbe7613c7c70c4c9a6305ab8058bc52f7811267dd
+- [主题子集](https://awesomecua.com/downloads/topics.json) · JSON · 35 个主题 · 628.6 KiB · SHA-256：82e82a80f806f203ca0cfc782419bcbead715fdb504b69dad71a5470033b8ffe
 - [基准协议](https://awesomecua.com/downloads/benchmarks-profiles.json) · JSON · 94 份规格 · 417.5 KiB · SHA-256：f144cd3b90a0d74b53fd87cc7d66d1e4723895aa81916b738e757bc153374cac
 - [数据集规格](https://awesomecua.com/downloads/datasets-profiles.json) · JSON · 125 份规格 · 489.4 KiB · SHA-256：9d2244781ecda134816efd46ed84dfa7fa5a45d3a2736a92bbeec856006b02e1
 - [已审阅关系](https://awesomecua.com/downloads/relationships.json) · JSON · 1,155 项关系 · 354.0 KiB · SHA-256：725fbe6afda6d43d9d8084c39695ee9ca514b352b31c64eaacde0d4fdb138aa5
 
 ### 来源与审核状态：8 个文件
 
-- [覆盖台账](https://awesomecua.com/downloads/coverage.json) · JSON · 1 份报告 · 491.1 KiB · SHA-256：81057a3df8802a716e475bf5348d28d4fe29885a816beeab92c642756ed4975e
+- [覆盖台账](https://awesomecua.com/downloads/coverage.json) · JSON · 1 份报告 · 491.1 KiB · SHA-256：9092ecef2386a6671893bc892e7c43c7fc54a36d6ba78a9724c2056de178d295
 - [扫描来源登记](https://awesomecua.com/downloads/sources.json) · JSON · 104 份发现文档 · 61.5 KiB · SHA-256：9d35eecbcec89f6b35e956a78c7b72bd287c0ff9862a2882584c54b017762d94
 - [范围审阅决定](https://awesomecua.com/downloads/exclusions.json) · JSON · 1,308 项决定 · 1.8 MiB · SHA-256：d41bcb9cd09d8524c7d6279d3d4ccd39915ce9174cbffd33dfffb2086118dabd
-- [原始 arXiv 采集档案](https://awesomecua.com/downloads/arxiv-archive.jsonl) · JSONL · 4,220 条 arXiv 记录 · 8.4 MiB · SHA-256：dbe01e51e127cf00f64a0d5cd40231a0e3f14027d9e6c5257b3e9ad5d159fc5a
+- [原始 arXiv 采集档案](https://awesomecua.com/downloads/arxiv-archive.jsonl) · JSONL · 4,221 条 arXiv 记录 · 8.4 MiB · SHA-256：c41a0b4516ab879a6cc3ee9bc9b8856dc18e99bc93a6b3dfdac7851173d9e019
 - [论文的出版版本](https://awesomecua.com/downloads/publications.jsonl) · JSONL · 127 份出版记录 · 271.1 KiB · SHA-256：81da93605d65100e2839d47eaa4d7b0eb41ff6cf0edfe8db105cc22c8e8687bf
 - [仓库旧地址映射](https://awesomecua.com/downloads/repository-aliases.json) · JSON · 61 个仓库旧标识 · 73.1 KiB · SHA-256：bd464331fc4967dc6054cb595d4a1b6d6055266d565a74f595c7d1ed5b2c5452
 - [GitHub 候选仓库](https://awesomecua.com/downloads/github-candidates.jsonl) · JSONL · 10,252 个仓库 · 27.0 MiB · SHA-256：acea4ddfea7f601edfc7ca49c12c84f9f11501a995c971ae23bccdf12794a5c3
-- [候选观察清单](https://awesomecua.com/downloads/github-candidates-manifest.json) · JSON · 1 份报告 · 373.7 KiB · SHA-256：21bfb68bd027030bdaf9a0cebde791ed46768b0f7e01ec552f081f3fca039cde
+- [候选观察清单](https://awesomecua.com/downloads/github-candidates-manifest.json) · JSON · 1 份报告 · 373.7 KiB · SHA-256：1ee0d420ea965060655535cadbaf99f9ff7b6999b6daf94b68c7889ce8950fc6
 
 ### 文件规范：7 个文件
 
@@ -64,4 +64,4 @@ lang: zh-CN
 - [候选观察记录规范](https://awesomecua.com/schemas/github-candidate-observation.schema.json) · JSON Schema · 1 份规范 · 5.1 KiB · SHA-256：092193106b87ca7f3d9d259232a0f19d603256c7f5c3dafea4f11fd1ab772f24
 - [候选清单规范](https://awesomecua.com/schemas/github-candidate-observation-manifest.schema.json) · JSON Schema · 1 份规范 · 24.6 KiB · SHA-256：f4043c13c780ede7901a13f6a588764e640b0fb4402d8fe0c8748b3673d9a959
 
-源目录 SHA-256：72b68b6e6e1aee07c2673bc5e1ac2f79f4cbfd2d41239d7901792d12eae2759d
+源目录 SHA-256：c3ef20c13ab08af93ef7d401485ef5abe037e559b8b65d54054f3288405b8f45

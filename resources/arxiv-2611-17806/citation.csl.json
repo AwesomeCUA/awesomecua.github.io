@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2611.17806",
+  "citation-key": "arxiv_2611_17806",
+  "type": "article",
+  "title": "Can Agents Keep Up with Time? An Empirical Analysis of Temporal Adaptation After a Conversational Hiatus",
+  "URL": "https://arxiv.org/abs/2611.17806v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.17806",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.17806",
+    "identifiers": {
+      "arxiv": "2611.17806"
+    },
+    "first_published_at": "2026-11-13",
+    "record_updated_at": "2026-11-13",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "7c709e6c1cf42c4222627a48d586a06ac560af53d03c2beb8b5fa4df5f02c210",
+      "submitted_at": "2026-11-13T06:42:03Z",
+      "updated_at": "2026-11-13T06:42:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.17806v1"
+    }
+  },
+  "note": "First published: 2026-11-13; Recorded arXiv version: v1; Recorded version updated: 2026-11-13T06:42:03Z.",
+  "author": [
+    {
+      "literal": "Hongguan Su"
+    },
+    {
+      "literal": "Ming Wang"
+    },
+    {
+      "literal": "Shun Zhang"
+    },
+    {
+      "literal": "Yifan Wang"
+    },
+    {
+      "literal": "Rong Yin"
+    },
+    {
+      "literal": "Zhiming Ma"
+    },
+    {
+      "literal": "Mengzheng Yang"
+    },
+    {
+      "literal": "Peng Chen"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        13
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.17806",
+  "genre": "preprint",
+  "version": "1"
+}
