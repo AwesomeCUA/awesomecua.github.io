@@ -30,7 +30,7 @@ lang: zh-CN
 | [Yearly GUI Agents](https://github.com/qy0720/awesome-yearly-gui-agents) | 193 | 152 | 152 | 2 | 37 | 1 | 1 |
 | [OSU-NLP-Group/GUI-Agents-Paper-List / README.md](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) | 545 | 493 | 464 | 0 | 52 | 0 | 0 |
 | [opendilab/awesome-ui-agents / README.md](https://github.com/opendilab/awesome-ui-agents) | 144 | 97 | 95 | 6 | 32 | 9 | 0 |
-| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 265 | 262 | 236 | 0 | 2 | 0 | 1 |
+| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 266 | 263 | 236 | 0 | 2 | 0 | 1 |
 | [ZJU-REAL/Awesome-GUI-Agents / ICLR2026/Paperlist.md](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 7 | 0 | 0 | 0 | 7 | 0 | 0 |
 | [dqtz5vpvj9-create/awesome-mobile-gui-agents / README.md](https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents) | 40 | 32 | 32 | 0 | 8 | 0 | 0 |
 | [PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents) | 247 | 212 | 211 | 9 | 26 | 0 | 0 |
@@ -131,6 +131,6 @@ lang: zh-CN
 
 多数书目条目仍待相关性审阅。资产规模、模型许可证、可用性与实验协议在持续整理中。
 
-196 个已发现标识尚待核实；2,052 个候选经审阅判定为范围外。
+198 个已发现标识尚待核实；2,052 个候选经审阅判定为范围外。
 
 [下载完整覆盖台账](https://awesomecua.com/downloads/coverage.json) · [收录方法](https://awesomecua.com/zh/about/)

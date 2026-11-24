@@ -30,7 +30,7 @@ Evidence snapshot: 2026-11-23T16:15:46Z. Resource types can refer to different p
 | [Yearly GUI Agents](https://github.com/qy0720/awesome-yearly-gui-agents) | 193 | 152 | 152 | 2 | 37 | 1 | 1 |
 | [OSU-NLP-Group/GUI-Agents-Paper-List / README.md](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) | 545 | 493 | 464 | 0 | 52 | 0 | 0 |
 | [opendilab/awesome-ui-agents / README.md](https://github.com/opendilab/awesome-ui-agents) | 144 | 97 | 95 | 6 | 32 | 9 | 0 |
-| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 265 | 262 | 236 | 0 | 2 | 0 | 1 |
+| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 266 | 263 | 236 | 0 | 2 | 0 | 1 |
 | [ZJU-REAL/Awesome-GUI-Agents / ICLR2026/Paperlist.md](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 7 | 0 | 0 | 0 | 7 | 0 | 0 |
 | [dqtz5vpvj9-create/awesome-mobile-gui-agents / README.md](https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents) | 40 | 32 | 32 | 0 | 8 | 0 | 0 |
 | [PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents) | 247 | 212 | 211 | 9 | 26 | 0 | 0 |
@@ -131,6 +131,6 @@ A changed or unconfirmed exclusion returns to review.
 
 Most bibliography entries still require relevance review. Asset sizes, model licenses, availability, and experiment protocols need continuing curation.
 
-196 discovered identifiers remain unresolved. 2052 candidates have an out-of-scope review.
+198 discovered identifiers remain unresolved. 2052 candidates have an out-of-scope review.
 
 [Download the complete coverage ledger](https://awesomecua.com/downloads/coverage.json) · [Editorial policy](https://awesomecua.com/about/)

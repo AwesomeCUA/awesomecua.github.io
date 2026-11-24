@@ -20,26 +20,28 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
 - **Records awaiting review**: 1,248
-- **Discovered candidates**: 196
+- **Discovered candidates**: 198
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
 
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-24T00:31:48Z
-- **Finished**: 2026-11-24T00:37:29Z
-- **Discovery documents fetched**: 103 / 103
+- **Started**: 2026-11-24T08:18:35Z
+- **Finished**: 2026-11-24T08:25:16Z
+- **Discovery documents fetched**: 101 / 103
 - **New paper metadata**: 0
-- **New candidate identifiers**: 0
+- **New candidate identifiers**: 2
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 13
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45297856520)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45354938949)
 
 ### Recorded gaps
 
 - github_candidates: Stage exceeded 220 seconds; last verified records retained.
+- Discovery sources failed: arxiv-abstract-phrases, survey-bibliography-backfill
+- 2 arXiv identifiers remain unresolved in the retained harvest ledger.
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +55,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-24T00:32:43Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
+2026-11-24T08:20:39Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 2 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -76,7 +78,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | success |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | success |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
-| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
+| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 2 | 80 | success |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | success |
 | Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | success |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | success |
