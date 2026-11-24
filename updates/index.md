@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---
@@ -27,25 +27,19 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-23T16:14:47Z
-- **Finished**: 2026-11-23T16:19:44Z
+- **Started**: 2026-11-24T00:31:48Z
+- **Finished**: 2026-11-24T00:37:29Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 1
-- **New candidate identifiers**: 1
+- **New paper metadata**: 0
+- **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 13
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45214248777)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45297856520)
 
 ### Recorded gaps
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
-
-## New to the bibliography
-
-These are newly discovered bibliographic records. Relevance and findings still require editorial review.
-
-- [Can Agents Keep Up with Time? An Empirical Analysis of Temporal Adaptation After a Conversational Hiatus](https://awesomecua.com/resources/arxiv-2611-17806/) · metadata verified
+- github_candidates: Stage exceeded 220 seconds; last verified records retained.
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-23T16:15:46Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 1 new candidates.
+2026-11-24T00:32:43Z · 32 / 32 query windows succeeded · 1,513 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -79,7 +73,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Visual grounding<br>screenshot visual grounding click localization agent | 80 | 0 | 80 | success |
 | Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | success |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | success |
-| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 1 | 80 | success |
+| Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | success |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | success |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
