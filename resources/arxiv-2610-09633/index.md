@@ -1,7 +1,7 @@
 ---
 title: "Coding-Agent Benchmarks Should Match Their… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-09633/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

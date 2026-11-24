@@ -1,7 +1,7 @@
 ---
 title: "GPQA: A Graduate-Level Google-Proof Q&A… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-12022/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Superstring Sigma Model Computations Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0808-1755/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

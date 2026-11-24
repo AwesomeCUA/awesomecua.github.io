@@ -1,7 +1,7 @@
 ---
 title: "Big Data Computing Using Cloud-Based… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1712-05233/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

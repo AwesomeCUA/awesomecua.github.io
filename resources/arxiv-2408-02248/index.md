@@ -1,7 +1,7 @@
 ---
 title: "ReDel: A Toolkit for LLM-Powered Recursive… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2408-02248/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

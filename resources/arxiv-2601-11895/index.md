@@ -1,7 +1,7 @@
 ---
 title: "DevBench: A Realistic, Developer-Informed… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-11895/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

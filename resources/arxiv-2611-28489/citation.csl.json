@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2611.28489",
+  "citation-key": "arxiv_2611_28489",
+  "type": "article",
+  "title": "Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space",
+  "URL": "https://arxiv.org/abs/2611.28489v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.28489",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.28489",
+    "identifiers": {
+      "arxiv": "2611.28489"
+    },
+    "first_published_at": "2026-11-21",
+    "record_updated_at": "2026-11-21",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "97d42f8fe499b973a333c4f0de4c89bed8580084ee70b7849a1422f835b2d299",
+      "submitted_at": "2026-11-21T02:09:03Z",
+      "updated_at": "2026-11-21T02:09:03Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.28489v1"
+    }
+  },
+  "note": "First published: 2026-11-21; Recorded arXiv version: v1; Recorded version updated: 2026-11-21T02:09:03Z.",
+  "author": [
+    {
+      "literal": "Xu Lin"
+    },
+    {
+      "literal": "Ruilin Yao"
+    },
+    {
+      "literal": "Haoran Xu"
+    },
+    {
+      "literal": "Zixiang Wang"
+    },
+    {
+      "literal": "Ming Ma"
+    },
+    {
+      "literal": "Yu Zhao"
+    },
+    {
+      "literal": "Pu Miao"
+    },
+    {
+      "literal": "Chonghan Liu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        21
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.28489",
+  "genre": "preprint",
+  "version": "1"
+}

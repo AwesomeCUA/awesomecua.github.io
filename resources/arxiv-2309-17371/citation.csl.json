@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2309.17371",
+  "citation-key": "arxiv_2309_17371",
+  "type": "article",
+  "title": "Adversarial Imitation Learning from Visual Observations using Latent Information",
+  "URL": "https://arxiv.org/abs/2309.17371v3",
+  "custom": {
+    "catalog_id": "arxiv:2309.17371",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2309.17371",
+    "identifiers": {
+      "arxiv": "2309.17371"
+    },
+    "first_published_at": "2023-09-29",
+    "record_updated_at": "2024-05-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ed330f30db27ad44c7c3435079855ed9806012ddd34f95c117f857fbc243f13e",
+      "submitted_at": "2023-09-29T16:20:36Z",
+      "updated_at": "2024-05-23T22:42:04Z",
+      "version": 3,
+      "versioned_url": "https://arxiv.org/abs/2309.17371v3"
+    }
+  },
+  "note": "First published: 2023-09-29; Recorded arXiv version: v3; Recorded version updated: 2024-05-23T22:42:04Z.",
+  "author": [
+    {
+      "literal": "Vittorio Giammarino"
+    },
+    {
+      "literal": "James Queeney"
+    },
+    {
+      "literal": "Ioannis Ch. Paschalidis"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2023,
+        9,
+        29
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2309.17371",
+  "genre": "preprint",
+  "version": "3"
+}

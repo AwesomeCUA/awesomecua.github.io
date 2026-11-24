@@ -1,7 +1,7 @@
 ---
 title: "Qwen2-VL: Enhancing Vision-Language Model's… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-12191/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

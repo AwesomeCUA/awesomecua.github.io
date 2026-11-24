@@ -1,7 +1,7 @@
 ---
 title: "VoCo-LLaMA: Towards Vision Compression with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-12275/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

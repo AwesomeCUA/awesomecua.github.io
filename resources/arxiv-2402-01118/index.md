@@ -1,7 +1,7 @@
 ---
 title: "PokeLLMon: A Human-Parity Agent for Pokemon… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-01118/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Rise of Agentic Testing: Multi-Agent… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-02454/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

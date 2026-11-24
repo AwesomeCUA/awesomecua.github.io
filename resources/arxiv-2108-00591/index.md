@@ -1,7 +1,7 @@
 ---
 title: "Resource Management in Edge and Fog Computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2108-00591/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

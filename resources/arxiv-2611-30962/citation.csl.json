@@ -1,0 +1,67 @@
+{
+  "id": "arxiv:2611.30962",
+  "citation-key": "arxiv_2611_30962",
+  "type": "article",
+  "title": "Self-Evolving Evaluation Environments for Computer-Use Agents",
+  "URL": "https://arxiv.org/abs/2611.30962v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.30962",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.30962",
+    "identifiers": {
+      "arxiv": "2611.30962"
+    },
+    "first_published_at": "2026-11-23",
+    "record_updated_at": "2026-11-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "08dadfe3cd358df4f62e411bf1d54fd0dc89b5ffe29ed9519f4e10f0657f580f",
+      "submitted_at": "2026-11-23T16:32:01Z",
+      "updated_at": "2026-11-23T16:32:01Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.30962v1"
+    }
+  },
+  "note": "First published: 2026-11-23; Recorded arXiv version: v1; Recorded version updated: 2026-11-23T16:32:01Z.",
+  "author": [
+    {
+      "literal": "Wenhao Wang"
+    },
+    {
+      "literal": "Panrong Tong"
+    },
+    {
+      "literal": "Quyu Kong"
+    },
+    {
+      "literal": "Pengxiang Li"
+    },
+    {
+      "literal": "Haowen Yang"
+    },
+    {
+      "literal": "chenglin Cai"
+    },
+    {
+      "literal": "Siheng Chen"
+    },
+    {
+      "literal": "Yue Wang"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.30962",
+  "genre": "preprint",
+  "version": "1"
+}

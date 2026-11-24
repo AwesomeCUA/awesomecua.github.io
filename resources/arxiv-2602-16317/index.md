@@ -1,7 +1,7 @@
 ---
 title: "CADEvolve: Creating Realistic CAD via Program… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-16317/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

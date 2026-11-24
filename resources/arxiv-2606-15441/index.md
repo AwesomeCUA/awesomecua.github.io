@@ -1,7 +1,7 @@
 ---
 title: "Defending against Adaptive Prompt Injection… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-15441/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

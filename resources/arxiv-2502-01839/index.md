@@ -1,7 +1,7 @@
 ---
 title: "Sample, Scrutinize and Scale: Effective… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-01839/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

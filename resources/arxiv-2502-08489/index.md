@@ -1,7 +1,7 @@
 ---
 title: "Salamandra Technical Report | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-08489/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

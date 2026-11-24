@@ -1,7 +1,7 @@
 ---
 title: "Dependent Task Offloading in Edge Computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2303-17100/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

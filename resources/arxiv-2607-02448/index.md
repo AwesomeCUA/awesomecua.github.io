@@ -1,7 +1,7 @@
 ---
 title: "AgentsCAD: Automated Design for Manufacturing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-02448/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

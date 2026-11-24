@@ -1,0 +1,55 @@
+{
+  "id": "arxiv:2611.30190",
+  "citation-key": "arxiv_2611_30190",
+  "type": "article",
+  "title": "Same Executions, Different Gaps: Judgment Rules in Web-Agent Evaluation",
+  "URL": "https://arxiv.org/abs/2611.30190v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.30190",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.30190",
+    "identifiers": {
+      "arxiv": "2611.30190"
+    },
+    "first_published_at": "2026-11-23",
+    "record_updated_at": "2026-11-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "927c72af0a5db70d949b9eb9791c6e186b76da07818de8987e55b0d8f1eede85",
+      "submitted_at": "2026-11-23T07:35:54Z",
+      "updated_at": "2026-11-23T07:35:54Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.30190v1"
+    }
+  },
+  "note": "First published: 2026-11-23; Recorded arXiv version: v1; Recorded version updated: 2026-11-23T07:35:54Z.",
+  "author": [
+    {
+      "literal": "Zelong Wang"
+    },
+    {
+      "literal": "Weiyue Li"
+    },
+    {
+      "literal": "Fei Xue"
+    },
+    {
+      "literal": "Junru Zhu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.30190",
+  "genre": "preprint",
+  "version": "1"
+}

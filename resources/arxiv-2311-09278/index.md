@@ -1,7 +1,7 @@
 ---
 title: "Symbol-LLM: Towards Foundational… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-09278/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

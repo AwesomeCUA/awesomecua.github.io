@@ -1,7 +1,7 @@
 ---
 title: "Human-Readable Adversarial Prompts: An… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-16359/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

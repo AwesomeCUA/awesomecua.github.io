@@ -1,7 +1,7 @@
 ---
 title: "Anatomy of Agentic Memory: Taxonomy and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-19320/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

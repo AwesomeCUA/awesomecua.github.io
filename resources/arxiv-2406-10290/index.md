@@ -1,7 +1,7 @@
 ---
 title: "MobileAIBench: Benchmarking LLMs and LMMs for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-10290/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

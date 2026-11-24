@@ -1,7 +1,7 @@
 ---
 title: "The Imitator Game: Benchmarking Robot… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-22301/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

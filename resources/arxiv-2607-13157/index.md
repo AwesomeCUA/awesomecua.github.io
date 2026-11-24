@@ -1,7 +1,7 @@
 ---
 title: "Oracle Agent Memory as an Enterprise Memory… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-13157/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "ReaL: Efficient RLHF Training of Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-14088/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

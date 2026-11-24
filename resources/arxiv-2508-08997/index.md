@@ -1,7 +1,7 @@
 ---
 title: "Intrinsic Memory Agents: Heterogeneous… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2508-08997/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

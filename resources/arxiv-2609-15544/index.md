@@ -1,7 +1,7 @@
 ---
 title: "Specifying Reward Functions for RL Without… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-15544/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

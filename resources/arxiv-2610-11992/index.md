@@ -1,7 +1,7 @@
 ---
 title: "Multifunctional synaptic learning and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-11992/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

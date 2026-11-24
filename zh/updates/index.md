@@ -19,29 +19,44 @@ lang: zh-CN
 
 - **已审阅的论文与综述**: 1,718
 - **其他已审阅资源**: 3,629
-- **待审阅记录**: 1,248
-- **已发现候选**: 198
+- **待审阅记录**: 1,260
+- **已发现候选**: 196
 
 这些数量包含下方扫描之后完成的编辑工作。[浏览已审阅的研究](https://awesomecua.com/zh/papers/)或[查看完整覆盖情况](https://awesomecua.com/zh/coverage/)。
 
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-24T08:18:35Z
-- **结束**: 2026-11-24T08:25:16Z
-- **成功获取的发现文档**: 101 / 103
-- **新增论文元数据**: 0
-- **新增候选标识**: 2
+- **开始**: 2026-11-24T16:15:38Z
+- **结束**: 2026-11-24T16:21:15Z
+- **成功获取的发现文档**: 103 / 103
+- **新增论文元数据**: 12
+- **新增候选标识**: 10
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 13
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45354938949)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45434967125)
 
 ### 记录的缺口
 
 - github_candidates: Stage exceeded 220 seconds; last verified records retained.
-- Discovery sources failed: arxiv-abstract-phrases, survey-bibliography-backfill
-- 2 arXiv identifiers remain unresolved in the retained harvest ledger.
+
+## 新加入书目的记录
+
+以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
+
+- [Generative Adversarial Imitation from Observation](https://awesomecua.com/resources/arxiv-1807-06158/) · 元数据已核实
+- [Adversarial Imitation Learning from Visual Observations using Latent Information](https://awesomecua.com/resources/arxiv-2309-17371/) · 元数据已核实
+- [Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space](https://awesomecua.com/resources/arxiv-2611-28489/) · 元数据已核实
+- [Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2611-28947/) · 元数据已核实
+- [Benchmarking Web Agent Defenses Against Adaptive Visual Prompt Injection](https://awesomecua.com/resources/arxiv-2611-29268/) · 元数据已核实
+- [MobileGrail: Learning Compact Guardrails for On-Device deployable Mobile GUI Agent Safety](https://awesomecua.com/resources/arxiv-2611-29847/) · 元数据已核实
+- [Conartist: Adaptive Agentic Red-Teaming of Computer-Using Agents against Multi-Step Prompt Injection](https://awesomecua.com/resources/arxiv-2611-29977/) · 元数据已核实
+- [GUI-Q: Task-Sensitive Granularity and Relation-Preserving Quantization for GUI Agents](https://awesomecua.com/resources/arxiv-2611-30170/) · 元数据已核实
+- [Same Executions, Different Gaps: Judgment Rules in Web-Agent Evaluation](https://awesomecua.com/resources/arxiv-2611-30190/) · 元数据已核实
+- [PixelOne: From Options to Pixels in a Single Forward for GUI Grounding](https://awesomecua.com/resources/arxiv-2611-30235/) · 元数据已核实
+- [Self-Evolving Evaluation Environments for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2611-30962/) · 元数据已核实
+- [MedUIGym: Evaluating and Training GUI Agents for Clinical Workflows](https://awesomecua.com/resources/arxiv-2611-30983/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -55,7 +70,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-24T08:20:39Z · 32 / 32 个查询窗口成功 · 1,513 个不重复标识 · 2 个新候选。
+2026-11-24T16:16:40Z · 32 / 32 个查询窗口成功 · 1,514 个不重复标识 · 1 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 
@@ -78,7 +93,7 @@ lang: zh-CN
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | 成功 |
 | Agent memory<br>GUI agent episodic memory self reflection | 80 | 0 | 80 | 成功 |
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | 成功 |
-| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 2 | 80 | 成功 |
+| Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | 成功 |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | 成功 |
 | Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | 成功 |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | 成功 |
@@ -88,7 +103,7 @@ lang: zh-CN
 | Adversarial security<br>browser GUI agent prompt injection adversarial security | 80 | 0 | 80 | 成功 |
 | Human collaboration<br>GUI agent human collaboration clarification intervention | 80 | 0 | 80 | 成功 |
 | Efficiency<br>GUI agent efficiency latency visual token compression | 80 | 0 | 80 | 成功 |
-| Open models<br>open source GUI model computer use checkpoint | 80 | 0 | 80 | 成功 |
+| Open models<br>open source GUI model computer use checkpoint | 80 | 1 | 80 | 成功 |
 | Workflow automation<br>visual workflow automation robotic process automation agents | 80 | 0 | 80 | 成功 |
 | Multilingual interfaces<br>multilingual GUI agent interface grounding | 80 | 0 | 80 | 成功 |
 | Testing and exploration<br>GUI agent software testing interface exploration | 80 | 0 | 80 | 成功 |

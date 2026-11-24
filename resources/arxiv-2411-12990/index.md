@@ -1,7 +1,7 @@
 ---
 title: "BetterBench: Assessing AI Benchmarks… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2411-12990/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

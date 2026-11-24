@@ -1,7 +1,7 @@
 ---
 title: "M2A: Multimodal Memory Agent with Dual-Layer… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-07624/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

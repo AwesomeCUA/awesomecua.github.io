@@ -1,7 +1,7 @@
 ---
 title: "Bottom-up computation using trees of sublists… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-18528/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---

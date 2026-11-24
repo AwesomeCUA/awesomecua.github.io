@@ -1,0 +1,61 @@
+{
+  "id": "arxiv:2611.30983",
+  "citation-key": "arxiv_2611_30983",
+  "type": "article",
+  "title": "MedUIGym: Evaluating and Training GUI Agents for Clinical Workflows",
+  "URL": "https://arxiv.org/abs/2611.30983v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.30983",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.30983",
+    "identifiers": {
+      "arxiv": "2611.30983"
+    },
+    "first_published_at": "2026-11-23",
+    "record_updated_at": "2026-11-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "dd856155942c997b1d7917f0e7dba0c28344fb13fbd29b5123301fd69503a13e",
+      "submitted_at": "2026-11-23T16:41:20Z",
+      "updated_at": "2026-11-23T16:41:20Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.30983v1"
+    }
+  },
+  "note": "First published: 2026-11-23; Recorded arXiv version: v1; Recorded version updated: 2026-11-23T16:41:20Z.",
+  "author": [
+    {
+      "literal": "Yitong Qiao"
+    },
+    {
+      "literal": "Lei Liu"
+    },
+    {
+      "literal": "Yue Shen"
+    },
+    {
+      "literal": "Jian Wang"
+    },
+    {
+      "literal": "Jinjie Gu"
+    },
+    {
+      "literal": "Zhixuan Chu"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.30983",
+  "genre": "preprint",
+  "version": "1"
+}

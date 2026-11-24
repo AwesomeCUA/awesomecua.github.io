@@ -1,7 +1,7 @@
 ---
 title: "A Safety and Security Framework for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-21990/
-updated: 2026-11-23
+updated: 2026-11-24
 type: page
 lang: en
 ---
