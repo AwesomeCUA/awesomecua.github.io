@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2611.31962",
+  "citation-key": "arxiv_2611_31962",
+  "type": "article",
+  "title": "Are Web Agents Still Detectable? Stress-Testing Bot Defenses with Coordinated Evasion",
+  "URL": "https://arxiv.org/abs/2611.31962v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.31962",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.31962",
+    "identifiers": {
+      "arxiv": "2611.31962"
+    },
+    "first_published_at": "2026-11-24",
+    "record_updated_at": "2026-11-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "ff8aaa6aaf658f7d1d926f6f879a6e712846754ed58a875c878e1087ad018b25",
+      "submitted_at": "2026-11-24T05:11:39Z",
+      "updated_at": "2026-11-24T05:11:39Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.31962v1"
+    }
+  },
+  "note": "First published: 2026-11-24; Recorded arXiv version: v1; Recorded version updated: 2026-11-24T05:11:39Z.",
+  "author": [
+    {
+      "literal": "Parsa Nilforushan"
+    },
+    {
+      "literal": "Gemmin Sugiura"
+    },
+    {
+      "literal": "Kourosh Hashemi"
+    },
+    {
+      "literal": "Peiman Zhiani"
+    },
+    {
+      "literal": "Mohammad A. Tayebi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.31962",
+  "genre": "preprint",
+  "version": "1"
+}

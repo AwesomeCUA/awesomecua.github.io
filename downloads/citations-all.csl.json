@@ -211661,6 +211661,491 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.31522v1",
+    "archive": "arXiv",
+    "archive_location": "2611.31522",
+    "author": [
+      {
+        "literal": "Zhanwen Chen"
+      },
+      {
+        "literal": "Tianchun Wang"
+      }
+    ],
+    "citation-key": "arxiv_2611_31522",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "5a3300b423a93d464e80a25e047dcabb6ac49e8da1655e2391268f885f3dbafe",
+        "submitted_at": "2026-11-23T20:28:04Z",
+        "updated_at": "2026-11-23T20:28:04Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.31522v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.31522",
+      "catalog_id": "arxiv:2611.31522",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-23",
+      "identifiers": {
+        "arxiv": "2611.31522"
+      },
+      "record_updated_at": "2026-11-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.31522",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-23; Recorded arXiv version: v1; Recorded version updated: 2026-11-23T20:28:04Z.",
+    "title": "One Step, Four Clocks: How GUI Agents Fall Out of Step",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.31559v1",
+    "archive": "arXiv",
+    "archive_location": "2611.31559",
+    "author": [
+      {
+        "literal": "Yikun Chi"
+      },
+      {
+        "literal": "Adam Davies"
+      },
+      {
+        "literal": "Debarati Das"
+      },
+      {
+        "literal": "Lin Ai"
+      },
+      {
+        "literal": "Scott Counts"
+      }
+    ],
+    "citation-key": "arxiv_2611_31559",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8ab72baae26961f2039487094b59e7c921b2e98d30a6f634d31b8ee18c1ff35b",
+        "submitted_at": "2026-11-23T21:06:33Z",
+        "updated_at": "2026-11-23T21:06:33Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.31559v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.31559",
+      "catalog_id": "arxiv:2611.31559",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-23",
+      "identifiers": {
+        "arxiv": "2611.31559"
+      },
+      "record_updated_at": "2026-11-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.31559",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-23; Recorded arXiv version: v1; Recorded version updated: 2026-11-23T21:06:33Z.",
+    "title": "COGENT: A Modular Cognitive Architecture for Agentic User Simulation",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.31909v1",
+    "archive": "arXiv",
+    "archive_location": "2611.31909",
+    "author": [
+      {
+        "literal": "Ruixiao Shi"
+      },
+      {
+        "literal": "Fu Feng"
+      },
+      {
+        "literal": "Yucheng Xie"
+      },
+      {
+        "literal": "Jing Wang"
+      },
+      {
+        "literal": "Xin Geng"
+      }
+    ],
+    "citation-key": "arxiv_2611_31909",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "58a7ce2b40bbf9e96f1b8efe1bd299bc4fb17188c68380d1b86ca7b3c6332a71",
+        "submitted_at": "2026-11-24T04:12:15Z",
+        "updated_at": "2026-11-24T04:12:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.31909v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.31909",
+      "catalog_id": "arxiv:2611.31909",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-24",
+      "identifiers": {
+        "arxiv": "2611.31909"
+      },
+      "record_updated_at": "2026-11-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.31909",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-24; Recorded arXiv version: v1; Recorded version updated: 2026-11-24T04:12:15Z.",
+    "title": "Your VLM Knows What to Inspect: Semantic Probe-Guided Adaptive Focusing for GUI Grounding",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.31962v1",
+    "archive": "arXiv",
+    "archive_location": "2611.31962",
+    "author": [
+      {
+        "literal": "Parsa Nilforushan"
+      },
+      {
+        "literal": "Gemmin Sugiura"
+      },
+      {
+        "literal": "Kourosh Hashemi"
+      },
+      {
+        "literal": "Peiman Zhiani"
+      },
+      {
+        "literal": "Mohammad A. Tayebi"
+      }
+    ],
+    "citation-key": "arxiv_2611_31962",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "ff8aaa6aaf658f7d1d926f6f879a6e712846754ed58a875c878e1087ad018b25",
+        "submitted_at": "2026-11-24T05:11:39Z",
+        "updated_at": "2026-11-24T05:11:39Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.31962v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.31962",
+      "catalog_id": "arxiv:2611.31962",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-24",
+      "identifiers": {
+        "arxiv": "2611.31962"
+      },
+      "record_updated_at": "2026-11-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.31962",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-24; Recorded arXiv version: v1; Recorded version updated: 2026-11-24T05:11:39Z.",
+    "title": "Are Web Agents Still Detectable? Stress-Testing Bot Defenses with Coordinated Evasion",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.31974v1",
+    "archive": "arXiv",
+    "archive_location": "2611.31974",
+    "author": [
+      {
+        "literal": "Shifang Zhao"
+      },
+      {
+        "literal": "Haoyu Wang"
+      },
+      {
+        "literal": "Yuyang Yin"
+      },
+      {
+        "literal": "Dong Chen"
+      },
+      {
+        "literal": "Xingyilang Yin"
+      },
+      {
+        "literal": "Yunkang Tao"
+      },
+      {
+        "literal": "Honghao Chen"
+      },
+      {
+        "literal": "Guangzhi Wang"
+      },
+      {
+        "literal": "Yiran Wang"
+      },
+      {
+        "literal": "Junfu Pu"
+      },
+      {
+        "literal": "Cheng Cheng"
+      },
+      {
+        "literal": "Xiaodong Cun"
+      },
+      {
+        "literal": "Ying Shan"
+      }
+    ],
+    "citation-key": "arxiv_2611_31974",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "1a5327224075c37b8b4c610ba60e76c2ea5dbac232192dbd07e8d510c91da946",
+        "submitted_at": "2026-11-24T05:24:32Z",
+        "updated_at": "2026-11-24T05:24:32Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.31974v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.31974",
+      "catalog_id": "arxiv:2611.31974",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-24",
+      "identifiers": {
+        "arxiv": "2611.31974"
+      },
+      "record_updated_at": "2026-11-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.31974",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-24; Recorded arXiv version: v1; Recorded version updated: 2026-11-24T05:24:32Z.",
+    "title": "Coding4Games: Can Modern Coding Agents Play Modern Video Games?",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.32097v1",
+    "archive": "arXiv",
+    "archive_location": "2611.32097",
+    "author": [
+      {
+        "literal": "Enqi Liu"
+      },
+      {
+        "literal": "Zhi Gao"
+      },
+      {
+        "literal": "Liu Liu"
+      },
+      {
+        "literal": "Lifeng Fan"
+      },
+      {
+        "literal": "Liyuan Pan"
+      }
+    ],
+    "citation-key": "arxiv_2611_32097",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "4dcd0393a2f816dd1c288c729834598b6591ff429d9fa755f6541ed9cf95ab8c",
+        "submitted_at": "2026-11-24T07:16:44Z",
+        "updated_at": "2026-11-24T07:16:44Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.32097v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.32097",
+      "catalog_id": "arxiv:2611.32097",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-24",
+      "identifiers": {
+        "arxiv": "2611.32097"
+      },
+      "record_updated_at": "2026-11-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.32097",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-24; Recorded arXiv version: v1; Recorded version updated: 2026-11-24T07:16:44Z.",
+    "title": "GUI-PRISM: Efficient Action Decoding for GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.32102v1",
+    "archive": "arXiv",
+    "archive_location": "2611.32102",
+    "author": [
+      {
+        "literal": "Enqi Liu"
+      },
+      {
+        "literal": "Zhi Gao"
+      },
+      {
+        "literal": "Liu Liu"
+      },
+      {
+        "literal": "Lifeng Fan"
+      },
+      {
+        "literal": "Liyuan Pan"
+      }
+    ],
+    "citation-key": "arxiv_2611_32102",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "679b3d009c4866de54e07332bdf0047fbea8c1c4c3041aab3f983080d1b64ae6",
+        "submitted_at": "2026-11-24T07:21:47Z",
+        "updated_at": "2026-11-24T07:21:47Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.32102v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.32102",
+      "catalog_id": "arxiv:2611.32102",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-24",
+      "identifiers": {
+        "arxiv": "2611.32102"
+      },
+      "record_updated_at": "2026-11-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.32102",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-24; Recorded arXiv version: v1; Recorded version updated: 2026-11-24T07:21:47Z.",
+    "title": "RISE: Reasoning with Implicit State Embeddings for GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.32332v1",
+    "archive": "arXiv",
+    "archive_location": "2611.32332",
+    "author": [
+      {
+        "literal": "Haixia Bi"
+      },
+      {
+        "literal": "Yingtian Chen"
+      },
+      {
+        "literal": "Sihan Yang"
+      },
+      {
+        "literal": "Zuzheng Kuang"
+      },
+      {
+        "literal": "Yuzhen Tong"
+      },
+      {
+        "literal": "Kai Fu"
+      },
+      {
+        "literal": "Zhengyong Wan"
+      }
+    ],
+    "citation-key": "arxiv_2611_32332",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8d8887fae073517ea90ac695356dbe20fe2e4134a0c4e5fbaa54aafcc4eb3bb0",
+        "submitted_at": "2026-11-24T10:18:59Z",
+        "updated_at": "2026-11-24T10:18:59Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.32332v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.32332",
+      "catalog_id": "arxiv:2611.32332",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-24",
+      "identifiers": {
+        "arxiv": "2611.32332"
+      },
+      "record_updated_at": "2026-11-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.32332",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-24; Recorded arXiv version: v1; Recorded version updated: 2026-11-24T10:18:59Z.",
+    "title": "GUI-WEdit and GUI-SkillEvo: Gradient-Free Adaptation of Small GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "DOI": "10.20944/preprints202611.0431.v1",
     "URL": "https://doi.org/10.20944/preprints202611.0431.v1",
     "author": [

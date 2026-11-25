@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,261
+- **Records awaiting review**: 1,269
 - **Discovered candidates**: 196
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,15 +27,15 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-25T00:34:32Z
-- **Finished**: 2026-11-25T00:40:08Z
+- **Started**: 2026-11-25T08:18:54Z
+- **Finished**: 2026-11-25T08:24:38Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 1
-- **New candidate identifiers**: 1
+- **New paper metadata**: 8
+- **New candidate identifiers**: 8
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 15
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45519098089)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45575141171)
 
 ### Recorded gaps
 
@@ -45,7 +45,14 @@ These counts include editorial work completed after the scan below. [Browse revi
 
 These are newly discovered bibliographic records. Relevance and findings still require editorial review.
 
-- [Optimizing Locally Equivalent Graph States in Quantum Computing Using Greedy Best-First Search](https://awesomecua.com/resources/arxiv-2611-30738/) · metadata verified
+- [One Step, Four Clocks: How GUI Agents Fall Out of Step](https://awesomecua.com/resources/arxiv-2611-31522/) · metadata verified
+- [COGENT: A Modular Cognitive Architecture for Agentic User Simulation](https://awesomecua.com/resources/arxiv-2611-31559/) · metadata verified
+- [Your VLM Knows What to Inspect: Semantic Probe-Guided Adaptive Focusing for GUI Grounding](https://awesomecua.com/resources/arxiv-2611-31909/) · metadata verified
+- [Are Web Agents Still Detectable? Stress-Testing Bot Defenses with Coordinated Evasion](https://awesomecua.com/resources/arxiv-2611-31962/) · metadata verified
+- [Coding4Games: Can Modern Coding Agents Play Modern Video Games?](https://awesomecua.com/resources/arxiv-2611-31974/) · metadata verified
+- [GUI-PRISM: Efficient Action Decoding for GUI Agents](https://awesomecua.com/resources/arxiv-2611-32097/) · metadata verified
+- [RISE: Reasoning with Implicit State Embeddings for GUI Agents](https://awesomecua.com/resources/arxiv-2611-32102/) · metadata verified
+- [GUI-WEdit and GUI-SkillEvo: Gradient-Free Adaptation of Small GUI Agents](https://awesomecua.com/resources/arxiv-2611-32332/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +66,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-25T00:35:29Z · 32 / 32 query windows succeeded · 1,514 distinct identifiers · 0 new candidates.
+2026-11-25T08:20:00Z · 32 / 32 query windows succeeded · 1,515 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 

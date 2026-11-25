@@ -10,7 +10,7 @@ lang: en
 
 Computer-use datasets supply screenshots, instructions, element annotations and action trajectories for training or evaluating GUI agents. Supervision ranges from single-element grounding to complete multi-step trajectories.
 
-> 278 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-25T00:35:30Z.
+> 278 curated records of this kind in the AwesomeCUA catalog, each with its complete annotation, primary evidence and license declarations. Snapshot 2026-11-25T08:20:01Z.
 
 HTML page: https://awesomecua.com/categories/dataset/ · Catalog index: https://awesomecua.com/llms.txt · API: https://awesomecua.com/api/v1/resources.json
 

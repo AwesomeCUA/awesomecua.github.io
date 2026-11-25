@@ -1,0 +1,58 @@
+{
+  "id": "arxiv:2611.31559",
+  "citation-key": "arxiv_2611_31559",
+  "type": "article",
+  "title": "COGENT: A Modular Cognitive Architecture for Agentic User Simulation",
+  "URL": "https://arxiv.org/abs/2611.31559v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.31559",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.31559",
+    "identifiers": {
+      "arxiv": "2611.31559"
+    },
+    "first_published_at": "2026-11-23",
+    "record_updated_at": "2026-11-23",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8ab72baae26961f2039487094b59e7c921b2e98d30a6f634d31b8ee18c1ff35b",
+      "submitted_at": "2026-11-23T21:06:33Z",
+      "updated_at": "2026-11-23T21:06:33Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.31559v1"
+    }
+  },
+  "note": "First published: 2026-11-23; Recorded arXiv version: v1; Recorded version updated: 2026-11-23T21:06:33Z.",
+  "author": [
+    {
+      "literal": "Yikun Chi"
+    },
+    {
+      "literal": "Adam Davies"
+    },
+    {
+      "literal": "Debarati Das"
+    },
+    {
+      "literal": "Lin Ai"
+    },
+    {
+      "literal": "Scott Counts"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        23
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.31559",
+  "genre": "preprint",
+  "version": "1"
+}

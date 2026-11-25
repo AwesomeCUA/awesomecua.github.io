@@ -19,7 +19,7 @@ lang: zh-CN
 
 - **已审阅的论文与综述**: 1,718
 - **其他已审阅资源**: 3,629
-- **待审阅记录**: 1,261
+- **待审阅记录**: 1,269
 - **已发现候选**: 196
 
 这些数量包含下方扫描之后完成的编辑工作。[浏览已审阅的研究](https://awesomecua.com/zh/papers/)或[查看完整覆盖情况](https://awesomecua.com/zh/coverage/)。
@@ -27,15 +27,15 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-25T00:34:32Z
-- **结束**: 2026-11-25T00:40:08Z
+- **开始**: 2026-11-25T08:18:54Z
+- **结束**: 2026-11-25T08:24:38Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 1
-- **新增候选标识**: 1
+- **新增论文元数据**: 8
+- **新增候选标识**: 8
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 15
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45519098089)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45575141171)
 
 ### 记录的缺口
 
@@ -45,7 +45,14 @@ lang: zh-CN
 
 以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
 
-- [Optimizing Locally Equivalent Graph States in Quantum Computing Using Greedy Best-First Search](https://awesomecua.com/resources/arxiv-2611-30738/) · 元数据已核实
+- [One Step, Four Clocks: How GUI Agents Fall Out of Step](https://awesomecua.com/resources/arxiv-2611-31522/) · 元数据已核实
+- [COGENT: A Modular Cognitive Architecture for Agentic User Simulation](https://awesomecua.com/resources/arxiv-2611-31559/) · 元数据已核实
+- [Your VLM Knows What to Inspect: Semantic Probe-Guided Adaptive Focusing for GUI Grounding](https://awesomecua.com/resources/arxiv-2611-31909/) · 元数据已核实
+- [Are Web Agents Still Detectable? Stress-Testing Bot Defenses with Coordinated Evasion](https://awesomecua.com/resources/arxiv-2611-31962/) · 元数据已核实
+- [Coding4Games: Can Modern Coding Agents Play Modern Video Games?](https://awesomecua.com/resources/arxiv-2611-31974/) · 元数据已核实
+- [GUI-PRISM: Efficient Action Decoding for GUI Agents](https://awesomecua.com/resources/arxiv-2611-32097/) · 元数据已核实
+- [RISE: Reasoning with Implicit State Embeddings for GUI Agents](https://awesomecua.com/resources/arxiv-2611-32102/) · 元数据已核实
+- [GUI-WEdit and GUI-SkillEvo: Gradient-Free Adaptation of Small GUI Agents](https://awesomecua.com/resources/arxiv-2611-32332/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -59,7 +66,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-25T00:35:29Z · 32 / 32 个查询窗口成功 · 1,514 个不重复标识 · 0 个新候选。
+2026-11-25T08:20:00Z · 32 / 32 个查询窗口成功 · 1,515 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 

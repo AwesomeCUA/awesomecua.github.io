@@ -1,0 +1,64 @@
+{
+  "id": "arxiv:2611.32332",
+  "citation-key": "arxiv_2611_32332",
+  "type": "article",
+  "title": "GUI-WEdit and GUI-SkillEvo: Gradient-Free Adaptation of Small GUI Agents",
+  "URL": "https://arxiv.org/abs/2611.32332v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.32332",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.32332",
+    "identifiers": {
+      "arxiv": "2611.32332"
+    },
+    "first_published_at": "2026-11-24",
+    "record_updated_at": "2026-11-24",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "8d8887fae073517ea90ac695356dbe20fe2e4134a0c4e5fbaa54aafcc4eb3bb0",
+      "submitted_at": "2026-11-24T10:18:59Z",
+      "updated_at": "2026-11-24T10:18:59Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.32332v1"
+    }
+  },
+  "note": "First published: 2026-11-24; Recorded arXiv version: v1; Recorded version updated: 2026-11-24T10:18:59Z.",
+  "author": [
+    {
+      "literal": "Haixia Bi"
+    },
+    {
+      "literal": "Yingtian Chen"
+    },
+    {
+      "literal": "Sihan Yang"
+    },
+    {
+      "literal": "Zuzheng Kuang"
+    },
+    {
+      "literal": "Yuzhen Tong"
+    },
+    {
+      "literal": "Kai Fu"
+    },
+    {
+      "literal": "Zhengyong Wan"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        24
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.32332",
+  "genre": "preprint",
+  "version": "1"
+}
