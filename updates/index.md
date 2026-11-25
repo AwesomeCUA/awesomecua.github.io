@@ -27,32 +27,19 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-25T08:18:54Z
-- **Finished**: 2026-11-25T08:24:38Z
+- **Started**: 2026-11-25T16:19:07Z
+- **Finished**: 2026-11-25T16:24:03Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 8
-- **New candidate identifiers**: 8
+- **New paper metadata**: 0
+- **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 15
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45575141171)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45652524863)
 
 ### Recorded gaps
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
-
-## New to the bibliography
-
-These are newly discovered bibliographic records. Relevance and findings still require editorial review.
-
-- [One Step, Four Clocks: How GUI Agents Fall Out of Step](https://awesomecua.com/resources/arxiv-2611-31522/) · metadata verified
-- [COGENT: A Modular Cognitive Architecture for Agentic User Simulation](https://awesomecua.com/resources/arxiv-2611-31559/) · metadata verified
-- [Your VLM Knows What to Inspect: Semantic Probe-Guided Adaptive Focusing for GUI Grounding](https://awesomecua.com/resources/arxiv-2611-31909/) · metadata verified
-- [Are Web Agents Still Detectable? Stress-Testing Bot Defenses with Coordinated Evasion](https://awesomecua.com/resources/arxiv-2611-31962/) · metadata verified
-- [Coding4Games: Can Modern Coding Agents Play Modern Video Games?](https://awesomecua.com/resources/arxiv-2611-31974/) · metadata verified
-- [GUI-PRISM: Efficient Action Decoding for GUI Agents](https://awesomecua.com/resources/arxiv-2611-32097/) · metadata verified
-- [RISE: Reasoning with Implicit State Embeddings for GUI Agents](https://awesomecua.com/resources/arxiv-2611-32102/) · metadata verified
-- [GUI-WEdit and GUI-SkillEvo: Gradient-Free Adaptation of Small GUI Agents](https://awesomecua.com/resources/arxiv-2611-32332/) · metadata verified
+- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -66,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-25T08:20:00Z · 32 / 32 query windows succeeded · 1,515 distinct identifiers · 0 new candidates.
+2026-11-25T16:20:17Z · 32 / 32 query windows succeeded · 1,515 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
