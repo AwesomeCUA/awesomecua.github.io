@@ -1,7 +1,7 @@
 ---
 title: "Agentic Reward Modeling: Integrating Human… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-19328/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

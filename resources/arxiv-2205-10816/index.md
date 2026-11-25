@@ -1,7 +1,7 @@
 ---
 title: "Chain of Thought Imitation with Procedure… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2205-10816/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

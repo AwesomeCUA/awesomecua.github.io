@@ -1,7 +1,7 @@
 ---
 title: "Scaling Agentic Capabilities, Not Context… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-06713/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

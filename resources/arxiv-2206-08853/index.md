@@ -1,7 +1,7 @@
 ---
 title: "MineDojo: Building Open-Ended Embodied Agents… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2206-08853/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

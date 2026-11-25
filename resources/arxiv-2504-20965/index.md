@@ -1,7 +1,7 @@
 ---
 title: "AegisLLM: Scaling Agentic Systems for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-20965/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

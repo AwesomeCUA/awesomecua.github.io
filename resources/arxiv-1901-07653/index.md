@@ -1,7 +1,7 @@
 ---
 title: "Determining eigenstates and thermal states on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1901-07653/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

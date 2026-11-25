@@ -1,7 +1,7 @@
 ---
 title: "Spin-wave mediated interactions for Majority… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1902-06925/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

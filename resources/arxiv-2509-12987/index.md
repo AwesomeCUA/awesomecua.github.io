@@ -1,7 +1,7 @@
 ---
 title: "Toward PDDL Planning Copilot | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-12987/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

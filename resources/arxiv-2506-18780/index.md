@@ -1,7 +1,7 @@
 ---
 title: "Design high-confidence computers using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-18780/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

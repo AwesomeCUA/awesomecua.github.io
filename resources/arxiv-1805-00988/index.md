@@ -1,7 +1,7 @@
 ---
 title: "Simulating Quantum Computers Using OpenCL | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1805-00988/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

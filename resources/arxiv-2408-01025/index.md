@@ -1,7 +1,7 @@
 ---
 title: "CALA-$n$: A Quantum Library for Realizing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2408-01025/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

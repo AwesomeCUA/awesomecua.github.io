@@ -1,7 +1,7 @@
 ---
 title: "APIGen-MT: Agentic Pipeline for Multi-Turn… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-03601/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Interactive incremental learning of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-05655/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Critical Role of LIGO-India in the Era of… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2411-10349/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

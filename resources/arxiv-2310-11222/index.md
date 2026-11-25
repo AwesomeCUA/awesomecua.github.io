@@ -1,7 +1,7 @@
 ---
 title: "Fast Node Vector Distance Computations using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-11222/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

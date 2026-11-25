@@ -1,7 +1,7 @@
 ---
 title: "Demonstrating Delay-based Reservoir Computing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1907-02804/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

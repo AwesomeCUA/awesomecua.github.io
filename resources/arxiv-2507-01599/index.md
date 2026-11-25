@@ -1,7 +1,7 @@
 ---
 title: "Data Agent: A Holistic Architecture for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-01599/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

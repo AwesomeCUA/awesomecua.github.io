@@ -1,7 +1,7 @@
 ---
 title: "Secure Serverless Computing Using Dynamic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1802-08984/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

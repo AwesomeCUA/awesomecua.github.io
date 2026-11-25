@@ -1,7 +1,7 @@
 ---
 title: "OpenRath: Session-Centered Runtime State for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-19409/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

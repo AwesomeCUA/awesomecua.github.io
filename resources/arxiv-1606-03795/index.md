@@ -1,7 +1,7 @@
 ---
 title: "Error suppression for Hamiltonian-based… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1606-03795/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Scientific Computing Using Consumer… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1607-05537/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

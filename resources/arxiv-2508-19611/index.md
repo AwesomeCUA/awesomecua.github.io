@@ -1,7 +1,7 @@
 ---
 title: "Instructional Agents: Reducing Teaching… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2508-19611/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

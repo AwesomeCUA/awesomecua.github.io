@@ -1,7 +1,7 @@
 ---
 title: "CADSmith: Multi-Agent CAD Generation with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-26512/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "On the Acceleration of Pulsar Timing… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-13991/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Planning from Imagination: Episodic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-01857/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

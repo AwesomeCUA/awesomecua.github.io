@@ -1,7 +1,7 @@
 ---
 title: "Blind Backdoors in Deep Learning Models | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2005-03823/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

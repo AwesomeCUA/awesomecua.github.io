@@ -1,7 +1,7 @@
 ---
 title: "Clarify Before Executing: A Self-Evolving… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-16352/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

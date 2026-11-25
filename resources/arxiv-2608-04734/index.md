@@ -1,7 +1,7 @@
 ---
 title: "A Systolic Array Architecture for Nonlinear… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-04734/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

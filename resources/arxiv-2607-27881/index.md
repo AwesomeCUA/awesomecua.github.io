@@ -1,7 +1,7 @@
 ---
 title: "RoboBRIDGE: A Modular Framework for Bridging… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-27881/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

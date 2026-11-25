@@ -1,7 +1,7 @@
 ---
 title: "How Johnny Can Persuade LLMs to Jailbreak… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2401-06373/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

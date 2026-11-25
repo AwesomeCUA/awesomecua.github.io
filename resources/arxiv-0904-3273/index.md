@@ -1,7 +1,7 @@
 ---
 title: "A Thermodynamic Turing Machine: Artificial… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0904-3273/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

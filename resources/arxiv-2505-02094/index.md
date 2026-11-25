@@ -1,7 +1,7 @@
 ---
 title: "SkillMimic-V2: Learning Robust and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-02094/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

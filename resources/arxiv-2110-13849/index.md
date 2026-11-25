@@ -1,7 +1,7 @@
 ---
 title: "Physical reservoir computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2110-13849/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

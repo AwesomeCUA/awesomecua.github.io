@@ -1,7 +1,7 @@
 ---
 title: "CM2: Reinforcement Learning with Checklist… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-12268/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

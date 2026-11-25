@@ -1,7 +1,7 @@
 ---
 title: "Superior probabilistic computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-03797/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

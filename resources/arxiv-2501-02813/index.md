@@ -1,7 +1,7 @@
 ---
 title: "Multi-time scale and high performance… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-02813/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

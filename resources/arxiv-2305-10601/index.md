@@ -1,7 +1,7 @@
 ---
 title: "Tree of Thoughts: Deliberate Problem Solving… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-10601/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

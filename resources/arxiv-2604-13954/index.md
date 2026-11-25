@@ -1,7 +1,7 @@
 ---
 title: "HINTBench: Horizon-agent Intrinsic Non-attack… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-13954/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

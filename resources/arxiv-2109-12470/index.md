@@ -1,7 +1,7 @@
 ---
 title: "Singularities of serial robots… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2109-12470/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

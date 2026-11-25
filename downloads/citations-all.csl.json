@@ -211478,6 +211478,61 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.30738v1",
+    "archive": "arXiv",
+    "archive_location": "2611.30738",
+    "author": [
+      {
+        "literal": "Sora Harada"
+      },
+      {
+        "literal": "Ryo Kuroiwa"
+      },
+      {
+        "literal": "Shin Nishio"
+      },
+      {
+        "literal": "Takeaki Uno"
+      }
+    ],
+    "citation-key": "arxiv_2611_30738",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "813d55408607b260102442e601c9ff4a2c260e6c594a91b9288fbf9665cf78c8",
+        "submitted_at": "2026-11-23T14:18:27Z",
+        "updated_at": "2026-11-23T14:18:27Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.30738v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.30738",
+      "catalog_id": "arxiv:2611.30738",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-23",
+      "identifiers": {
+        "arxiv": "2611.30738"
+      },
+      "record_updated_at": "2026-11-23"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.30738",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          23
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-23; Recorded arXiv version: v1; Recorded version updated: 2026-11-23T14:18:27Z.",
+    "title": "Optimizing Locally Equivalent Graph States in Quantum Computing Using Greedy Best-First Search",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2611.30962v1",
     "archive": "arXiv",
     "archive_location": "2611.30962",

@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---
@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,260
+- **Records awaiting review**: 1,261
 - **Discovered candidates**: 196
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,15 +27,15 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-24T16:15:38Z
-- **Finished**: 2026-11-24T16:21:15Z
+- **Started**: 2026-11-25T00:34:32Z
+- **Finished**: 2026-11-25T00:40:08Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 12
-- **New candidate identifiers**: 10
+- **New paper metadata**: 1
+- **New candidate identifiers**: 1
 - **Reviewed papers at scan completion**: 1718
-- **Pending metadata changes**: 13
+- **Pending metadata changes**: 15
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45434967125)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45519098089)
 
 ### Recorded gaps
 
@@ -45,18 +45,7 @@ These counts include editorial work completed after the scan below. [Browse revi
 
 These are newly discovered bibliographic records. Relevance and findings still require editorial review.
 
-- [Generative Adversarial Imitation from Observation](https://awesomecua.com/resources/arxiv-1807-06158/) · metadata verified
-- [Adversarial Imitation Learning from Visual Observations using Latent Information](https://awesomecua.com/resources/arxiv-2309-17371/) · metadata verified
-- [Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space](https://awesomecua.com/resources/arxiv-2611-28489/) · metadata verified
-- [Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2611-28947/) · metadata verified
-- [Benchmarking Web Agent Defenses Against Adaptive Visual Prompt Injection](https://awesomecua.com/resources/arxiv-2611-29268/) · metadata verified
-- [MobileGrail: Learning Compact Guardrails for On-Device deployable Mobile GUI Agent Safety](https://awesomecua.com/resources/arxiv-2611-29847/) · metadata verified
-- [Conartist: Adaptive Agentic Red-Teaming of Computer-Using Agents against Multi-Step Prompt Injection](https://awesomecua.com/resources/arxiv-2611-29977/) · metadata verified
-- [GUI-Q: Task-Sensitive Granularity and Relation-Preserving Quantization for GUI Agents](https://awesomecua.com/resources/arxiv-2611-30170/) · metadata verified
-- [Same Executions, Different Gaps: Judgment Rules in Web-Agent Evaluation](https://awesomecua.com/resources/arxiv-2611-30190/) · metadata verified
-- [PixelOne: From Options to Pixels in a Single Forward for GUI Grounding](https://awesomecua.com/resources/arxiv-2611-30235/) · metadata verified
-- [Self-Evolving Evaluation Environments for Computer-Use Agents](https://awesomecua.com/resources/arxiv-2611-30962/) · metadata verified
-- [MedUIGym: Evaluating and Training GUI Agents for Clinical Workflows](https://awesomecua.com/resources/arxiv-2611-30983/) · metadata verified
+- [Optimizing Locally Equivalent Graph States in Quantum Computing Using Greedy Best-First Search](https://awesomecua.com/resources/arxiv-2611-30738/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -70,7 +59,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-24T16:16:40Z · 32 / 32 query windows succeeded · 1,514 distinct identifiers · 1 new candidates.
+2026-11-25T00:35:29Z · 32 / 32 query windows succeeded · 1,514 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -103,7 +92,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Adversarial security<br>browser GUI agent prompt injection adversarial security | 80 | 0 | 80 | success |
 | Human collaboration<br>GUI agent human collaboration clarification intervention | 80 | 0 | 80 | success |
 | Efficiency<br>GUI agent efficiency latency visual token compression | 80 | 0 | 80 | success |
-| Open models<br>open source GUI model computer use checkpoint | 80 | 1 | 80 | success |
+| Open models<br>open source GUI model computer use checkpoint | 80 | 0 | 80 | success |
 | Workflow automation<br>visual workflow automation robotic process automation agents | 80 | 0 | 80 | success |
 | Multilingual interfaces<br>multilingual GUI agent interface grounding | 80 | 0 | 80 | success |
 | Testing and exploration<br>GUI agent software testing interface exploration | 80 | 0 | 80 | success |

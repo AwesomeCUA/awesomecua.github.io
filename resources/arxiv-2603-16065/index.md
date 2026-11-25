@@ -1,7 +1,7 @@
 ---
 title: "Large Reward Models: Generalizable Online… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-16065/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "SWE-bench: Can Language Models Resolve… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-06770/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

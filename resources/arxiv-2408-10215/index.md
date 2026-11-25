@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Overview of Reward Engineering… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2408-10215/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

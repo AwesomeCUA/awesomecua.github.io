@@ -1,7 +1,7 @@
 ---
 title: "CAD-Judge: Toward Efficient Morphological… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2508-04002/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

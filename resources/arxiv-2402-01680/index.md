@@ -1,7 +1,7 @@
 ---
 title: "Large Language Model based Multi-Agents: A… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-01680/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---

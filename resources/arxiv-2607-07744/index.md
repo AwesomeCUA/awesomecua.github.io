@@ -1,7 +1,7 @@
 ---
 title: "PERFOPT-Bench: Evaluating Coding Agents on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-07744/
-updated: 2026-11-24
+updated: 2026-11-25
 type: page
 lang: en
 ---
