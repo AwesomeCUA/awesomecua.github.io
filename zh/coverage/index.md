@@ -1,16 +1,16 @@
 ---
 title: "覆盖与核验台账 | AwesomeCUA"
 url: https://awesomecua.com/zh/coverage/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: zh-CN
 ---
 
 # 覆盖与核验台账
 
-5,347 条已审阅资源，另有 1,269 条书目元数据已核实、等待审阅的记录。
+5,347 条已审阅资源，另有 1,274 条书目元数据已核实、等待审阅的记录。
 
-证据快照：2026-11-25T08:20:01Z。不同资源类型可能指向同一项目的不同部分。
+证据快照：2026-11-26T08:20:00Z。不同资源类型可能指向同一项目的不同部分。
 
 ## 发现来源覆盖
 
@@ -28,9 +28,9 @@ lang: zh-CN
 | [Computer Use Agents Overview](https://github.com/cdxeve/awesome-computer-use-agents) | 78 | 50 | 49 | 10 | 12 | 6 | 0 |
 | [Awesome GUI Agents — Supernal](https://github.com/supernalintelligence/Awesome-Gui-Agents) | 63 | 22 | 22 | 3 | 25 | 12 | 1 |
 | [Yearly GUI Agents](https://github.com/qy0720/awesome-yearly-gui-agents) | 193 | 152 | 152 | 2 | 37 | 1 | 1 |
-| [OSU-NLP-Group/GUI-Agents-Paper-List / README.md](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) | 545 | 493 | 464 | 0 | 52 | 0 | 0 |
+| [OSU-NLP-Group/GUI-Agents-Paper-List / README.md](https://github.com/OSU-NLP-Group/GUI-Agents-Paper-List) | 545 | 493 | 444 | 0 | 52 | 0 | 0 |
 | [opendilab/awesome-ui-agents / README.md](https://github.com/opendilab/awesome-ui-agents) | 144 | 97 | 95 | 6 | 32 | 9 | 0 |
-| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 280 | 277 | 236 | 0 | 2 | 0 | 1 |
+| [jin-s13/awesome-gui-agent-hub / AWESOME.md](https://github.com/jin-s13/awesome-gui-agent-hub) | 283 | 280 | 236 | 0 | 2 | 0 | 1 |
 | [ZJU-REAL/Awesome-GUI-Agents / ICLR2026/Paperlist.md](https://github.com/ZJU-REAL/Awesome-GUI-Agents) | 7 | 0 | 0 | 0 | 7 | 0 | 0 |
 | [dqtz5vpvj9-create/awesome-mobile-gui-agents / README.md](https://github.com/dqtz5vpvj9-create/awesome-mobile-gui-agents) | 40 | 32 | 32 | 0 | 8 | 0 | 0 |
 | [PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents](https://github.com/PhoneLLM/Awesome-LLM-Powered-Phone-GUI-Agents) | 247 | 212 | 211 | 9 | 26 | 0 | 0 |
@@ -85,18 +85,18 @@ lang: zh-CN
 | [LLM-Brained GUI Agents survey tables — data/survey.json](https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey) | 40 | 21 | 11 | 6 | 2 | 6 | 5 |
 | [LLM-Brained GUI Agents survey tables — data/virtual-assistant.json](https://github.com/vyokky/LLM-Brained-GUI-Agents-Survey) | 19 | 10 | 10 | 0 | 4 | 5 | 0 |
 | [OSWorld-Verified leaderboard results](https://os-world.github.io) | 50 | 33 | 33 | 0 | 10 | 7 | 0 |
-| [OSWorld self-reported leaderboard results](https://os-world.github.io) | 89 | 22 | 22 | 5 | 55 | 7 | 0 |
+| [OSWorld self-reported leaderboard results](https://os-world.github.io) | 91 | 23 | 22 | 5 | 55 | 7 | 1 |
 | [ScreenSpot-Pro grounding leaderboard results](https://gui-agent.github.io/grounding-leaderboard) | 45 | 32 | 32 | 2 | 9 | 2 | 0 |
 | [AndroidWorld leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1cchzP9dlTZ3WXQTfYNhh3avxoLipqHN75v1Tb86uhHo) | 69 | 43 | 43 | 0 | 22 | 0 | 4 |
 | [WebArena and VisualWebArena leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1M801lEpBbKSNwP-vDBkC_pF7LdyGU1f_ufZb_NWNBZQ) | 83 | 46 | 43 | 4 | 26 | 6 | 1 |
 | [AndroidLab leaderboard spreadsheet](https://docs.google.com/spreadsheets/d/1Zv6mBfd4Ibt8mke24K6zAFrXe4AvEFaBLW3hpJqSgjw) | 6 | 5 | 5 | 0 | 1 | 0 | 0 |
-| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1165 | 1152 | 1046 | 13 | 0 | 0 | 0 |
+| [arXiv abstract-phrase query: GUI, computer-use and web agents (all dates)](https://arxiv.org) | 1167 | 1154 | 1046 | 13 | 0 | 0 | 0 |
 | [Hub model search "gui" (by likes)](https://huggingface.co/models?search=gui) | 28 | 27 | 27 | 0 | 0 | 1 | 0 |
 | [Hub model search "computer-use" (by likes)](https://huggingface.co/models?search=computer-use) | 2 | 2 | 2 | 0 | 0 | 0 | 0 |
 | [Hub dataset search "gui" (by likes)](https://huggingface.co/datasets?search=gui) | 18 | 15 | 15 | 0 | 0 | 3 | 0 |
 | [Hub dataset search "computer-use" (by likes)](https://huggingface.co/datasets?search=computer-use) | 4 | 3 | 3 | 0 | 1 | 0 | 0 |
 | [Hub dataset search "web-agent" (by likes)](https://huggingface.co/datasets?search=web-agent) | 5 | 2 | 2 | 0 | 1 | 2 | 0 |
-| [Hub dataset search "mind2web" (by likes)](https://huggingface.co/datasets?search=mind2web) | 9 | 6 | 6 | 0 | 0 | 0 | 3 |
+| [Hub dataset search "mind2web" (by likes)](https://huggingface.co/datasets?search=mind2web) | 10 | 6 | 6 | 0 | 0 | 0 | 4 |
 | [Hub dataset search "android" (by likes)](https://huggingface.co/datasets?search=android) | 9 | 4 | 4 | 0 | 2 | 2 | 1 |
 | [Hub dataset search "screenspot" (by likes)](https://huggingface.co/datasets?search=screenspot) | 6 | 4 | 4 | 0 | 1 | 0 | 1 |
 | [Hub collection maxiw/gui-datasets](https://huggingface.co/collections/maxiw/gui-datasets-66c512aef77e8e56f38a670b) | 20 | 20 | 20 | 0 | 0 | 0 | 0 |
@@ -123,7 +123,7 @@ lang: zh-CN
 
 ## 范围排除
 
-1,308 条记录经逐条范围审阅后排除。包含 4,242 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
+1,308 条记录经逐条范围审阅后排除。包含 4,247 条记录的原始 arXiv 元数据档案完整保留。[查看排除决定与来源证据](https://awesomecua.com/downloads/exclusions.json) · [下载原始档案](https://awesomecua.com/downloads/arxiv-archive.jsonl)。
 
 排除依据发生变化或尚未确认时，记录会回到审阅队列。
 
@@ -131,6 +131,6 @@ lang: zh-CN
 
 多数书目条目仍待相关性审阅。资产规模、模型许可证、可用性与实验协议在持续整理中。
 
-196 个已发现标识尚待核实；2,052 个候选经审阅判定为范围外。
+198 个已发现标识尚待核实；2,052 个候选经审阅判定为范围外。
 
 [下载完整覆盖台账](https://awesomecua.com/downloads/coverage.json) · [收录方法](https://awesomecua.com/zh/about/)

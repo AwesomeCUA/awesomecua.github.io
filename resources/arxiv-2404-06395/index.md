@@ -1,7 +1,7 @@
 ---
 title: "MiniCPM: Unveiling the Potential of Small… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-06395/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

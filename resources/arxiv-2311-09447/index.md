@@ -1,7 +1,7 @@
 ---
 title: "How Trustworthy are Open-Source LLMs? An… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2311-09447/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Task Scheduling in Cloud Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2201-09242/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

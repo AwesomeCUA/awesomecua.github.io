@@ -1,7 +1,7 @@
 ---
 title: "Time series generation for option pricing on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-17148/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

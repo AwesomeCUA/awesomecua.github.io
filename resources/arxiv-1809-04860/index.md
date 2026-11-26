@@ -1,7 +1,7 @@
 ---
 title: "Imitating Human Search Strategies for Assembly | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1809-04860/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

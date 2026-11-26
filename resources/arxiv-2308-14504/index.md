@@ -1,7 +1,7 @@
 ---
 title: "Fiber optic computing using distributed… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-14504/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

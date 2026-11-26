@@ -1,7 +1,7 @@
 ---
 title: "TRUEBench: Can LLM Response Meet Real-world… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-22715/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

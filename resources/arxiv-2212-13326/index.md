@@ -1,7 +1,7 @@
 ---
 title: "Behavioral Cloning via Search in Video… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2212-13326/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

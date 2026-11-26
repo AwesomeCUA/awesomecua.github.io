@@ -1,7 +1,7 @@
 ---
 title: "Scalable one-way quantum computer using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1111-2662/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

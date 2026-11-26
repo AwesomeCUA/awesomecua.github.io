@@ -1,7 +1,7 @@
 ---
 title: "Hierarchical Memory for High-Efficiency… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-22925/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

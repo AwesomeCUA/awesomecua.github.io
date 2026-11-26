@@ -1,7 +1,7 @@
 ---
 title: "AgentKernel: The Trust-Native Agentic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2609-29647/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

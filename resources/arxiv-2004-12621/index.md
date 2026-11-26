@@ -1,7 +1,7 @@
 ---
 title: "Succinct Blind Quantum Computation Using a… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2004-12621/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

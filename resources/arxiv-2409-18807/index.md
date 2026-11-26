@@ -1,7 +1,7 @@
 ---
 title: "LLM With Tools: A Survey | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-18807/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

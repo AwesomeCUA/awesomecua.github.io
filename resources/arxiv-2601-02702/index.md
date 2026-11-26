@@ -1,7 +1,7 @@
 ---
 title: "MultiSessionCollab: Learning User Preferences… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-02702/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

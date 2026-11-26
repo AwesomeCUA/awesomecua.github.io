@@ -1,7 +1,7 @@
 ---
 title: "Progress Reward Modeling for Robotic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-21655/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

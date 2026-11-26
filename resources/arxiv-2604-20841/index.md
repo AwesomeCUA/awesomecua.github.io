@@ -1,7 +1,7 @@
 ---
 title: "DeVI: Physics-based Dexterous Human-Object… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-20841/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

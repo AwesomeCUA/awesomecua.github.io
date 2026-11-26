@@ -1,7 +1,7 @@
 ---
 title: "Highly accurate and efficient self-force… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1006-3788/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

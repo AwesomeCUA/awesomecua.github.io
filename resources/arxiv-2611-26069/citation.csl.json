@@ -1,0 +1,52 @@
+{
+  "id": "arxiv:2611.26069",
+  "citation-key": "arxiv_2611_26069",
+  "type": "article",
+  "title": "SheetAlign: Grounded Interaction and Stage-Isolated Learning for Spreadsheet Agents",
+  "URL": "https://arxiv.org/abs/2611.26069v1",
+  "custom": {
+    "catalog_id": "arxiv:2611.26069",
+    "catalog_kind": "paper",
+    "catalog_review_status": "metadata_verified",
+    "canonical_source_url": "https://arxiv.org/abs/2611.26069",
+    "identifiers": {
+      "arxiv": "2611.26069"
+    },
+    "first_published_at": "2026-11-19",
+    "record_updated_at": "2026-11-19",
+    "catalog_scope": "relevance_pending",
+    "arxiv_snapshot": {
+      "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+      "abstract_sha256": "03c6fef82e0aa4a7b2437f6128510aa7dc6d86fd91eb740591fd3c1a13fa85dc",
+      "submitted_at": "2026-11-19T13:13:12Z",
+      "updated_at": "2026-11-19T13:13:12Z",
+      "version": 1,
+      "versioned_url": "https://arxiv.org/abs/2611.26069v1"
+    }
+  },
+  "note": "First published: 2026-11-19; Recorded arXiv version: v1; Recorded version updated: 2026-11-19T13:13:12Z.",
+  "author": [
+    {
+      "literal": "Yuxiang Wang"
+    },
+    {
+      "literal": "Junhao Gan"
+    },
+    {
+      "literal": "Jianzhong Qi"
+    }
+  ],
+  "issued": {
+    "date-parts": [
+      [
+        2026,
+        11,
+        19
+      ]
+    ]
+  },
+  "archive": "arXiv",
+  "archive_location": "2611.26069",
+  "genre": "preprint",
+  "version": "1"
+}

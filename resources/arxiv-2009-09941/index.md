@@ -1,7 +1,7 @@
 ---
 title: "PP-OCR: A Practical Ultra Lightweight OCR… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2009-09941/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

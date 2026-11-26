@@ -210829,6 +210829,58 @@
     "version": "1"
   },
   {
+    "URL": "https://arxiv.org/abs/2611.26069v1",
+    "archive": "arXiv",
+    "archive_location": "2611.26069",
+    "author": [
+      {
+        "literal": "Yuxiang Wang"
+      },
+      {
+        "literal": "Junhao Gan"
+      },
+      {
+        "literal": "Jianzhong Qi"
+      }
+    ],
+    "citation-key": "arxiv_2611_26069",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "03c6fef82e0aa4a7b2437f6128510aa7dc6d86fd91eb740591fd3c1a13fa85dc",
+        "submitted_at": "2026-11-19T13:13:12Z",
+        "updated_at": "2026-11-19T13:13:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.26069v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.26069",
+      "catalog_id": "arxiv:2611.26069",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-19",
+      "identifiers": {
+        "arxiv": "2611.26069"
+      },
+      "record_updated_at": "2026-11-19"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.26069",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          19
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-19; Recorded arXiv version: v1; Recorded version updated: 2026-11-19T13:13:12Z.",
+    "title": "SheetAlign: Grounded Interaction and Stage-Isolated Learning for Spreadsheet Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
     "URL": "https://arxiv.org/abs/2611.27222v1",
     "archive": "arXiv",
     "archive_location": "2611.27222",
@@ -212142,6 +212194,472 @@
     },
     "note": "First published: 2026-11-24; Recorded arXiv version: v1; Recorded version updated: 2026-11-24T10:18:59Z.",
     "title": "GUI-WEdit and GUI-SkillEvo: Gradient-Free Adaptation of Small GUI Agents",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.32649v1",
+    "archive": "arXiv",
+    "archive_location": "2611.32649",
+    "author": [
+      {
+        "literal": "Qingle Liu"
+      },
+      {
+        "literal": "Jieming Li"
+      },
+      {
+        "literal": "Pei-lin Li"
+      },
+      {
+        "literal": "Shenghan Zheng"
+      },
+      {
+        "literal": "Ruize Yang"
+      },
+      {
+        "literal": "Sunqi Fan"
+      },
+      {
+        "literal": "Deyao Hong"
+      },
+      {
+        "literal": "Huan-ang Gao"
+      },
+      {
+        "literal": "Meng-Hao Guo"
+      },
+      {
+        "literal": "Shuojin Yang"
+      }
+    ],
+    "citation-key": "arxiv_2611_32649",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "8d520638ffb45b5f2a906c3623d951a83eda2a4c18056ffe1fb1592fd417ffcc",
+        "submitted_at": "2026-11-24T14:07:17Z",
+        "updated_at": "2026-11-24T14:07:17Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.32649v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.32649",
+      "catalog_id": "arxiv:2611.32649",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-24",
+      "identifiers": {
+        "arxiv": "2611.32649"
+      },
+      "record_updated_at": "2026-11-24"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.32649",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          24
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-24; Recorded arXiv version: v1; Recorded version updated: 2026-11-24T14:07:17Z.",
+    "title": "ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.33760v1",
+    "archive": "arXiv",
+    "archive_location": "2611.33760",
+    "author": [
+      {
+        "literal": "Yun Wang"
+      },
+      {
+        "literal": "Siyue Sun"
+      },
+      {
+        "literal": "Jiaying Du"
+      },
+      {
+        "literal": "Xinyi Wei"
+      },
+      {
+        "literal": "Xiaoming Zhai"
+      },
+      {
+        "literal": "Zhenlin An"
+      },
+      {
+        "literal": "Ninghao Liu"
+      }
+    ],
+    "citation-key": "arxiv_2611_33760",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "49dc2326fbf7e0d9671d5d619f810787a83571e342f6a30accfa3e31723c6fa5",
+        "submitted_at": "2026-11-25T04:18:15Z",
+        "updated_at": "2026-11-25T04:18:15Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.33760v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.33760",
+      "catalog_id": "arxiv:2611.33760",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-25",
+      "identifiers": {
+        "arxiv": "2611.33760"
+      },
+      "record_updated_at": "2026-11-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.33760",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-25; Recorded arXiv version: v1; Recorded version updated: 2026-11-25T04:18:15Z.",
+    "title": "GlassGround: GUI Grounding Beyond Native Screenshots with Egocentric Wearable Vision",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.34232v1",
+    "archive": "arXiv",
+    "archive_location": "2611.34232",
+    "author": [
+      {
+        "literal": "Hui Shen"
+      },
+      {
+        "literal": "Yunta Hsieh"
+      },
+      {
+        "literal": "Jianing Ma"
+      },
+      {
+        "literal": "Zhuoran Yin"
+      },
+      {
+        "literal": "Zhuhan Bao"
+      },
+      {
+        "literal": "Ziyuan Liu"
+      },
+      {
+        "literal": "Qi Han"
+      },
+      {
+        "literal": "Xiuqi Xu"
+      },
+      {
+        "literal": "Xianbang Wang"
+      },
+      {
+        "literal": "Wenhao Chai"
+      },
+      {
+        "literal": "Sihan Xu"
+      },
+      {
+        "literal": "Chenyang Zhao"
+      },
+      {
+        "literal": "Yanheng Shang"
+      },
+      {
+        "literal": "Dongfu Jiang"
+      },
+      {
+        "literal": "Rui Sun"
+      },
+      {
+        "literal": "Xingzhi Li"
+      },
+      {
+        "literal": "Chenqi Yin"
+      },
+      {
+        "literal": "Zesen Zhao"
+      },
+      {
+        "literal": "Boyuan Zheng"
+      },
+      {
+        "literal": "Jisen Li"
+      },
+      {
+        "literal": "Xiaoxia Wu"
+      },
+      {
+        "literal": "Ruoyan Zhang"
+      },
+      {
+        "literal": "Ruiyao Liu"
+      },
+      {
+        "literal": "Jing Xiong"
+      },
+      {
+        "literal": "He Xiao"
+      },
+      {
+        "literal": "Nan Zheng"
+      },
+      {
+        "literal": "Hangxiang Chen"
+      },
+      {
+        "literal": "Shengyang Tao"
+      },
+      {
+        "literal": "Deyang Luorong"
+      },
+      {
+        "literal": "Yifeng Liu"
+      },
+      {
+        "literal": "Jingxuan Zhang"
+      },
+      {
+        "literal": "Chaofan Tao"
+      },
+      {
+        "literal": "Yuren Wang"
+      },
+      {
+        "literal": "Jiaqi Mo"
+      },
+      {
+        "literal": "Rui Hu"
+      },
+      {
+        "literal": "Xing Wei"
+      },
+      {
+        "literal": "Xiaofeng Liu"
+      },
+      {
+        "literal": "Xin Xu"
+      },
+      {
+        "literal": "Han Wu"
+      },
+      {
+        "literal": "Mengyao Wen"
+      },
+      {
+        "literal": "Guobin Zhang"
+      },
+      {
+        "literal": "Shatong Zhu"
+      },
+      {
+        "literal": "Hei Ting Una Chan"
+      },
+      {
+        "literal": "Sicheng Chen"
+      },
+      {
+        "literal": "Kai Zhang"
+      },
+      {
+        "literal": "Mengkang Hu"
+      },
+      {
+        "literal": "Zhongwei Wan"
+      },
+      {
+        "literal": "Xin Wang"
+      },
+      {
+        "literal": "Chuanyang Zheng"
+      },
+      {
+        "literal": "Ziheng Zhang"
+      },
+      {
+        "literal": "Hengyuan Zhang"
+      },
+      {
+        "literal": "Zunhai Su"
+      },
+      {
+        "literal": "Kanzhi Cheng"
+      },
+      {
+        "literal": "Dehan Kong"
+      },
+      {
+        "literal": "Yian Wang"
+      },
+      {
+        "literal": "Hanrong Zhang"
+      },
+      {
+        "literal": "Jiawei Lu"
+      },
+      {
+        "literal": "Yifan Zhang"
+      },
+      {
+        "literal": "Junnan Li"
+      },
+      {
+        "literal": "Changyi Yang"
+      },
+      {
+        "literal": "Jintao Qu"
+      },
+      {
+        "literal": "Wenyao Gao"
+      },
+      {
+        "literal": "Jiaxuan Luo"
+      },
+      {
+        "literal": "Jiaxin Deng"
+      },
+      {
+        "literal": "Yuhao Chen"
+      },
+      {
+        "literal": "Xuesong Ye"
+      },
+      {
+        "literal": "Jingwen Gu"
+      },
+      {
+        "literal": "Yichi Zhang"
+      },
+      {
+        "literal": "Qun Lou"
+      },
+      {
+        "literal": "Shen Yan"
+      },
+      {
+        "literal": "Ben Athiwaratkun"
+      },
+      {
+        "literal": "Qiushi Sun"
+      },
+      {
+        "literal": "Mi Zhang"
+      },
+      {
+        "literal": "Ping Luo"
+      },
+      {
+        "literal": "Wenhu Chen"
+      },
+      {
+        "literal": "Ngai Wong"
+      }
+    ],
+    "citation-key": "arxiv_2611_34232",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "9e69df612d56ab1eb399d3307905bd11c60e2aecbcfb829563e805627d40b1fc",
+        "submitted_at": "2026-11-25T11:55:12Z",
+        "updated_at": "2026-11-25T11:55:12Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.34232v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.34232",
+      "catalog_id": "arxiv:2611.34232",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-25",
+      "identifiers": {
+        "arxiv": "2611.34232"
+      },
+      "record_updated_at": "2026-11-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.34232",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-25; Recorded arXiv version: v1; Recorded version updated: 2026-11-25T11:55:12Z.",
+    "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+    "type": "article",
+    "version": "1"
+  },
+  {
+    "URL": "https://arxiv.org/abs/2611.34466v1",
+    "archive": "arXiv",
+    "archive_location": "2611.34466",
+    "author": [
+      {
+        "literal": "Yurun Chen"
+      },
+      {
+        "literal": "Biao Yi"
+      },
+      {
+        "literal": "Qihang Yu"
+      },
+      {
+        "literal": "Keting Yin"
+      },
+      {
+        "literal": "Shengyu Zhang"
+      }
+    ],
+    "citation-key": "arxiv_2611_34466",
+    "custom": {
+      "arxiv_snapshot": {
+        "abstract_hash_method": "sha256-utf8-whitespace-collapsed-v1",
+        "abstract_sha256": "b0504b35421c244a51c70fbc5b52d01458b44c40578174a03922432f2c324250",
+        "submitted_at": "2026-11-25T14:36:38Z",
+        "updated_at": "2026-11-25T14:36:38Z",
+        "version": 1,
+        "versioned_url": "https://arxiv.org/abs/2611.34466v1"
+      },
+      "canonical_source_url": "https://arxiv.org/abs/2611.34466",
+      "catalog_id": "arxiv:2611.34466",
+      "catalog_kind": "paper",
+      "catalog_review_status": "metadata_verified",
+      "catalog_scope": "relevance_pending",
+      "first_published_at": "2026-11-25",
+      "identifiers": {
+        "arxiv": "2611.34466"
+      },
+      "record_updated_at": "2026-11-25"
+    },
+    "genre": "preprint",
+    "id": "arxiv:2611.34466",
+    "issued": {
+      "date-parts": [
+        [
+          2026,
+          11,
+          25
+        ]
+      ]
+    },
+    "note": "First published: 2026-11-25; Recorded arXiv version: v1; Recorded version updated: 2026-11-25T14:36:38Z.",
+    "title": "EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts",
     "type": "article",
     "version": "1"
   },

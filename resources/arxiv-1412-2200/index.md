@@ -1,7 +1,7 @@
 ---
 title: "Response to \"Comment on \"Ultra-low-energy… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1412-2200/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

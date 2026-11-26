@@ -1,7 +1,7 @@
 ---
 title: "Flexible layout of surface code computations… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1905-08916/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

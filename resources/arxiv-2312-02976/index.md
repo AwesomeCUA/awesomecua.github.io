@@ -1,7 +1,7 @@
 ---
 title: "SPOC: Imitating Shortest Paths in Simulation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2312-02976/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

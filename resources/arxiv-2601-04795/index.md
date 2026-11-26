@@ -1,7 +1,7 @@
 ---
 title: "Defense Against Indirect Prompt Injection via… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-04795/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "InterMimic: Towards Universal Whole-Body… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-20390/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

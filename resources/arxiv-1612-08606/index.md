@@ -1,7 +1,7 @@
 ---
 title: "Parallel photonic reservoir computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1612-08606/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

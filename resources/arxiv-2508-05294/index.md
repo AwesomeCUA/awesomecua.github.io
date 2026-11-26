@@ -1,7 +1,7 @@
 ---
 title: "Towards Embodied Agentic AI: Review and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2508-05294/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

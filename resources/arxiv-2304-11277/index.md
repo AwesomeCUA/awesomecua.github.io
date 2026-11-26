@@ -1,7 +1,7 @@
 ---
 title: "PyTorch FSDP: Experiences on Scaling Fully… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2304-11277/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

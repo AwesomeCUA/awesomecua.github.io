@@ -1,7 +1,7 @@
 ---
 title: "MoECodec: Image Compression for joint human… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-21033/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

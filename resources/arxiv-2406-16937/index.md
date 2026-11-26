@@ -1,7 +1,7 @@
 ---
 title: "A Complete Survey on LLM-based AI Chatbots | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-16937/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "ThunderAgent: A Simple, Fast and… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-13692/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---

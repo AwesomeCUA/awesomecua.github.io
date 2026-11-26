@@ -1,7 +1,7 @@
 ---
 title: "Machine-Learning Electron Dynamics with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-05260/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---
