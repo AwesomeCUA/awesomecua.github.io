@@ -1,7 +1,7 @@
 ---
 title: "Scan activity | AwesomeCUA"
 url: https://awesomecua.com/updates/
-updated: 2026-11-25
+updated: 2026-11-26
 type: page
 lang: en
 ---
@@ -27,15 +27,15 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-25T16:19:07Z
-- **Finished**: 2026-11-25T16:24:03Z
+- **Started**: 2026-11-26T00:33:37Z
+- **Finished**: 2026-11-26T00:36:51Z
 - **Discovery documents fetched**: 103 / 103
 - **New paper metadata**: 0
 - **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
-- **Pending metadata changes**: 15
+- **Pending metadata changes**: 16
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45652524863)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45729568509)
 
 ### Recorded gaps
 
@@ -53,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-25T16:20:17Z · 32 / 32 query windows succeeded · 1,515 distinct identifiers · 0 new candidates.
+2026-11-26T00:34:43Z · 32 / 32 query windows succeeded · 1,515 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 

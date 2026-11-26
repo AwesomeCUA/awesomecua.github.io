@@ -45,7 +45,7 @@ Reviewed records: 5,347 · Catalog records awaiting review: 1,269 · Updated: 20
 
 ### Sources and review status: 8 files
 
-- [Coverage ledger](https://awesomecua.com/downloads/coverage.json) · JSON · 1 report · 491.1 KiB · SHA-256: ce533a7b7a03bbc2bfbcd98c001cdc4f0be0f99f7d1a502a16634b399d1f4dda
+- [Coverage ledger](https://awesomecua.com/downloads/coverage.json) · JSON · 1 report · 491.1 KiB · SHA-256: ff54ab672b345f231d8b97f68b7e81437f595e21e8826f0387a55e4b07e6dbd7
 - [Where the scans look](https://awesomecua.com/downloads/sources.json) · JSON · 104 discovery documents · 61.5 KiB · SHA-256: 9d35eecbcec89f6b35e956a78c7b72bd287c0ff9862a2882584c54b017762d94
 - [Scope decisions](https://awesomecua.com/downloads/exclusions.json) · JSON · 1,308 decisions · 1.8 MiB · SHA-256: d41bcb9cd09d8524c7d6279d3d4ccd39915ce9174cbffd33dfffb2086118dabd
 - [Raw arXiv harvest](https://awesomecua.com/downloads/arxiv-archive.jsonl) · JSONL · 4,242 arXiv records · 8.4 MiB · SHA-256: 068637e2b79931108d01dec2e1ecc2eecddc502e6af8ca7c6189b0a694e600da
