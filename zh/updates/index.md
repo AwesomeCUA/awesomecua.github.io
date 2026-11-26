@@ -27,29 +27,19 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-26T08:18:59Z
-- **结束**: 2026-11-26T08:24:04Z
+- **开始**: 2026-11-26T16:16:06Z
+- **结束**: 2026-11-26T16:20:18Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 5
-- **新增候选标识**: 7
+- **新增论文元数据**: 0
+- **新增候选标识**: 0
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 16
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45782049749)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45857092121)
 
 ### 记录的缺口
 
 - github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
-
-## 新加入书目的记录
-
-以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
-
-- [SheetAlign: Grounded Interaction and Stage-Isolated Learning for Spreadsheet Agents](https://awesomecua.com/resources/arxiv-2611-26069/) · 元数据已核实
-- [ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds](https://awesomecua.com/resources/arxiv-2611-32649/) · 元数据已核实
-- [GlassGround: GUI Grounding Beyond Native Screenshots with Egocentric Wearable Vision](https://awesomecua.com/resources/arxiv-2611-33760/) · 元数据已核实
-- [OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://awesomecua.com/resources/arxiv-2611-34232/) · 元数据已核实
-- [EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts](https://awesomecua.com/resources/arxiv-2611-34466/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -63,7 +53,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-26T08:20:00Z · 32 / 32 个查询窗口成功 · 1,516 个不重复标识 · 0 个新候选。
+2026-11-26T16:17:15Z · 32 / 32 个查询窗口成功 · 1,515 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 

@@ -27,29 +27,19 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-26T08:18:59Z
-- **Finished**: 2026-11-26T08:24:04Z
+- **Started**: 2026-11-26T16:16:06Z
+- **Finished**: 2026-11-26T16:20:18Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 5
-- **New candidate identifiers**: 7
+- **New paper metadata**: 0
+- **New candidate identifiers**: 0
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 16
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45782049749)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/45857092121)
 
 ### Recorded gaps
 
 - github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
-
-## New to the bibliography
-
-These are newly discovered bibliographic records. Relevance and findings still require editorial review.
-
-- [SheetAlign: Grounded Interaction and Stage-Isolated Learning for Spreadsheet Agents](https://awesomecua.com/resources/arxiv-2611-26069/) · metadata verified
-- [ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds](https://awesomecua.com/resources/arxiv-2611-32649/) · metadata verified
-- [GlassGround: GUI Grounding Beyond Native Screenshots with Egocentric Wearable Vision](https://awesomecua.com/resources/arxiv-2611-33760/) · metadata verified
-- [OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms](https://awesomecua.com/resources/arxiv-2611-34232/) · metadata verified
-- [EgoUseBench: Benchmarking Computer-Use Agents under Evolving First-Person Contexts](https://awesomecua.com/resources/arxiv-2611-34466/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -63,7 +53,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-26T08:20:00Z · 32 / 32 query windows succeeded · 1,516 distinct identifiers · 0 new candidates.
+2026-11-26T16:17:15Z · 32 / 32 query windows succeeded · 1,515 distinct identifiers · 0 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
