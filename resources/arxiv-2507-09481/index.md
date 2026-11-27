@@ -1,7 +1,7 @@
 ---
 title: "Evaluating LLMs on Sequential API Call… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2507-09481/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

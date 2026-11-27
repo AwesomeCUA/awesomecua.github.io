@@ -1,7 +1,7 @@
 ---
 title: "HETHUB: A Distributed Training System with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-16256/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

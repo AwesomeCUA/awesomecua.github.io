@@ -1,7 +1,7 @@
 ---
 title: "Adversarial Demonstration Attacks on Large… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2305-14950/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

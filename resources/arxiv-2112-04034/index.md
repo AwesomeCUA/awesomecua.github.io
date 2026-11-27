@@ -1,7 +1,7 @@
 ---
 title: "Feasibility study of quantum computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2112-04034/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

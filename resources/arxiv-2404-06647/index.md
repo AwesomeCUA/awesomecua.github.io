@@ -1,7 +1,7 @@
 ---
 title: "From Protoscience to Epistemic Monoculture… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-06647/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

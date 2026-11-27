@@ -1,7 +1,7 @@
 ---
 title: "AgentRxiv: Towards Collaborative Autonomous… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-18102/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

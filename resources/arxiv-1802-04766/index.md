@@ -1,7 +1,7 @@
 ---
 title: "SNC: A Cloud Service Platform for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1802-04766/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

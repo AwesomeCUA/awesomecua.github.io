@@ -1,7 +1,7 @@
 ---
 title: "Model Context Protocol (MCP) at First Glance… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-13538/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

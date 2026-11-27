@@ -19,7 +19,7 @@ lang: zh-CN
 
 - **已审阅的论文与综述**: 1,718
 - **其他已审阅资源**: 3,629
-- **待审阅记录**: 1,274
+- **待审阅记录**: 1,275
 - **已发现候选**: 198
 
 这些数量包含下方扫描之后完成的编辑工作。[浏览已审阅的研究](https://awesomecua.com/zh/papers/)或[查看完整覆盖情况](https://awesomecua.com/zh/coverage/)。
@@ -27,19 +27,25 @@ lang: zh-CN
 ## 最近一次完成的扫描
 
 - **状态**: 部分完成
-- **开始**: 2026-11-27T00:34:09Z
-- **结束**: 2026-11-27T00:39:55Z
+- **开始**: 2026-11-27T08:18:54Z
+- **结束**: 2026-11-27T08:23:53Z
 - **成功获取的发现文档**: 103 / 103
-- **新增论文元数据**: 0
-- **新增候选标识**: 0
+- **新增论文元数据**: 1
+- **新增候选标识**: 1
 - **扫描完成时的已审阅论文**: 1,718
 - **待处理的元数据变更**: 17
 
-[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45917444274)
+[查看工作流运行与日志](https://github.com/reacher-z/Awesome-CUA/actions/runs/45964632671)
 
 ### 记录的缺口
 
-- github_candidates: Stage exceeded 220 seconds; last verified records retained.
+- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+
+## 新加入书目的记录
+
+以下是新发现的书目记录，其相关性与研究发现仍待编辑审阅。
+
+- [DetourBench: Trajectory-Level Evaluation of Interactive Agents with Exact Minimum-Action Bounds](https://awesomecua.com/resources/arxiv-2611-20844/) · 元数据已核实
 
 [下载完整扫描记录](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +59,7 @@ lang: zh-CN
 
 ## 最近一次论文发现
 
-2026-11-27T00:35:16Z · 32 / 32 个查询窗口成功 · 1,515 个不重复标识 · 0 个新候选。
+2026-11-27T08:19:54Z · 32 / 32 个查询窗口成功 · 1,515 个不重复标识 · 0 个新候选。
 
 新发现的标识会经过一手元数据核实与相关性审阅。
 

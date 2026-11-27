@@ -1,7 +1,7 @@
 ---
 title: "MICA: Multi-Agent Industrial Coordination… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-15237/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

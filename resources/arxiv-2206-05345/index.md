@@ -1,7 +1,7 @@
 ---
 title: "The Capacity of Low Earth Orbit Computed… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2206-05345/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

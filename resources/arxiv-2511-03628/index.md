@@ -1,7 +1,7 @@
 ---
 title: "LiveTradeBench: Seeking Real-World Alpha with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2511-03628/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

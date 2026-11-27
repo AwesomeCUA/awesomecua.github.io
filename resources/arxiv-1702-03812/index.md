@@ -1,7 +1,7 @@
 ---
 title: "Reservoir Computing Using Non-Uniform Binary… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1702-03812/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

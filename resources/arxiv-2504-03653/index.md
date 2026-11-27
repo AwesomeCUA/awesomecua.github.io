@@ -1,7 +1,7 @@
 ---
 title: "A Survey on Heterogeneous Computing Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2504-03653/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

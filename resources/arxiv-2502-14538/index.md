@@ -1,7 +1,7 @@
 ---
 title: "LoRA-MGPO: Mitigating Double Descent in… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-14538/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

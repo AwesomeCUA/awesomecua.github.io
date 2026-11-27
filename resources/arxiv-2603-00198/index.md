@@ -1,7 +1,7 @@
 ---
 title: "Stateful Token Reduction for Long-Video… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-00198/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

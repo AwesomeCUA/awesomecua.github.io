@@ -1,7 +1,7 @@
 ---
 title: "Further Investigation on Classical Multiparty… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1812-06425/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

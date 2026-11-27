@@ -1,7 +1,7 @@
 ---
 title: "Active Perception Agent for Omnimodal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-23646/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

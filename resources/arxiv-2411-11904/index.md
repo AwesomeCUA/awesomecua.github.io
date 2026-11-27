@@ -1,7 +1,7 @@
 ---
 title: "GeoGround: A Unified Large Vision-Language… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2411-11904/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

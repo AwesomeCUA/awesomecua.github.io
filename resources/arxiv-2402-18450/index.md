@@ -1,7 +1,7 @@
 ---
 title: "Copula Approximate Bayesian Computation Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-18450/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

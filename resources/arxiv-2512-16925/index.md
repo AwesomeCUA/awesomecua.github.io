@@ -1,7 +1,7 @@
 ---
 title: "V-Agent: An Interactive Video Search System… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-16925/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

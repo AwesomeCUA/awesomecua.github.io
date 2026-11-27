@@ -1,7 +1,7 @@
 ---
 title: "Automated structural testing of LLM-based… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-18827/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Topological Amplitude Computations using the… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1910-10511/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

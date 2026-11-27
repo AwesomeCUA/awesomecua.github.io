@@ -1,7 +1,7 @@
 ---
 title: "SafeBench: A Safety Evaluation Framework for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-18927/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

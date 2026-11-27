@@ -1,7 +1,7 @@
 ---
 title: "OpenECAD: An Efficient Visual Language Model… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2406-09913/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

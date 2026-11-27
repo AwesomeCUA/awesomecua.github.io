@@ -1,7 +1,7 @@
 ---
 title: "MMT-Bench: A Comprehensive Multimodal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-16006/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

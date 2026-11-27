@@ -1,7 +1,7 @@
 ---
 title: "A general decision framework for structuring… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1403-4054/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

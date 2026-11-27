@@ -1,7 +1,7 @@
 ---
 title: "Encode-Store-Retrieve: Augmenting Human… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2308-05822/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

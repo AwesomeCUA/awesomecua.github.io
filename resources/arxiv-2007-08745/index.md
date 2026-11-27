@@ -1,7 +1,7 @@
 ---
 title: "Backdoor Learning: A Survey | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2007-08745/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

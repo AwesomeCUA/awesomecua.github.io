@@ -1,7 +1,7 @@
 ---
 title: "Tracking Capabilities for Safer Agents | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-00991/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

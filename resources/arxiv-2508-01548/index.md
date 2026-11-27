@@ -1,7 +1,7 @@
 ---
 title: "A Glimpse to Compress: Dynamic Visual Token… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2508-01548/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

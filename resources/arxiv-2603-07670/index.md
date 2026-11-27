@@ -1,7 +1,7 @@
 ---
 title: "Memory for Autonomous LLM Agents:Mechanisms… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-07670/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

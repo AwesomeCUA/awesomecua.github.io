@@ -1,7 +1,7 @@
 ---
 title: "Gemini: A Family of Highly Capable Multimodal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2312-11805/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---

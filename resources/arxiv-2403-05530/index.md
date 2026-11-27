@@ -1,7 +1,7 @@
 ---
 title: "Gemini 1.5: Unlocking multimodal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2403-05530/
-updated: 2026-11-26
+updated: 2026-11-27
 type: page
 lang: en
 ---
