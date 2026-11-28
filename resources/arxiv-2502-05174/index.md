@@ -1,7 +1,7 @@
 ---
 title: "MELON: Provable Defense Against Indirect… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-05174/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

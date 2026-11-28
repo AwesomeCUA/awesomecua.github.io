@@ -1,7 +1,7 @@
 ---
 title: "Prompt Packer: Deceiving LLMs through… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-10077/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

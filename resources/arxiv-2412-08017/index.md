@@ -1,7 +1,7 @@
 ---
 title: "Integrated probabilistic computer using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-08017/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Quantum computing using floating electrons on… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2310-04119/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

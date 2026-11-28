@@ -1,7 +1,7 @@
 ---
 title: "Persona Inconstancy in Multi-Agent LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-03862/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

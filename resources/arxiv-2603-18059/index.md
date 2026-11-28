@@ -1,7 +1,7 @@
 ---
 title: "Guardrails as Infrastructure: Policy-First… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2603-18059/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "ParamMem: Augmenting Language Agents with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2602-23320/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

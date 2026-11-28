@@ -1,7 +1,7 @@
 ---
 title: "Cognitive computation using neural… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2003-11668/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

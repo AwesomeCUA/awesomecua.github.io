@@ -1,7 +1,7 @@
 ---
 title: "Coupling Planning with Episodic Memory in LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-06811/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

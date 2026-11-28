@@ -1,7 +1,7 @@
 ---
 title: "Small Agents with Semantic Search: Efficient… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-05099/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

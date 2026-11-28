@@ -1,7 +1,7 @@
 ---
 title: "All-photonic architectural roadmap for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2109-12280/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Spin Wave Computing using pre-recorded… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2108-00909/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

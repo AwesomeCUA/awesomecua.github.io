@@ -1,7 +1,7 @@
 ---
 title: "Development of a hand pose recognition system… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1910-11100/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

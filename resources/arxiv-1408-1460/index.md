@@ -1,7 +1,7 @@
 ---
 title: "Verification of Linear Optical Quantum… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1408-1460/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

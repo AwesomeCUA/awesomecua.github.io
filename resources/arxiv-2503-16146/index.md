@@ -1,7 +1,7 @@
 ---
 title: "Distributed Split Computing Using Diffusive… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-16146/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Multimodal Lecture Presentations Dataset… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2208-08080/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

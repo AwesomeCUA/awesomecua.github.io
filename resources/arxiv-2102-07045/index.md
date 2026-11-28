@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Electronic Structure Simulations… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2102-07045/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

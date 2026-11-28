@@ -1,7 +1,7 @@
 ---
 title: "A quantum algorithm for solving open system… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2210-12138/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

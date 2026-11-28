@@ -1,7 +1,7 @@
 ---
 title: "MemoryGraft: Persistent Compromise of LLM… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-16962/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

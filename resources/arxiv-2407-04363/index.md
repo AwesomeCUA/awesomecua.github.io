@@ -1,7 +1,7 @@
 ---
 title: "AriGraph: Learning Knowledge Graph World… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2407-04363/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

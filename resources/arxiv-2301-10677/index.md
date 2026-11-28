@@ -1,7 +1,7 @@
 ---
 title: "Imitating Human Behaviour with Diffusion Models | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2301-10677/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

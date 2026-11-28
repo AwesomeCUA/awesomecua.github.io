@@ -1,7 +1,7 @@
 ---
 title: "StepBench: Diagnosing Real-World Procedural… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-26679/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "EmeraldMind: A Knowledge Graph-Augmented… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2512-11506/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

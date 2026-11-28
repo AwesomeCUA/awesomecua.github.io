@@ -1,7 +1,7 @@
 ---
 title: "AgenticDataBench: A Comprehensive Benchmark… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2607-01647/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

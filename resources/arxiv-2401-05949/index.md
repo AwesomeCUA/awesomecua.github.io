@@ -1,7 +1,7 @@
 ---
 title: "Universal Vulnerabilities in Large Language… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2401-05949/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

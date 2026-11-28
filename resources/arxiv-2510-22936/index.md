@@ -1,7 +1,7 @@
 ---
 title: "PPE: Positional Preservation Embedding for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-22936/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

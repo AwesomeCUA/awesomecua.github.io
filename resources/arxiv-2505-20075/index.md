@@ -1,7 +1,7 @@
 ---
 title: "Curriculum-RLAIF: Curriculum Alignment with… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2505-20075/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

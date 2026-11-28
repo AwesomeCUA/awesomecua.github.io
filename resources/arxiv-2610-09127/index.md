@@ -1,7 +1,7 @@
 ---
 title: "CADFather: Autonomous CAD Reconstruction… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2610-09127/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

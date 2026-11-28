@@ -1,7 +1,7 @@
 ---
 title: "Mg II h&k spectral line properties computed… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-22916/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

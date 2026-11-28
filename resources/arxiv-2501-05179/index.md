@@ -1,7 +1,7 @@
 ---
 title: "Global Compression Commander: Plug-and-Play… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2501-05179/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

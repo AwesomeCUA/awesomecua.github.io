@@ -1,7 +1,7 @@
 ---
 title: "Speaking the Language of Teamwork: LLM-Guided… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2502-03723/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

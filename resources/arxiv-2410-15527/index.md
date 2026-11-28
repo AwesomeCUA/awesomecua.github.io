@@ -1,7 +1,7 @@
 ---
 title: "Who Puts the \"Social\" in \"Social Computing\"?… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-15527/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

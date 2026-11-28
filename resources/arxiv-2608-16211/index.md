@@ -1,7 +1,7 @@
 ---
 title: "BaT: Towards Self-Evolving Medical Research… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2608-16211/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

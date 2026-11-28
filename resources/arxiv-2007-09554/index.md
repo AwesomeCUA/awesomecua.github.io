@@ -1,7 +1,7 @@
 ---
 title: "Referring Expression Comprehension: A Survey… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2007-09554/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Hard Prompts Made Easy: Gradient-Based… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2302-03668/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

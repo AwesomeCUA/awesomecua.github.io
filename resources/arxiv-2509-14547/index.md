@@ -1,7 +1,7 @@
 ---
 title: "(P)rior(D)yna(F)low: A Priori Dynamic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2509-14547/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

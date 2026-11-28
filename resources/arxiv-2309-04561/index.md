@@ -1,7 +1,7 @@
 ---
 title: "Four Ways to Improve Verbo-visual Fusion for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2309-04561/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

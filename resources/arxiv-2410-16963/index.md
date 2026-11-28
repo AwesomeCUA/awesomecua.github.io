@@ -1,7 +1,7 @@
 ---
 title: "Scalable Constant-Time Logical Gates for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-16963/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

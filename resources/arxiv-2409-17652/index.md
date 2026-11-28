@@ -1,7 +1,7 @@
 ---
 title: "FactorSim: Generative Simulation via… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2409-17652/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

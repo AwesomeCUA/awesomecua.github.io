@@ -1,7 +1,7 @@
 ---
 title: "Scaling silicon-based quantum computing using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2011-11753/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

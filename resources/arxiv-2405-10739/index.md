@@ -1,7 +1,7 @@
 ---
 title: "Efficient Multimodal Large Language Models: A… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2405-10739/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Bridging Offline and Online Reinforcement… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2506-21495/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

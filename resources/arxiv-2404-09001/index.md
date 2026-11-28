@@ -1,7 +1,7 @@
 ---
 title: "Smart Help: Strategic Opponent Modeling for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2404-09001/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

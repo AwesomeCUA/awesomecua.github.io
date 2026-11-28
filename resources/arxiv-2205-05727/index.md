@@ -1,7 +1,7 @@
 ---
 title: "3-Qubit Circular Quantum Convolution… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2205-05727/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

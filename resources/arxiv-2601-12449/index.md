@@ -1,7 +1,7 @@
 ---
 title: "AgenTRIM: Tool Risk Mitigation for Agentic AI | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-12449/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

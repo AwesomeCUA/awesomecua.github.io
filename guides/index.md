@@ -1,7 +1,7 @@
 ---
 title: "Computer-use agent guides | AwesomeCUA"
 url: https://awesomecua.com/guides/
-updated: 2026-11-27
+updated: 2026-11-28
 type: guide
 lang: en
 ---

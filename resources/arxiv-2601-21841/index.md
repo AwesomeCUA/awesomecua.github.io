@@ -1,7 +1,7 @@
 ---
 title: "Embodied Task Planning via Graph-Informed… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2601-21841/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

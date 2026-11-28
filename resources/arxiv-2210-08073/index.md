@@ -1,7 +1,7 @@
 ---
 title: "Eliciting Compatible Demonstrations for… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2210-08073/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

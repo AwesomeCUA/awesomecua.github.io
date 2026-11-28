@@ -1,7 +1,7 @@
 ---
 title: "Likelihood Computations Using Value… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1301-3855/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

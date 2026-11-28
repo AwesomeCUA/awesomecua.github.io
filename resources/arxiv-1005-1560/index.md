@@ -1,7 +1,7 @@
 ---
 title: "Computation using Noise-based Logic… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-1005-1560/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "SafeAgentBench: A Benchmark for Safe Task… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2412-13178/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

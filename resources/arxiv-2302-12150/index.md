@@ -1,7 +1,7 @@
 ---
 title: "A Survey of Secure Computation Using Trusted… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2302-12150/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

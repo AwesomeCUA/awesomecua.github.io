@@ -1,7 +1,7 @@
 ---
 title: "AgentGrounder: Zero-Shot 3D Visual Pointcloud… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2605-25901/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

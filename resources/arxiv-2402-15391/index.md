@@ -1,7 +1,7 @@
 ---
 title: "Genie: Generative Interactive Environments | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2402-15391/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

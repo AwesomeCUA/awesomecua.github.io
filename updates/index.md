@@ -19,7 +19,7 @@ GitHub scheduling can be delayed. The completion times below record what actuall
 
 - **Reviewed papers and surveys**: 1,718
 - **Other reviewed resources**: 3,629
-- **Records awaiting review**: 1,275
+- **Records awaiting review**: 1,276
 - **Discovered candidates**: 198
 
 These counts include editorial work completed after the scan below. [Browse reviewed research](https://awesomecua.com/papers/) or [inspect full coverage](https://awesomecua.com/coverage/).
@@ -27,19 +27,25 @@ These counts include editorial work completed after the scan below. [Browse revi
 ## Latest completed scan
 
 - **Status**: partial
-- **Started**: 2026-11-28T00:32:49Z
-- **Finished**: 2026-11-28T00:37:45Z
+- **Started**: 2026-11-28T08:16:12Z
+- **Finished**: 2026-11-28T08:22:16Z
 - **Discovery documents fetched**: 103 / 103
-- **New paper metadata**: 0
-- **New candidate identifiers**: 0
+- **New paper metadata**: 1
+- **New candidate identifiers**: 1
 - **Reviewed papers at scan completion**: 1718
 - **Pending metadata changes**: 17
 
-[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/46088440675)
+[Inspect the workflow run and logs](https://github.com/reacher-z/Awesome-CUA/actions/runs/46124989572)
 
 ### Recorded gaps
 
-- github_candidates: Candidate phase rejected: Primary metadata lies outside its query cohort
+- github_candidates: Stage exceeded 220 seconds; last verified records retained.
+
+## New to the bibliography
+
+These are newly discovered bibliographic records. Relevance and findings still require editorial review.
+
+- [SWE-Serve: Benchmarking Agentic Engineering For Production Inference Serving](https://awesomecua.com/resources/arxiv-2609-26777/) · metadata verified
 
 [Download the full scan receipt](https://awesomecua.com/downloads/scan-status.json)
 
@@ -53,7 +59,7 @@ Scans find new sources and verify bibliographic fields. Editors decide relevance
 
 ## Latest paper-discovery pass
 
-2026-11-28T00:34:00Z · 32 / 32 query windows succeeded · 1,515 distinct identifiers · 0 new candidates.
+2026-11-28T08:17:39Z · 32 / 32 query windows succeeded · 1,459 distinct identifiers · 1 new candidates.
 
 Newly found identifiers go through primary metadata verification and relevance review.
 
@@ -62,15 +68,15 @@ Newly found identifiers go through primary metadata verification and relevance r
 | General computer use<br>computer use agents | 80 | 0 | 80 | success |
 | Grounding evaluation<br>GUI grounding benchmark | 80 | 0 | 80 | success |
 | Mobile learning<br>mobile GUI agent reinforcement learning | 80 | 0 | 80 | success |
-| Web data and evaluation<br>web agent dataset benchmark | 80 | 0 | 80 | success |
+| Web data and evaluation<br>web agent dataset benchmark | 55 | 0 | 80 | success |
 | Safety and security<br>computer use agent safety | 80 | 0 | 80 | success |
-| Memory and planning<br>GUI agent memory planning | 80 | 0 | 80 | success |
+| Memory and planning<br>GUI agent memory planning | 29 | 0 | 80 | success |
 | Desktop platforms<br>desktop computer use agent Windows macOS Linux | 80 | 0 | 80 | success |
 | Android<br>Android smartphone GUI agent automation | 80 | 0 | 80 | success |
 | iOS<br>iOS iPhone GUI agent benchmark | 80 | 0 | 80 | success |
 | HarmonyOS<br>HarmonyOS mobile GUI agent | 80 | 0 | 80 | success |
 | Screen understanding<br>GUI screen understanding interface element detection | 80 | 0 | 80 | success |
-| Visual grounding<br>screenshot visual grounding click localization agent | 80 | 0 | 80 | success |
+| Visual grounding<br>screenshot visual grounding click localization agent | 63 | 0 | 80 | success |
 | Browser interaction<br>visual web navigation browser agent | 80 | 0 | 80 | success |
 | Cross application work<br>cross application multi app GUI agents | 80 | 0 | 80 | success |
 | Long horizon tasks<br>long horizon computer use agent workflow planning | 80 | 0 | 80 | success |
@@ -78,7 +84,7 @@ Newly found identifiers go through primary metadata verification and relevance r
 | Reinforcement learning<br>computer use agent online reinforcement learning rewards | 80 | 0 | 80 | success |
 | Demonstrations<br>GUI agent imitation learning human demonstration trajectories | 80 | 0 | 80 | success |
 | Synthetic training data<br>synthetic GUI agent training data generation | 80 | 0 | 80 | success |
-| Task verification<br>computer use benchmark task evaluation state verification | 80 | 0 | 80 | success |
+| Task verification<br>computer use benchmark task evaluation state verification | 80 | 1 | 80 | success |
 | Professional software<br>professional software GUI agent CAD Blender 3D | 80 | 0 | 80 | success |
 | Office workflows<br>spreadsheets presentations documents computer use agents | 80 | 0 | 80 | success |
 | Assistive interfaces<br>accessibility assistive multimodal GUI agents | 80 | 0 | 80 | success |

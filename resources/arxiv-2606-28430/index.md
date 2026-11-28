@@ -1,7 +1,7 @@
 ---
 title: "Building to the Test: Coding Agents Deliver… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2606-28430/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

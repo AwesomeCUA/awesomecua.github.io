@@ -1,7 +1,7 @@
 ---
 title: "SafeAgent: A Runtime Protection Architecture… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2604-17562/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

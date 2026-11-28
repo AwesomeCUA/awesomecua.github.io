@@ -1,7 +1,7 @@
 ---
 title: "State dependent computation using coupled… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-0809-4296/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Plansformer: Generating Symbolic Plans using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2212-08681/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

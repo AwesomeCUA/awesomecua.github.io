@@ -1,7 +1,7 @@
 ---
 title: "Automated Red Teaming with GOAT: the… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2410-01606/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

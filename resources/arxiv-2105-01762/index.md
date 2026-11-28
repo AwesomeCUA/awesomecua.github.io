@@ -1,7 +1,7 @@
 ---
 title: "Verifiable Computing Using Computation… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2105-01762/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

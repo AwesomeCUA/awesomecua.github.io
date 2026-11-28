@@ -1,7 +1,7 @@
 ---
 title: "Benchmarking Egocentric Multimodal Goal… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2510-22443/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---

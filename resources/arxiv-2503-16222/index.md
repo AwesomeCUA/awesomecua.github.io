@@ -1,7 +1,7 @@
 ---
 title: "Efficient Bayesian Computation Using… | AwesomeCUA"
 url: https://awesomecua.com/resources/arxiv-2503-16222/
-updated: 2026-11-27
+updated: 2026-11-28
 type: page
 lang: en
 ---
